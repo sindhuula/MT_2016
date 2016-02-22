@@ -30,6 +30,14 @@ for (n, (f, e)) in enumerate(bitext):
     sys.stderr.write(".")
 
 #IBM stuff
+#Split input to test and train
+#First Maximize the expectation taking some sentences as the training data
+#Now model the testing data based on EM.
+#Find Prec, Rec and AER.
+def estimation_maximization():
+  
+
+
 
 # Learn/Train: Expected Maximization for IBM Model 1
 
