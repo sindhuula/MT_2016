@@ -31,9 +31,9 @@ for (n, (f, e)) in enumerate(bitext):
 
 #IBM stuff
 
-# Expected Maximization for IBM Model 1
+# Learn/Train: Expected Maximization for IBM Model 1
 
-# Most Probable Alignment for
+# Predict/Align: Most Probable Alignment for
 
 # dice stuff
 dice = defaultdict(int)
