@@ -31,6 +31,10 @@ for (n, (f, e)) in enumerate(bitext):
 
 #IBM stuff
 
+# Expected Maximization for IBM Model 1
+
+# Most Probable Alignment for
+
 # dice stuff
 dice = defaultdict(int)
 for (k, (f_i, e_j)) in enumerate(fe_count.keys()):
