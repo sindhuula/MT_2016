@@ -2,7 +2,7 @@
 import optparse
 import sys
 from collections import defaultdict
-
+#Input Parameters
 optparser = optparse.OptionParser()
 optparser.add_option("-d", "--data", dest="train", default="data/hansards", help="Data filename prefix (default=data)")
 optparser.add_option("-e", "--english", dest="english", default="e", help="Suffix of English filename (default=e)")
@@ -12,13 +12,12 @@ optparser.add_option("-n", "--num_sentences", dest="num_sents", default=sys.maxi
 (opts, _) = optparser.parse_args()
 f_data = "%s.%s" % (opts.train, opts.french)
 e_data = "%s.%s" % (opts.train, opts.english)
-
 sys.stderr.write("Training with IBM Model 1...")
+#Splits the files so that you get f[i] count, e[j] count and count(f,e)
 bitext = [[sentence.strip().split() for sentence in pair] for pair in zip(open(f_data), open(e_data))[:opts.num_sents]]
 f_count = defaultdict(int)
 e_count = defaultdict(int)
 fe_count = defaultdict(int)
-
 for (n, (f, e)) in enumerate(bitext):
   for f_i in set(f):
     f_count[f_i] += 1
@@ -34,14 +33,11 @@ for (n, (f, e)) in enumerate(bitext):
 #First Maximize the expectation taking some sentences as the training data
 #Now model the testing data based on EM.
 #Find Prec, Rec and AER.
-def estimation_maximization():
-  
-
-
 
 # Learn/Train: Expected Maximization for IBM Model 1
 
-# Predict/Align: Most Probable Alignment for
+# Predict/Align: Most Probable Alignment:
+
 
 # dice stuff
 dice = defaultdict(int)
