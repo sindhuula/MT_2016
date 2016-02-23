@@ -37,7 +37,7 @@ print "e",e_data
 
 # Learn/Train: Expected Maximization for IBM Model 1
 k = 0
-fprobs = {}
+fprobs = {} #prob(f|e)
 i = 0
 for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
   for fword in fsentence.split(' '):
@@ -47,10 +47,12 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
         eprobs[eword] = float(1)/float((len(esentence.split(' '))))
       else:
         eprobs[eword] += float(1)/float((len(esentence.split(' '))))
-      fprobs = eprobs
-      if eword not in (fprobs.values()):
+      if eword not in (fprobs[fword].values()):
+        fprobs[fword] = eprobs
         print "first",eword
       else:
+        fprobs[fword] = fw_set
+        fwset[eword] += eprobs[eword]
         print "not"
   i = i+1
 print i
