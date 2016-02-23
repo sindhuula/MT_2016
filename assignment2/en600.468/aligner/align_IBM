@@ -40,20 +40,23 @@ k = 0
 fprobs = {} #prob(f|e)
 i = 0
 for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
-  for fword in fsentence.split(' '):
+  for fword in fsentence.rstrip(' .\n').split(' '):
+    if fword not in fprobs:
+      fprobs[fword] = {}
     fw_set = fprobs[fword]
+    print fw_set
     eprobs = {}
-    for eword in esentence.split(' '):
+    for eword in esentence.rstrip(' .\n').split(' '):
       if eword not in eprobs:
-        eprobs[eword] = float(1)/float((len(esentence.split(' '))))
+        eprobs[eword] = float(1)/float((len(esentence.rstrip(' .\n').split(' '))))
       else:
-        eprobs[eword] += float(1)/float((len(esentence.split(' '))))
-      if eword not in (fprobs[fword].values()):
+        eprobs[eword] += float(1)/float((len(esentence.rstrip(' .\n').split(' '))))
+      if eword not in (fw_set.values()):
         fw_set = eprobs
-        print "first",eword
       else:
-        fwset[eword] += eprobs[eword]
-        print "not"
+        fw_set[eword] += eprobs[eword]
+        print "not",fw_set
+      fprobs[fword] = fw_set
   i = i+1
 print i
 # Predict/Align: Most Probable Alignment:
