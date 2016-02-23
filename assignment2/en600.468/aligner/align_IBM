@@ -37,14 +37,23 @@ print "e",e_data
 
 # Learn/Train: Expected Maximization for IBM Model 1
 k = 0
-probs = {}
+fprobs = {}
 i = 0
-print opts.num_sents
-while i<opts.num_sents:
-  for x, y in zip(open(f_data),open(e_data)):
-      print i,x,y
-      i = i+1
-
+for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
+  for fword in fsentence.split(' '):
+    eprobs = {}
+    for eword in esentence.split(' '):
+      if eword not in eprobs:
+        eprobs[eword] = float(1)/float((len(esentence.split(' '))))
+      else:
+        eprobs[eword] += float(1)/float((len(esentence.split(' '))))
+      fprobs = eprobs
+      if eword not in (fprobs.values()):
+        print "first",eword
+      else:
+        print "not"
+  i = i+1
+print i
 # Predict/Align: Most Probable Alignment:
 
 '''
