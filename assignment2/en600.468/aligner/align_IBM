@@ -36,30 +36,50 @@ print "e",e_data
 #Find Prec, Rec and AER.
 
 # Learn/Train: Expected Maximization for IBM Model 1
-k = 0
 fprobs = {} #prob(f|e)
-i = 0
+thetak_prob = {}
+countfe = {}
+counte = {}
 for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
   for fword in fsentence.rstrip(' .\n').split(' '):
     if fword not in fprobs:
       fprobs[fword] = {}
-    fw_set = fprobs[fword]
-    print fw_set
+      total_sum = 0
     eprobs = {}
     for eword in esentence.rstrip(' .\n').split(' '):
       if eword not in eprobs:
         eprobs[eword] = float(1)/float((len(esentence.rstrip(' .\n').split(' '))))
       else:
         eprobs[eword] += float(1)/float((len(esentence.rstrip(' .\n').split(' '))))
-      if eword not in (fw_set.values()):
-        fw_set = eprobs
+      if eword not in (fprobs[fword].values()):
+        fprobs[fword][eword] = eprobs[eword]
       else:
-        fw_set[eword] += eprobs[eword]
-        print "not",fw_set
-      fprobs[fword] = fw_set
-  i = i+1
-print i
+        fprobs[fword][eword] += eprobs[eword]
+      total_sum += fprobs[fword][eword]
+    for eword in esentence.rstrip(' .\n').split(' '):
+      c = fprobs[fword][eword]/total_sum
+      if (fword,eword) in countfe:
+        countfe[(fword,eword)] += c
+      else:
+        countfe[(fword,eword)] = c
+      if eword in counte:
+        counte[eword] += c
+      else:
+        counte[eword] = c  
+
+  for (fword, eword) in countfe:
+    thetak_prob[(fword, eword)] = countfe[(fword, eword)]/counte[eword]
+
 # Predict/Align: Most Probable Alignment:
+for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
+  for fword in fsentence.rstrip(' .\n').split(' '):
+      best_prob = 0
+      best_j =''
+      for eword in esentence.rstrip(' .\n').split(' '):
+        if thetak_prob[(fword, eword)] > best_prob:
+          best_prob = thetak_prob[(fword, eword)]
+          best_j = eword
+      print fword,"-",best_j
 
 '''
 # dice stuff
