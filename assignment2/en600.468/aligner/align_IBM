@@ -39,11 +39,15 @@ fprobs = {} #prob(f|e)
 thetak_prob = {} #Theta prob
 countfe = {} #Counter
 counte = {} #coutner
+n = 0
 fnum = 0 #counter for french words
 enum = 0 # counter for english words
 fnumbers = {} #assigning numeric value to a french word
 enumbers = {} #assigning numeric value to an english word
-for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
+for fsentence, esentence in zip(open(f_data),open(e_data)):
+  if n % 500 == 0:
+    sys.stderr.write("%s" %n)
+  n = n + 1
   for fword in fsentence.rstrip(' .\n').split(' '):
     if fword not in fprobs:
       fprobs[fword] = {}
@@ -78,7 +82,11 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
     thetak_prob[(fword, eword)] = countfe[(fword, eword)]/counte[eword]
 
 # Predict/Align: Most Probable Alignment:
+n = 0
 for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
+  if n % 50 == 0:
+    sys.stderr.write("?")
+
   for fword in fsentence.rstrip(' .\n').split(' '):
       best_j =''
       best_prob = 0
@@ -88,6 +96,7 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
           best_j = enumbers[eword]
       sys.stdout.write("%i-%i " % (fnumbers[fword],best_j))
   sys.stdout.write("\n")
+  n +=1
 '''
 # dice stuff
 dice = defaultdict(int)
