@@ -40,13 +40,23 @@ fprobs = {} #prob(f|e)
 thetak_prob = {}
 countfe = {}
 counte = {}
+fnum = 0
+enum = 0
+fnumbers = {}
+enumbers = {}
 for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
   for fword in fsentence.rstrip(' .\n').split(' '):
     if fword not in fprobs:
       fprobs[fword] = {}
+    if fword not in fnumbers:
+      fnum += 1
+      fnumbers[fword] = fnum
     total_sum = 0
     eprobs = {}
     for eword in esentence.rstrip(' .\n').split(' '):
+      if eword not in enumbers:
+        enum += 1
+        enumbers[eword] = enum 
       if eword not in eprobs:
         eprobs[eword] = float(1)/float((len(esentence.rstrip(' .\n').split(' '))))
       else:
@@ -70,6 +80,17 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
     thetak_prob[(fword, eword)] = countfe[(fword, eword)]/counte[eword]
 
 # Predict/Align: Most Probable Alignment:
+for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
+  for fword in fsentence.rstrip(' .\n').split(' '):
+      best_j =''
+      best_prob = 0
+      for eword in esentence.rstrip(' .\n').split(' '):
+        if thetak_prob[(fword, eword)] > best_prob:
+          best_prob = thetak_prob[(fword, eword)]
+          best_j = enumbers[eword]
+      sys.stdout.write("%i-%i " % (fnumbers[fword],best_j))
+  sys.stdout.write("\n")
+'''
 best_j = {}
 best_prob = {}
 for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
@@ -80,9 +101,10 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
       for eword in esentence.rstrip(' .\n').split(' '):
         if thetak_prob[(fword, eword)] > best_prob[fword]:
           best_prob[fword] = thetak_prob[(fword, eword)]
-          best_j[fword] = eword
+          best_j[fword] = enumbers[eword]
 for word in best_j:
-  print word,best_j[word]
+   print fnumbers[word],best_j[word]
+'''
 '''
 # dice stuff
 dice = defaultdict(int)
