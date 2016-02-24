@@ -60,12 +60,12 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
 # Alignment Step
 n = 0
 for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
-  if n % 50 == 0:
+  if n % 500 == 0:
     sys.stderr.write("%s?" %n)
   fnum = 0
   for fword in fsentence.rstrip(' .\n').split(' '):
       fnum = fnum + 1
-      best_j =''
+      best_j[fword] =''
       best_prob = 0
       enum = 0
       for eword in esentence.rstrip(' .\n').split(' '):
