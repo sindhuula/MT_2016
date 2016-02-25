@@ -19,10 +19,10 @@ sys.stderr.write("Training with IBM Model 1...")
 #Find Prec, Rec and AER.
 # Learn/Train: Expected Maximization for IBM Model 1
 # EM Step
-fprobs = {} #prob(f|e)
-thetak_prob = {} #Theta prob
-countfe = {} #Counter
-counte = {} #coutner
+fprobs = {} #prob(f|e) #f_count?
+thetak_prob = {} #Theta prob (t)
+countfe = {} #Counter (fe_count)
+counte = {} #coutner (total_e)
 n = 0
 # add [:opts.num_sents] to end of for to limit training data to input
 for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
@@ -32,8 +32,8 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
   for fword in fsentence.rstrip(' .\n').split(' '):
     if fword not in fprobs:
       fprobs[fword] = {}
-    total_sum = 0
-    eprobs = {}
+    total_sum = 0 #s_total?
+    eprobs = {} #e_count
     for eword in esentence.rstrip(' .\n').split(' '):
       if eword not in eprobs:
         eprobs[eword] = float(1)/float((len(esentence.rstrip(' .\n').split(' '))))
@@ -54,8 +54,8 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
         counte[eword] += c
       else:
         counte[eword] = c  
-  for (fword, eword) in countfe:
-    thetak_prob[(fword, eword)] = countfe[(fword, eword)]/counte[eword]
+  for (fword, eword) in countfe: #should be in f_vocab, e_vocab
+      thetak_prob[(fword, eword)] = countfe[(fword, eword)]/counte[eword] #should be counte[fword]
 
 # Predict/Align: Most Probable Alignment:
 # Alignment Step
