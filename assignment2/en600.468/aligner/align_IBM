@@ -24,9 +24,11 @@ sys.stderr.write("Training with IBM Model 1...")
 # EM Step
 fprobs = {} #prob(f|e) #f_count?
 eprobs = {}
-thetak_prob = {} #Theta prob (t)
-countfe = {} #Counter (fe_count)
-counte = {} #coutner (total_e)
+thetak_prob = defaultdict(float) #Theta prob (t)
+countfe = defaultdict(int) #Counter (fe_count)
+counte = defaultdict(int) #coutner (total_e)
+countf = defaultdict(int)
+
 n = 0
 # add [:opts.num_sents] to end of for to limit training data to input
 for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
@@ -82,7 +84,7 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
        elif thetak_prob[(fword, eword)] == best_prob:
           best_num.append(enum)
       for num in range(len(best_num)):
-         if math.fabs(best_num[num] - i) < 4:
+         if math.fabs(best_num[num] - fnum) < 4:
             sys.stdout.write("%i-%i " % (fnum,best_num[num]))
   sys.stdout.write("\n")
   n +=1
