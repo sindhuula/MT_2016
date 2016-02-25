@@ -29,7 +29,7 @@ thetak_prob = defaultdict(float) #Theta prob (t)
 countfe = defaultdict(int) #Counter (fe_count)
 counte = defaultdict(int) #coutner (total_e)
 countf = defaultdict(int)
-sentence_total = defaultdict(int)
+sumtotal = defaultdict(int)
 totale = defaultdict(float)
 n = 0
 # add [:opts.num_sents] to end of for to limit training data to input
@@ -54,8 +54,10 @@ for (fsentence, esentence) in bitext:
   for fword in fsentence:
     if fword not in fprobs:
       fprobs[fword] = {}
+      sumtotal[fword] = 0
     total_sum = 0 #s_total?
     for eword in esentence:
+      
       if eword not in eprobs:
         eprobs[eword] = 1/float(len(esentence))
       else:
@@ -65,8 +67,9 @@ for (fsentence, esentence) in bitext:
       else:
         fprobs[fword][eword] += eprobs[eword]
       total_sum += fprobs[fword][eword]
+      sumtotal[fword] = total_sum
     for eword in esentence:
-      c = fprobs[fword][eword]/total_sum
+      c = fprobs[fword][eword]/(total_sum)
       if (fword,eword) in countfe:
         countfe[(fword,eword)] += c
       else:
@@ -77,7 +80,9 @@ for (fsentence, esentence) in bitext:
         counte[eword] = c  
   for (fword, eword) in countfe: #should be in f_vocab, e_vocab
       thetak_prob[(fword, eword)] += countfe[(fword, eword)]/counte[eword] #should be counte[fword]
-
+      thetak_prob[(fword,eword)] /= sumtotal[fword]
+      #if  thetak_prob[(fword, eword)] > 1:
+       #   print "here",thetak_prob[(fword, eword)]
 # Predict/Align: Most Probable Alignment:
 # Alignment Step
 sys.stderr.write("\nAligning...\n")
