@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import optparse
 import sys
+import math
 from collections import defaultdict
 #Input Parameters
 optparser = optparse.OptionParser()
@@ -24,6 +25,19 @@ thetak_prob = {} #Theta prob
 countfe = {} #Counter
 counte = {} #coutner
 n = 0
+jump_counts = {}
+
+def jump_key(j1, j0):
+  return jump_counts.get(math.fabs(j1 - j0), 0)
+
+def get_jump_transition(current_state, prev_state, L):
+    s = jump_key(current_state, prev_state)
+    j = [jump_key(l, prev_state) for l in range(L)]
+    if sum(j) == 0:
+        return 0.0
+    else:
+        return float(s) / float(sum(j))
+
 for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
   if n % 500 == 0:
     sys.stderr.write("%s" %n)
@@ -33,7 +47,9 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
       fprobs[fword] = {}
     total_sum = 0
     eprobs = {}
+    e_pos = 0;
     for eword in esentence.rstrip(' .\n').split(' '):
+      e_pos += 1
       if eword not in eprobs:
         eprobs[eword] = float(1)/float((len(esentence.rstrip(' .\n').split(' '))))
       else:
@@ -44,7 +60,11 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
         fprobs[fword][eword] += eprobs[eword]
       total_sum += fprobs[fword][eword]
     for eword in esentence.rstrip(' .\n').split(' '):
-      c = fprobs[fword][eword]/total_sum
+      hmm = get_jump_transition(e_pos, e_pos-1, (len(esentence.rstrip(' .\n').split(' '))))
+      if hmm == 0.0:
+        c = fprobs[fword][eword]
+      else:
+        c = fprobs[fword][eword]* hmm
       if (fword,eword) in countfe:
         countfe[(fword,eword)] += c
       else:

@@ -24,7 +24,7 @@ thetak_prob = {} #Theta prob
 countfe = {} #Counter
 counte = {} #coutner
 n = 0
-for fsentence, esentence in zip(open(f_data),open(e_data)):
+for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
   if n % 500 == 0:
     sys.stderr.write("%s" %n)
   n = n + 1
