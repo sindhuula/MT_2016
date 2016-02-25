@@ -16,6 +16,7 @@ f_data = "%s.%s" % (opts.train, opts.french)
 e_data = "%s.%s" % (opts.train, opts.english)
 
 sys.stderr.write("Training with IBM Model 1...")
+bitext = [[sentence.strip().split() for sentence in pair] for pair in zip(open(f_data), open(e_data))[:opts.num_sents]]
 
 #Splits the files so that you get f[i] count, e[j] count and count(f,e)
 #IBM stuff
@@ -28,10 +29,10 @@ thetak_prob = defaultdict(float) #Theta prob (t)
 countfe = defaultdict(int) #Counter (fe_count)
 counte = defaultdict(int) #coutner (total_e)
 countf = defaultdict(int)
-
 n = 0
+    
 # add [:opts.num_sents] to end of for to limit training data to input
-for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
+for (fsentence, esentence) in bitext:
   if n % 500 == 0:
     sys.stderr.write("%s" %n)
   n = n + 1
@@ -65,7 +66,7 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
 # Predict/Align: Most Probable Alignment:
 # Alignment Step
 n = 0
-for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
+for (fsentence, esentence) in bitext:
   if n % 500 == 0:
     sys.stderr.write("%s?" %n)
   fnum = -1
