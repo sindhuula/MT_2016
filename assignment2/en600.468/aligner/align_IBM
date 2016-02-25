@@ -2,6 +2,7 @@
 import optparse
 import sys
 from collections import defaultdict
+import math
 #Input Parameters
 optparser = optparse.OptionParser()
 optparser.add_option("-d", "--data", dest="train", default="data/hansards", help="Data filename prefix (default=data)")
@@ -13,7 +14,9 @@ optparser.add_option("-n", "--num_sentences", dest="num_sents", default=sys.maxi
 (opts, _) = optparser.parse_args()
 f_data = "%s.%s" % (opts.train, opts.french)
 e_data = "%s.%s" % (opts.train, opts.english)
+
 sys.stderr.write("Training with IBM Model 1...")
+
 #Splits the files so that you get f[i] count, e[j] count and count(f,e)
 #IBM stuff
 #Find Prec, Rec and AER.
@@ -63,17 +66,23 @@ n = 0
 for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
   if n % 500 == 0:
     sys.stderr.write("%s?" %n)
-  fnum = 0
+  fnum = -1
   for fword in fsentence.rstrip(' .\n').split(' '):
       fnum = fnum + 1
-      best_j =''
-      best_prob = 0
-      enum = 0
+      best_j = ''
+      best_prob = 0.0
+      best_num = []
+      enum = -1
       for eword in esentence.rstrip(' .\n').split(' '):
-       enum = enum + 1
+       enum  = enum + 1 
        if thetak_prob[(fword, eword)] > best_prob:
           best_prob = thetak_prob[(fword, eword)]
-          best_j = enum
-      sys.stdout.write("%i-%i " % (fnum,best_j))
+          best_j = eword
+          best_num = [enum]
+       elif thetak_prob[(fword, eword)] == best_prob:
+          best_num.append(enum)
+      for num in range(len(best_num)):
+          if math.fabs(best_num[num] - fnum) < 2:
+              sys.stdout.write("%i-%i " % (fnum,best_num[num]))
   sys.stdout.write("\n")
   n +=1
