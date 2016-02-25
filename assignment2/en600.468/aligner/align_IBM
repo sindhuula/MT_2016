@@ -23,6 +23,7 @@ sys.stderr.write("Training with IBM Model 1...")
 # Learn/Train: Expected Maximization for IBM Model 1
 # EM Step
 fprobs = {} #prob(f|e) #f_count?
+eprobs = {}
 thetak_prob = {} #Theta prob (t)
 countfe = {} #Counter (fe_count)
 counte = {} #coutner (total_e)
@@ -36,12 +37,11 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
     if fword not in fprobs:
       fprobs[fword] = {}
     total_sum = 0 #s_total?
-    eprobs = {} #e_count
     for eword in esentence.rstrip(' .\n').split(' '):
       if eword not in eprobs:
-        eprobs[eword] = float(1)/float((len(esentence.rstrip(' .\n').split(' '))))
+        eprobs[eword] = 1/float((len(esentence.rstrip(' .\n').split(' '))))
       else:
-        eprobs[eword] += float(1)/float((len(esentence.rstrip(' .\n').split(' '))))
+        eprobs[eword] += 1/float((len(esentence.rstrip(' .\n').split(' '))))
       if eword not in (fprobs[fword]):
         fprobs[fword][eword] = eprobs[eword]
       else:
@@ -82,6 +82,7 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
        elif thetak_prob[(fword, eword)] == best_prob:
           best_num.append(enum)
       for num in range(len(best_num)):
-              sys.stdout.write("%i-%i " % (fnum,best_num[num]))
+         if math.fabs(best_num[num] - i) < 4:
+            sys.stdout.write("%i-%i " % (fnum,best_num[num]))
   sys.stdout.write("\n")
   n +=1
