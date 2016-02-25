@@ -82,7 +82,6 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
        elif thetak_prob[(fword, eword)] == best_prob:
           best_num.append(enum)
       for num in range(len(best_num)):
-          if math.fabs(best_num[num] - fnum) < 2:
               sys.stdout.write("%i-%i " % (fnum,best_num[num]))
   sys.stdout.write("\n")
   n +=1
