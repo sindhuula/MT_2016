@@ -27,18 +27,18 @@ counte = {} #coutner
 n = 0
 jump_counts = {}
 
-def jump_key(j1, j0):
-  return jump_counts.get(math.fabs(j1 - j0), 0)
+def jump_width(a1, a0):
+  return jump_counts.get(math.fabs(a1 - a0), 0)
 
-def get_jump_transition(current_state, prev_state, L):
-    s = jump_key(current_state, prev_state)
-    j = [jump_key(l, prev_state) for l in range(L)]
-    if sum(j) == 0:
+def hmm_prob(ai, aj, esent_length):
+    n = jump_width(ai, aj)
+    d = [jump_width(l, aj) for l in range(esent_length)]
+    if sum(d) == 0:
         return 0.0
     else:
-        return float(s) / float(sum(j))
+        return float(n) / float(sum(d))
 
-for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
+for fsentence, esentence in zip(open(f_data),open(e_data)):
   if n % 500 == 0:
     sys.stderr.write("%s" %n)
   n = n + 1
@@ -60,7 +60,7 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
         fprobs[fword][eword] += 100 * eprobs[eword]
       total_sum += fprobs[fword][eword]
     for eword in esentence.rstrip(' .\n').split(' '):
-      hmm = get_jump_transition(e_pos, e_pos-1, (len(esentence.rstrip(' .\n').split(' '))))
+      hmm = hmm_prob(e_pos, e_pos-1, (len(esentence.rstrip(' .\n').split(' '))))
       if hmm == 0.0:
         c = fprobs[fword][eword]
       else:
