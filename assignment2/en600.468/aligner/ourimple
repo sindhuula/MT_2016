@@ -57,7 +57,7 @@ for fsentence, esentence in zip(open(f_data),open(e_data))[:opts.num_sents]:
       if eword not in (fprobs[fword]):
         fprobs[fword][eword] = eprobs[eword]
       else:
-        fprobs[fword][eword] += 10 * eprobs[eword]
+        fprobs[fword][eword] += 100 * eprobs[eword]
       total_sum += fprobs[fword][eword]
     for eword in esentence.rstrip(' .\n').split(' '):
       hmm = get_jump_transition(e_pos, e_pos-1, (len(esentence.rstrip(' .\n').split(' '))))
