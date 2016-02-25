@@ -15,7 +15,7 @@ optparser.add_option("-n", "--num_sentences", dest="num_sents", default=sys.maxi
 f_data = "%s.%s" % (opts.train, opts.french)
 e_data = "%s.%s" % (opts.train, opts.english)
 
-sys.stderr.write("Training with IBM Model 1...")
+sys.stderr.write("Training with IBM Model 1...\n")
 bitext = [[sentence.strip().split() for sentence in pair] for pair in zip(open(f_data), open(e_data))[:opts.num_sents]]
 
 #Splits the files so that you get f[i] count, e[j] count and count(f,e)
@@ -23,34 +23,49 @@ bitext = [[sentence.strip().split() for sentence in pair] for pair in zip(open(f
 #Find Prec, Rec and AER.
 # Learn/Train: Expected Maximization for IBM Model 1
 # EM Step
-fprobs = {} #prob(f|e) #f_count?
-eprobs = {}
+fprobs = defaultdict(float) #prob(f)
+eprobs = defaultdict(float) #prob(e)
 thetak_prob = defaultdict(float) #Theta prob (t)
 countfe = defaultdict(int) #Counter (fe_count)
 counte = defaultdict(int) #coutner (total_e)
 countf = defaultdict(int)
+sentence_total = defaultdict(int)
+totale = defaultdict(float)
 n = 0
-    
 # add [:opts.num_sents] to end of for to limit training data to input
+#crating the vocabularies
+fvocab = set()
+evocab = set()
+for number in range(opts.num_sents):
+        sentence = [sentence for sentence in bitext[number]]
+        fvocab.update(set(sentence[0]))
+        evocab.update(set(sentence[1]))
+# Assigning initial uniform probabilities
+for fword in fvocab:
+    for eword in evocab:
+            thetak_prob[fword,eword] = 1 / float(len(evocab))
+sys.stderr.write("Training...\n")
+
+# Actual training begins here
 for (fsentence, esentence) in bitext:
   if n % 500 == 0:
-    sys.stderr.write("%s" %n)
+    sys.stderr.write("%i sentences read\n" %n)
   n = n + 1
-  for fword in fsentence.rstrip(' .\n').split(' '):
+  for fword in fsentence:
     if fword not in fprobs:
       fprobs[fword] = {}
     total_sum = 0 #s_total?
-    for eword in esentence.rstrip(' .\n').split(' '):
+    for eword in esentence:
       if eword not in eprobs:
-        eprobs[eword] = 1/float((len(esentence.rstrip(' .\n').split(' '))))
+        eprobs[eword] = 1/float(len(esentence))
       else:
-        eprobs[eword] += 1/float((len(esentence.rstrip(' .\n').split(' '))))
+        eprobs[eword] += 1/float(len(esentence))
       if eword not in (fprobs[fword]):
         fprobs[fword][eword] = eprobs[eword]
       else:
         fprobs[fword][eword] += eprobs[eword]
       total_sum += fprobs[fword][eword]
-    for eword in esentence.rstrip(' .\n').split(' '):
+    for eword in esentence:
       c = fprobs[fword][eword]/total_sum
       if (fword,eword) in countfe:
         countfe[(fword,eword)] += c
@@ -61,22 +76,24 @@ for (fsentence, esentence) in bitext:
       else:
         counte[eword] = c  
   for (fword, eword) in countfe: #should be in f_vocab, e_vocab
-      thetak_prob[(fword, eword)] = countfe[(fword, eword)]/counte[eword] #should be counte[fword]
+      thetak_prob[(fword, eword)] += countfe[(fword, eword)]/counte[eword] #should be counte[fword]
 
 # Predict/Align: Most Probable Alignment:
 # Alignment Step
+sys.stderr.write("\nAligning...\n")
+
 n = 0
 for (fsentence, esentence) in bitext:
   if n % 500 == 0:
-    sys.stderr.write("%s?" %n)
+    sys.stderr.write("%s? sentences aligned\n" %n)
   fnum = -1
-  for fword in fsentence.rstrip(' .\n').split(' '):
+  for fword in fsentence:
       fnum = fnum + 1
       best_j = ''
       best_prob = 0.0
       best_num = []
       enum = -1
-      for eword in esentence.rstrip(' .\n').split(' '):
+      for eword in esentence:
        enum  = enum + 1 
        if thetak_prob[(fword, eword)] > best_prob:
           best_prob = thetak_prob[(fword, eword)]
