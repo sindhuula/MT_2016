@@ -29,7 +29,7 @@ thetak_prob = defaultdict(float) #Theta prob (t)
 countfe = defaultdict(int) #Counter (fe_count)
 counte = defaultdict(int) #coutner (total_e)
 countf = defaultdict(int)
-sumtotal = defaultdict(int)
+sumtotal = defaultdict(int)#total_prob for a fword
 n = 0
 # add [:opts.num_sents] to end of for to limit training data to input
 #crating the vocabularies
@@ -86,7 +86,6 @@ for _ in range (5):
 # Predict/Align: Most Probable Alignment:
 # Alignment Step
 sys.stderr.write("\nAligning...\n")
-
 n = 0
 for (fsentence, esentence) in bitext:
   if n % 500 == 0:
