@@ -54,47 +54,48 @@ for fword in fvocab:
             thetak_prob[fword,eword] = 1 / float(len(evocab))
 sys.stderr.write("Training...\n")
 
-# Actual training begins here
-for (fsentence, esentence) in bitext:
-  if n % 500 == 0:
-    sys.stderr.write("%i sentences read\n" %n)
-  n = n + 1
-  for fword in fsentence:
-    if fword not in fprobs:
-      fprobs[fword] = {}
-      sumtotal[fword] = 0
-    total_sum = 0
-    e_pos = 0 
-    for eword in esentence:
-      e_pos += 1
-      if eword not in eprobs:
-        eprobs[eword] = 1/float(len(esentence))
-      else:
-        eprobs[eword] += 1/float(len(esentence))
-      if eword not in (fprobs[fword]):
-        fprobs[fword][eword] = eprobs[eword]
-      else:
-        fprobs[fword][eword] += (3 * eprobs[eword])
-      total_sum += fprobs[fword][eword]
-      sumtotal[fword] = total_sum
-    for eword in esentence:
-      hmm = hmm_prob(e_pos, e_pos-1, len(esentence))
-      if hmm == 0.0:
-        c = fprobs[fword][eword]
-      else:
-        c = fprobs[fword][eword]* hmm
-      if (fword,eword) in countfe:
-        countfe[(fword,eword)] += c
-      else:
-        countfe[(fword,eword)] = c
-      if eword in counte:
-        counte[eword] += c
-      else:
-        counte[eword] = c  
-  for (fword, eword) in countfe:
-    thetak_prob[(fword, eword)] = countfe[(fword, eword)]/counte[eword]
-    #normalizing thetak_prob
-    thetak_prob[(fword,eword)] /= sumtotal[fword]
+for _ in range (5):
+  # Actual training begins here
+  for (fsentence, esentence) in bitext:
+    if n % 500 == 0:
+      sys.stderr.write("%i sentences read\n" %n)
+    n = n + 1
+    for fword in fsentence:
+      if fword not in fprobs:
+        fprobs[fword] = {}
+        sumtotal[fword] = 0
+      total_sum = 0
+      e_pos = 0 
+      for eword in esentence:
+        e_pos += 1
+        if eword not in eprobs:
+          eprobs[eword] = 1/float(len(esentence))
+        else:
+          eprobs[eword] += 1/float(len(esentence))
+        if eword not in (fprobs[fword]):
+          fprobs[fword][eword] = eprobs[eword]
+        else:
+          fprobs[fword][eword] += (3 * eprobs[eword])
+        total_sum += fprobs[fword][eword]
+        sumtotal[fword] = total_sum
+      for eword in esentence:
+        hmm = hmm_prob(e_pos, e_pos-1, len(esentence))
+        if hmm == 0.0:
+          c = fprobs[fword][eword]
+        else:
+          c = fprobs[fword][eword]* hmm
+        if (fword,eword) in countfe:
+          countfe[(fword,eword)] += c
+        else:
+          countfe[(fword,eword)] = c
+        if eword in counte:
+          counte[eword] += c
+        else:
+          counte[eword] = c  
+    for (fword, eword) in countfe:
+      thetak_prob[(fword, eword)] = countfe[(fword, eword)]/counte[eword]
+      #normalizing thetak_prob
+      thetak_prob[(fword,eword)] /= sumtotal[fword]
 
 # Predict/Align: Most Probable Alignment:
 # Alignment Step
@@ -114,11 +115,15 @@ for (fsentence, esentence) in bitext:
       for eword in esentence:
        enum  = enum + 1 
        if thetak_prob[(fword, eword)] > best_prob:
-          best_prob = thetak_prob[(fword, eword)]
-          best_j = eword
-          best_num = [enum]
+        #if aligns to null, dont print
+          if eword is not None:
+            best_prob = thetak_prob[(fword, eword)]
+            best_j = eword
+            best_num = [enum]
        elif thetak_prob[(fword, eword)] == best_prob:
-          best_num.append(enum)
+        #if aligns to null, dont print
+          if eword is not None:
+            best_num.append(enum)
       for num in range(len(best_num)):
          if math.fabs(best_num[num] - fnum) < 4:
             sys.stdout.write("%i-%i " % (fnum,best_num[num]))
