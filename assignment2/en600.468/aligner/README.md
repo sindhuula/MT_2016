@@ -55,3 +55,21 @@ Using IBM Model 1:
 Using HMM Model:
 
 Though the HMM model is not better than the IBM model this may be due to the fact the the jump_key being calculated is incorrect with respect to the language i.e. the words may have been reordered differently than calculated. Also, since we experimented with our attempt at creating an HMM model by changing different parameters the best one suited to our data may not have been found by us.
+
+
+Running for 100 Lines:
+Precision = 0.521401
+Recall = 0.198225
+AER = 0.662185
+
+Running for 1000 Lines:
+Precision = 0.482639
+Recall = 0.195266
+AER = 0.672524
+
+Runnning for 2000 Lines:
+Precision = 0.506944
+Recall = 0.198225
+AER = 0.659744
+
+As seen above, our alignment model doesn't work better than the IBM Model 1. Also as observed, the AER for 100,1000 and 2000 lines is almost the same so for irrespective of the size of training set it still gives the same AER.
