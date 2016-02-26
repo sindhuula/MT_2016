@@ -25,10 +25,10 @@ bitext = [[sentence.strip().split() for sentence in pair] for pair in zip(open(f
 fprobs = defaultdict(float) #prob(f)
 eprobs = defaultdict(float) #prob(e)
 thetak_prob = defaultdict(float) #Theta prob (t)
-countfe = defaultdict(int) #Counter (fe_count)
-counte = defaultdict(int) #coutner (total_e)
-countf = defaultdict(int)
-sumtotal = defaultdict(int)
+countfe = defaultdict(float) #Counter (fe_count)
+counte = defaultdict(float) #coutner (total_e)
+countf = defaultdict(float)
+sumtotal = defaultdict(float)
 n = 0
 jump_counts = {}
 
@@ -114,15 +114,13 @@ for (fsentence, esentence) in bitext:
       enum = -1
       for eword in esentence:
        enum  = enum + 1 
-       if thetak_prob[(fword, eword)] > best_prob:
-        #if aligns to null, dont print
-          if eword is not None:
+      #if aligns to null, dont print
+       if eword is not None:
+         if thetak_prob[(fword, eword)] > best_prob:
             best_prob = thetak_prob[(fword, eword)]
             best_j = eword
             best_num = [enum]
        elif thetak_prob[(fword, eword)] == best_prob:
-        #if aligns to null, dont print
-          if eword is not None:
             best_num.append(enum)
       for num in range(len(best_num)):
          if math.fabs(best_num[num] - fnum) < 4:

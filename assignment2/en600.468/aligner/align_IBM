@@ -26,10 +26,10 @@ bitext = [[sentence.strip().split() for sentence in pair] for pair in zip(open(f
 fprobs = defaultdict(float) #prob(f)
 eprobs = defaultdict(float) #prob(e)
 thetak_prob = defaultdict(float) #Theta prob (t)
-countfe = defaultdict(int) #Counter (fe_count)
-counte = defaultdict(int) #coutner (total_e)
-countf = defaultdict(int)
-sumtotal = defaultdict(int)#total_prob for a fword
+countfe = defaultdict(float) #Counter (fe_count)
+counte = defaultdict(float) #coutner (total_e)
+countf = defaultdict(float)
+sumtotal = defaultdict(float)#total_prob for a fword
 n = 0
 # add [:opts.num_sents] to end of for to limit training data to input
 #crating the vocabularies
@@ -54,7 +54,7 @@ for _ in range (5):
     for fword in fsentence:
       if fword not in fprobs:
         fprobs[fword] = {}
-        sumtotal[fword] = 0
+        sumtotal[fword] = 0.0
       total_sum = 0.0
       for eword in esentence: 
         if eword not in eprobs:
@@ -78,11 +78,10 @@ for _ in range (5):
         else:
           counte[eword] = c  
     for (fword, eword) in countfe:
-        thetak_prob[(fword, eword)] += countfe[(fword, eword)]/ float(counte[eword]) #thats not possible??
+        thetak_prob[(fword, eword)] += countfe[(fword, eword)]/ counte[eword]
         #normalizing thetak_prob
         thetak_prob[(fword,eword)] /= sumtotal[fword]
 
-#check distribution: didn't do
 # Predict/Align: Most Probable Alignment:
 # Alignment Step
 sys.stderr.write("\nAligning...\n")
@@ -99,15 +98,14 @@ for (fsentence, esentence) in bitext:
       enum = -1
       for eword in esentence:
        enum  = enum + 1 
-       if thetak_prob[(fword, eword)] > best_prob:
+       if eword is not None:
+        if thetak_prob[(fword, eword)] > best_prob:
           #if aligns to null, dont print
-          if eword is not None:
             best_prob = thetak_prob[(fword, eword)]
             best_j = eword
             best_num = [enum]
        elif thetak_prob[(fword, eword)] == best_prob:
           #if aligns to null, dont print
-          if eword is not None:
             best_num.append(enum)
       for num in range(len(best_num)):
          if math.fabs(best_num[num] - fnum) < 4:
