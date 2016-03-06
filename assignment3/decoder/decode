@@ -47,6 +47,7 @@ for f in french:
           for phrase in tm[f[i:j]]:
             logprob = h.logprob + phrase.logprob
             lm_state = h.lm_state
+            print "lm-state",lm_state
             for word in phrase.english.split():
               (lm_state, word_logprob) = lm.score(lm_state, word)
               logprob += word_logprob

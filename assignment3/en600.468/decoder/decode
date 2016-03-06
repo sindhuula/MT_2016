@@ -17,7 +17,6 @@ opts = optparser.parse_args()[0]
 tm = models.TM(opts.tm, opts.k)
 lm = models.LM(opts.lm)
 french = [tuple(line.strip().split()) for line in open(opts.input).readlines()[:opts.num_sents]]
-
 # tm should translate unknown words as-is with probability 1
 for word in set(sum(french,())):
   if (word,) not in tm:
@@ -59,19 +58,20 @@ for f in french:
                 logprob1 = h.logprob + phrase2.logprob
                 lm_state1 = h.lm_state
                 for word in phrase2.english.split():
-                  (lm_state1, word_logprob) = lm.score(lm_state1, word)
-                  logprob1 += word_logprob
+                  (lm_state1, word_logprob1) = lm.score(lm_state1, word)
+                  logprob1 += word_logprob1
                 new_hypothesis1 = hypothesis(logprob1, lm_state1, h, phrase2)
               #phrase 1 same way as above but with logprob1
               logprob2 = logprob1 + phrase1.logprob
               lm_state2 = lm_state1
               for word in phrase1.english.split():
-                (lm_state2, word_logprob) = lm.score(lm_state2, word)
-                logprob2 += word_logprob
+                (lm_state2, word_logprob2) = lm.score(lm_state2, word)
+                logprob2 += word_logprob2
               logprob2 += lm.end(lm_state2) if j == len(f) else 0.0
               new_hypothesis2 = hypothesis(logprob2, lm_state2, new_hypothesis1, phrase1)
-              if lm_state2 not in stacks[j] or stacks[j][lm_state2].logprob < logprob2: # second case is recombination
+              if lm_state2 not in stacks[j] or stacks[j][lm_state2].logprob < logprob2 and logprob1 < logprob2: # second case is recombination
                 stacks[j][lm_state2] = new_hypothesis2
+
   winner = max(stacks[-1].itervalues(), key=lambda h: h.logprob)
   def extract_english(h): 
     return "" if h.predecessor is None else "%s%s " % (extract_english(h.predecessor), h.phrase.english)
