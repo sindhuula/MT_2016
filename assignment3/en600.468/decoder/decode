@@ -46,7 +46,8 @@ for f in french:
             logprob += lm.end(lm_state) if j == len(f) else 0.0
             new_hypothesis = hypothesis(logprob, lm_state, h, phrase)
             if lm_state not in stacks[j] or stacks[j][lm_state].logprob < logprob: # second case is recombination
-              stacks[j][lm_state] = new_hypothesis 
+              stacks[j][lm_state] = new_hypothesis
+
   #start at i+1 and go to same j!!! or j+1 to len(f)+1
         for l in xrange(i+1, j):
           #split phrase [i:l] [l:j]
@@ -73,6 +74,21 @@ for f in french:
                 stacks[j][lm_state2] = new_hypothesis2
 
   winner = max(stacks[-1].itervalues(), key=lambda h: h.logprob)
+  # Converts a hypothesis into a list of phrases.
+  # Input:  hyp - hypothesis
+  # Output: ps  - [(phrase, french)] e.g. [(phrase(english='honourable', logprob=0.0), ('honorables',))]
+  print hyp_to_phrases(winner)
+  def hyp_to_phrases(self, hyp):
+		phrases = []
+		def get_phrases(hyp, ps):
+			if hyp == None:
+				return
+			else:
+				ps.insert(0, (hyp.phrase, hyp.fphrase))
+				get_phrases(hyp.predecessor, ps)
+		get_phrases(hyp, phrases)
+		return phrases
+
   def extract_english(h): 
     return "" if h.predecessor is None else "%s%s " % (extract_english(h.predecessor), h.phrase.english)
   print extract_english(winner)
