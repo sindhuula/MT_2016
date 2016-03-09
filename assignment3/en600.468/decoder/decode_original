@@ -1,9 +1,13 @@
+'''
+This is the final originally given with no modfication by us.
+'''
 #!/usr/bin/env python
 import optparse
 import sys
 import models
 from collections import namedtuple
 
+#Command line input parameters and defaults
 optparser = optparse.OptionParser()
 optparser.add_option("-i", "--input", dest="input", default="data/input", help="File containing sentences to translate (default=data/input)")
 optparser.add_option("-t", "--translation-model", dest="tm", default="data/tm", help="File containing translation model (default=data/tm)")
