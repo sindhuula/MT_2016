@@ -48,30 +48,6 @@ for f in french:
             new_hypothesis = hypothesis(logprob, lm_state, h, phrase)
             if lm_state not in stacks[j] or stacks[j][lm_state].logprob < logprob: # second case is recombination
               stacks[j][lm_state] = new_hypothesis 
-  #start at i+1 and go to same j!!! or j+1 to len(f)+1
-        for l in xrange(i+1, j):
-          #split phrase [i:l] [l:j]
-          if f[i:l] in tm and f[l:j] in tm:
-            #check each phrase the same way as above
-            for phrase1 in tm[f[i:l]]:
-              # phrase 2 same way as above
-              for phrase2 in tm[f[l:j]]:
-                logprob1 = h.logprob + phrase2.logprob
-                lm_state1 = h.lm_state
-                for word in phrase2.english.split():
-                  (lm_state1, word_logprob) = lm.score(lm_state1, word)
-                  logprob1 += word_logprob
-                new_hypothesis1 = hypothesis(logprob1, lm_state1, h, phrase2)
-              #phrase 1 same way as above but with logprob1
-              logprob2 = logprob1 + phrase1.logprob
-              lm_state2 = lm_state1
-              for word in phrase1.english.split():
-                (lm_state2, word_logprob) = lm.score(lm_state2, word)
-                logprob2 += word_logprob
-              logprob2 += lm.end(lm_state2) if j == len(f) else 0.0
-              new_hypothesis2 = hypothesis(logprob2, lm_state2, new_hypothesis1, phrase1)
-              if lm_state2 not in stacks[j] or stacks[j][lm_state2].logprob < logprob2: # second case is recombination
-                stacks[j][lm_state2] = new_hypothesis2
   winner = max(stacks[-1].itervalues(), key=lambda h: h.logprob)
   def extract_english(h): 
     return "" if h.predecessor is None else "%s%s " % (extract_english(h.predecessor), h.phrase.english)

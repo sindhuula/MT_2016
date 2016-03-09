@@ -106,13 +106,13 @@ def beam(f, u, Constraints):
               if new_lrstate not in stacks[new_n] or stacks[new_n][new_lrstate].logprob < logprob: # second case is recombination
                 stacks[new_n][new_lrstate] = new_hypothesis
 
-          for l in xrange(i+1, k):
+          for l in xrange(i+1, j):
             #split phrase [i:l] [l:j]
-            if f[k:l] in tm and f[l:j] in tm:
+            if f[i:l] in tm and f[l:j] in tm:
               #check each phrase the same way as above
-              for phrase1 in tm[f[k:l]]:
+              for phrase1 in tm[f[i:l]]:
                 # phrase 2 same way as above
-                #try:
+                try:
                   for phrase2 in tm[f[l:j]]:
                     current_lrstate1 = h.LR_state
                     lm_state1 = current_lrstate.lm_state            
@@ -184,8 +184,8 @@ def beam(f, u, Constraints):
                     new_hypothesis2 = hypothesis(logprob2, new_lrstate2, new_hypothesis1, phrase1, new_y)
                     if new_lrstate2 not in stacks[j] or stacks[j][new_lrstate2].logprob < logprob2 and logprob1 < logprob2: # second case is recombination
                       stacks[j][new_lrstate2] = new_hypothesis2
-                #except KeyError:
-                 # continue
+                except KeyError:
+                  continue
 
 
 
@@ -203,8 +203,6 @@ def beam(f, u, Constraints):
 
   def extract_english(h):
         return "" if h.predecessor is None else "%s%s " % (extract_english(h.predecessor), h.phrase.english)
-  result = extract_english(winner)
-  '''
   english_sentences = extract_english(winner)
   english_phrases = []
   current_winner = winner
@@ -244,7 +242,7 @@ def beam(f, u, Constraints):
 
   if ' '.join(english_phrases).strip() != english_sentences.strip():
         french_count += 1
-  '''
+
   ans = (winner, result)
   return ans
 
