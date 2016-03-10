@@ -38,7 +38,6 @@ for word in set(sum(french,())):
 
 sys.stderr.write("Decoding %s...\n" % (opts.input,))
 
-
 # Moving monotone decoding to beam_search function and adding information for new parameters
 def beam_search(f, u, Constraints):
   # The following code implements a monotone decoding
@@ -210,12 +209,8 @@ def optimization(f, u, Constraints):
     new_Constraints.sort()
   return optimization(f, u, new_Constraints)  
 
-# Main function
-def main():
-    for fsen in french:
+    
+for fsen in french:
       u = [0 for i in range(len(fsen))]
       result = optimization(fsen, u, [])
       print result[1]
-
-if __name__ == '__main__':
-  main()

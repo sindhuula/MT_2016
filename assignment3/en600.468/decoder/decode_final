@@ -288,12 +288,7 @@ def optimization(f, u, Constraints):
     new_Constraints.sort()
   return optimization(f, u, new_Constraints)  
 
-# Main function
-def main():
-    for fsen in french:
+for fsen in french:
       u = [0 for i in range(len(fsen))]
       result = optimization(fsen, u, [])
       print result[1]
-
-if __name__ == '__main__':
-  main()
