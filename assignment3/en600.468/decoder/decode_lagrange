@@ -129,7 +129,7 @@ def beam_search(f, u, Constraints):
   def extract_english(h): 
     return "" if h.predecessor is None else "%s%s " % (extract_english(h.predecessor), h.phrase.english)
 
-  ans = (winner.logprob, extract_english(winner), winner.y)
+  ans = (winner, extract_english(winner))
   return ans
 
 #optimization function for Lagrange optimization
@@ -214,7 +214,7 @@ def optimization(f, u, Constraints):
 def main():
     for fsen in french:
       u = [0 for i in range(len(fsen))]
-      result = optimize(fsen, u, [])
+      result = optimization(fsen, u, [])
       print result[1]
 
 if __name__ == '__main__':
