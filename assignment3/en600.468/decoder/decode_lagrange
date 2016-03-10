@@ -27,7 +27,7 @@ french = [tuple(line.strip().split()) for line in open(opts.input).readlines()[:
 stepsize = 2.0
 eta = -1.5
 alpha_decrease_rate = 0.9
-epsilon = 0.05
+epsilon = 0.02
 iteration_limit = 10
 Constraints_limit = 2
 
