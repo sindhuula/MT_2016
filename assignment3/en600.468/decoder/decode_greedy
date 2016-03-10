@@ -14,40 +14,7 @@ def decode(source,lm,tm,opts):
 	root = stack_decode(source,lm,tm,opts)
 	decoded = greedy_decode(source,root,lm,tm,opts)
 	return print_phrases(decoded)
-'''
-# Decode a sentence using a monotone beam search decoder. This is similar to what was given to us
-def monotone_decode(source,lm,tm,opts):
-	hypothesis = namedtuple("hypothesis","logprob,lm_state,predecessor,phrase,fphrase")
-	initial_hypothesis = hypothesis(0.0,lm.begin(),None,None,None)
-	stacks = [{} for _ in source] + [{}]
-	stacks[0][lm.begin()] = initial_hypothesis
-	for i,stack in enumerate(stacks[:-1]):
-	  # histogram pruning (just chop off n - s worst scoring hypotheses)
-	  toph = max(stack.itervalues(),key=lambda h: h.logprob)
-	  top = toph.logprob
-	  threshold = 0.2
-	  pruned = filter(lambda h: -h.logprob >= -threshold*top,stack.itervalues())
-	  for h in pruned: # prune
-	    # look to the next consecutive words
-	    for j in xrange(i+1,len(source)+1):
-	      # if the sequence is in the translation model
-	      if source[i:j] in tm:
-	        # [(english,logprob)]
-	        for phrase in tm[source[i:j]]:
-	          logprob = h.logprob + phrase.logprob
-	          lm_state = h.lm_state
-	          # calculate p(e) using the language model
-	          for word in phrase.english.split():
-	            (lm_state,word_logprob) = lm.score(lm_state,word)
-	            logprob += word_logprob
-	          logprob += lm.end(lm_state) if j == len(source) else 0.0
-	          new_hypothesis = hypothesis(logprob,lm_state,h,phrase,source[i:j])
-	          # lm_state contains the sequence of words (e.g. ('<s>','honourable'))
-	          if lm_state not in stacks[j] or stacks[j][lm_state].logprob < logprob: # second case is recombination
-	            stacks[j][lm_state] = new_hypothesis 
-	winner = max(stacks[-1].itervalues(),key=lambda h: h.logprob)
-	return hypothesis_phrase(winner)
-'''
+
 # Converts a hypothesis into a list of phrases.
 def hypothesis_phrase(hyp):
 	phrases = []
@@ -257,7 +224,8 @@ for word in set(sum(french,())):
   if (word,) not in tm:
     tm[(word,)] = [models.phrase(word,0.0)]
 
-
+i = 0
 for n,f in enumerate(french):
+  i = i + 1
   sentence = decode(f,lm,tm,opts)
-  print sentence
+  print i, sentence
