@@ -1,7 +1,7 @@
 #!/usr/bin/env python
+from __future__ import division 
 import argparse # optparse is deprecated
 from itertools import islice # slicing for iterators
- 
 def word_matches(h, ref):
     return sum(1 for w in h if w in ref)
  
@@ -25,10 +25,43 @@ def main():
         rset = set(ref)
         h1_match = word_matches(h1, rset)
         h2_match = word_matches(h2, rset)
-        print(1 if h1_match > h2_match else # \begin{cases}
+        result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
- 
+        with open('result1', 'a') as f:
+            f.write("%s\n" % str(result))
+    a = 0.2
+    for h1, h2, ref in islice(sentences(), opts.num_sentences):
+        rset = set(ref)
+        h1_match = meteor(h1,ref,a) 
+        h2_match = meteor(h2,ref,a)
+        result = (1 if h1_match > h2_match else # \begin{cases}
+                (0 if h1_match == h2_match
+                    else -1)) # \end{cases}
+        with open('result2', 'a') as f:
+            f.write("%s\n" % str(result))
+            
+def meteor(h,e,a):
+    precision,recall = findPrecisionRecall(h,e)
+    try:
+        l = (precision*recall) / (((1-a)*recall) + a*precision)
+    except ZeroDivisionError:
+        l = 0
+    return (l)
+
+def findPrecisionRecall(h,e):
+    countcommon = 0
+    sizeh = len(h)
+    sizee = len(e)
+    for word in h:
+        if word in e:
+            countcommon += 1
+    #if countcommon == 0:
+     #       print h,e
+   # print countcommon,sizee,sizeh
+    recall = countcommon/sizee
+    precision = countcommon/sizeh
+    return (precision,recall)
 # convention to allow import of this file as a module
 if __name__ == '__main__':
     main()

@@ -6,7 +6,6 @@ optparser = optparse.OptionParser()
 optparser.add_option("-i", "--input", dest="input", default="data/hyp1-hyp2-ref", help="Input file (default data/train.hyp1-hyp2-ref)")
 (opts, args) = optparser.parse_args()
 input = open(opts.input)
-
 for (n, (f_e_r, y)) in enumerate(zip(input, sys.stdin)):
   try:
     ny = int(y);
