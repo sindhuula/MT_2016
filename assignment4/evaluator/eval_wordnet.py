@@ -93,8 +93,8 @@ def main():
     # note: the -n option does not work in the original code
     for h1, h2, ref in islice(sentences(), opts.num_sentences):
         count += 1
-        keywords_ref = extract_key_words((' '.join(h1)).decode('utf-8'))
-        keywords_ref = extract_key_words((' '.join(h2)).decode('utf-8'))
+        keywords_h1 = extract_key_words((' '.join(h1)).decode('utf-8'))
+        keywords_h2 = extract_key_words((' '.join(h2)).decode('utf-8'))
         keywords_ref = extract_key_words((' '.join(ref)).decode('utf-8'))
         #rset = set(ref)
         #h1_match = word_matches(h1, rset)
