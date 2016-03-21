@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 import argparse # optparse is deprecated
 from itertools import islice # slicing for iterators
+import nltk
 
 def extract_key_words(text):
+    print text
     # Used when tokenizing words
     sentence_re = r'''(?x)      # set flag to allow verbose regexps
           ([A-Z])(\.[A-Z])+\.?  # abbreviations, e.g. U.S.A.
@@ -62,7 +64,7 @@ def extract_key_words(text):
             yield term
 
     terms = get_terms(tree)
-
+    
     for term in terms:
         for word in term:
             print word,
