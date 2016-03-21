@@ -118,10 +118,32 @@ def main():
         keywords_h2 = extract_key_words((' '.join(h2)).decode('utf-8'))
         keywords_ref = extract_key_words((' '.join(ref)).decode('utf-8'))
 
-        #if (count == 1):
-        #    print keywords_ref
-        h1_match = meteor(keywords_h1,keywords_ref,a) 
-        h2_match = meteor(keywords_h2,keywords_ref,a)
+        if ((len(keywords_ref) == 0) or (len(keywords_h1) == 0 and len(keywords_h2) == 0)):
+            rset = set(ref)
+            h1_match = meteor(h1,ref,a) 
+            h2_match = meteor(h2,ref,a)
+            
+            #print "Len(keywords_h1) = 0\n"
+            #print ref
+            #print keywords_ref
+            #print h1
+            #print keywords_h1
+            #print h2
+            #print keywords_h2
+
+        elif (len(keywords_h1) == 0):
+            rset = set(ref)
+            h1_match = meteor(h1,ref,a) 
+            h2_match = meteor(keywords_h2,keywords_ref,a)
+        elif (len(keywords_h2) == 0):
+            rset = set(ref)
+            h1_match = meteor(keywords_h1,keywords_ref,a) 
+            h2_match = meteor(h2,ref,a)
+
+        else:
+         h1_match = meteor(keywords_h1,keywords_ref,a) 
+         h2_match = meteor(keywords_h2,keywords_ref,a)
+
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
