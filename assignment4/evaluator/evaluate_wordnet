@@ -5,10 +5,13 @@ from itertools import islice # slicing for iterators
 from nltk.corpus import wordnet
 def findSyn(sentence):
     synlist = []
-    for synset in wordnet.synsets('small'):
-        for syn in synset.lemma_names():
-            if syn.encode('ascii') not in synlist:
-                synlist.append(syn.encode('ascii'))
+    for word in sentence:
+#     try:
+        for synset in wordnet.synsets(word.decode('latin-1')):
+            for syn in synset.lemma_names():
+                if syn.decode('utf8') not in synlist:
+                    synlist.append(syn.decode('utf8'))
+ #    except UnicodeDecodeError
     return synlist
 def word_matches(h, ref):
     return sum(1 for w in h if w in ref)

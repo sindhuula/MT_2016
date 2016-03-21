@@ -18,7 +18,6 @@ def extract_key_words(text):
     lemmatizer = nltk.WordNetLemmatizer()
     stemmer = nltk.stem.porter.PorterStemmer()
 
-    #Taken from Su Nam Kim Paper...
     grammar = r"""
         NBAR:
             {<NN.*|JJ>*<NN.*>}  # Nouns and Adjectives, terminated with Nouns
@@ -48,7 +47,6 @@ def extract_key_words(text):
     def normalise(word):
         """Normalises words to lowercase and stems and lemmatizes it."""
         word = word.lower()
-        #word = stemmer.stem_word(word)
         word = lemmatizer.lemmatize(word)
         return word
 
