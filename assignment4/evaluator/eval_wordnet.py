@@ -4,7 +4,8 @@ from itertools import islice # slicing for iterators
 import nltk
 
 def extract_key_words(text):
-    print text
+    # print text
+    keywords = []
     # Used when tokenizing words
     sentence_re = r'''(?x)      # set flag to allow verbose regexps
           ([A-Z])(\.[A-Z])+\.?  # abbreviations, e.g. U.S.A.
@@ -47,7 +48,7 @@ def extract_key_words(text):
     def normalise(word):
         """Normalises words to lowercase and stems and lemmatizes it."""
         word = word.lower()
-        word = stemmer.stem_word(word)
+        #word = stemmer.stem_word(word)
         word = lemmatizer.lemmatize(word)
         return word
 
@@ -67,8 +68,8 @@ def extract_key_words(text):
     
     for term in terms:
         for word in term:
-            print word,
-        print
+            keywords.append(word)
+    return keywords
  
 def word_matches(h, ref):
     return sum(1 for w in h if w in ref)
@@ -88,11 +89,13 @@ def main():
             for pair in f:
                 yield [sentence.strip().split() for sentence in pair.split(' ||| ')]
  
+    count = 0
     # note: the -n option does not work in the original code
     for h1, h2, ref in islice(sentences(), opts.num_sentences):
-        #extract_key_words(h1)
-        #extract_key_words(h2)
-        extract_key_words(ref)
+        count += 1
+        keywords_ref = extract_key_words((' '.join(h1)).decode('utf-8'))
+        keywords_ref = extract_key_words((' '.join(h2)).decode('utf-8'))
+        keywords_ref = extract_key_words((' '.join(ref)).decode('utf-8'))
         #rset = set(ref)
         #h1_match = word_matches(h1, rset)
         #h2_match = word_matches(h2, rset)
