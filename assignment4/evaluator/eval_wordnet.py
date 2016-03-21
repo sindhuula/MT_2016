@@ -96,6 +96,8 @@ def main():
         keywords_h1 = extract_key_words((' '.join(h1)).decode('utf-8'))
         keywords_h2 = extract_key_words((' '.join(h2)).decode('utf-8'))
         keywords_ref = extract_key_words((' '.join(ref)).decode('utf-8'))
+        if (count == 1):
+            print keywords_ref
         #rset = set(ref)
         #h1_match = word_matches(h1, rset)
         #h2_match = word_matches(h2, rset)
