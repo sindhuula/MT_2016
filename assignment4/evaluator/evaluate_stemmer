@@ -3,14 +3,19 @@ import argparse # optparse is deprecated
 from itertools import islice # slicing for iterators
 import nltk
 from nltk.corpus import wordnet
+import sys  
 
-def findSyn(word):
+reload(sys)  
+sys.setdefaultencoding('utf8')
+def findSyn(sentence):
     synlist = []
-    #for word in sentence:
-    for synset in wordnet.synsets(word):
+    for word in sentence:
+#     try:
+        for synset in wordnet.synsets(word):
             for syn in synset.lemma_names():
-                if syn not in synlist:
-                    synlist.append(syn)
+                if syn.decode('utf8') not in synlist:
+                    synlist.append(syn.decode('utf8'))
+ #    except UnicodeDecodeError
     return synlist
 
 def extract_key_words(text):
@@ -22,10 +27,6 @@ def extract_key_words(text):
         | \.\.\.                # ellipsis
         | [][.,;"'?():-_`]      # these are separate tokens
     '''
-
-    lemmatizer = nltk.WordNetLemmatizer()
-    stemmer = nltk.stem.porter.PorterStemmer()
-
     grammar = r"""
         NBAR:
             {<NN.*|JJ>*<NN.*>}  # Nouns and Adjectives, terminated with Nouns
@@ -38,6 +39,7 @@ def extract_key_words(text):
     toks = nltk.regexp_tokenize(text, sentence_re)
     postoks = nltk.tag.pos_tag(toks)
     tree = chunker.parse(postoks)
+
     from nltk.corpus import stopwords
     stopwords = stopwords.words('english')
 
@@ -48,9 +50,8 @@ def extract_key_words(text):
             yield subtree.leaves()
 
     def normalise(word):
-        """Normalises words to lowercase and stems and lemmatizes it."""
+        """Normalises words to lowercase."""
         word = word.lower()
-        word = lemmatizer.lemmatize(word)
         return word
 
     def acceptable_word(word):
@@ -113,32 +114,7 @@ def main():
                     else -1)) # \end{cases}
         with open('result5', 'a') as f:
             f.write("%s\n" % str(result))
-
-#        keywords_h1 = extract_key_words((' '.join(h1)).decode('utf-8'))
-#        keywords_h2 = extract_key_words((' '.join(h2)).decode('utf-8'))
-#        keywords_ref = extract_key_words((' '.join(ref)).decode('utf-8'))
-
        
-'''
-        if ((len(keywords_ref) == 0) or (len(keywords_h1) == 0 and len(keywords_h2) == 0)):
-'''
-            
-''' 
-        elif (len(keywords_h1) == 0):
-            rset = set(ref)
-            h1_match = meteor(h1,ref,a) 
-            h2_match = meteor(keywords_h2,keywords_ref,a)
-            
-        elif (len(keywords_h2) == 0):
-            rset = set(ref)
-            h1_match = meteor(keywords_h1,keywords_ref,a) 
-            h2_match = meteor(h2,ref,a)
-
-        else:
-         h1_match = meteor(keywords_h1,keywords_ref,a) 
-         h2_match = meteor(keywords_h2,keywords_ref,a)
-'''
-        
 def meteor(h,e,a):
     precision,recall = findPrecisionRecall(h,e)
     try:
@@ -152,6 +128,9 @@ def findPrecisionRecall(h,e):
     sizeh = len(h)
     sizee = len(e)
     keywords_ref = extract_key_words((' '.join(e)).decode('utf-8'))
+    syns = findSyn(keywords_ref)
+    for i in syns:
+        e.append(i)
     for word in h:
         if word in e:
             countcommon += 1

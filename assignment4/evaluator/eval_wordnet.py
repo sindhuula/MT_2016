@@ -16,9 +16,7 @@ def findSyn(sentence):
     return synlist
 
 def extract_key_words(text):
-    # print text
     keywords = []
-    # Used when tokenizing words
     sentence_re = r'''(?x)      # set flag to allow verbose regexps
           ([A-Z])(\.[A-Z])+\.?  # abbreviations, e.g. U.S.A.
         | \w+(-\w+)*            # words with optional internal hyphens
@@ -26,10 +24,6 @@ def extract_key_words(text):
         | \.\.\.                # ellipsis
         | [][.,;"'?():-_`]      # these are separate tokens
     '''
-
-    lemmatizer = nltk.WordNetLemmatizer()
-    stemmer = nltk.stem.porter.PorterStemmer()
-
     grammar = r"""
         NBAR:
             {<NN.*|JJ>*<NN.*>}  # Nouns and Adjectives, terminated with Nouns
@@ -39,12 +33,8 @@ def extract_key_words(text):
             {<NBAR><IN><NBAR>}  # Above, connected with in/of/etc...
     """
     chunker = nltk.RegexpParser(grammar)
-
     toks = nltk.regexp_tokenize(text, sentence_re)
     postoks = nltk.tag.pos_tag(toks)
-
-    #print postoks
-
     tree = chunker.parse(postoks)
 
     from nltk.corpus import stopwords
@@ -57,9 +47,8 @@ def extract_key_words(text):
             yield subtree.leaves()
 
     def normalise(word):
-        """Normalises words to lowercase and stems and lemmatizes it."""
+        """Normalises words to lowercase."""
         word = word.lower()
-        word = lemmatizer.lemmatize(word)
         return word
 
     def acceptable_word(word):
