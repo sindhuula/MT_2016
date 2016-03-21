@@ -4,21 +4,17 @@ from itertools import islice # slicing for iterators
 import nltk
 from nltk.corpus import wordnet
 
-def findSyn(sentence):
+def findSyn(word):
     synlist = []
-    for word in sentence:
-#     try:
-        for synset in wordnet.synsets(word):
+    #for word in sentence:
+    for synset in wordnet.synsets(word):
             for syn in synset.lemma_names():
-                if syn.decode('utf8') not in synlist:
-                    synlist.append(syn.decode('utf8'))
- #    except UnicodeDecodeError
+                if syn not in synlist:
+                    synlist.append(syn)
     return synlist
 
 def extract_key_words(text):
-    # print text
     keywords = []
-    # Used when tokenizing words
     sentence_re = r'''(?x)      # set flag to allow verbose regexps
           ([A-Z])(\.[A-Z])+\.?  # abbreviations, e.g. U.S.A.
         | \w+(-\w+)*            # words with optional internal hyphens
@@ -39,14 +35,9 @@ def extract_key_words(text):
             {<NBAR><IN><NBAR>}  # Above, connected with in/of/etc...
     """
     chunker = nltk.RegexpParser(grammar)
-
     toks = nltk.regexp_tokenize(text, sentence_re)
     postoks = nltk.tag.pos_tag(toks)
-
-    #print postoks
-
     tree = chunker.parse(postoks)
-
     from nltk.corpus import stopwords
     stopwords = stopwords.words('english')
 
@@ -114,23 +105,25 @@ def main():
 
     for h1, h2, ref in islice(sentences(), opts.num_sentences):
         count += 1
-        keywords_h1 = extract_key_words((' '.join(h1)).decode('utf-8'))
-        keywords_h2 = extract_key_words((' '.join(h2)).decode('utf-8'))
-        keywords_ref = extract_key_words((' '.join(ref)).decode('utf-8'))
+        rset = set(ref)
+        h1_match = meteor(h1,ref,a) 
+        h2_match = meteor(h2,ref,a)
+        result = (1 if h1_match > h2_match else # \begin{cases}
+                (0 if h1_match == h2_match
+                    else -1)) # \end{cases}
+        with open('result5', 'a') as f:
+            f.write("%s\n" % str(result))
 
+#        keywords_h1 = extract_key_words((' '.join(h1)).decode('utf-8'))
+#        keywords_h2 = extract_key_words((' '.join(h2)).decode('utf-8'))
+#        keywords_ref = extract_key_words((' '.join(ref)).decode('utf-8'))
+
+       
+'''
         if ((len(keywords_ref) == 0) or (len(keywords_h1) == 0 and len(keywords_h2) == 0)):
-            rset = set(ref)
-            h1_match = meteor(h1,ref,a) 
-            h2_match = meteor(h2,ref,a)
+'''
             
-            #print "Len(keywords_h1) = 0\n"
-            #print ref
-            #print keywords_ref
-            #print h1
-            #print keywords_h1
-            #print h2
-            #print keywords_h2
-
+''' 
         elif (len(keywords_h1) == 0):
             rset = set(ref)
             h1_match = meteor(h1,ref,a) 
@@ -144,13 +137,8 @@ def main():
         else:
          h1_match = meteor(keywords_h1,keywords_ref,a) 
          h2_match = meteor(keywords_h2,keywords_ref,a)
-
-        result = (1 if h1_match > h2_match else # \begin{cases}
-                (0 if h1_match == h2_match
-                    else -1)) # \end{cases}
-        with open('result5', 'a') as f:
-            f.write("%s\n" % str(result))
-
+'''
+        
 def meteor(h,e,a):
     precision,recall = findPrecisionRecall(h,e)
     try:
@@ -163,8 +151,9 @@ def findPrecisionRecall(h,e):
     countcommon = 0
     sizeh = len(h)
     sizee = len(e)
+    keywords_ref = extract_key_words((' '.join(e)).decode('utf-8'))
     for word in h:
-        if word in findSyn(e):
+        if word in e:
             countcommon += 1
     recall = countcommon/sizee
     precision = countcommon/sizeh
