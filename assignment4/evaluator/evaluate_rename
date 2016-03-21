@@ -30,7 +30,7 @@ def main():
                     else -1)) # \end{cases}
         with open('result1', 'a') as f:
             f.write("%s\n" % str(result))
-    a = 0.2
+    a = 0.1
     for h1, h2, ref in islice(sentences(), opts.num_sentences):
         rset = set(ref)
         h1_match = meteor(h1,ref,a) 
