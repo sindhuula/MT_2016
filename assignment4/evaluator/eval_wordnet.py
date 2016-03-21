@@ -2,6 +2,18 @@
 import argparse # optparse is deprecated
 from itertools import islice # slicing for iterators
 import nltk
+from nltk.corpus import wordnet
+
+def findSyn(sentence):
+    synlist = []
+    for word in sentence:
+#     try:
+        for synset in wordnet.synsets(word):
+            for syn in synset.lemma_names():
+                if syn.decode('utf8') not in synlist:
+                    synlist.append(syn.decode('utf8'))
+ #    except UnicodeDecodeError
+    return synlist
 
 def extract_key_words(text):
     # print text
@@ -90,19 +102,50 @@ def main():
     count = 0
     # note: the -n option does not work in the original code
     for h1, h2, ref in islice(sentences(), opts.num_sentences):
+        rset = set(ref)
+        h1_match = word_matches(h1, rset)
+        h2_match = word_matches(h2, rset)
+        result = (1 if h1_match > h2_match else # \begin{cases}
+                (0 if h1_match == h2_match
+                    else -1)) # \end{cases}
+        with open('result1', 'a') as f:
+            f.write("%s\n" % str(result))
+    a = 0.1
+
+    for h1, h2, ref in islice(sentences(), opts.num_sentences):
         count += 1
         keywords_h1 = extract_key_words((' '.join(h1)).decode('utf-8'))
         keywords_h2 = extract_key_words((' '.join(h2)).decode('utf-8'))
         keywords_ref = extract_key_words((' '.join(ref)).decode('utf-8'))
-        if (count == 1):
-            print keywords_ref
-        #rset = set(ref)
-        #h1_match = word_matches(h1, rset)
-        #h2_match = word_matches(h2, rset)
-        #print(1 if h1_match > h2_match else # \begin{cases}
-               # (0 if h1_match == h2_match
-                #    else -1)) # \end{cases}
- 
+
+        #if (count == 1):
+        #    print keywords_ref
+        h1_match = meteor(keywords_h1,keywords_ref,a) 
+        h2_match = meteor(keywords_h2,keywords_ref,a)
+        result = (1 if h1_match > h2_match else # \begin{cases}
+                (0 if h1_match == h2_match
+                    else -1)) # \end{cases}
+        with open('result2', 'a') as f:
+            f.write("%s\n" % str(result))
+
+def meteor(h,e,a):
+    precision,recall = findPrecisionRecall(h,e)
+    try:
+        l = (precision*recall) / (((1-a)*recall) + a*precision)
+    except ZeroDivisionError:
+        l = 0
+    return (l)
+
+def findPrecisionRecall(h,e):
+    countcommon = 0
+    sizeh = len(h)
+    sizee = len(e)
+    for word in h:
+        if word in findSyn(e):
+            countcommon += 1
+    recall = countcommon/sizee
+    precision = countcommon/sizeh
+    return (precision,recall)
 # convention to allow import of this file as a module
 if __name__ == '__main__':
     main()
