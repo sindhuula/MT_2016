@@ -59,6 +59,7 @@ def extract_key_words(text):
     def normalise(word):
         """Normalises words to lowercase and stems and lemmatizes it."""
         word = word.lower()
+        word = stemmer.stem_word(word)
         word = lemmatizer.lemmatize(word)
         return word
 
@@ -135,7 +136,7 @@ def main():
             rset = set(ref)
             h1_match = meteor(h1,ref,a) 
             h2_match = meteor(keywords_h2,keywords_ref,a)
-            
+
         elif (len(keywords_h2) == 0):
             rset = set(ref)
             h1_match = meteor(keywords_h1,keywords_ref,a) 
