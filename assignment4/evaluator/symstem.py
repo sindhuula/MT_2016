@@ -3,20 +3,34 @@ from __future__ import division
 import argparse # optparse is deprecated
 from itertools import islice # slicing for iterators
 from nltk.corpus import wordnet
+import nltk
+
+
 def findSyn(sentence):
     synlist = []
     for word in sentence:
 #     try:
+        synlist.append(word)
         for synset in wordnet.synsets(word.decode('latin-1')):
             for syn in synset.lemma_names():
                 if syn.decode('utf8') not in synlist:
                     synlist.append(syn.decode('utf8'))
  #    except UnicodeDecodeError
-  #  print synlist
     return synlist
 def word_matches(h, ref):
     return sum(1 for w in h if w in ref)
- 
+
+lemmatizer = nltk.WordNetLemmatizer()
+stemmer = nltk.stem.porter.PorterStemmer()
+
+def normalise(word):
+    """Normalises words to lowercase and stems and lemmatizes it."""
+
+    word = word.lower()
+    word = stemmer.stem_word(word)
+  #  word = lemmatizer.lemmatize(word)
+    return word 
+
 def main():
     parser = argparse.ArgumentParser(description='Evaluate translation hypotheses.')
     parser.add_argument('-i', '--input', default='data/hyp1-hyp2-ref',
@@ -25,7 +39,7 @@ def main():
             help='Number of hypothesis pairs to evaluate')
     # note that if x == [1, 2, 3], then x[:None] == x[:] == x (copy); no need for sys.maxint
     opts = parser.parse_args()
-    n = 0
+ 
     # we create a generator and avoid loading all sentences into a list
     def sentences():
         with open(opts.input) as f:
@@ -40,20 +54,17 @@ def main():
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
-        with open('result3', 'a') as f:
+        with open('result1', 'a') as f:
             f.write("%s\n" % str(result))
     a = 0.1
     for h1, h2, ref in islice(sentences(), opts.num_sentences):
-        n = n + 1
-        if n%500 == 0:
-            print n
         rset = set(ref)
-        h1_match = meteor(h1,ref,a) 
-        h2_match = meteor(h2,ref,a)
+        h1_match = meteor(h1,rset,a) 
+        h2_match = meteor(h2,rset,a)
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
-        with open('result4', 'a') as f:
+        with open('result_synstem', 'a') as f:
             f.write("%s\n" % str(result))
             
 def meteor(h,e,a):
@@ -68,9 +79,12 @@ def findPrecisionRecall(h,e):
     countcommon = 0
     sizeh = len(h)
     sizee = len(e)
-    synonyms = findSyn(e)
+    synset = findSyn(e)
+    synstem = []
+    for word in synset:
+        synstem.append(normalise(word.decode('utf8')))
     for word in h:
-        if word in synonyms:
+        if normalise(word.decode('utf8')) in synstem:
             countcommon += 1
     recall = countcommon/sizee
     precision = countcommon/sizeh

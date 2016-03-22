@@ -128,6 +128,7 @@ def findPrecisionRecall(h,e):
     sizeh = len(h)
     sizee = len(e)
     keywords_ref = extract_key_words((' '.join(e)).decode('utf-8'))
+    print "keywords",keywords_ref
     syns = findSyn(keywords_ref)
     for i in syns:
         e.append(i)

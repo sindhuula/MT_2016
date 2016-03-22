@@ -3,6 +3,13 @@ import argparse # optparse is deprecated
 from itertools import islice # slicing for iterators
 import nltk
 from nltk.corpus import wordnet
+<<<<<<< HEAD
+=======
+import sys  
+
+reload(sys)  
+sys.setdefaultencoding('utf8')
+>>>>>>> e9882229994a5e8814a7d6520cbe28ddf8e81625
 
 def findSyn(sentence):
     synlist = []
@@ -49,6 +56,11 @@ def extract_key_words(text):
     def normalise(word):
         """Normalises words to lowercase."""
         word = word.lower()
+<<<<<<< HEAD
+=======
+        word = stemmer.stem_word(word)
+        word = lemmatizer.lemmatize(word)
+>>>>>>> e9882229994a5e8814a7d6520cbe28ddf8e81625
         return word
 
     def acceptable_word(word):
@@ -97,7 +109,11 @@ def main():
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
+<<<<<<< HEAD
         with open('result6', 'a') as f: 
+=======
+        with open('result1', 'a') as f:
+>>>>>>> e9882229994a5e8814a7d6520cbe28ddf8e81625
             f.write("%s\n" % str(result))
     a = 0.1
 
@@ -107,7 +123,11 @@ def main():
         keywords_h2 = extract_key_words((' '.join(h2)).decode('utf-8'))
         keywords_ref = extract_key_words((' '.join(ref)).decode('utf-8'))
 
+<<<<<<< HEAD
         if ((len(keywords_ref) == 0) or (len(keywords_h1) == 0 and len(keywords_h2) == 0)):
+=======
+        if ((len(keywords_ref) == 0) or len(keywords_h1) == 0 or len(keywords_h2) == 0):
+>>>>>>> e9882229994a5e8814a7d6520cbe28ddf8e81625
             rset = set(ref)
             h1_match = meteor(h1,ref,a) 
             h2_match = meteor(h2,ref,a)
@@ -120,6 +140,7 @@ def main():
             #print h2
             #print keywords_h2
 
+<<<<<<< HEAD
         elif (len(keywords_h1) == 0):
             rset = set(ref)
             h1_match = meteor(h1,ref,a) 
@@ -129,6 +150,17 @@ def main():
             rset = set(ref)
             h1_match = meteor(keywords_h1,keywords_ref,a) 
             h2_match = meteor(h2,ref,a)
+=======
+        #elif (len(keywords_h1) == 0):
+        #    rset = set(ref)
+        #    h1_match = meteor(h1,ref,a) 
+        #    h2_match = meteor(keywords_h2,keywords_ref,a)
+
+        #elif (len(keywords_h2) == 0):
+        #    rset = set(ref)
+        #    h1_match = meteor(keywords_h1,keywords_ref,a) 
+        #    h2_match = meteor(h2,ref,a)
+>>>>>>> e9882229994a5e8814a7d6520cbe28ddf8e81625
 
         else:
          h1_match = meteor(keywords_h1,keywords_ref,a) 
@@ -137,7 +169,11 @@ def main():
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
+<<<<<<< HEAD
         with open('result5', 'a') as f:
+=======
+        with open('result2', 'a') as f:
+>>>>>>> e9882229994a5e8814a7d6520cbe28ddf8e81625
             f.write("%s\n" % str(result))
 
 def meteor(h,e,a):
