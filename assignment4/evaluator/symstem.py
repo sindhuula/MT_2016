@@ -3,10 +3,14 @@ from __future__ import division
 import argparse # optparse is deprecated
 from itertools import islice # slicing for iterators
 from nltk.corpus import wordnet
+import nltk
+
+
 def findSyn(sentence):
     synlist = []
     for word in sentence:
 #     try:
+        synlist.append(word)
         for synset in wordnet.synsets(word.decode('latin-1')):
             for syn in synset.lemma_names():
                 if syn.decode('utf8') not in synlist:
@@ -16,11 +20,15 @@ def findSyn(sentence):
 def word_matches(h, ref):
     return sum(1 for w in h if w in ref)
 
+lemmatizer = nltk.WordNetLemmatizer()
+stemmer = nltk.stem.porter.PorterStemmer()
+
 def normalise(word):
     """Normalises words to lowercase and stems and lemmatizes it."""
+
     word = word.lower()
     word = stemmer.stem_word(word)
-    word = lemmatizer.lemmatize(word)
+  #  word = lemmatizer.lemmatize(word)
     return word 
 
 def main():
@@ -56,7 +64,7 @@ def main():
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
-        with open('result2', 'a') as f:
+        with open('result_synstem', 'a') as f:
             f.write("%s\n" % str(result))
             
 def meteor(h,e,a):
@@ -74,9 +82,9 @@ def findPrecisionRecall(h,e):
     synset = findSyn(e)
     synstem = []
     for word in synset:
-        synstem.append(normalise(word))
+        synstem.append(normalise(word.decode('utf8')))
     for word in h:
-        if word in synstem:
+        if normalise(word.decode('utf8')) in synstem:
             countcommon += 1
     recall = countcommon/sizee
     precision = countcommon/sizeh

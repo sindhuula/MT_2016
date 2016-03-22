@@ -3,6 +3,10 @@ import argparse # optparse is deprecated
 from itertools import islice # slicing for iterators
 import nltk
 from nltk.corpus import wordnet
+import sys  
+
+reload(sys)  
+sys.setdefaultencoding('utf8')
 
 def findSyn(sentence):
     synlist = []
