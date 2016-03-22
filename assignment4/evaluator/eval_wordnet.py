@@ -135,6 +135,7 @@ def main():
             rset = set(ref)
             h1_match = meteor(h1,ref,a) 
             h2_match = meteor(keywords_h2,keywords_ref,a)
+            
         elif (len(keywords_h2) == 0):
             rset = set(ref)
             h1_match = meteor(keywords_h1,keywords_ref,a) 
