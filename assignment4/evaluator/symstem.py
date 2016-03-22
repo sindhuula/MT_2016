@@ -4,14 +4,15 @@ import argparse # optparse is deprecated
 from itertools import islice # slicing for iterators
 from nltk.corpus import wordnet
 import nltk
+import sys  
 
-
+reload(sys)  
+sys.setdefaultencoding('utf8')
 def findSyn(sentence):
     synlist = []
     for word in sentence:
 #     try:
-        synlist.append(word)
-        for synset in wordnet.synsets(word.decode('latin-1')):
+        for synset in wordnet.synsets(word):
             for syn in synset.lemma_names():
                 if syn.decode('utf8') not in synlist:
                     synlist.append(syn.decode('utf8'))
@@ -83,6 +84,8 @@ def findPrecisionRecall(h,e):
     synstem = []
     for word in synset:
         synstem.append(normalise(word.decode('utf8')))
+    for i in synstem:
+        e.add(i)
     for word in h:
         if normalise(word.decode('utf8')) in synstem:
             countcommon += 1
