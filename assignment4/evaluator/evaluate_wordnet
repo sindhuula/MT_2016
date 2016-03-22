@@ -69,9 +69,7 @@ def findPrecisionRecall(h,e):
     sizeh = len(h)
     sizee = len(e)
     synonyms = findSyn(e)
-    for word in h:
-        if word in synonyms:
-            countcommon += 1
+    countcommon = word_matches(h,synonyms)
     recall = countcommon/sizee
     precision = countcommon/sizeh
     return (precision,recall)
