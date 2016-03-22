@@ -119,7 +119,7 @@ def main():
         keywords_h2 = extract_key_words((' '.join(h2)).decode('utf-8'))
         keywords_ref = extract_key_words((' '.join(ref)).decode('utf-8'))
 
-        if ((len(keywords_ref) == 0) or (len(keywords_h1) == 0 and len(keywords_h2) == 0)):
+        if ((len(keywords_ref) == 0) or len(keywords_h1) == 0 or len(keywords_h2) == 0):
             rset = set(ref)
             h1_match = meteor(h1,ref,a) 
             h2_match = meteor(h2,ref,a)
@@ -132,15 +132,15 @@ def main():
             #print h2
             #print keywords_h2
 
-        elif (len(keywords_h1) == 0):
-            rset = set(ref)
-            h1_match = meteor(h1,ref,a) 
-            h2_match = meteor(keywords_h2,keywords_ref,a)
+        #elif (len(keywords_h1) == 0):
+        #    rset = set(ref)
+        #    h1_match = meteor(h1,ref,a) 
+        #    h2_match = meteor(keywords_h2,keywords_ref,a)
 
-        elif (len(keywords_h2) == 0):
-            rset = set(ref)
-            h1_match = meteor(keywords_h1,keywords_ref,a) 
-            h2_match = meteor(h2,ref,a)
+        #elif (len(keywords_h2) == 0):
+        #    rset = set(ref)
+        #    h1_match = meteor(keywords_h1,keywords_ref,a) 
+        #    h2_match = meteor(h2,ref,a)
 
         else:
          h1_match = meteor(keywords_h1,keywords_ref,a) 
