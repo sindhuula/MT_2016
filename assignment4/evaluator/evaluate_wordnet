@@ -9,17 +9,16 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 def findSyn(sentence):
+    synlist = []
     for word in sentence:
 #     try:
-        synlist = wordnet.synsets(word)
-        for synset in synlist:
+        for synset in wordnet.synsets(word):
             for syn in synset.lemma_names():
                 if syn not in synlist:
                     synlist.append(syn)
         if word not in synlist:
             synlist.append(word)
  #    except UnicodeDecodeError
-  #  print synlist
     return synlist
 def word_matches(h, ref):
     return sum(1 for w in h if w in ref)
@@ -39,17 +38,14 @@ def main():
             for pair in f:
                 yield [sentence.strip().split() for sentence in pair.split(' ||| ')]
  
-    #a = 0.1
+    a = 0.1
     for h1, h2, ref in islice(sentences(), opts.num_sentences):
         #n = n + 1
         #if n%500 == 0:
         #    print n
-        #rset = set(ref)
-        h1_syn = findSyn(h1)
-        h2_syn = findSyn(h2)
-        ref_syn = findSyn(ref)
-        h1_match = ref_syn.wup_similarity(h1_syn)
-        h2_match = ref_syn.wup_similarity(h2_syn)
+        rset = set(ref)
+        h1_match = meteor(h1,rset,a) 
+        h2_match = meteor(h2,rset,a)
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
