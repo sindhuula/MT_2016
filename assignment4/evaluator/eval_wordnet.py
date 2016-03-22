@@ -3,18 +3,16 @@ import argparse # optparse is deprecated
 from itertools import islice # slicing for iterators
 import nltk
 from nltk.corpus import wordnet
-<<<<<<< HEAD
-=======
 import sys  
 
 reload(sys)  
 sys.setdefaultencoding('utf8')
->>>>>>> e9882229994a5e8814a7d6520cbe28ddf8e81625
 
 def findSyn(sentence):
     synlist = []
     for word in sentence:
 #     try:
+        synlist.append(word)
         for synset in wordnet.synsets(word):
             for syn in synset.lemma_names():
                 if syn.decode('utf8') not in synlist:
@@ -24,13 +22,7 @@ def findSyn(sentence):
 
 def extract_key_words(text):
     keywords = []
-    sentence_re = r'''(?x)      # set flag to allow verbose regexps
-          ([A-Z])(\.[A-Z])+\.?  # abbreviations, e.g. U.S.A.
-        | \w+(-\w+)*            # words with optional internal hyphens
-        | \$?\d+(\.\d+)?%?      # currency and percentages, e.g. $12.40, 82%
-        | \.\.\.                # ellipsis
-        | [][.,;"'?():-_`]      # these are separate tokens
-    '''
+    sentence_re = r'(?:(?:[A-Z])(?:.[A-Z])+.?)|(?:\w+(?:-\w+)*)|(?:\$?\d+(?:.\d+)?%?)|(?:...|)(?:[][.,;"\'?():-_`])'
     grammar = r"""
         NBAR:
             {<NN.*|JJ>*<NN.*>}  # Nouns and Adjectives, terminated with Nouns
@@ -48,6 +40,9 @@ def extract_key_words(text):
     stopwords = stopwords.words('english')
 
 
+    lemmatizer = nltk.WordNetLemmatizer()
+    stemmer = nltk.stem.porter.PorterStemmer()
+
     def leaves(tree):
         """Finds NP (nounphrase) leaf nodes of a chunk tree."""
         for subtree in tree.subtrees(filter = lambda t: t.label()=='NP'):
@@ -56,11 +51,8 @@ def extract_key_words(text):
     def normalise(word):
         """Normalises words to lowercase."""
         word = word.lower()
-<<<<<<< HEAD
-=======
         word = stemmer.stem_word(word)
         word = lemmatizer.lemmatize(word)
->>>>>>> e9882229994a5e8814a7d6520cbe28ddf8e81625
         return word
 
     def acceptable_word(word):
@@ -109,11 +101,8 @@ def main():
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
-<<<<<<< HEAD
-        with open('result6', 'a') as f: 
-=======
-        with open('result1', 'a') as f:
->>>>>>> e9882229994a5e8814a7d6520cbe28ddf8e81625
+
+        with open('result0', 'a') as f:
             f.write("%s\n" % str(result))
     a = 0.1
 
@@ -123,14 +112,14 @@ def main():
         keywords_h2 = extract_key_words((' '.join(h2)).decode('utf-8'))
         keywords_ref = extract_key_words((' '.join(ref)).decode('utf-8'))
 
-<<<<<<< HEAD
-        if ((len(keywords_ref) == 0) or (len(keywords_h1) == 0 and len(keywords_h2) == 0)):
-=======
+
+#         if ((len(keywords_ref) == 0) or (len(keywords_h1) == 0 and len(keywords_h2) == 0)):
+
         if ((len(keywords_ref) == 0) or len(keywords_h1) == 0 or len(keywords_h2) == 0):
->>>>>>> e9882229994a5e8814a7d6520cbe28ddf8e81625
+
             rset = set(ref)
-            h1_match = meteor(h1,ref,a) 
-            h2_match = meteor(h2,ref,a)
+            h1_match = meteor(h1,rset,a) 
+            h2_match = meteor(h2,rset,a)
             
             #print "Len(keywords_h1) = 0\n"
             #print ref
@@ -140,27 +129,15 @@ def main():
             #print h2
             #print keywords_h2
 
-<<<<<<< HEAD
-        elif (len(keywords_h1) == 0):
-            rset = set(ref)
-            h1_match = meteor(h1,ref,a) 
-            h2_match = meteor(keywords_h2,keywords_ref,a)
-            
-        elif (len(keywords_h2) == 0):
-            rset = set(ref)
-            h1_match = meteor(keywords_h1,keywords_ref,a) 
-            h2_match = meteor(h2,ref,a)
-=======
         #elif (len(keywords_h1) == 0):
         #    rset = set(ref)
-        #    h1_match = meteor(h1,ref,a) 
+        #    h1_match = meteor(h1,rset,a) 
         #    h2_match = meteor(keywords_h2,keywords_ref,a)
 
         #elif (len(keywords_h2) == 0):
         #    rset = set(ref)
         #    h1_match = meteor(keywords_h1,keywords_ref,a) 
-        #    h2_match = meteor(h2,ref,a)
->>>>>>> e9882229994a5e8814a7d6520cbe28ddf8e81625
+        #    h2_match = meteor(h2,rset,a)
 
         else:
          h1_match = meteor(keywords_h1,keywords_ref,a) 
@@ -169,11 +146,8 @@ def main():
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
-<<<<<<< HEAD
-        with open('result5', 'a') as f:
-=======
-        with open('result2', 'a') as f:
->>>>>>> e9882229994a5e8814a7d6520cbe28ddf8e81625
+
+        with open('result_evalwordnet', 'a') as f:
             f.write("%s\n" % str(result))
 
 def meteor(h,e,a):

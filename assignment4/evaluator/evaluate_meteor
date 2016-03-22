@@ -33,8 +33,8 @@ def main():
     a = 0.1
     for h1, h2, ref in islice(sentences(), opts.num_sentences):
         rset = set(ref)
-        h1_match = meteor(h1,ref,a) 
-        h2_match = meteor(h2,ref,a)
+        h1_match = meteor(h1,rset,a) 
+        h2_match = meteor(h2,rset,a)
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
@@ -56,9 +56,6 @@ def findPrecisionRecall(h,e):
     for word in h:
         if word in e:
             countcommon += 1
-    #if countcommon == 0:
-     #       print h,e
-   # print countcommon,sizee,sizeh
     recall = countcommon/sizee
     precision = countcommon/sizeh
     return (precision,recall)

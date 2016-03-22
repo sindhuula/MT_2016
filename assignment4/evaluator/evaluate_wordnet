@@ -3,14 +3,21 @@ from __future__ import division
 import argparse # optparse is deprecated
 from itertools import islice # slicing for iterators
 from nltk.corpus import wordnet
+import sys  
+
+reload(sys)  
+sys.setdefaultencoding('utf8')
+
 def findSyn(sentence):
-    synlist = []
     for word in sentence:
 #     try:
-        for synset in wordnet.synsets(word.decode('latin-1')):
+        synlist = wordnet.synsets(word)
+        for synset in synlist:
             for syn in synset.lemma_names():
-                if syn.decode('utf8') not in synlist:
-                    synlist.append(syn.decode('utf8'))
+                if syn not in synlist:
+                    synlist.append(syn)
+        if word not in synlist:
+            synlist.append(word)
  #    except UnicodeDecodeError
   #  print synlist
     return synlist
@@ -32,28 +39,21 @@ def main():
             for pair in f:
                 yield [sentence.strip().split() for sentence in pair.split(' ||| ')]
  
-    # note: the -n option does not work in the original code
+    #a = 0.1
     for h1, h2, ref in islice(sentences(), opts.num_sentences):
-        rset = set(ref)
-        h1_match = word_matches(h1, rset)
-        h2_match = word_matches(h2, rset)
+        #n = n + 1
+        #if n%500 == 0:
+        #    print n
+        #rset = set(ref)
+        h1_syn = findSyn(h1)
+        h2_syn = findSyn(h2)
+        ref_syn = findSyn(ref)
+        h1_match = ref_syn.wup_similarity(h1_syn)
+        h2_match = ref_syn.wup_similarity(h2_syn)
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
-        with open('result3', 'a') as f:
-            f.write("%s\n" % str(result))
-    a = 0.1
-    for h1, h2, ref in islice(sentences(), opts.num_sentences):
-        n = n + 1
-        if n%500 == 0:
-            print n
-        rset = set(ref)
-        h1_match = meteor(h1,ref,a) 
-        h2_match = meteor(h2,ref,a)
-        result = (1 if h1_match > h2_match else # \begin{cases}
-                (0 if h1_match == h2_match
-                    else -1)) # \end{cases}
-        with open('result4', 'a') as f:
+        with open('result_sim', 'a') as f:
             f.write("%s\n" % str(result))
             
 def meteor(h,e,a):
