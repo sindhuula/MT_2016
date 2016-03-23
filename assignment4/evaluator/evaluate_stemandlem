@@ -117,12 +117,12 @@ def findPrecisionRecall(h,e):
             countcommonl += 1
         if normaliseStem(word.decode('utf8')) in synstems:
             countcommons += 1
-    recall[0] = countcommonls/sizee
-    precision[0] = countcommonls/sizeh
-    recall[1] = countcommonl/sizee
-    precision[1] = countcommonl/sizeh
-    recall[2] = countcommons/sizee
-    precision[2] = countcommons/sizeh
+    recall.append(countcommonls/sizee)
+    precision.append(countcommonls/sizeh)
+    recall.append(countcommonl/sizee)
+    precision.append(countcommonl/sizeh)
+    recall.append(countcommons/sizee)
+    precision.append(countcommons/sizeh)
     return (precision,recall)
 # convention to allow import of this file as a module
 if __name__ == '__main__':
