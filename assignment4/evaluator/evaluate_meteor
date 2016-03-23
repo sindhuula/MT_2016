@@ -28,7 +28,7 @@ def main():
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
-        with open('result1', 'a') as f:
+        with open('result_original', 'a') as f:
             f.write("%s\n" % str(result))
     a = 0.1
     for h1, h2, ref in islice(sentences(), opts.num_sentences):
@@ -38,7 +38,7 @@ def main():
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
-        with open('result2', 'a') as f:
+        with open('result_meteor', 'a') as f:
             f.write("%s\n" % str(result))
             
 def meteor(h,e,a):

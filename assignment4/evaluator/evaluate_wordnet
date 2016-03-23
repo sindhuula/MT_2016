@@ -11,14 +11,12 @@ sys.setdefaultencoding('utf8')
 def findSyn(sentence):
     synlist = []
     for word in sentence:
-#     try:
         for synset in wordnet.synsets(word):
             for syn in synset.lemma_names():
                 if syn not in synlist:
                     synlist.append(syn)
         if word not in synlist:
             synlist.append(word)
- #    except UnicodeDecodeError
     return synlist
 def word_matches(h, ref):
     return sum(1 for w in h if w in ref)
@@ -49,7 +47,7 @@ def main():
         result = (1 if h1_match > h2_match else # \begin{cases}
                 (0 if h1_match == h2_match
                     else -1)) # \end{cases}
-        with open('result_sim', 'a') as f:
+        with open('result_wordnet', 'a') as f:
             f.write("%s\n" % str(result))
             
 def meteor(h,e,a):
