@@ -3,14 +3,21 @@ import optparse
 import sys
 
 optparser = optparse.OptionParser()
-optparser.add_option("-k", "--kbest-list", dest="input", default="data/dev+test.100best", help="100-best translation lists")
+optparser.add_option("-k", "--kbest-list", dest="input", default="data/dev+test.100best.added.feats", help="100-best translation lists")
 optparser.add_option("-l", "--lm", dest="lm", default=-1.0, type="float", help="Language model weight")
 optparser.add_option("-t", "--tm1", dest="tm1", default=-0.5, type="float", help="Translation model p(e|f) weight")
 optparser.add_option("-s", "--tm2", dest="tm2", default=-0.5, type="float", help="Lexical translation model p_lex(f|e) weight")
+optparser.add_option("-w", "--wc", dest="wc", default=1.1, type="float", help="Word Count")
+optparser.add_option("-u", "--ut", dest="ut", default=-1, type="float", help="Untranslated Words")
+optparser.add_option("-m", "--mt", dest="mt", default=-1, type="float", help="Meteor Rate")
 (opts, _) = optparser.parse_args()
 weights = {'p(e)'       : float(opts.lm) ,
            'p(e|f)'     : float(opts.tm1),
-           'p_lex(f|e)' : float(opts.tm2)}
+           'p_lex(f|e)' : float(opts.tm2),
+           'wc' : float(opts.wc),
+           'ut' : float(opts.ut),
+           'mt' : float(opts.mt)
+           }
 
 all_hyps = [pair.split(' ||| ') for pair in open(opts.input)]
 num_sents = len(all_hyps) / 100
