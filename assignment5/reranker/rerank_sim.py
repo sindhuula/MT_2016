@@ -56,7 +56,7 @@ num_sents = len(all_hyps) / 100
 best_bleu = 0.0
 actual_total = []
 
-for i in range(40):
+for i in range(20):
   first_point = {'p(e)'       : random.uniform(-2,2),
                  'p(e|f)'     : random.uniform(-2,2),
                  'p_lex(f|e)' : random.uniform(-2,2),
