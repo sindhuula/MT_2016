@@ -48,6 +48,18 @@ for i in range(5):
 
   point_M = compute_midpoint(best_point[0], good_point[0], float(opts.wc))
   point_S = compute_midpoint(best_point[0], worst_point[0], float(opts.wc))
+  points = [best_point[0], point_M, point_S]
+
+  this_bleu = best_point[1]
+  if this_bleu > best_bleu:
+    best_bleu = this_bleu
+
+#sys.stderr.write(str(best_point[0])+ "\n")
+for i in best_point[2]:
+  try: 
+    sys.stdout.write("%s\n" % i)
+  except (Exception):
+    sys.exit(1)
 
 for s in xrange(0, num_sents):
   hyps_for_one_sent = all_hyps[s * 100:s * 100 + 100]
