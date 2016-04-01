@@ -86,16 +86,14 @@ for i in range(20):
     point_M = compute_midpoint(best_point[0], good_point[0], float(opts.wc), float(opts.ut),float(opts.mt))
     point_S = compute_midpoint(best_point[0], worst_point[0], float(opts.wc),float(opts.ut),float(opts.mt))
    
-    # Slight confusion with naming: best_point is actually a tuple that includes
-    # its bleu score
+
+    # update triangle w/ bleu score
     points = [best_point[0], point_M, point_S]
     
-    #this_bleu = compute_bleu(total)
     this_bleu = best_point[1]
     if this_bleu > best_bleu:
       best_bleu = this_bleu
 
-  #sys.stderr.write(str(best_point[0])+ "\n")
 for i in best_point[2]:
   try: 
     sys.stdout.write("%s\n" % i)
