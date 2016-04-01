@@ -13,26 +13,6 @@ def compute_midpoint(p1, p2, wc, ut, mt):
              }
   return midpoint
 
-def compute_reflection(pM, pW, wc, ut, mt):
-  reflection = {'p(e)' : pM['p(e)'] + (pM['p(e)']-pW['p(e)']),
-                'p(e|f)' : pM['p(e|f)'] + (pM['p(e|f)']-pW['p(e|f)']),
-                'p_lex(f|e)' : pM['p_lex(f|e)'] + (pM['p_lex(f|e)']-pW['p_lex(f|e)']),
-                'wc': wc,
-                'ut':ut,
-                'mt':mt
-}
-  return reflection
-
-def compute_extension(pM, pW, wc, ut, mt):
-  extension = {'p(e)' : pM['p(e)'] + 2.0*(pM['p(e)']-pW['p(e)']),
-                'p(e|f)' : pM['p(e|f)'] + 2.0*(pM['p(e|f)']-pW['p(e|f)']),
-                'p_lex(f|e)' : pM['p_lex(f|e)'] + 2.0*(pM['p_lex(f|e)']-pW['p_lex(f|e)']),
-                'wc': wc,
-                'ut':ut,
-                'mt':mt
-}
-  return extension
-
 def compute_bleu(hypothesis_list):
   ref = [line.strip().split() for line in open("data/dev.ref")]
   hyp = [hypothesis.strip().split() for hypothesis in hypothesis_list]
