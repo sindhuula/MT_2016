@@ -19,7 +19,8 @@ PARSER = argparse.ArgumentParser(description="Inflect a lemmatized corpus")
 PARSER.add_argument("-t", type=str, default="data/train", help="training data prefix")
 PARSER.add_argument("-l", type=str, default="lemma", help="lemma file suffix")
 PARSER.add_argument("-w", type=str, default="form", help="word file suffix")
-PARSER.add_argument("-p", type=str, default="tag", help="tag file suffix")
+PARSER.add_argument("-p", type=str, default="tag", help="tag file suffix for trainig")
+PARSER.add_argument("-pos", type=str, default="data/dtest.tag", help="tag file suffix for dev/test")
 args = PARSER.parse_args()
 
 # Python sucks at UTF-8
@@ -45,12 +46,13 @@ def best_inflection(prev,lemma,tag):
     return inflections(prev,lemma,tag)[0]
 
 if __name__ == '__main__':
-
+    # Build a model on the trainig data
     LEMMAS = defaultdict(defaultdict)
     if args.t:
         def utf8read(file): return codecs.open(file, 'r', 'utf-8')
         for words, lemmas, tags in izip(utf8read(combine(args.t, args.w)), utf8read(combine(args.t, args.l)), utf8read(combine(args.t, args.p))):
             prev = "<start>"
+            #Build the lemmas
             for word, lemma, tag in izip(words.rstrip().split(), lemmas.rstrip().split(), tags.rstrip().split()):
                 LEMMAS[lemma][word] = LEMMAS[lemma].get(word,0) + 1
                 LEMMAS[combine(lemma,tag)][word] = LEMMAS[combine(lemma,tag)].get(word,0) + 1
@@ -58,7 +60,7 @@ if __name__ == '__main__':
                 LEMMAS[combine3(prev,lemma,tag)][word] = LEMMAS[combine3(prev,lemma,tag)].get(word,0) + 1
                 prev = lemma
    # Choose the most common inflection for each word and output them as a sentence
-    pos_file = [line.rstrip() for line in utf8read("data/dtest.tag")]
+    pos_file = [line.rstrip() for line in utf8read(args.pos)]
     index = 0
     for line in sys.stdin:
         prev = "<start>"
