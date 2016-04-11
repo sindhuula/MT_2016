@@ -32,12 +32,16 @@ def combine(a, b): return '%s.%s' % (a, b)
 def combine3(a, b, c): return '%s.%s.%s' % (a, b, c)
     
 def inflections(prev,lemma,tag):
+    # Lemma for bigram tags
     if LEMMAS.has_key(combine3(prev,lemma,tag)):
         return sorted(LEMMAS[combine3(prev,lemma,tag)].keys(), lambda x,y: cmp(LEMMAS[combine3(prev,lemma,tag)][y], LEMMAS[combine3(prev,lemma,tag)][x]))
+    # Lemma for unigram tags
     elif LEMMAS.has_key(combine(lemma,tag)):
         return sorted(LEMMAS[combine(lemma,tag)].keys(), lambda x,y: cmp(LEMMAS[combine(lemma,tag)][y], LEMMAS[combine(lemma,tag)][x]))
+    # Lemma for bigram ccounts
     elif LEMMAS.has_key(combine(prev,lemma)):
         return sorted(LEMMAS[combine(prev,lemma)].keys(), lambda x,y: cmp(LEMMAS[combine(prev,lemma)][y], LEMMAS[combine(prev,lemma)][x]))
+    # Lemma for unigram ccounts
     elif LEMMAS.has_key(lemma):
         return sorted(LEMMAS[lemma].keys(), lambda x,y: cmp(LEMMAS[lemma][y], LEMMAS[lemma][x]))
     return [lemma]
@@ -51,25 +55,33 @@ if __name__ == '__main__':
     if args.t:
         def utf8read(file): return codecs.open(file, 'r', 'utf-8')
         for words, lemmas, tags in izip(utf8read(combine(args.t, args.w)), utf8read(combine(args.t, args.l)), utf8read(combine(args.t, args.p))):
-            prev = "<start>"
+            prev = "<BOS>"
             #Build the lemmas
-            for word, lemma, tag in izip(words.rstrip().split(), lemmas.rstrip().split(), tags.rstrip().split()):
+            word_dict = words.rstrip().lower().split()
+            lemma_dict = lemmas.rstrip().lower().split()
+            tag_dict = tags.rstrip().lower().split()
+            for word, lemma, tag in izip(word_dict, lemma_dict, tag_dict):
                 LEMMAS[lemma][word] = LEMMAS[lemma].get(word,0) + 1
                 LEMMAS[combine(lemma,tag)][word] = LEMMAS[combine(lemma,tag)].get(word,0) + 1
                 LEMMAS[combine(prev,lemma)][word] = LEMMAS[combine(prev,lemma)].get(word,0) + 1
                 LEMMAS[combine3(prev,lemma,tag)][word] = LEMMAS[combine3(prev,lemma,tag)].get(word,0) + 1
                 prev = lemma
+
    # Choose the most common inflection for each word and output them as a sentence
     pos_file = [line.rstrip() for line in utf8read(args.pos)]
     index = 0
     for line in sys.stdin:
-        prev = "<start>"
-        prev_pos = "<start>"
-        pos_line = pos_file[index].split()
-        final = []
-        for x in line.rstrip().split():
+        prev = "<BOS>"
+        prev_pos = "<BOS>"
+        pos_line = pos_file[index].lower().split()
+        result = ""
+        for word in line.rstrip().lower().split():
             pos = pos_line.pop()
-            final.append(best_inflection(prev,x,pos))
-            prev = x
-        print ' '.join(final)
+            res_word2 = best_inflection(prev,word,pos)
+            if (result == ""):
+                result = res_word2
+            else:
+             result = result+' '+res_word2
+            prev = word
+        print result
         index += 1
