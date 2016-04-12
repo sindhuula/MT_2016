@@ -3,7 +3,6 @@
 """
 Outputs a fully inflected version of a lemmatized test set (provided on STDIN). 
 If training data is provided, it will use a unigram model to select the form.
-
 usage: cat LEMMA_FILE | python inflect
        [-t TRAINING_PREFIX] [-l LEMMA_SUFFIX] [-w WORD_SUFFIX]
 """
@@ -20,7 +19,7 @@ PARSER.add_argument("-t", type=str, default="data/train", help="training data pr
 PARSER.add_argument("-l", type=str, default="lemma", help="lemma file suffix")
 PARSER.add_argument("-w", type=str, default="form", help="word file suffix")
 PARSER.add_argument("-p", type=str, default="tag", help="tag file suffix for trainig")
-PARSER.add_argument("-pos", type=str, default="data/dtest.tag", help="tag file suffix for dev/test")
+PARSER.add_argument("-d", type=str, default="data/dtest", help="tag file suffix for dev/test")
 args = PARSER.parse_args()
 
 # Python sucks at UTF-8
@@ -67,21 +66,16 @@ if __name__ == '__main__':
                 LEMMAS[combine3(prev,lemma,tag)][word] = LEMMAS[combine3(prev,lemma,tag)].get(word,0) + 1
                 prev = lemma
 
-   # Choose the most common inflection for each word and output them as a sentence
-    pos_file = [line.rstrip() for line in utf8read(args.pos)]
+    # Choose the most common inflection for each word and output them as a sentence
+    pos_file = [line.rstrip() for line in utf8read(combine(args.d,args.p))]
     index = 0
     for line in sys.stdin:
         prev = "<BOS>"
-        prev_pos = "<BOS>"
         pos_line = pos_file[index].lower().split()
-        result = ""
+        result = []
         for word in line.rstrip().lower().split():
             pos = pos_line.pop()
-            res_word2 = best_inflection(prev,word,pos)
-            if (result == ""):
-                result = res_word2
-            else:
-             result = result+' '+res_word2
+            result.append(best_inflection(prev,word,pos))
             prev = word
-        print result
+        print ' '.join(result)
         index += 1
