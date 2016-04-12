@@ -47,7 +47,7 @@ def inflections(prev,lemma,tag):
 
 def best_inflection(prev,lemma,tag):
     return inflections(prev,lemma,tag)[0]
-
+   
 if __name__ == '__main__':
     # Build a model on the trainig data
     LEMMAS = defaultdict(defaultdict)
