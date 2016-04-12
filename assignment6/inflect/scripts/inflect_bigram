@@ -27,12 +27,12 @@ sys.stdin = codecs.getreader('utf-8')(sys.stdin)
 
 def combine(a, b): return '%s.%s' % (a, b)
 
-def inflections(prev, lemma):
-    if LEMMAS.has_key(combine(prev,lemma)):
-        return sorted(LEMMAS[combine(prev,lemma)].keys(), lambda x,y: cmp(LEMMAS[combine(prev,lemma)][y], LEMMAS[combine(prev,lemma)][x]))
-    elif LEMMAS.has_key(lemma):
-        return sorted(LEMMAS[lemma].keys(), lambda x,y: cmp(LEMMAS[lemma][y], LEMMAS[lemma][x]))
-    return [lemma]
+def inflections(lemma1,lemma2):
+    if LEMMAS.has_key(combine(lemma1,lemma2)):
+        return sorted(LEMMAS[combine(lemma1,lemma2)].keys(), lambda x,y: cmp(LEMMAS[combine(lemma1,lemma2)][y], LEMMAS[combine(lemma1,lemma2)][x]))
+    elif LEMMAS.has_key(lemma2):
+        return sorted(LEMMAS[lemma2].keys(), lambda x,y: cmp(LEMMAS[lemma2][y], LEMMAS[lemma2][x]))
+    return [lemma2]
     
 def best_inflection(lemma1,lemma2):
     return inflections(lemma1,lemma2)[0]
