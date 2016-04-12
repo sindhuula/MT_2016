@@ -1,0 +1,54 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+Outputs a fully inflected version of a lemmatized test set (provided on STDIN). 
+If training data is provided, it will use a unigram model to select the form.
+
+usage: cat LEMMA_FILE | python inflect
+       [-t TRAINING_PREFIX] [-l LEMMA_SUFFIX] [-w WORD_SUFFIX]
+"""
+
+import argparse
+import codecs
+import sys
+import os
+from collections import defaultdict
+from itertools import izip
+
+PARSER = argparse.ArgumentParser(description="Inflect a lemmatized corpus")
+PARSER.add_argument("-t", type=str, default="data/train", help="training data prefix")
+PARSER.add_argument("-l", type=str, default="lemma", help="lemma file suffix")
+args = PARSER.parse_args()
+
+# Python sucks at UTF-8
+sys.stdout = codecs.getwriter('utf-8')(sys.stdout) 
+sys.stdin = codecs.getreader('utf-8')(sys.stdin) 
+
+def combine(a, b): return '%s.%s' % (a, b)
+
+if __name__ == '__main__':
+
+    # Build a simple unigram model on the training data
+    LEMMAS = defaultdict(int)
+    if args.t:
+        def utf8read(file): return codecs.open(file, 'r', 'utf-8')
+        for lemmas in izip(utf8read(combine(args.t, args.l))):
+            prev = "<BOS>"
+            lemma_dict = lemmas.rstrip().lower().split()
+            for lemma in izip(lemma_dict):
+                LEMMAS[lemma] = LEMMAS[lemma] + 1
+                LEMMAS[combine(prev,lemma)] = LEMMAS[combine(prev,lemma)] + 1
+                prev = lemma
+
+    # Choose the most common inflection for each word and output them as a sentence
+    for line in sys.stdin:
+        prev = "<BOS>"
+        result = []
+        #words = line.rstrip().lower().split()
+        for word in line.rstrip().lower().split():
+            if combine(prev,word) in LEMMAS:
+                result.append(word)
+            elif word in LEMMAS:
+                result.append(word)
+            prev = word
+        print ' '.join(result)

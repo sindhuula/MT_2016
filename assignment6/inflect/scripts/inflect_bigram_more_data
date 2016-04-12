@@ -1,0 +1,78 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+Outputs a fully inflected version of a lemmatized test set (provided on STDIN). 
+If training data is provided, it will use a unigram model to select the form.
+
+usage: cat LEMMA_FILE | python inflect
+       [-t TRAINING_PREFIX] [-l LEMMA_SUFFIX] [-w WORD_SUFFIX]
+"""
+
+import argparse
+import codecs
+import sys
+import os
+from collections import defaultdict
+from itertools import izip
+
+PARSER = argparse.ArgumentParser(description="Inflect a lemmatized corpus")
+PARSER.add_argument("-t", type=str, default="data/train", help="training data prefix")
+PARSER.add_argument("-e", type=str, default="data/dtest", help="extra data")
+PARSER.add_argument("-l", type=str, default="lemma", help="lemma file suffix")
+PARSER.add_argument("-w", type=str, default="form", help="word file suffix")
+args = PARSER.parse_args()
+
+# Python sucks at UTF-8
+sys.stdout = codecs.getwriter('utf-8')(sys.stdout) 
+sys.stdin = codecs.getreader('utf-8')(sys.stdin) 
+
+def combine(a, b): return '%s.%s' % (a, b)
+
+def inflections(lemma1,lemma2):
+    if LEMMAS.has_key(combine(lemma1,lemma2)):
+        return sorted(LEMMAS[combine(lemma1,lemma2)].keys(), lambda x,y: cmp(LEMMAS[combine(lemma1,lemma2)][y], LEMMAS[combine(lemma1,lemma2)][x]))
+    elif LEMMAS.has_key(lemma2):
+        return sorted(LEMMAS[lemma2].keys(), lambda x,y: cmp(LEMMAS[lemma2][y], LEMMAS[lemma2][x]))
+    return [lemma2]
+    
+def best_inflection(lemma1,lemma2):
+    return inflections(lemma1,lemma2)[0]
+if __name__ == '__main__':
+
+    # Build a simple unigram model on the training data
+    LEMMAS = defaultdict(defaultdict)
+    if args.t:
+        def utf8read(file): return codecs.open(file, 'r', 'utf-8')
+        # Build the LEMMAS hash, a two-level dictionary mapping lemmas to inflections to counts
+        for words, lemmas in izip(utf8read(combine(args.t, args.w)), utf8read(combine(args.t, args.l))):
+            #for word1, lemma in izip(words.rstrip().lower().split(), lemmas.rstrip().lower().split()):
+            prev = "<BOS>"
+            word_dict = words.rstrip().lower().split()
+            lemma_dict = lemmas.rstrip().lower().split()
+            for word, lemma in izip(word_dict, lemma_dict):
+                LEMMAS[lemma][word] = LEMMAS[lemma].get(word,0) + 1
+                LEMMAS[combine(prev,lemma)][word] = LEMMAS[combine(prev,lemma)].get(word,0) + 1
+                prev = lemma
+        for words, lemmas in izip(utf8read(combine(args.e, args.w)), utf8read(combine(args.e, args.l))):
+            #for word1, lemma in izip(words.rstrip().lower().split(), lemmas.rstrip().lower().split()):
+            prev = "<BOS>"
+            word_dict = words.rstrip().lower().split()
+            lemma_dict = lemmas.rstrip().lower().split()
+            for word, lemma in izip(word_dict, lemma_dict):
+                LEMMAS[lemma][word] = LEMMAS[lemma].get(word,0) + 1
+                LEMMAS[combine(prev,lemma)][word] = LEMMAS[combine(prev,lemma)].get(word,0) + 1
+                prev = lemma
+
+    # Choose the most common inflection for each word and output them as a sentence
+    for line in sys.stdin:
+        prev = "<BOS>"
+        result = ""
+        #words = line.rstrip().lower().split()
+        for word in line.rstrip().lower().split():
+            res_word2 = best_inflection(prev,word)
+            if (result == ""):
+                result = res_word2
+            else:
+             result = result+' '+res_word2
+            prev = word
+        print result
