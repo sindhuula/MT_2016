@@ -29,19 +29,19 @@ args = PARSER.parse_args()
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout) 
 sys.stdin = codecs.getreader('utf-8')(sys.stdin)
 
-_DPBACKOFF
+_DPBACKOFF = ""
 _DPNGRAMS = set()
 # model for DP_model
-_DPMODEL
+_DPMODEL = ""
 
 
 def combine(a, b): return '%s.%s' % (a, b)
 
 # Katz Backoff probability
-def prob(model, backoff, ngrams, n, word, context):
+def prob(model, backoff, ngrams, n, word, _context):
     '''Evaluate the probability of this word in this context.'''
 
-    context = tuple(context)
+    context = tuple(_context)
     if context + (word,) in ngrams:
         return model[context].prob(word)
     elif n > 1:
@@ -62,7 +62,7 @@ def _beta(model, tokens):
 def inflect(testing_prefix, dp_weight=0.5):
     lr_weight = 1 - dp_weight
     inflected = []
-    for lemma_line tree_line in izip(utf8read(combine(args.t, args.l)), utf8read(combine(args.t, args.tr))):
+    for lemma_line, tree_line in izip(utf8read(combine(args.t, args.l)), utf8read(combine(args.t, args.tr))):
         l_sentence = lemma_line.rstrip().lower().split()
         tree = DepTree(tree_line)
         bgrams = dep_bigram(2, l_sentence, l_sentence, tree)
@@ -75,11 +75,11 @@ def inflect(testing_prefix, dp_weight=0.5):
             best_form = None
             best_score = float('-inf')
             for form in LEMMAS[lemma]:
-                if prev = "<BOS>":
+                if prev == "<BOS>":
                       context = ['']
                 else:
                     context = ['{}~{}'.format(last_lemma, forms[-1])]
-                score = dp_weight*prob(_DPMODEL, _DPBACKOFF, _DPNGRAMS, 2, dep_ngram[:-1]))
+                score = dp_weight*prob(_DPMODEL, _DPBACKOFF, _DPNGRAMS, 2, form, dep[:-1])
                 if score > best_score:
                         best_form = form
                         best_score = score
@@ -109,20 +109,21 @@ def dep_bigram(n, l_sentence, f_sentence, tree):
         # Pad the *n*-gram to the right length.
         ngram = ('',) * (n - len(ngram)) + tuple(ngram)
         yield ngram
+def lidstone(gamma):
+     return lambda fd, bins: LidstoneProbDist(fd, gamma, bins)
 
 def dependencybigram(n, lms, wds, trs):
-    estimator = LidstoneProbDist(.2)
-    cfd = ConditionalFreqDist()
-
+    estimator = lidstone(.2)
+    cfd = ""
     for lm, wd, tr in izip(lms, wds, trs):
         for bgram in dep_bigram(n, lm, wd, tr):
             _DPNGRAMS.add(bgram)
-            #context = bgram[:-1]
-            #token = bgram[-1]
-            cfd[bgram[:-1]].inc(bgram[-1])
+            context = bgram[:-1]
+            token = bgram[-1]
+            cfd = ConditionalFreqDist(context, token)
     _DPMODEL = ConditionalProbDist(cfd, estimator, len(cfd))
     if n > 1:
-        _DPBACKOFF = dependencybigram(n - 1, lms, wrds, trs)
+        _DPBACKOFF = dependencybigram(n - 1, lms, wds, trs)
 
 if __name__ == '__main__':
 
@@ -156,5 +157,5 @@ if __name__ == '__main__':
         result = ""
         dp_weight= 0.5
         #words = line.rstrip().lower().split()
-        for sentence in inflect(line.rstrip().lower().split(), dp_weight):
-            print sentence.encode('utf-8')
+       # for sentence in inflect(line.rstrip().lower().split(), dp_weight):
+       #     print sentence.encode('utf-8')
