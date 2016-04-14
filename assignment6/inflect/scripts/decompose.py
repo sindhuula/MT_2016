@@ -38,29 +38,15 @@ _DPMODEL = ""
 def combine(a, b): return '%s.%s' % (a, b)
 
 # Katz Backoff probability
-def prob(model, backoff, ngrams, n, word, _context):
-    '''Evaluate the probability of this word in this context.'''
+def prob(prev, word, lemma, total, totalbi):
+    uniprob = LEMMAS[lemma][word]/total
+    if LEMMAS.has_key(combine(prev,lemma)):
+        biprob = LEMMAS[combine(prev,lemma)][word]/totalbi
+        if biprob > uniprob:
+             return biprob
+    return uniprob
 
-    context = tuple(_context)
-    if context + (word,) in ngrams:
-        return model[context].prob(word)
-    elif n > 1:
-        return _alpha(context, model) * backoff.prob(word, context[:-1])
-    else:
-        raise RuntimeError("No probability mass assigned to word %s in context %s" % (word, ' '.join(context))) 
-
-def _alpha(tokens, model):
-        return _beta(model, tokens) / backoff._beta(tokens[:-1])
-
-def _beta(model, tokens):
-        if tokens in model:
-            return model[tokens].discount()
-        else:
-            return 1
-
-
-def inflect(testing_prefix, dp_weight=0.5):
-    lr_weight = 1 - dp_weight
+def inflect(testing_prefix, total, totalbi):
     inflected = []
     for lemma_line, tree_line in izip(utf8read(combine(args.t, args.l)), utf8read(combine(args.t, args.tr))):
         l_sentence = lemma_line.rstrip().lower().split()
@@ -75,7 +61,7 @@ def inflect(testing_prefix, dp_weight=0.5):
             best_form = None
             best_score = float('-inf')
             for form in LEMMAS[lemma]:
-                score = prob(prev, form, lemma)
+                score = prob(prev, form, lemma, total, totalbi)
                 if score > best_score:
                         best_form = form
                         best_score = score
@@ -131,6 +117,8 @@ if __name__ == '__main__':
     LEMMAS = defaultdict(defaultdict)
     total_lms = []
     total_wds = []
+    total = 0
+    totalbi = 0
     tree = []
     if args.t:
         def utf8read(file): return codecs.open(file, 'r', 'utf-8')
@@ -141,20 +129,22 @@ if __name__ == '__main__':
             word_dict = words.rstrip().lower().split()
             lemma_dict = lemmas.rstrip().lower().split()
             curr = []
+            totalbi +=1
             for word, lemma in izip(word_dict, lemma_dict):
+                total += 1
                 LEMMAS[lemma][word] = LEMMAS[lemma].get(word,0) + 1
                 LEMMAS[combine(prev,lemma)][word] = LEMMAS[combine(prev,lemma)].get(word,0) + 1
                 prev = lemma
             total_lms.append(lemma_dict)
             total_wds.append(word_dict)
             tree.append(DepTree(trees))
+        totalbi = total - totalbi
     dependencybigram(2, total_lms, total_wds, tree)
 
     # Choose the most common inflection for each word and output them as a sentence
     for line in sys.stdin:
         prev = "<BOS>"
         result = ""
-        dp_weight= 0.5
         #words = line.rstrip().lower().split()
-        for sentence in inflect(line.rstrip().lower().split(), dp_weight):
+        for sentence in inflect(line.rstrip().lower().split(), total, totalbi):
             print sentence.encode('utf-8')
