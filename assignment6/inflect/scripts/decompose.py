@@ -75,11 +75,7 @@ def inflect(testing_prefix, dp_weight=0.5):
             best_form = None
             best_score = float('-inf')
             for form in LEMMAS[lemma]:
-                if prev == "<BOS>":
-                      context = ['']
-                else:
-                    context = ['{}~{}'.format(last_lemma, forms[-1])]
-                score = dp_weight*prob(_DPMODEL, _DPBACKOFF, _DPNGRAMS, 2, form, dep[:-1])
+                score = prob(prev, form, lemma)
                 if score > best_score:
                         best_form = form
                         best_score = score
@@ -112,15 +108,18 @@ def dep_bigram(n, l_sentence, f_sentence, tree):
 def lidstone(gamma):
      return lambda fd, bins: LidstoneProbDist(fd, gamma, bins)
 
+def lidstone_estimator(fdist, bins):
+    return LidstoneProbDist(fdist, 0.2)
+
 def dependencybigram(n, lms, wds, trs):
-    estimator = lidstone(.2)
-    cfd = ""
+    estimator = lidstone_estimator
+    cfd = ConditionalFreqDist()
     for lm, wd, tr in izip(lms, wds, trs):
         for bgram in dep_bigram(n, lm, wd, tr):
             _DPNGRAMS.add(bgram)
             context = bgram[:-1]
             token = bgram[-1]
-            cfd = ConditionalFreqDist(context, token)
+            cfd[context][token] += 1
     _DPMODEL = ConditionalProbDist(cfd, estimator, len(cfd))
     if n > 1:
         _DPBACKOFF = dependencybigram(n - 1, lms, wds, trs)
@@ -157,5 +156,5 @@ if __name__ == '__main__':
         result = ""
         dp_weight= 0.5
         #words = line.rstrip().lower().split()
-       # for sentence in inflect(line.rstrip().lower().split(), dp_weight):
-       #     print sentence.encode('utf-8')
+        for sentence in inflect(line.rstrip().lower().split(), dp_weight):
+            print sentence.encode('utf-8')
