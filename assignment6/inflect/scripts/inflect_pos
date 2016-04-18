@@ -31,7 +31,7 @@ def combine(a, b): return '%s.%s' % (a, b)
 def combine3(a, b, c): return '%s.%s.%s' % (a, b, c)
     
 def inflections(prev,lemma,tag):
-    # Lemma for trigram ccounts
+    # Lemma for trigram counts
     if LEMMAS.has_key(combine3(prev_prev,prev,lemma)):
         return sorted(LEMMAS[combine3(prev_prev,prev,lemma)].keys(), lambda x,y: cmp(LEMMAS[combine3(prev_prev,prev,lemma)][y], LEMMAS[combine3(prev_prev,prev,lemma)][x]))
    # Lemma for bigram ccounts
@@ -40,7 +40,7 @@ def inflections(prev,lemma,tag):
     # Lemma for POS tags
     elif LEMMAS.has_key(combine(lemma,tag)):
         return sorted(LEMMAS[combine(lemma,tag)].keys(), lambda x,y: cmp(LEMMAS[combine(lemma,tag)][y], LEMMAS[combine(lemma,tag)][x]))
-    # Lemma for unigram ccounts
+    # Lemma for unigram counts
     elif LEMMAS.has_key(lemma):
         return sorted(LEMMAS[lemma].keys(), lambda x,y: cmp(LEMMAS[lemma][y], LEMMAS[lemma][x]))
     return [lemma]
@@ -61,9 +61,13 @@ if __name__ == '__main__':
             lemma_dict = lemmas.rstrip().lower().split()
             tag_dict = tags.rstrip().lower().split()
             for word, lemma, tag in izip(word_dict, lemma_dict, tag_dict):
+                # Unigram model
                 LEMMAS[lemma][word] = LEMMAS[lemma].get(word,0) + 1
+                # Unigrams with tags
                 LEMMAS[combine(lemma,tag)][word] = LEMMAS[combine(lemma,tag)].get(word,0) + 1
+                # Bigram model
                 LEMMAS[combine(prev,lemma)][word] = LEMMAS[combine(prev,lemma)].get(word,0) + 1
+                # Trigram model
                 LEMMAS[combine3(prev_prev,prev,lemma)][word] = LEMMAS[combine3(prev_prev,prev,lemma)].get(word,0) + 1
                 prev_prev = prev
                 prev = lemma
