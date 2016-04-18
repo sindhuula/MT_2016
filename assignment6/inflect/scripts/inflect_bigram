@@ -28,10 +28,13 @@ sys.stdin = codecs.getreader('utf-8')(sys.stdin)
 def combine(a, b): return '%s.%s' % (a, b)
 
 def inflections(lemma1,lemma2):
+
     if LEMMAS.has_key(combine(lemma1,lemma2)):
         return sorted(LEMMAS[combine(lemma1,lemma2)].keys(), lambda x,y: cmp(LEMMAS[combine(lemma1,lemma2)][y], LEMMAS[combine(lemma1,lemma2)][x]))
+
     elif LEMMAS.has_key(lemma2):
         return sorted(LEMMAS[lemma2].keys(), lambda x,y: cmp(LEMMAS[lemma2][y], LEMMAS[lemma2][x]))
+
     return [lemma2]
     
 def best_inflection(lemma1,lemma2):
@@ -40,15 +43,18 @@ if __name__ == '__main__':
 
     # Build a simple unigram model on the training data
     LEMMAS = defaultdict(defaultdict)
+    totalWords = 0
+    totalBigrams = 0
     if args.t:
         def utf8read(file): return codecs.open(file, 'r', 'utf-8')
         # Build the LEMMAS hash, a two-level dictionary mapping lemmas to inflections to counts
         for words, lemmas in izip(utf8read(combine(args.t, args.w)), utf8read(combine(args.t, args.l))):
-            #for word1, lemma in izip(words.rstrip().lower().split(), lemmas.rstrip().lower().split()):
             prev = "<BOS>"
             word_dict = words.rstrip().lower().split()
             lemma_dict = lemmas.rstrip().lower().split()
             for word, lemma in izip(word_dict, lemma_dict):
+                totalWords += 1
+                totalBigrams += 1
                 LEMMAS[lemma][word] = LEMMAS[lemma].get(word,0) + 1
                 LEMMAS[combine(prev,lemma)][word] = LEMMAS[combine(prev,lemma)].get(word,0) + 1
                 prev = lemma
@@ -56,13 +62,8 @@ if __name__ == '__main__':
     # Choose the most common inflection for each word and output them as a sentence
     for line in sys.stdin:
         prev = "<BOS>"
-        result = ""
-        #words = line.rstrip().lower().split()
+        result = []
         for word in line.rstrip().lower().split():
-            res_word2 = best_inflection(prev,word)
-            if (result == ""):
-                result = res_word2
-            else:
-             result = result+' '+res_word2
+            result.append(best_inflection(prev,word))
             prev = word
-        print result
+        print ' '.join(result)

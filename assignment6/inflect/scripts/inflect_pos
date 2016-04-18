@@ -3,7 +3,6 @@
 """
 Outputs a fully inflected version of a lemmatized test set (provided on STDIN). 
 If training data is provided, it will use a unigram model to select the form.
-
 usage: cat LEMMA_FILE | python inflect
        [-t TRAINING_PREFIX] [-l LEMMA_SUFFIX] [-w WORD_SUFFIX]
 """
@@ -19,6 +18,8 @@ PARSER = argparse.ArgumentParser(description="Inflect a lemmatized corpus")
 PARSER.add_argument("-t", type=str, default="data/train", help="training data prefix")
 PARSER.add_argument("-l", type=str, default="lemma", help="lemma file suffix")
 PARSER.add_argument("-w", type=str, default="form", help="word file suffix")
+PARSER.add_argument("-p", type=str, default="tag", help="tag file suffix for trainig")
+PARSER.add_argument("-d", type=str, default="data/dtest", help="tag file suffix for dev/test")
 args = PARSER.parse_args()
 
 # Python sucks at UTF-8
@@ -26,46 +27,59 @@ sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
 sys.stdin = codecs.getreader('utf-8')(sys.stdin) 
 
 def combine(a, b): return '%s.%s' % (a, b)
-def combine3(a,b,c): return '%s.%s.%s' %(a,b,c)
-def inflections(prev_prev,prev, lemma):
+
+def combine3(a, b, c): return '%s.%s.%s' % (a, b, c)
+    
+def inflections(prev,lemma,tag):
+    # Lemma for trigram ccounts
     if LEMMAS.has_key(combine3(prev_prev,prev,lemma)):
         return sorted(LEMMAS[combine3(prev_prev,prev,lemma)].keys(), lambda x,y: cmp(LEMMAS[combine3(prev_prev,prev,lemma)][y], LEMMAS[combine3(prev_prev,prev,lemma)][x]))
+   # Lemma for bigram ccounts
     elif LEMMAS.has_key(combine(prev,lemma)):
         return sorted(LEMMAS[combine(prev,lemma)].keys(), lambda x,y: cmp(LEMMAS[combine(prev,lemma)][y], LEMMAS[combine(prev,lemma)][x]))
+    # Lemma for POS tags
+    elif LEMMAS.has_key(combine(lemma,tag)):
+        return sorted(LEMMAS[combine(lemma,tag)].keys(), lambda x,y: cmp(LEMMAS[combine(lemma,tag)][y], LEMMAS[combine(lemma,tag)][x]))
+    # Lemma for unigram ccounts
     elif LEMMAS.has_key(lemma):
         return sorted(LEMMAS[lemma].keys(), lambda x,y: cmp(LEMMAS[lemma][y], LEMMAS[lemma][x]))
     return [lemma]
-    
-def best_inflection(lemma1,lemma2,lemma3):
-    return inflections(lemma1,lemma2,lemma3)[0]
-if __name__ == '__main__':
 
-    # Build a simple unigram model on the training data
+def best_inflection(prev,lemma,tag):
+    return inflections(prev,lemma,tag)[0]
+   
+if __name__ == '__main__':
+    # Build a model on the trainig data
     LEMMAS = defaultdict(defaultdict)
     if args.t:
         def utf8read(file): return codecs.open(file, 'r', 'utf-8')
-        # Build the LEMMAS hash, a two-level dictionary mapping lemmas to inflections to counts
-        for words, lemmas in izip(utf8read(combine(args.t, args.w)), utf8read(combine(args.t, args.l))):
-            #for word1, lemma in izip(words.rstrip().lower().split(), lemmas.rstrip().lower().split()):
+        for words, lemmas, tags in izip(utf8read(combine(args.t, args.w)), utf8read(combine(args.t, args.l)), utf8read(combine(args.t, args.p))):
             prev = "<BOS>"
             prev_prev = "<BOS>"
+            #Build the lemmas
             word_dict = words.rstrip().lower().split()
             lemma_dict = lemmas.rstrip().lower().split()
-            for word, lemma in izip(word_dict, lemma_dict):
+            tag_dict = tags.rstrip().lower().split()
+            for word, lemma, tag in izip(word_dict, lemma_dict, tag_dict):
                 LEMMAS[lemma][word] = LEMMAS[lemma].get(word,0) + 1
+                LEMMAS[combine(lemma,tag)][word] = LEMMAS[combine(lemma,tag)].get(word,0) + 1
                 LEMMAS[combine(prev,lemma)][word] = LEMMAS[combine(prev,lemma)].get(word,0) + 1
                 LEMMAS[combine3(prev_prev,prev,lemma)][word] = LEMMAS[combine3(prev_prev,prev,lemma)].get(word,0) + 1
                 prev_prev = prev
                 prev = lemma
 
     # Choose the most common inflection for each word and output them as a sentence
+    pos_file = [line.rstrip() for line in utf8read(combine(args.d,args.p))]
+    index = 0
     for line in sys.stdin:
         prev = "<BOS>"
-        prev_prev = "<BOS>"
+        prev_prev= "<BOS>"
+        pos_line = pos_file[index].lower().split()
         result = []
-        #words = line.rstrip().lower().split()
         for word in line.rstrip().lower().split():
-            result.append(best_inflection(prev_prev,prev,word))
+            pos = pos_line.pop()
+            result.append(best_inflection(prev,word,pos))
             prev_prev = prev
             prev = word
         print ' '.join(result)
+        index += 1
