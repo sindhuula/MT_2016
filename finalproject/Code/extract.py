@@ -6,7 +6,6 @@ import openpyxl
 import sys
 
 wb = openpyxl.load_workbook("sample.xlsx")
-print wb.get_sheet_names()
 parsed = wb.get_sheet_by_name('first_1000')
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
 sys.stdin = codecs.getreader('utf-8')(sys.stdin)
@@ -61,8 +60,7 @@ if __name__ == '__main__':
                 if word != None:
                     if (type(word) == long) | (type(word) == float) | (type(word) == int):
                         word = unicode(str(word),"utf-8")
-                    else:
-                        string.append(word)#unicode(word,"utf-8"))
+                    string.append(word)#unicode(word,"utf-8"))
                 if tags in subjects:
                         if flags[0] == False:
                             order.append("S")
