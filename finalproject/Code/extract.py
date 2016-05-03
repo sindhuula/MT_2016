@@ -4,7 +4,7 @@ import codecs
 from collections import defaultdict
 import openpyxl
 import sys
-
+import random
 wb = openpyxl.load_workbook("sample.xlsx")
 parsed = wb.get_sheet_by_name('first_1000')
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
@@ -73,6 +73,7 @@ if __name__ == '__main__':
                         if flags[2] == False:
                             order.append("V")
                             flags[2] = True
+    '''
     print sentence_no
     print "SVO:",len(SVO),SVO
     print "SOV",len(SOV),SOV
@@ -81,4 +82,30 @@ if __name__ == '__main__':
     print "OSV",len(OSV),OSV
     print "OVS",len(OVS),OVS
     print "other",len(other)
-    print sentences
+    '''
+'''
+    for sentence in sentences:
+        print sentence, sentences[sentence]
+'''
+nos = []
+for i in range(100):
+    n = random.choice(SOV)
+    if n not in nos:
+        nos.append(n)
+        print n,"\t",sentences[n]
+    n = random.choice(VSO)
+    if n not in nos:
+        nos.append(n)
+        print n,"\t",sentences[n]
+    n = random.choice(VOS)
+    if n not in nos:
+        nos.append(n)
+        print n,"\t",sentences[n]
+    n = random.choice(OSV)
+    if n not in nos:
+        nos.append(n)
+        print n,"\t",sentences[n]
+    if n not in nos:
+        nos.append(n)
+        print n,"\t",sentences[n]
+

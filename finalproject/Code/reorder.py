@@ -8,7 +8,6 @@ import openpyxl
 import argparse
 import codecs
 import sys
-import os
 from collections import defaultdict
 from itertools import izip, islice
 
@@ -54,8 +53,8 @@ if __name__ == '__main__':
         #Training Section
         #Incorrect_ordering = word, dep_tag pair
         #Correct ordering = word, dep_tag pair
-        wb = openpyxl.load_workbook(combine(args.t,args.p))
-        parsed = wb.get_sheet_by_name('first_1000')
+        wb = openpyxl.load_workbook(args.p)
+        parsed = wb.get_sheet_by_name(args.t)
         sentence_no = 0
         order = []
         sentences = defaultdict(defaultdict)
