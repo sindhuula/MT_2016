@@ -5,6 +5,7 @@ from collections import defaultdict
 import openpyxl
 import sys
 import random
+from itertools import izip
 wb = openpyxl.load_workbook("sample.xlsx")
 parsed = wb.get_sheet_by_name('first_1000')
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
@@ -73,22 +74,19 @@ if __name__ == '__main__':
                         if flags[2] == False:
                             order.append("V")
                             flags[2] = True
-    '''
+'''
     print sentence_no
-    print "SVO:",len(SVO),SVO
-    print "SOV",len(SOV),SOV
-    print "VSO",len(VSO),VSO
-    print "VOS",len(VOS),VOS
-    print "OSV",len(OSV),OSV
-    print "OVS",len(OVS),OVS
+    print "SVO:",len(SVO)
+    print "SOV",len(SOV)
+    print "VSO",len(VSO)
+    print "VOS",len(VOS)
+    print "OSV",len(OSV)
+    print "OVS",len(OVS)
     print "other",len(other)
-    '''
 '''
-    for sentence in sentences:
-        print sentence, sentences[sentence]
-'''
+
 nos = []
-for i in range(100):
+for i in range(200):
     n = random.choice(SOV)
     if n not in nos:
         nos.append(n)
@@ -105,4 +103,14 @@ for i in range(100):
     if n not in nos:
         nos.append(n)
 
+inputes = open("input.es", "w")
+inputen = open("input.en", "w")
 
+#spanish = open("minput", "r")
+#english = open("minput.en", "r")
+num  = 0
+for s, e in izip(open("minput"),open("minput.en")):
+    num += 1
+    if num in nos:
+        inputes.write(s)
+        inputen.write(e)
