@@ -92,20 +92,17 @@ for i in range(100):
     n = random.choice(SOV)
     if n not in nos:
         nos.append(n)
-        print n,"\t",sentences[n]
     n = random.choice(VSO)
     if n not in nos:
         nos.append(n)
-        print n,"\t",sentences[n]
     n = random.choice(VOS)
     if n not in nos:
         nos.append(n)
-        print n,"\t",sentences[n]
     n = random.choice(OSV)
     if n not in nos:
         nos.append(n)
-        print n,"\t",sentences[n]
+    n = random.choice(OVS)
     if n not in nos:
         nos.append(n)
-        print n,"\t",sentences[n]
+
 
