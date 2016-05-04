@@ -4,4 +4,5 @@ from itertools import izip
 
 regex = re.compile(".*?\((.*?)\)")
 for sentences in izip(open("dictionary.rtf")):
-    print sentences
+    print sentences[0]
+    
