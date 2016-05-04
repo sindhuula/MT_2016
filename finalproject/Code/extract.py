@@ -7,7 +7,7 @@ import sys
 import random
 from itertools import izip
 wb = openpyxl.load_workbook("sample.xlsx")
-parsed = wb.get_sheet_by_name('first_1000')
+parsed = wb.get_sheet_by_name('another')
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
 sys.stdin = codecs.getreader('utf-8')(sys.stdin)
 if __name__ == '__main__':
@@ -86,7 +86,7 @@ if __name__ == '__main__':
 '''
 
 nos = []
-for i in range(200):
+for i in range(500):
     n = random.choice(SOV)
     if n not in nos:
         nos.append(n)
@@ -109,7 +109,7 @@ inputen = open("input.en", "w")
 #spanish = open("minput", "r")
 #english = open("minput.en", "r")
 num  = 0
-for s, e in izip(open("minput"),open("minput.en")):
+for s, e in izip(open("another.es"),open("another.en")):
     num += 1
     if num in nos:
         inputes.write(s)
