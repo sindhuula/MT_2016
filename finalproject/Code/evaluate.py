@@ -101,5 +101,7 @@ if __name__ == '__main__':
                     words.append(word)
             if (order[0]=="S")&(order[1]=="V")&(order[2]=="O"):
                 score[sentence_no] +=30
-        #Check word by word correct ordering
-        #Find total
+        #Check word by word correct ordering use translate.py
+        #Find number of correct alignments and factor it out of 70 = align_score
+                #score[sentence_no] += align_score
+                #final score = 
