@@ -7,7 +7,7 @@ import sys
 import random
 from itertools import izip
 wb = openpyxl.load_workbook("sample.xlsx")
-parsed = wb.get_sheet_by_name('another')
+parsed = wb.get_sheet_by_name('third_1000')
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
 sys.stdin = codecs.getreader('utf-8')(sys.stdin)
 if __name__ == '__main__':
@@ -84,7 +84,9 @@ if __name__ == '__main__':
     print "OVS",len(OVS)
     print "other",len(other)
 '''
-
+for sentence in sentences:
+    print sentence,sentences[sentence]
+'''
 nos = []
 for i in range(500):
     n = random.choice(SOV)
@@ -114,3 +116,4 @@ for s, e in izip(open("another.es"),open("another.en")):
     if num in nos:
         inputes.write(s)
         inputen.write(e)
+'''

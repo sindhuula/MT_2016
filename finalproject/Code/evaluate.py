@@ -104,4 +104,4 @@ if __name__ == '__main__':
         #Check word by word correct ordering use translate.py
         #Find number of correct alignments and factor it out of 70 = align_score
                 #score[sentence_no] += align_score
-                #final score = 
+                #final score =
