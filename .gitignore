@@ -22,3 +22,7 @@ assignment6/inflect/data/train.lemma
 assignment6/inflect/data/train.tag
 
 assignment6/inflect/data/train.tree
+
+finalproject/reorder/data/es-en/europarl-v7.es-en.en
+
+finalproject/reorder/data/es-en/europarl-v7.es-en.es
