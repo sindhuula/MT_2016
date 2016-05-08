@@ -91,7 +91,7 @@ if __name__ == '__main__':
         noun_phrase = ""
         subjects = ["SUBJ"]
         objects = ["DO","IO","OBLC"]
-        verbs = ["AUX"]
+        verbs = ["v"]
         sent_no = 0
         for hypothesis1, hypothesis2, original_sentence in islice(sentences()):
             sent_no += 1
@@ -110,7 +110,7 @@ if __name__ == '__main__':
                 elif word[2] in objects:
                     obj_phrase = ' '.join(temp_phrase)
                     temp_phrase = []
-                elif word[2] in verbs:
+                elif word[0] in verbs:
                     verb_phrase = ' '.join(temp_phrase)
                     temp_phrase = []
             final_sent = subj_phrase+' '+verb_phrase+' '+obj_phrase

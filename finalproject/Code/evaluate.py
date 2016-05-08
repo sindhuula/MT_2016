@@ -55,7 +55,7 @@ if __name__ == '__main__':
         sentence_no = 0
         subjects = ["SUBJ"]
         objects = ["DO","IO","OBLC"]
-        verbs = ["AUX"]
+        verbs = ["v"]
         rows = parsed.get_highest_row()
         columns = parsed.get_highest_column()
         for i in range(1, int(rows+1)):
@@ -78,7 +78,7 @@ if __name__ == '__main__':
                     object += parsed.cell(column = 2,row = i).value
                     order.append("O")
                     obj[sentence_no] = object
-            elif (parsed.cell(column = 8,row = i).value in verbs) & (flags[2]==False):
+            elif (parsed.cell(column = 4,row = i).value in verbs) & (flags[2]==False):
                     flags[2] = True
                     verb += parsed.cell(column = 2,row = i).value
                     order.append("V")
