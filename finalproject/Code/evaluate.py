@@ -1,11 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+#This program will evaluate the accuracy of the reorder code based on 2 criteria:
+    #1 the sentence should have the same word order as the english sentence
+    #2 the words in the sentence should be aligned as it would be in an english sentence
 import argparse
 from itertools import izip
+from difflib import SequenceMatcher
 import codecs
 from collections import defaultdict
 import openpyxl
 import sys
+import re
 import dictionary
 import translate
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
@@ -29,25 +34,9 @@ def utf8read(file): return codecs.open(file, 'r', 'utf-8')
 if __name__ == '__main__':
 
     if args.t:
-        '''
-        Finding an alternative for this portion
-        for en_sentences,es_sentences in izip(utf8read(combine(args.t,args.en)),utf8read(combine(args.t,args.es))):
-            print en_sentences
-            new_sent = ""
-            new_words = []
-            for word in en_sentences.rstrip().lower().split():
-                print word
-                translation = dictionary.translate(word,"es")
-                if translation == None:
-                    new_words.append(str(word))
-                elif translation in es_sentences.rstrip().lower().split():
-                    new_words.append(str(translation))
-            new_sent = ' '.join(new_words)
-            print new_sent
-        '''
         score = defaultdict(int)
         #check for SVO
-        '''
+
         wb = openpyxl.load_workbook("data/postags.xlsx")
         parsed = wb.get_sheet_by_name(args.t)
         sub = defaultdict(defaultdict)
@@ -91,7 +80,8 @@ if __name__ == '__main__':
             score[sentence_no] = 0
             words = []
             order = []
-            for word in output_sentences.rstrip().split():
+            print output_sentences
+            for word in output_sentences[0].rstrip().split():
                 if (word == sub[sentence_no]):
                     order.append("S")
                 elif(word == obj[sentence_no]):
@@ -102,12 +92,21 @@ if __name__ == '__main__':
                     words.append(word)
             if (order[0]=="S")&(order[1]=="V")&(order[2]=="O"):
                 score[sentence_no] +=30
-        '''
-        #Check word by word correct ordering use translate.py
-        #Find number of correct alignments and factor it out of 70 = align_score
-                #score[sentence_no] += align_score
-                #final score =
+
+        #Check for correct word alignment
         dictionary  = dictionary.create_dictionary()
-        for es_sentences,en_sentences,o_sentence in zip(open(combine(args.t,args.es)),open(combine(args.t,args.en),open(combine(args.t,args.o)))):
+        sent_no = 0
+
+
+        for es_sentences,en_sentences,o_sentence in zip(open(combine(args.t,args.es)),open(combine(args.t,args.en)),open(combine(args.t,args.o))):
             new_sentence = translate.translate(en_sentences,es_sentences,dictionary)
-            print new_sentence,o_sentence
+            sent_no+=1
+            difference = SequenceMatcher(None,new_sentence,o_sentence)
+            score[sent_no] += difference.ratio() * 70
+
+
+        total_score = 0.0
+        for sents in score:
+            total_score += score[sents]
+        total_possible = 100.0 * float(sent_no)
+        print "Accuracy of computation:",str(total_score/total_possible)

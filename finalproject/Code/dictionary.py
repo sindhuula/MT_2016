@@ -1,4 +1,5 @@
 from collections import defaultdict
+#This program reeads from the dictionary file and makes a new dictionary with keys as the english words and values as its translation.
 def create_dictionary():
     dictionary = defaultdict(defaultdict)
     for sentences in open("en-es-enwiktionary.txt"):

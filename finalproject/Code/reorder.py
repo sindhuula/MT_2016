@@ -78,7 +78,6 @@ if __name__ == '__main__':
         properties = []
         rows = int( parsed.get_highest_row())
         columns = int(parsed.get_highest_column())
-        print rows,columns
         word_props = defaultdict(list)
         for i in range(1, rows+1):
             word_props[parsed.cell(column = 2, row = i).value] =  [parsed.cell(column = 4, row = i).value, parsed.cell(column = 5, row = i).value,parsed.cell(column = 8, row = i).value]

@@ -1,36 +1,11 @@
-#!/usr/bin/env python
-import re
 from collections import defaultdict
-from itertools import izip
-filename = "en-es-enwiktionary.txt"
-dictionary = defaultdict(defaultdict)
-sen = 0
-file = open("res.txt","w")
-for sentences in open(filename):
-    sen += 1
-    es_words = []
-    en_words  = sentences.split('::')[0]
-    words = []
-    try:
-        if ',' in sentences.split('::')[1]:
-            words = sentences.split('::')[1].rstrip('\n').rstrip(' ').strip(' ').strip('\t').split(',')
-        else:
-            words.append(sentences.split('::')[1].rstrip('\n').rstrip(' '))
-    except:
 
-        file.write( str(sen)+" "+sentences+"\n")
-        words.append(en_words)
-    for word in words:
-        if word not in es_words:
-                    es_words.append(word.decode('utf-8'))
-    if dictionary[en_words]== defaultdict(None,{}):
-        dictionary[en_words] = es_words
-    else:
-
-        dictionary[en_words] += es_words
-print dictionary["abandon"]
-print dictionary["this"]
-print dictionary["is"]
-print dictionary["an"]
-print dictionary["a"]
-print dictionary["book"]
+import openpyxl
+wb = openpyxl.load_workbook("data/Book1.xlsx")
+parsed = wb.get_sheet_by_name("Sheet1")
+rows = parsed.get_highest_row()
+columns = parsed.get_highest_column()
+string = ""
+dictionary  = defaultdict(defaultdict)
+for i in range(1,rows):
+    print (parsed.cell(column = 2,row = i).value+"::"+parsed.cell(column = 1,row = i).value)

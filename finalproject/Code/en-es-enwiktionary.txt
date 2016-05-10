@@ -2068,6 +2068,2743 @@ zebra::cebra
 zero::cero
 zinc::zinc,cinc
 zirconium::circonio
+wait::espera
+what::que
+is::se
+produce::produzca
+agreement::acuerdo
+with::con
+so many::muchos
+colleagues::colegas
+me::me
+the::lo
+they have::han
+order::pedido
+I ask::pido
+let's do::hagamos
+minute::minuto
+silence::silencio
+memory::memoria
+the::las
+victims::víctimas
+storms::tormentas
+the::los
+different::distintos
+countries::países
+Union::unión
+European::europea
+affected::afectados
+you know::sabrá
+you::usted
+produced::producido
+a::una
+series::serie
+lanka::lanka
+we celebrate::celebramos
+here::aquí
+beech::haya
+declared::declarado
+innocent::inocente
+post::puesto
+manifest::manifiesto
+as well::también
+Russia::rusia
+the::la
+on::sobre
+medium::medio
+ambient::ambiente
+law::derecho
+constitutional::constitucional
+we know::sabemos
+we have::hemos
+affirmed::afirmado
+really::realmente
+resolutions::resoluciones
+#NAME?::#NAME?
+last::última
+session::sesión
+plenary::plenaria
+of the::del
+year::año
+past-::pasado-
+East::éste
+is::es
+only::solamente
+case::caso
+legal::jurídico
+error::error
+to accuse::acusar
+conduct::conducta
+betrayal::traición
+why::porque
+by::por
+its::sus
+results::resultados
+we get::obtengamos
+advantage::provecho
+she::ella
+Chairwoman::presidenta
+first::primer
+place::lugar
+would like::gustaría
+congratulations::felicitarla
+compliment::cumplido
+promise::promesa
+already::ya
+period::periodo
+sessions::sesiones
+he has::ha
+extended::ampliado
+drastically::drásticamente
+number::número
+channels::canales
+our::nuestros
+offices::despachos
+all right::bien
+TRUE::verdad
+there are::hay
+Finnish::finlandeses
+Portuguese::portugués
+but::pero
+yet::aún
+any::ninguno
+Dutch::neerlandés
+I::yo
+you::le
+had::había
+a::un
+channel::canal
+Dutch::neerlandeses
+we wanted::quisiéramos
+hear::escuchar
+month::mes
+us::nos
+sent::mandan
+exile::exilio
+could::¿podría
+tell me::decirme
+what::qué
+meets::cumple
+from::de
+security::seguridad
+in::en
+approved::aprobado
+lady::señora
+lynne::lynne
+has::tiene
+all::toda
+reason::razón
+world::mundo
+I'll check::verificaré
+whether::si
+stuff::cosas
+fact::hecho
+services::servicios
+competent::competentes
+included::incluido
+order::orden
+day::día
+to consider::considerar
+they had::habían
+been::sido
+answered::contestadas
+previous::anterior
+saying::dicho
+people::gente
+there::allí
+extremely::extremadamente
+precarious::precaria
+so much::tanto
+I been::habido
+weather::tiempo
+for::para
+his::su
+US::nosotros
+we can::podamos
+know::conocer
+I explain::explicárselo
+citizens::ciudadanos
+dice::dado
+represented::representada
+vice President::vicepresidenta
+Mrs::sra
+palace::palacio
+I believe::creo
+before::antes
+vote::votar
+would::sería
+convenient::conveniente
+situation::situación
+relationship::relación
+availability::disponibilidad
+present::presentar
+program::programa
+such::tal
+agreed);::convenido);
+or::o
+terms::condiciones
+looks like::parece
+intended::pretenden
+Some::algunos
+opinion::opinión
+second::segunda
+hypothesis::hipótesis
+would mean::significaría
+do::hacer
+abandonment::dejación
+our::nuestras
+responsibilities::responsabilidades
+Besides::además
+introduce::introducir
+thesis::tesis
+method::método
+consistent::consistente
+give::dar
+to::a
+groups::grupos
+politicians::políticos
+written::escrito
+programmatic::programático
+commission::comisión
+agreed-::convenido-
+having::teniendo
+account::cuenta
+legislative::legislativo
+will discuss::discutirá
+February::febrero
+way::manera
+we could::podríamos
+dispense with::prescindir
+debate::debate
+to the::al
+and::e
+they would::habrían
+everybody::todos
+would have::tendría
+deal::ocuparse
+matter::asunto
+I want::quiero
+to reiterate::reiterar
+our::nuestra
+part::parte
+debated::debatido
+performance::actuación
+next::próximos
+years::años
+we are::estamos
+prepared::preparados
+so::así
+decide::decida
+same::misma
+this::ésa
+decision-::decisión-
+expose::exponer
+comes::viene
+2000::2000
+was::era
+I was::estaba
+perfectly::perfectamente
+agreed::acordado
+extensive::amplios
+circles::círculos
+socialist::socialista
+come::ven
+good::buen
+grade::grado
+suppression::supresión
+point::punto
+vote::votación
+light::habida
+conference::conferencia
+presidents::presidentes
+short::faltó
+vote::voto
+job::trabajo
+competent::competente
+it::ello
+I do not know::ignoro
+this::esta
+right::correcta
+as::como
+EPP / ED::ppe/de
+We appreciate::agradeceríamos
+any::cualquier
+deleted::suprimiera
+occupied::ocupado
+numerous::numerosas
+times::veces
+discussed::discutido
+express::expresamos
+unanimity::unanimidad
+match::partido
+European::europeo
+liberals::liberales
+Democrats::demócratas
+reformists::reformistas
+same::mismo
+I did::hice
+notice::notar
+will recall::recordarán
+my::mis
+Dear ones::queridos
+companions::compañeros
+presidents::presidentes-
+is::trata
+is it so::están
+you::ustedes
+favor::favor
+tax::impuesto
+todin::todin
+but::sino
+dare::atreven
+understand::comprender
+they think::piensan
+respect::respecto
+advice::consejo
+do you::¿se
+I posted::contabilizado
+I could::podido
+be::ser
+realized::realizado
+electronically::electrónicamente
+I have::tengo
+card::tarjeta
+I will stick::atendré
+matter-::asunto-
+strategic::estratégico
+I indicated::indiqué
+would::habría
+I liked::gustado
+name::nombre
+group::grupo
+helpful::útil
+record::historial
+camera::cámara
+recorded::registrara
+how::cómo
+perceived::percibe
+own::propios
+analysis::análisis
+I feel::siento
+a lot::mucho
+Mr::señor
+cox::cox
+I have::he
+warned::advertido
+They asked::pedían
+word::palabra
+morning::mañana
+try::trate
+approval::aprobación
+minutes::acta
+today::hoy
+lordships::señorías
+estimate::estiman
+positions::posiciones
+explained::explicado
+will be able::podrán
+ask::pedir
+modifications::modificaciones
+place:::lugar:
+had::tenido
+act::actuar
+ground::terreno
+satisfy::satisfacer
+requirements::exigencias
+directive::directiva
+96/35 / ce::96/35/ce
+forces::obliga
+state::estados
+members::miembros
+implantation::implantación
+managers::encargados
+prevention::prevención
+risks::riesgos
+inherent::inherentes
+goods::mercancías
+dangerous::peligrosas
+counselors::consejeros
+organization::organización
+schooling::escolarización
+people::personas
+without::sin
+specify::especificar
+explicit::explícita
+I consider::considero
+satisfactorily::satisfactoriamente
+amendments::enmiendas
+first::primera
+reading::lectura
+accepted::aceptadas
+practice::práctica
+adequately::adecuadamente
+taken::asumido
+accepted::aceptaron
+corresponding::correspondientes
+regulations::regulaciones
+European::europeas
+example::ejemplo
+sanctions::sanciones
+cases::casos
+transgression::transgresión
+complicated::complicada
+Constitution::constitución
+blocks::bloques
+issues::cuestiones
+accordance::conformidad
+amendment::enmienda
+politics::política
+tourism::turismo
+approved::aprobada
+refers::refiere
+realization::realización
+temporary::temporal
+we can::podemos
+neither::ni
+we must::debemos
+accustom::acostumbrarnos
+each::cada
+time::vez
+plus::más
+frequency::frecuencia
+news::noticias
+accidents::accidentes
+highway::carretera
+way::vías
+navigable::navegables
+produce::producen
+big::grandes
+damage::daños
+alone::sólo
+whether::sí
+they take::toman
+serious::serio
+transit::tránsito
+lot::mucha
+due::debido
+ignorance::ignorancia
+deficient::deficiente
+preparation::preparación
+drivers::conductores
+others::otros
+responsible::responsables
+different::diversos
+means::medios
+little::pequeño
+continued::seguido
+great::gran
+catastrophe::catástrofe
+I would like::quisiera
+report::informe
+Mr::sr
+centered::centrado
+displayed::demostrado
+events::sucesos
+recent::recientes
+remains::queda
+theme::tema
+speaker::ponente
+work::labor
+extraordinarily::extraordinariamente
+accurate::precisa
+technique::técnica
+East::este
+second::segundo
+proposal::propuesta
+presented::presentado
+Belgium::bélgica
+low::bajos
+having::habiendo
+fog::niebla
+trucks::camiones
+followed::seguían
+should::deberían
+stopped::parado
+those::esos
+moments::momentos
+rules::normas
+written up::redactado
+other::otra
+95/35 / ce::95/35/ce
+they look like::parecen
+enough::suficientemente
+suitable::adecuadas
+advise::aconsejar
+shape::forma
+reasonable::razonable
+glad::alegro
+requirements::requisitos
+minima::mínimos
+exam::examen
+had::hubiera
+they had::hubieran
+created::creado
+nail::unas
+fixed::fijas
+uniforms::uniformes
+mode::modo
+certified::certificados
+were::fueran
+equal::iguales
+since::desde
+view::vista
+international::internacional
+latest::último
+logic::lógica
+support for::apoyo
+completely::plenamente
+when::cuando
+I see::veo
+was::fue
+submitted::presentada
+he::el
+March::marzo
+1998::1998
+Y::y
+occupying::ocupando
+this::esto
+reacted::reaccionado
+relative::relativa
+speed-::rapidez-
+period::período
+long::largo
+that::ese
+sense::sentido
+refer::referirme
+briefly::brevemente
+problems::problemas
+tunnels::túneles
+reference::referencia
+sres::sres
+undoubtedly::indudablemente
+Austria::austria
+sensitive::sensible
+efforts::esfuerzos
+see::ver
+increase::incrementar
+gratitude::agradecimiento
+intervened::intervenido
+very::muy
+koch::koch
+lament::lamento
+well::pues
+modification::modificación
+finds::halla
+submitted::sometida
+data::data
+may::mayo
+1999::1999
+consequence::consecuencia
+fend::valerse
+still::todavía
+current::actual
+process::procedimiento
+approved::aprobadas
+refer::refieren
+modified::modificado
+It allows::permite
+establish::establecer
+strict::estrictas
+special::especial
+tanks::tanques
+empty::vacío
+have::hayan
+perform::realizar
+preferably::preferentemente
+temperatures::temperaturas
+considerably::considerablemente
+lower::inferiores
+twenty::20
+degrees::grados
+low::bajo
+zero::cero
+goes::va
+directed::encaminada
+propitiate::propiciar
+follow::siga
+authorizing::autorizando
+utilization::utilización
+vehicles::vehículos
+tank::cisterna
+I entered::entrado
+use::uso
+between::entre
+January::enero
+vigor::vigor
+construction::construcción
+maintenance::mantenimiento
+adjust::ajustan
+Ready::dispuesto
+sufficed::bastado
+resistance::resistencia
+zero;::cero;
+beaches::playas
+Mediterranean::mediterráneo
+difficult::difícil
+imagine::imaginarse
+Lapland::laponia
+den::den
+downs::bajas
+proposed::propuesto
+down::descienda
+limit::límite
+40::40
+President::presidente
+express::manifestarle
+before::ante
+all::todo
+respect::respeto
+carried::llevado
+cape::cabo
+agile::ágil
+change::cambio
+presidency::presidencia
+we give::damos
+alluded::aludido
+background::fondo
+could::podría
+to be::estar
+there::existiera
+delay::demora
+cen::cen
+They are::son
+slow::lentos
+elaboration::elaboración
+adaptation::adaptación
+alone::solo
+Thank you::gracias
+our::nuestro
+colleague::colega
+have::haberse
+pronounced::pronunciado
+so much::tanta
+clarity::claridad
+equivocations::equívocos
+scope::ámbito
+priority::prioridad
+contributions::aportaciones
+parliamentary::parlamentaria
+translated::traducido
+different::distintas
+specifically::concretamente
+four::cuatro
+collected::recogidas
+we accept::aceptamos
+proposals::propuestas
+particularly::particularmente
+intervention::intervención
+touch::toque
+considered::considerado
+maxim::máxima
+importance::importancia
+I represent::represento
+to know::saber
+Welsh::gales
+embargo::embargo
+harmful::perjudicial
+belief::creencia
+concession::concesión
+funds::fondos
+structural::estructurales
+TRUE::cierto
+achievement::logro
+government::gobierno
+We consider::consideramos
+positive::positivo
+incorporated::incorporado
+own::propias
+conclusions::conclusiones
+need::necesidad
+including::incluidos
+cohesion::cohesión
+expand::amplíe
+infrastructure::infraestructura
+investigation::investigación
+stationing::emplazando
+schools::escuelas
+higher::superiores
+centers::centros
+training::formación
+pay::presten
+service::servicio
+habitants::habitantes
+areas::zonas
+less::menos
+developed::desarrolladas
+facilitate::faciliten
+permanence::permanencia
+qualified::cualificadas
+origin::origen
+other::otro
+we wanted::quisimos
+lend::prestar
+we had::hubiéramos
+Dear::querido
+time::hora
+to plan::planificar
+coordination::coordinación
+I had::hubiese
+taken::tomado
+increase::crecimiento
+Commerce::comercio
+Internet::internet
+wanted::deseado
+quality::calidad
+highlighted::resaltado
+subsidize::subvencionar
+energies::energías
+renewable::renovables
+applying::aplicando
+both of them::ambos
+lack::carencia
+resources::recursos
+financial::financieros
+energetic::energético
+viewed::visto
+compensated::compensada
+through::mediante
+considerable::considerables
+aid::ayudas
+economic::económicas
+borrow::prestara
+numbers::números
+agreed::acordadas
+issues::asuntos
+social::sociales
+rejected::rechazadas
+defend::defendemos
+agricultural::agrícola
+development::desarrollo
+coherent::coherente
+objectives::objetivos
+marked::marcado
+country::rurales
+dawn::albores
+century::siglo
+xxi::xxi
+should::deben
+competitive::competitivas
+multifunctional::multifuncionales
+aspect::aspecto
+opening::abriéndose
+diversity::diversidad
+activities::actividades
+do not::no
+agricultural::agrícolas
+prevail::primar
+criteria::criterios
+general::generales
+ordination::ordenación
+territory::territorio
+balance::equilibrio
+demographic::poblacional
+arrived::llegado
+aspects::aspectos
+fundamental::fundamentales
+collected::recogidos
+transportation::transportes
+points::puntos
+17::17
+commissar::comisario
+my::mi
+thanking::agradeciendo
+Schroedter::schroedter
+set::fijado
+produce::produzcan
+necessary::necesarias
+synergies::sinergias
+initiatives::iniciativas
+Community::comunitarias
+application::aplicación
+see::vea
+reflected::reflejada
+optimal::óptima
+profitable::rentable
+progressive::progresiva
+elimination::eliminación
+inequalities::desigualdades
+parts::regiones
+posts::puestos
+final::definitiva
+purposes::propósitos
+speaking::hablando
+incumbency::incumbencia
+remember::recordar
+evans::evans
+accomplished::logrado
+status::estatus
+objective::objetivo
+i::i
+should::debe
+discredited::desacreditadas
+policies::políticas
+own::propio
+conservative::conservador
+distinguished::distinguidos
+report;::informe;
+applied::aplicado
+filled::lleno
+during::durante
+they did::hicieron
+we have::tenemos
+phase::fase
+we live::vivimos
+gone::ido
+expanding::ampliando
+we reject::rechazamos
+exaggerated::exagerada
+guardianship::tutela
+administrations::administraciones
+central::centrales
+we demand::exigimos
+reduce::reduzca
+bureaucracy::burocracia
+infiltrate::infiltrado
+processes::procesos
+execution::ejecución
+programs::programas
+proof::prueba
+overcome::superado
+institution::institución
+advisory::consultiva
+subordinated::subordinada
+Excellent::excelente
+arrive::llegar
+full::pleno
+plans::planes
+territories::territorios
+They carry::llevan
+several::varios
+months::meses
+cabinets::gabinetes
+we need::necesitamos
+reflection::reflexión
+together::conjunta
+new::nuevos
+elaborated::elaborado
+guidelines::directrices
+are::sean
+operational::operativas
+can::puedan
+submitted::sometidos
+review::revisión
+real::verdadera
+assessment::valoración
+consolidate::consolidar
+permanent::permanente
+progress::progreso
+until::hasta
+date::fecha
+I wish::desearía
+tell::decir
+we had::habíamos
+mccarthy::mccarthy
+speakers::ponentes
+regulation::reglamento
+general-::general-
+We prefer::preferiríamos
+I attached::adjuntado
+appendix::apéndice
+third::tercero
+point::señalar
+evidently::evidentemente
+lines::líneas
+moment::momento
+depart::apartan
+observations::observaciones
+come on::vamos
+follow::seguir
+raising that::planteándola
+forecast::previsión
+paragraph::párrafo
+158::158
+treaty::tratado
+speaks::habla
+integral::integral
+islands::islas
+must::deberá
+examine::examinar
+all::todas
+specific::concreta
+challenge::reto
+extension::ampliación
+Europe::europa
+will need::necesitará
+never::nunca
+guidelines::pautas
+you precise::precisas
+expensive::cara
+programming::programación
+relaunching::relanzamiento
+economy::economía
+finished::termino
+saying::diciendo
+serious::grave
+communication::comunicación
+dedicated::dedicado
+Attention::atención
+preferential::preferente
+accords::pactos
+territorial::territoriales
+especially::especialmente
+modalities::modalidades
+fight::lucha
+against::contra
+women::mujeres
+too::demasiada
+spend::gastan
+enormous::enormes
+amounts::cantidades
+projects::proyectos
+which::cuyos
+necessarily::necesariamente
+inaccurate::imprecisos
+initial::inicial
+friendly::amable
+reception::acogida
+dispensed::dispensado
+some::algunas
+suggestions::sugerencias
+Regrettably::lamentablemente
+consideration::consideración
+criterion::criterio
+to weigh::pesar
+multiple::múltiples
+evidence::evidencias
+later::posteriormente
+berend-::berend-
+in fact::efectivamente
+Helping::ayudando
+splendidly::espléndidamente
+you delayed::retrasadas
+cover::cubrir
+distance::distancia
+separates::separa
+Newspaper::periódico
+evolution::evolución
+socieoeconómica::socieoeconómica
+indicates::indica
+franked::franqueado
+threshold::umbral
+data::datos
+regional::regionales
+reveals::revela
+progress::progresos
+conducted::realizados
+countryside::campo
+appearance::aparición
+socialists::socialistas
+Europeans::europeos
+this::está
+just::acaba
+congratulates::felicita
+Author::autor
+flexibility::flexibilidad
+allowed::permitido
+to incorporate::incorporar
+from::procedentes
+different::diferentes
+I summarize::resumo
+they::ellas
+remembered::recordado
+positive::positiva
+negative::negativa
+illustrious::ilustres
+same::igual
+have::tenga
+present::presentes
+2000-2006::2000-2006
+give him::darle
+have::haber
+duly::debidamente
+process::proceso
+differences::diferencias
+such::tales
+distances::distancias
+weather::climáticas
+extreme::extremas
+hot::calor
+It is home::escasa
+density::densidad
+population::población
+lack::falta
+fertility::fertilidad
+floor::suelo
+movements::movimientos
+migration::migratorios
+distinguished::distinguido
+Dear::estimados
+after::tras
+careful::atento
+present::presente
+arrives::llega
+Doubts::dudas
+partially::parcialmente
+consequent::consiguiente
+I wonder::pregunto
+used::utilizado
+efficient::eficiente
+reduction::reducción
+unemployment::desempleo
+pose::plantear
+review::crítica
+about::acerca
+be::será
+effective::eficaz
+strengthen::reforzar
+competitiveness::competitividad
+measures::medidas
+relevant::pertinentes
+increase::aumento
+financing::financiación
+improvement::mejora
+elevation::elevación
+level::nivel
+educational::educativo
+I congratulate::felicito
+treatment::tratamiento
+socioeconomic::socioeconómica
+decide::decidirá
+trial::juicio
+issued::emitan
+successes::aciertos
+to recognize::reconocer
+EU::ue
+supported::apoyado
+would say::diría
+even::incluso
+poor::pobres
+end up::terminar
+should::deberíamos
+drink::tomar
+United::unidos
+industriousness::laboriosidad
+turned::vuelto
+place::poner
+success::éxito
+manifestation::manifestación
+worth::valía
+personal::personal
+object::objeto
+Envy::envidia
+occurs::ocurre
+many::muchas
+officials::funcionarios
+ancestress::antecesora
+Wulf-Mathies::wulf-mathies
+I must::debo
+tell::decirle
+sensitive::sensibles
+appreciation::apreciación
+Assembly::asamblea
+lordship::señoría
+personally::personalmente
+hell bent::empeñado
+berend::berend
+allow::permita
+check::comprobar
+effort::esfuerzo
+overcome::superar
+scale::baremo
+qualitative::cualitativo
+proposes::propone
+stop::detenerme
+now::ahora
+detail::detalle
+Ideas::ideas
+signed::suscrito
+third::tercer
+consists::consiste
+develop::desarrollar
+content::contenido
+memory::recuerdo
+wrong::mal
+ago::hace
+some::unos
+responsibility::responsabilidad
+effectiveness::eficacia
+we place::situamos
+wish::deseo
+you will see::verá
+involved::involucrados
+2::2
+shall be::quedarán
+divided::divididos
+MPs::diputados
+they mentioned::mencionaron
+include::incluir
+they::ellos
+reassure::asegurarles
+fusion::fusión
+reports::informes
+newspapers::periódicos
+to imply::implicar
+any::ninguna
+loss::pérdida
+my::mí
+instrument::instrumento
+extreme::extrema
+warn::advierta
+tell::diga
+transparent::transparente
+rigorous::rigurosa
+consider::examinen
+assess::valoren
+orientations::orientaciones
+future::futuras
+public::público
+there::allá
+elected::elegidos
+management::gestión
+good::buena
+note::nota
+integrate::integrar
+following::siguientes
+::::
+definition::definición
+collected::recogida
+indicators::indicadores
+representative::representativos
+region::región
+Oriental;::oriental;
+chapter::capítulo
+outermost::ultraperiféricas
+they recalled::recordaron
+relative::relativos
+Oriental:::oriental:
+years;::años;
+transboundary::transfronterizos
+convergence::convergencia
+significant::significativos
+Pohjamo::pohjamo
+I say::digo
+frankness::franqueza
+past::pasado
+some::ciertos
+delays::retrasos
+relative::relativo
+infrastructure::infraestructuras
+models::modelos
+macroeconomic::macroeconómicos
+we work::trabajamos
+show::indican
+decade::decenio
+obtained::obtenida
+existed::existido
+However::obstante
+regards::respecta
+particular::particular
+Sudre::sudre
+Fruteau::fruteau
+claim::afirman
+point-::punto-
+plan::plan
+recovery::recuperación
+exclusion::exclusión
+gravity::gravedad
+unbearable::insoportable
+market::mercado
+observation::observación
+formulate::formular
+vote-::votación-
+parliament::parlamento
+observed::observaron
+speakers::oradores
+can::puede
+repercussion::repercusión
+works::trabaja
+narrow::estrecha
+cooperation::cooperación
+synergy::sinergia
+insist::insistir
+provided::proporcionada
+honor::honor
+introduce::presentarles
+avoided::evitado
+simplismo::simplismo
+would::consistiría
+assert::afirmar
+priori::priori
+amount::importe
+state::estatales
+high::elevado
+they examined::examinaron
+known::sabido
+denied::negado
+adopt::adoptar
+regulation::regulación
+row::consecutiva
+other::otras
+power::poder
+freely::libremente
+upset::molestos
+controls::controles
+expired::expirado
+criticism::criticable
+Likewise::asimismo
+authorize::autorizar
+repeatedly::reiteradamente
+Business::empresas
+steelmakers::siderúrgicas
+considers::considera
+including::incluidas
+categories::categorías
+code::código
+sanctioned::sancionado
+happiness::dicha
+inequality::desigualdad
+treatment::trato
+decisions::decisiones
+specific::concretas
+doubt::duda
+any::alguna
+basis::fundamento
+success::éxitos
+recent::reciente
+sector::sector
+telecommunications::telecomunicaciones
+reduced::reducido
+visibly::visiblemente
+prices::precios
+improved::mejorado
+reached::alcanzado
+precise::preciso
+developing::desarrollando
+They could::podrían
+limit::limitarse
+notification::notificación
+wait::esperar
+authorization::autorización
+should::debería
+assume::asumir
+own::propia
+maybe::quizá
+explain::explique
+discomfort::malestar
+generated::generado
+mentioned::mencionado
+banks::bancos
+boxes::cajas
+saving::ahorro
+local::locales
+place::situar
+plane::plano
+continually::continuamente
+repeat::repite
+sectors::sectores
+possible::posible
+consider::considerarla
+customer::cliente
+to debate::debatir
+structures::estructuras
+creating::creando
+are::constituyen
+Brake::freno
+competition::competencia
+I intervene::intervengo
+goebbels::goebbels
+absent::ausentarse
+attend::atender
+commitment::compromiso
+monti::monti
+thank::agradecerle
+great::estupenda
+collaboration::colaboración
+I provided::brindado
+function::función
+play::desempeñar
+may l::puedo
+latest::últimos
+examples::ejemplos
+witnesses:::testigos:
+holzmann::holzmann
+company::empresa
+receives::recibe
+German::alemán
+sawmills::serrerías
+ancient::antigua
+Germany::alemania
+Oriental::oriental
+shipyards::astilleros
+we propose::proponemos
+registry::registro
+table::tabla
+show::muestre
+to finalize::finalizar
+dg::dg
+xxviii::xxviii
+quantity::cantidad
+considerable::considerable
+purpose::propósito
+being::siendo
+transparency::transparencia
+next::próxima
+I would want::querría
+express::expresarle
+who::quien
+conscientiously::concienzudamente
+related::relacionados
+sure::asegurarnos
+comply::cumplan
+compete::compitamos
+equality::igualdad
+course::transcurso
+hinge::bisagra
+pass::pasar
+coin::moneda
+only::única
+skimped::escatimado
+born::nazca
+environment::entorno
+book::libro
+leave::dejar
+to provoke::provocar
+responses::respuestas
+I got::conseguido
+inquired::investigado
+which::cuáles
+will be::serán
+consequences::consecuencias
+how much::cuanto
+strategy::estrategia
+notice::notamos
+certain::ciertas
+deficiencies::deficiencias
+issues::temas
+contemplated::contemplan
+set::conjunto
+berenguer::berenguer
+modernization::modernización
+frankly::francamente
+satisfactory::satisfactoria
+gets::obtiene
+good ones::buenos
+predecessor::predecesor
+settled down::establecido
+warranty::garantía
+parallel::paralela
+able::capaz
+corrective::correctivos
+inside::dentro
+work::funcione
+deviations::desviaciones
+economists::economistas
+may::pueden
+exist::existir
+comprehensive::amplia
+happened::ocurrido
+from::partir
+1993::1993
+highlight::destacar
+carried::llevada
+Rapkay::rapkay
+dissected::diseccionado
+concise::concisa
+so::tan
+dense::denso
+large::amplio
+cost::cuesta
+French::franceses
+authorize::autorizan
+American people::americanos
+denied::deniegan
+usually::habitualmente
+ready::dispuesta
+legislate::legislar
+sea::marítima
+Who::quienes
+separated::separados
+tough::duras
+realities::realidades
+hesitation::dudarlo
+it means::significa
+meeting::reunión
+shipping::envió
+announced::anunciado
+should::convendría
+critically::críticamente
+talks::negociaciones
+entry::ingreso
+I appreciate::agradezco
+I admire::admiro
+ong::ong
+I remangado::remangado
+shirt::camisa
+animals::animales
+have::tener
+Commissioner::comisaria
+results::traduce
+rule::norma
+legislative::legislativa
+be::sea
+them::les
+they say::dicen
+Bosses::jefes
+ministers::ministros
+these::dichas
+apply::apliquen
+waters::aguas
+never::jamás
+located::situado
+head::cabeza
+movement::movimiento
+defense::defensa
+how::¿cómo
+We use::usamos
+awareness::conciencia
+woken up::despertado
+ecological::ecológica
+resolution::resolución
+complaint::denuncia
+Total-Fina::total-fina
+I subscribe::subscribo
+ban::prohibir
+pavilions::pabellones
+convenience::conveniencia
+ships::buques
+age::edad
+impose::imponer
+obligation::obligación
+double::doble
+oil::petroleros
+I share::comparto
+advances::insinuaciones
+pointed::apuntado
+encourage her::alentarla
+forward::adelante
+path::camino
+demostrase::demostrase
+several::varias
+companies::sociedades
+classification::clasificación
+granted::concedido
+there will be::habrá
+remove them::suprimirlas
+list::lista
+qualified::calificadas
+desgranarle::desgranarle
+quickly::rápidamente
+rationed::racionado
+aforementioned::citado
+the rest::demás
+Some-::algunos-
+essential::esenciales
+work:::trabajar:
+helmet::casco
+water;::aguas;
+Harbor::puerto
+severe::severo
+I know::conozco
+force::fuerza
+destructively::destructiva
+design::diseño
+suitable::idóneos
+are::resultan
+fundamentally::fundamentalmente
+commissions::comisiones
+forgotten::olvidado
+disaster::desastre
+it affects::afecta
+fishing::pesquero
+I come::procedo
+Galicia::galicia
+long-suffering::sufrido
+Similar::similares
+necessary::necesario
+helplessness::indefensión
+fought::luchado
+courage::coraje
+serious::graves
+coastal::costeras
+ecosystem::ecosistema
+Marine::marino
+fishing::pesqueros
+condition::condición
+congratulate::felicitar
+reaction::reacción
+event::suceso
+shaken::sacudido
+I am::soy
+absolute::absoluto
+contrary::contrario
+study::estudiar
+Community::comunitario
+do what::hacerlo
+indicated::señalado
+apply::aplicarlo
+exists::existe
+something::algo
+forget::olvidar
+any::ningún
+moment-::momento-
+regrettable::lamentable
+incident::incidente
+effect::efecto
+late::tarde
+inflection::inflexión
+definitive::definitivo
+mark::marque
+after::después
+where::donde
+1967::1967
+felicitáramos::felicitáramos
+selected::seleccionado
+It requires::requiere
+one::uno
+mobilized::movilizado
+manifested::manifestado
+emotion::emoción
+final::final
+project::proyecto
+common::común
+issues::emita
+alone::sola
+voice::voz
+which::cual
+preceded::precedido
+provides::brinda
+my-::mí-
+opportunity::oportunidad
+feints::fintas
+governments::gobiernos
+subject::sometidas
+I-::yo-
+firm::firme
+we::ponemos
+hands::manos
+prepare::preparar
+space::espacio
+maritime::marítimo
+indicated::indicado
+chapters::capítulos
+develop:::elaborar:
+leveling::nivelación
+legislation::legislación
+normative::normativa
+observed::observado
+satisfaction::satisfacción
+soberanistas::soberanistas
+Eurosceptics::euroescépticos
+ask::piden
+reglamente::reglamente
+that::ése
+suitable::adecuado
+I go::voy
+conclude::concluir
+applied for::solicitado
+hearing::audición
+public::pública
+would allow::permitiría
+course::curso
+immediately::inmediatamente
+record::expediente
+feed::alimentar
+reflections::reflexiones
+where::¿dónde
+shipowners::navieros
+in charge::encargado
+occur::ocurren
+disasters::catástrofes
+think::pensar
+constitute::constituir
+authority::autoridad
+fight::combatir
+crimes::delitos
+environmental::medioambientales
+take care::encargue
+Brittany::bretaña
+France::francia
+Recently::recientemente
+solidarity::solidaridad
+country::país
+to thank::agradecer
+sincerely::sinceramente
+popular::popular
+Christian Democrats::demócratas-cristianos
+left::izquierda
+unit / left::unitaria/izquierda
+Nordic::nórdica
+propose::proponer
+generate::generar
+discussion::discusión
+He said::decía
+American::norteamericanos
+they took::sacaron
+hard::dura
+threat::amenaza
+divert::desviar
+boats::barcos
+accepted::aceptados
+ports::puertos
+question::cuestión
+measure::medida
+operated::funcionado
+we have::disponemos
+obviously::obviamente
+some::algún
+interventions::intervenciones
+totally::totalmente
+positive::positivas
+pertinentes-::pertinentes-
+let's go back::volvamos
+we should::debíamos
+I have::haberlo
+school::colegio
+Commissioners::comisarios
+bring::traer
+legislative::legislativas
+directives::directivas
+equip ourselves::dotarnos
+greater::mayores
+levels::niveles
+possible::posibles
+words::palabras
+disaster victims::siniestrados
+are waiting::esperan
+enormously::enormemente
+help::ayuda
+lend them::prestarles
+referred::referido
+spoken::hablado
+unlock::desbloquear
+wood::madera
+depreciate::depreciarse
+first::primeras
+signs::señales
+climate::climático
+continuation::continuación
+relief::socorro
+forces::fuerzas
+navies::armadas
+framework::marco
+intergovernmental::intergubernamental
+I come::acudido
+indemnify::indemnizar
+interruptions::interrupciones
+forced::forzosas
+investments::inversiones
+return::volver
+entirely::enteramente
+appeal::recurrir
+IFOP::ifop
+They devastated::devastaron
+December::diciembre
+they caused::causaron
+saying-::dicho-
+deads::muertos
+75000::75000
+millions::millones
+francs::francos
+11000::11000
+euros::euros
+weeks::semanas
+sinister::siniestro
+thousands::millares
+private::privadas
+phone::teléfono
+500000::500000
+hectares::hectáreas
+massifs::macizos
+forestry::forestales
+1000::1000
+meters::metros
+cubic::cúbicos
+left::quedado
+devastated::devastados
+heritage::patrimonio
+historical::histórico
+result::resultado
+affected::afectado
+shows::demuestra
+sad::triste
+castle::castillo
+versalles::versalles
+express::expresar
+deep::profunda
+sympathy::simpatía
+families::familias
+you bereaved::enlutadas
+devastated::devastado
+let me::permítanme
+thought::pensamiento
+solid::macizo
+forest::forestal
+lorraine::lorena
+destroyed::destruido
+far::distan
+satisfactory::satisfactorias
+insufficient::insuficientes
+yesterday::ayer
+man::hombre
+escape::escapar
+condolence::condolencia
+communities::comunidades
+lost::perdido
+tragedy::tragedia
+floods::inundaciones
+Ireland::irlanda
+I suffered::padecido
+ostreicultura::ostreicultura
+would resort::recurriría
+forestry::silvicultura
+33::33
+dispensations::derogaciones
+enunciated::enunciada
+pulled apart::apartado
+87::87
+equipment::equipos
+public::públicos
+we want::queremos
+we wish::deseamos
+there::exista
+cash::efectivo
+mandate::mandato
+attributed::atribuido
+distinctive::distintivo
+close up::acercamiento
+urgency::urgencia
+palpable::palpable
+fellow::conciudadanos
+Proud::orgullosa
+announce::anunciar
+technical::técnicos
+Austrian::austríacos
+offered::ofrecido
+sumo::sumo
+how many::cuantos
+voiced::expresado
+exclude::excluir
+then::luego
+companies::compañías
+bp::bp
+oriented::orientado
+toward::hacia
+concentrate::concentran
+exclusively::exclusivamente
+sale::venta
+fuels::combustibles
+fossils::fósiles
+harmful::dañinos
+weather::clima
+invest::invierten
+shapes::formas
+sustainable::sostenibles
+welcome::acoger
+approval::beneplácito
+division::división
+food::alimentaria
+institutions::instituciones
+hearing::oído
+night::noche
+exposition::exposición
+body::organismo
+recognition::reconocimiento
+reality::realidad
+know::sé
+formulated::formulado
+going forward::avanzando
+according::según
+it is understood::entendido
+query::consulta
+actually::actualmente
+instruments::instrumentos
+legislative::legislativos
+go::van
+aimed::encaminados
+fill up::colmar
+lagoons::lagunas
+valid::vigente
+on::relativas
+coated::revisten
+decisive::decisiva
+verheugen::verheugen
+do you think::¿piensa
+food::alimentario
+capacity::capacidad
+prevent::prevenir
+meat::carne
+bovine::bovino
+lift up::levantar
+prohibition::prohibición
+remove::retirar
+grants::subvenciones
+act::actúan
+doing::haciendo
+operation::funcionamiento
+unit::unidad
+Dublin::dublín
+geographic::geográfica
+It represents::representa
+obstacle::obstáculo
+exercise::ejercer
+Action::acción
+keep::mantener
+contacts::contactos
+necessary::necesarios
+will::hará
+September::septiembre
+discarded::descartado
+occupy::ocupar
+outstanding::destacado
+will know::conocerán
+circumstances::circunstancias
+will::tendrán
+wait-::esperar-
+base::base
+confidence::confianza
+rooted::arraigada
+opinions::dictámenes
+to guard::velar
+participate::participamos
+formulation::formulación
+we understand::entendamos
+clear::clara
+they want::quieren
+scientists::científicos
+uncovered::descubierto
+necessary::necesaria
+approach::abordar
+raise::planteen
+equally::igualmente
+will want::desearán
+to receive::recibir
+drafting::redacción
+address::aborde
+what::¿qué
+think::piensa
+avoid::eviten
+nuclear::nucleares
+proliferation::proliferación
+weapons::armas
+you want::desea
+deposit::ingresar
+spends::gasta
+sums::sumas
+While::mientras
+economic::económica
+information::información
+decided::decidido
+choice::elección
+bidder::licitante
+recognize::reconoce
+Turkey::turquía
+signed::firmado
+ratified::ratificado
+agreement::convenio
+grant::conceder
+licenses::licencias
+regular::regular
+establishment::establecimiento
+site::emplazamiento
+put::puesta
+March::marcha
+closing::cierre
+corresponds::corresponde
+completely::completamente
+Turkish::turca
+energy::energía
+atomic::atómica
+comprehensive::exhaustivo
+guarantee::garantías
+aims to::pretende
+reactors::reactores
+candu::candu
+Canada::canadá
+used::utilizados
+India::india
+Pakistan::pakistán
+TNP::tnp
+matter:::asunto:
+impoverished::empobrecido
+he has::¿ha
+studies::estudios
+border::transfronteriza
+originated::originada
+conflict::conflicto
+Kosovar::kosovar
+center::centro
+he::él
+He came::llegaba
+conclusion::conclusión
+scale::escala
+confirmation::confirmación
+used::utilizara
+detected::detectado
+cleaning::limpieza
+Kosovo::kosovo
+symptoms::síntomas
+meet::encontrarse
+uranium::uranio
+can::¿puede
+confirm::confirmar
+holiday makers::veraneantes
+bath::bañarse
+danger::peligro
+Adriatic::adriático
+summer::verano
+provided::previsto
+existing::existentes
+term::plazo
+dangerous::peligrosa
+environmental::medioambiental
+mentioned:::mencionado:
+reconstruction::reconstrucción
+environmental;::medioambiental;
+concerning::referente
+testing::pruebas
+medical::médicas
+intergroup::intergrupo
+Tibet::tíbet
+deeply::profundamente
+worried::preocupado
+deterioration::empeoramiento
+insufficiency::insuficiencia
+palliate::paliar
+violations::violaciones
+rights::derechos
+humans::humanos
+daily::cotidianamente
+exposed::expuestos
+Tibetans::tibetanos
+patten::patten
+excellent::excelentes
+experiences::experiencias
+lifetime::vida
+China::china
+knows::sabe
+doing::realizando
+I arrived::llegue
+celebrate::celebrar
+dialogue::diálogo
+prevented::impedido
+thing::cosa
+designation::designación
+sent::enviados
+special::especiales
+few::pocos
+two::dos
+occasions::ocasiones
+Minister::ministro
+pekín::pekín
+continue::seguiremos
+ostensible::ostensible
+concern::preocupación
+recommendations::recomendaciones
+defender::defensor
+town::pueblo
+Congresswoman::diputada
+Question::pregunta
+have::tengan
+want::querrán
+"I would like
+return
+highlight
+he has
+accepted
+the
+recommendations
+of the
+defender
+of the
+town
+contained
+draft
+recommendations
+July
+1999 "::"quisiera
+volver
+destacar
+ha
+aceptado
+las
+recomendaciones
+del
+defensor
+del
+pueblo
+contenidas
+borrador
+recomendaciones
+julio
+1999"
+::
+emerged::surgido
+tell::decirles
+sent::enviado
+attentive::atenta
+giving::dando
+kind::tipo
+explanations::explicaciones
+communicating::comunicando
+answer::conteste
+these::estas
+questions::preguntas
+nothing::nada
+how much::cuánto
+nielson::nielson
+interested::interesan
+will know::sabrán
+mission::misión
+trying::intentando
+survive::sobreviva
+South Africa::sudáfrica
+address::dirección
+general::general
+Department::departamento
+yet::aun
+high::altos
+participated::participado
+courses::cursos
+gender::género
+organized::organizado
+mentioning::mencionando
+books::libros
+state::estado
+reading::leyendo
+lately::últimamente
+landis::landis
+prosperous::prósperos
+granted::concede
+sexes::sexos
+prosperity::prosperidad
+reaching back::remontándose
+millennia::milenios
+considerations::consideraciones
+tayikistán::tayikistán
+benefit::beneficiara
+1999::1999
+rehabilitation::rehabilitación
+72::72
+conflicts::conflictos
+areas::áreas
+devastation::devastación
+inflicted::causado
+Balkans::balcanes
+side stand::costado
+very much::muchísimo
+we would::habríamos
+preventive::preventivas
+we take::tomamos
+deputy::diputado
+applauded::aplaudido
+reply::contestación
+bibliography::bibliografía
+mentions::menciona
+Greece::grecia
+Italy::italia
+concerning::referentes
+Employability::empleabilidad
+uncertain::incierto
+foresee::prevén
+Apply::aplicar
+allow::permiten
+long::larga
+duration::duración
+indicate::indicar
+Greek::griego
+acquired::adquirido
+liabilities::compromisos
+specific::concretos
+youth::juvenil
+affirmative::afirmativo
+lack::carecemos
+final::definitivos
+note::constatar
+quantitative::cuantitativos
+existing::existente
+impossibility::imposibilidad
+to register::registrar
+flow::flujo
+they get::consiguen
+lose::pierden
+committed::comprometido
+First::primero
+reorganization::reorganización
+country;::país;
+creation::creación
+offices::oficinas
+effective::eficaces
+completed::completado
+still-;::todavía-;
+introduction::introducción
+cards::tarjetas
+electronic::electrónicas
+systems::sistemas
+electronic::electrónicos
+suitable::adecuados
+to guarantee::garantizar
+tracing::seguimiento
+funded::financiado
+activate::activar
+materialization::materialización
+will follow::seguirá
+close::cerca
+fulfillment::cumplimiento
+collapsed::contraído
+I wonder:::pregunto:
+previous::anteriores
+system::sistema
+Danish::danés
+Early retirement::prejubilación
+recognized::reconocido
+whole::totalidad
+discrepancy::discrepancia
+Denmark::dinamarca
+areas::ámbitos
+-::-
+retirement::jubilación
+efterløn::efterløn
+retire::jubilar
+residents::residentes
+periods::períodos
+required::exigidos
+workers::trabajadores
+complained::quejado
+responded::respondido
+directly::directamente
+regime::régimen
+pensions::jubilaciones
+you advance::anticipadas
+he detached::desprendió
+ask::pedirle
+certify::certificara
+explicitly::explícitamente
+Indian::indicó
+considering::considerando
+seriously::seriamente
+submit::someter
+luxembourg::luxemburgo
+precisely::precisamente
+discrimination::discriminación
+salaried::asalariados
+Danish::daneses
+comply::cumplir
+played::desempeñado
+salaried::asalariado
+requires::exige
+protection::protección
+doctors::médicos
+generalists::generalistas
+work::trabajen
+hospitals::hospitales
+They remained::quedaron
+excluded::excluidos
+stay::quedar
+modifies::modifica
+93/104 / EC::93/104/ce
+com980662-c4-0715 / 98::com980662-c4-0715/98
+-98 / 0318syn::-98/0318syn
+how many::¿cuántas
+gathered::reunido
+answer::respuesta
+to regret::lamentar
+I took::tardado
+get together::reunirse
+higher::mayor
+importance;::importancia;
+we trusted::confiábamos
+beginning::principio
+begin to::empezara
+get::conseguir
+mens::hombres
+give to::dará
+thing:::cosa:
+I am::estoy
+celebrated::celebrado
+compensates::compensa
+they took::tomaron
+important::importantes
+ECU::ecus
+participation::participación
+80%::80%
+island::insulares
+Greek::griegas
+far apart::alejadas
+initiative::iniciativa
+corresponding::correspondiente
+fifteen%::15%
+No.::nº
+formulated::formulada
+h-0808/99:::h-0808/99:
+consultations::consultas
+agents::agentes
+European-::europeo-
+inserted::introducido
+exceptions::excepciones
+economic::económicos
+monetary::monetarios
+Wogau::wogau
+I congratulate::felicitarlo
+I weighed::pese
+full::completa
+undertaken::emprendido
+Y::¡y
+me::haberme
+supported::soportado
+nailed::clavada
+most::mayoría
+importantes::importante
+share::compartir
+illustrated::ilustrado
+give us::facilitarnos
+provisional::provisionales
+litigation::litigio
+we::contamos
+ask::preguntar
+Business:::empresas:
+cost-benefit::coste-beneficio
+giving::dándose
+wasting::desperdiciando
+changes::cambios
+beneficial::beneficiosos
+favors::favorece
+offers::ofrece
+legal::jurídica
+fomented::fomentado
+discipline::disciplina
+deterrent::disuasorio
+through::través
+mandatory::obligatoria
+important::importantísimo
+delegate::delegar
+authorities::autoridades
+national::nacionales
+underline::subrayar
+supervision::supervisión
+periodic::periódica
+calm::tranquilice
+checks::comprobaciones
+random::aleatorias
+do I have::dispongo
+done::realizada
+companion::compañero
+Jonckheer::jonckheer
+criticizing::criticando
+excessive::excesiva
+group::agrupación
+socioeconomic::socioeconómico
+could fit::cupiera
+reviews::críticas
+addressed::dirigido
+incentives::incentivos
+Basque::vascas
+consider::considerarlas
+he granted::concedió
+rightly::acertadamente
+steelworks::acería
+brandenburg::brandenburgo
+reduced::reducidos
+news::nuevas
+matter::materia
+start::inicia
+unsatisfactory::insatisfactoria
+entry::entrada
+orders::pedidos
+iron and steel industry::siderurgia
+naval::naval
+We speak::hablamos
+little bit-::poco-
+diminished::disminuido
+subsequent::subsiguiente
+employment::empleo
+boarded::abordamos
+probably::probablemente
+stone::piedra
+angular::angular
+fourth::cuarto
+it-::ello-
+changed::cambiado
+look out::vigilar
+standards::estándares
+labor::laborales
+avoid::evitar
+dumping::dumping
+respected::respeten
+scrupulously::escrupulosamente
+review::revisen
+here-::aquí-
+distort::distorsionan
+destroy::destruyen
+home::casa
+prevent::impidan
+distortions::distorsiones
+internal::internas
+move::trasladen
+traps::trampas
+below::debajo
+characterized::caracterizan
+tissue::tejido
+economic:::económico:
+small::pequeñas
+medium::medianas
+represent::representan
+element::elemento
+conjunction::conjunción
+universe::universo
+economic::económico
+guaranteed::garantizado
+layers::capas
+favored::favorecidas
+to intervene::intervenir
+gives::da
+privilege::privilegio
+mostly::mayoritariamente
+supports::respalda
+shown::mostrado
+total::total
+justified::justificada
+drive::conducir
+boat::barco
+Randzio-Plath::randzio-plath
+repeated::repetido
+Assembly-::asamblea-
+small::pequeña
+median::mediana
+plays::juega
+auctoritas::auctoritas
+legitimation::legitimación
+legitimacy::legitimidad
+how many::¡cuántas
+orientation::orientación
+Dadaist::dada
+he was::estuviera
+rules::reglas
+group::agrupar
+exist::existen
+concerns::preocupaciones
+fair::justo
+together:::juntos:
+risk::riesgo
+renationalisation::renacionalización
+coherence::coherencia
+reach::alcanzar
+guarantees::garantiza
+restrictions::restricciones
+thirty::treinta
+five::cinco
+adopted::adoptadas
+complaint-::denuncia-
+provides::aporta
+receive::reciben
+letter::carta
+administrative::administrativa
+archive::archivo
+Committee claims::figúrense
+raised::planteado
+problem:::problema:
+studying::estudiando
+reform::reforma
+lead to::conducirá
+progressive::progresivo
+I allow::permito
+I emphasize::subrayarlo
+called::llamado
+terms::términos
+Randzio-Plath::randzio-plath-
+culture::cultura
+provisions::disposiciones
+articles::artículos
+811::811
+apply::aplican
+judges::jueces
+decades::décadas
+received::recibido
+contributions::contribuciones
+provide::brindan
+cost-benefit::costo-beneficio
+thyssen::thyssen
+pyme::pyme
+underlined::subrayado
+dimension::dimensión
+confirm::confirmarle
+to ease::facilitar
+maintain::mantenemos
+relations::relaciones
+bilateral::bilaterales
+homologous::homólogas
+Japan::japón
+working::trabajando
+worldwide::mundial
+TRUE::verdadero
+volet::volet
+we will continue::continuaremos
+inter::interinstitucional
+Add::añadir
+To be continued::continuará
+value::valor
+civil::civil
+dead::muerto
+we find::encontramos
+undermine::minar
+apply for::solicitar
+ministry::ministerio
+sober::sobrio
+serene::sereno
+delicate::delicada
+interests::intereses
+community::comunidad
+watch out::cuidado
+respected::respetarse
+theato-::theato-
+competences::competencias
+affect::afectan
+would::quería
+little bit::poco
+far::lejos
+stadium::estadio
+basically::básicamente
+although::aunque
+we think::pensamos
+this::ésta
+treated::tratados
+guarantee::garantice
+penal::penal
+fiscal::fiscal
+figures::figuras
+crime::delictivas
+common::comunes
+idea::idea
+impossible::imposible
+take::llevarla
+order::ordenamiento
+judicial::judicial
+unthinkable::impensable
+legal::jurídicas
+substantive::sustantivas
+procedural::procesales
+speaker:::ponente:
+absolutely::absolutamente
+unacceptable::inaceptable
+fraud::fraude
+ratify::ratifican
+difficulties::dificultades
+raises::plantea
+evident::evidente
+has::dispone
+via::vía
+these::dichos
+prosecutable::perseguibles
+judicially::judicialmente
+Europeans::europeos-
+course::rumbo
+reasons::razones
+converted::convertido
+Independent::independiente
+Theato::theato
+essential::imprescindible
+excluded::excluida
+recommendation-::recomendación-
+transmit::transmita
+signal::señal
+Will::voluntad
+put::ponga
+normative::normativo
+situations::situaciones
+finish::acabado
+taking hold::arraigando
+increases::aumenta
+check::comprueba
+fragility::fragilidad
+protocols::protocolos
+signature::firma
+manifest::manifestar
+dedication::dedicación
+foundations::fundamentos
+legal::jurídicos
+create::crear
+institutional::institucionales
+intensify::intensificar
+detriment::detrimento
+feeds::alimenta
+iva::iva
+retention::retención
+gdp::pib
+abandonment::abandono
+Community::comunitaria
+multiplication::multiplicación
+free::libre
+disappear::desaparecer
+tariff::arancelarios
+levy::exacción
+regulatory::reguladora
+amputees::amputados
+spg::spg
+we see::vemos
+those::aquéllas
+perform::realizan
+operations::operaciones
+load::carga
+discharge::descarga
+imposed::imponía
+railway::ferrocarril
+navigable::navegable
+appointment::nombramiento
+transport::transporte
+right::adecuada
+which::cuales
+kept::mantenido
+position::posición
+develop::elaborar
+questionnaire::cuestionario
+statements::declaraciones
+certain::determinados
+documents::documentos
+exactly::exactamente
+difference:::diferencia:
+barnier::barnier
+confirme-::confirme-
+additionality::adicionalidad
+transitive::transitiva
+autonomous::autónomas
+Scotland::escocia
+stay::quede
+voted::votado
+coat::abrigo
+reservation::reserva
+reason::motivo
+I will support::apoyaré
+reasons::motivos
+calendar::calendario
+consulted::consultado
+late::tardía
+means::supone
+help::ayudar
+communities::colectividades
+1::1
+3::3
+theory::teoría
+answer::responder
+positively::positivamente
+petition::petición
+promotion::promoción
+coordinate::coordinar
+in::in
+if you::situ
+result::resulte
+centralizer::centralizador
+character::carácter
+effective::efectiva
+I'm going back::#NAME?
+repeat-::repetirlo-
+factors::factores
+negative::negativos
+converging::convergentes
+right::correctos
+substitution::sustitución
+geographical::geográfico
+sectoral::sectoriales
+result::resultar
+chance::ocasión
+maximize::potenciar
+urban::urbano
+sustainable::sostenible
+containment::contención
+growing::creciente
+phenomenon::fenómeno
+transfer::traslado
+massive::masivo
+industrialized::industrializados
+degradation::degradación
+valued::valorada
+grant::subvención
+global::global
+unfold::revelarse
+rebalancing::reequilibrio
+urban::urbanas
+bestowing::confiriendo
+just::justa
+dignity::dignidad
+entities::entidades
+autonomy::autonomía
+decide::determinar
+deadlines::plazos
+short::cortos
+contribute::contribuir
+concentration::concentración
+expediting::agilización
+bound::obligados
+diet::dieta
+emaciation::adelgazamiento
+motu::motu
+federalists::federalistas
+give::dan
+samples::muestras
+gluttony::glotonería
+pecuniary::pecuniaria
+result::resulta
+Clear::claro
+France:::francia:
+represent::representar
+105::105
+half::media
+Pays-de-Loire::pays-de-loire
+weakened::debilitado
+95::95
+91%::91%
+89::89
+83%::83%
+seem::parecer
+self-sacrificing::sacrificado
+destined::destinado
+industrial::industriales
+restructuring::reestructuración
+root::raíz
+benefit::beneficio
+3:00::3:00
+endowment::dotación
+1999-2006::1999-2006
+22500::22500
+like::parecida
+1994-1999::1994-1999
+insufficient::insuficiente
+I abstained::abstenido
+side::lado
+remember::recuerda
+substituted::substituido
+monopolies::monopolios
+private::privados
+privatizations::privatizaciones
+Portugal::portugal
+negative::negativas
+jam::atasco
+cause::causa
+notifications::notificaciones
+previous::previas
+agreements::acuerdos
+susceptible::susceptibles
+twist::torcer
+fear::temor
+growing::creciendo
+arrival::llegada
+previous::previa
+these::estos
+decentralized::descentralizada
+fr::fr
+we become::convertimos
+spokesmen::portavoces
+those::aquellas
+those::aquellos
+rejection::rechazo
+strict::estricta
+trade::mercantil
+I welcome::acojo
+I deplore::deplorado
+cover::cubra
+I hope::espero
+treats::atienda
+petitions::peticiones
+counted::contado
+like::semejantes
+I repeat::repito
+we believe::creemos
+check::revisar
+texts::textos
+applicable::aplicables
+protocol::protocolo
+exonerated::exonerado
+charterers::fletadores
+oil::petrolero
+charterer::fletador
+controls:::controles:
+pavilion::pabellón
+those::aquéllos
+society::sociedad
+Italian::italiano
+which::¿cuáles
+taken out::sacado
+take::sacar
+recite::recitar
+pull::tirón
+disasters::desastres
+I wear::llevo
+minutes::minutos
+I recognize::reconozco
+progress::avances
+minimum::mínima
+we follow::seguimos
+facing::afrontando
+deceased::difunto
+ken::ken
+He called::llamaba
+"ships
+the
+shame
+enter
+our
+waters
+the
+Union
+European
+out
+they:
+cubes
+rusty
+deficient"::"buques
+la
+vergüenza
+entran
+nuestras
+aguas
+la
+unión
+europea
+salen
+ellas:
+cubos
+oxidados
+deficiente"
+expresses::expresa
+zone::zona
+ransacked::saqueada
+express::expresó
+western::occidental
+He says::dice
+worst::peor
+happened::sucedido
+birds::aves
+real::real
+cree::cree
+400000::400000
+guillemots::araos
+mainly::principalmente
+pictures::fotografías
+drenched::empapadas
+Petroleum::petróleo
+veterinary::veterinarios
+official::oficiales
+they were::estaban
+sacrificing::sacrificando
+they were::eran
+distressing::penosas
+tragic::trágicas
+is:::es:
+how much::¿cuánto
+It will take::tardará
+achieve::lograr
+present::presenten
+directed::encaminadas
+political::político
+produced::produjera
+accident::accidente
+similar::similar
+devastating::devastador
+follow::siguieran
+simply::sencillamente
+beautiful::bonitas
+put them::ponerlas
+brought::traído
+present:::regalo:
+oil::aceite
+inhabitant::habitante
+writes::escribe
+following:::siguiente:
+3::3
+105::105
+95::95
+89::89
+83%::83%
+1999-2006::1999-2006
+1994-1999::1994-1999
 a::un
 an::un
 I::yo
