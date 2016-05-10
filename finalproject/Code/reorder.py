@@ -80,14 +80,15 @@ if __name__ == '__main__':
         columns = int(parsed.get_highest_column())
         word_props = defaultdict(list)
         for i in range(1, 62):
+            print i
             if parsed.cell(column = 1, row = i).value == 1:
-                if i == 1:
-                    continue
-                else:
+                print word_props
+                if i != 1:
                     sentences[sentence_no] = word_props
                     sentence_no +=1
                     word_props = defaultdict(list)
             word_props[parsed.cell(column = 2, row = i).value] =  [parsed.cell(column = 4, row = i).value, parsed.cell(column = 5, row = i).value,parsed.cell(column = 8, row = i).value]
+            print word_props
 
         verb_phrase = ""
         subj_phrase = ""
