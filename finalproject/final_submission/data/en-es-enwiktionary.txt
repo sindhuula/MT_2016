@@ -6685,17 +6685,17 @@ zirconium::circonio
 an::un
 a::un
 aa::aa
-Aachen::Aquisgrán
-aah::¡ay!,¡ah!
-açai::asaí
+Aachen::Aquisgr�n
+aah::�ay!,�ah!
+a�ai::asa�
 Aalenian::aaleniano
 Aalenian::aaleniano
 aali::ichirca
 aardvark::cerdo hormiguero
 aardwolf::lobo de tierra,proteles
-Aaron::Aarón
-Aaron::Aarón
-Aaroni::caarónico
+Aaron::Aar�n
+Aaron::Aar�n
+Aaroni::caar�nico
 abaka::abaca
 abandon::desenfreno
 abandon::renunciar,suspender
@@ -6708,25 +6708,25 @@ abandonment::abandono
 abandonment::abandono
 abarthrosis::diarthrosis
 abase::rebajar,degradar,humillar
-abasement::rebajamiento,abatimiento,humillación
+abasement::rebajamiento,abatimiento,humillaci�n
 abash::confundir,avergonzar,abochornar
 abash::edavergonzado
 abattage::abatage
 abate::reducir,suprimir,menguar
 abate::abatir,humillar
-abatement::disminución
+abatement::disminuci�n
 abattoir::matadero
 abbatial::abacial
 abbess::abadesa
-abbey::abadía
-abbey::abadía
-abbeystead::abadía
+abbey::abad�a
+abbey::abad�a
+abbeystead::abad�a
 abbot::abad
 abbreviate::abreviar
 abbreviate::simplificar
 abbreviated::abreviado
-abbreviation::abreviación
-abbreviation::abreviación
+abbreviation::abreviaci�n
+abbreviation::abreviaci�n
 abbreviature::abreviatura
 abciximab::abciximab
 abdest::abdesto
@@ -6734,7 +6734,7 @@ abdicate::abdicar
 abdicate::abdicar
 abdicate::abdicar
 abdicate::abdicar
-abdication::abdicación
+abdication::abdicaci�n
 abdomen::abdomen,vientre
 abdominal::abdominal
 abdominoplasty::abdominoplastia
@@ -6743,8 +6743,8 @@ abduct::raptar,secuestrar
 abduct::abducir
 abduction::rapto,secuestro
 abduction::rapto
-abduction::abducción
-abduction::abducción
+abduction::abducci�n
+abduction::abducci�n
 abductor::raptor,secuestrador
 abductor::abductor
 Abecedarian::abecedariano
@@ -6754,21 +6754,21 @@ Abelard::Abelardo
 Abelian::abelonita
 abelian group::grupo abeliano
 abelmosk::abelmosco
-aberrance::aberración
-aberrant::anómalo,atípico
+aberrance::aberraci�n
+aberrant::an�malo,at�pico
 aberrant::aberrante
 aberrant::aberrante,anormal
-aberration::aberración,perturbación mental
-aberration::aberración
-aberration::aberración
-aberration::aberración
-aberration::aberración
+aberration::aberraci�n,perturbaci�n mental
+aberration::aberraci�n
+aberration::aberraci�n
+aberration::aberraci�n
+aberration::aberraci�n
 abessive case::caso abesivo
 abet::incitar
 abet::ayudar
-abettor::cómplice
+abettor::c�mplice
 abeyance::expectativa,esperanza,suspenso
-abeyance::suspensión,desuso,suspenso
+abeyance::suspensi�n,desuso,suspenso
 abhor::aborrecer,detestar,abominar
 abhorrence::aborrecimiento
 abhorrence::aborrecimiento,odio,repugnancia
@@ -6779,15 +6779,14 @@ abide::quedar,permanecer
 abide::tolerar,soportar
 abide by::someterse
 abide by::someterse a,adherirse a,observar
-Abidjan::Abiyán
-Abigail::Abigaíl
-Abigail::Abigaíl,Abigail
+Abidjan::Abiy�n
+Abigail::Abiga�l
+Abigail::Abiga�l,Abigail
 abigeat::abigeato
 ability::capacidad,habilidad
-abilityhabilidad,capacidad
+ability::habilidad,capacidad
 Abimelech::Abimelech
-a bird in the hand is worth two in the bush::más vale pájaro en mano que ciento volando
-a bit::
+a bird in the hand is worth two in the bush::m�s vale p�jaro en mano que ciento volando
 a bit much::demasiado
 abiu::caimito
 abjad::abyad,abjad
@@ -6798,48 +6797,47 @@ Abkhaz::abjasio
 Abkhaz::abjasio
 Abkhaz::abjaso,abjasio
 Abkhazia::Abjasia
-ablation::ablación
-ablationablación
+ablation::ablaci�n
+ablation::ablaci�n
 ablative case::ablativo
-ablautapofonía
-ablazeardiendo,en llamas
+ablaut::apofon�a
+ablaze::ardiendo,en llamas
 ablaze::radiante,ardiente,resplandeciente
 ablaze::en llamas
-able     healthy::
 able::competente
 able::capaz
-able::diestro,hábil,capaz
+able::diestro,h�bil,capaz
 -able::-able,-ible
-ablution::ablución
-ablution::ablución
-ablycapaz,hábilmente
-abnegateabnegar
+ablution::abluci�n
+ablution::abluci�n
+ably::capaz,h�bilmente
+abnegate::abnegar
 abnegate::rechazar
-abnegation::abnegación
-abnormalanormal
+abnegation::abnegaci�n
+abnormal::anormal
 abnormal::anormal
 abnormality::anormalidad
 abnormally::anormalmente
 aboard::en base
-aboarda bordo
+aboard::a bordo
 aboard::a bordo de
 abode::morada,residencia,vivienda
 abolish::abolir,suprimir,abrogar,quitar
 abolish::destrozar
-abolishment::abolición
-abolition::abolición
-abolitionistabolicionista
-A-bomb::bomba atómica
+abolishment::abolici�n
+abolition::abolici�n
+abolition::isbolicionista
+A-bomb::bomba at�mica
 abominable::abominable,aborrecible
 abominable snowman::abominable hombre de las nieves
 abominably::abominablemente
 abominate::abominar,detestar
-abomination::abominación
-abomination::abominación,maldad
-aboriginal::aborigen,indígena
+abomination::abominaci�n
+abomination::abominaci�n,maldad
+aboriginal::aborigen,ind�gena
 Aboriginal::aborigen,aboriginal
 Aboriginal::aborigen
-aborigine::aborigen,indígena
+aborigine::aborigen,ind�gena
 abort::aborto
 abort::abortar
 aborted::abortado
@@ -6880,26 +6878,26 @@ above::arriba
 above::arriba,sobre,encima
 above::sobre
 above all::sobre todo
-aboveboard::legítimo,sincero
-above the curve::adelantado de su época
+aboveboard::leg�timo,sincero
+above the curve::adelantado de su �poca
 above the law::por encima de la ley
 abrade::escoriar,raspar
-Abraham::Abraham,Abrahán
-Abraham::Abraham,Abrahán
+Abraham::Abraham,Abrah�n
+Abraham::Abraham,Abrah�n
 Abram::Abram
-abrasion::abrasión
-abrasion::rasguño,raspadura
-abrasion::erosión
+abrasion::abrasi�n
+abrasion::rasgu�o,raspadura
+abrasion::erosi�n
 abrasive::abrasivo
 abrasive::brusco,irritante
-abrasively::ásperamente
-abrasively::ásperamente,desabridamente
+abrasively::�speramente
+abrasively::�speramente,desabridamente
 abreast::de lado a lado
 abridge::abreviar,condensar,compendiar
 abridge::privar
 abridge::abreviar,resumir
 abridge::dabreviado
-abridgment::abreviación,compendio
+abridgment::abreviaci�n,compendio
 abroad::por todas partes,en todas direciones
 abroad::en el extranjero,en el exterior
 abroad::al exterior
@@ -6909,40 +6907,40 @@ abrupt::abrupto
 abrupt::abrupto,brusco,cortante
 abrupt::abrupto,brusco
 abrupt::brusco,abrupto
-abrupt::repentino,súbito
+abrupt::repentino,s�bito
 abruptly::abruptamente
 abruptly::precipitadamente
-Absalom::Absalón
-Absalom::Absalón
-abscess::absceso,flemón
+Absalom::Absal�n
+Absalom::Absal�n
+abscess::absceso,flem�n
 abscissa::abscisa
-abscission::abscisión
+abscission::abscisi�n
 abscond::fugarse,evadirse
 abscond::huir,fugarse
 absence::ausencia
 absence::ausencia
 absence::ausencia,falta
 absent::ausente
-absent::ausente,distraído
+absent::ausente,distra�do
 absent::ausente
 absent::ausentarse
 absentee::ausente
-absent-mind::eddistraído
+absent-mind::eddistra�do
 absinth::eajenjo,absintio
 absinthe::ajenjo
 absinthin::absintina
 absolute::absoluto
 absolute::completo,pleno
 absolutely::totalmente,absolutamente
-absolute monarchy::monarquía absoluta
+absolute monarchy::monarqu�a absoluta
 absolute superlative::superlativo absoluto
 absolute value::valor absoluto
 absolute value::valor absoluto
 absolute zero::cero absoluto
-absolution::absolución
-absolution::absolución
-absolution::absolución
-absolution::absolución
+absolution::absoluci�n
+absolution::absoluci�n
+absolution::absoluci�n
+absolution::absoluci�n
 absolutist::absolutista
 absolutive case::caso absolutivo
 absolve::absolver,exculpar
@@ -6955,8 +6953,8 @@ absorbency::absorbencia
 absorbent::absorbente
 absorbent::absorbente
 absorbing::absorbente
-absorption::absorción
-absorption::concentración
+absorption::absorci�n
+absorption::concentraci�n
 abstain::abstenerse
 abstain::retener
 abstain::abstenerse
@@ -6965,9 +6963,9 @@ abstemious::sobrio,abstemio
 abstemious::abstemio
 abstemious::sobrio
 abstemious::abstemio
-abstention::abstención
+abstention::abstenci�n
 abstergent::abstergente
-abstersion::abstersión
+abstersion::abstersi�n
 abstersive::abstersivo
 abstinence::vigilia,abstinencia
 abstinence::abstinencia del alcohol
@@ -6975,38 +6973,37 @@ abstinence::vigilia
 abstinent::abstinente
 abstract::abstracto
 abstract::resumen,extracto
-abstract::abstracción
+abstract::abstracci�n
 abstract::arte abstracto
 abstract::extracto
 abstract::abstraer,extraer
-abstraction::abstracción
+abstraction::abstracci�n
 abstractionism::abstraccionismo
 abstractionist::abstraccionista
 abstract noun::sustantivo abstracto
-abstract of title::resumen de título
+abstract of title::resumen de t�tulo
 abstruse::abstruso
 absurd::absurdo
 absurd::absurdo
 absurd::absurdo
-absurdism    absurdity::
-absurdism::absurdismo,filosofía del absurdo
+absurdism::absurdismo,filosof�a del absurdo
 absurdity::absurdo
 Abu Dhabi::Abu Dabi
 Abuja::Abuya
 abulia::abulia
-abulicab::úlico
+abulicab::�lico
 abundance::abundancia
 abundant::abundante,copioso,cuantioso
 abundantly::abundantemente
-abundant number::número abundante
+abundant number::n�mero abundante
 Abundius::Abundio
 abuse::abuso
 abuse::abuso
 abuse::abuso sexual
 abuse::abusar
-abuse::engañar
+abuse::enga�ar
 abuse::violar
-abuse of discretion::abuso de discreción
+abuse of discretion::abuso de discreci�n
 abuser::abusador
 abusive::abusivo
 abut::bordear
@@ -7022,19 +7019,19 @@ Abyssinian::abisinio,abisinia
 abzyme::abzima
 AC::CA,corriente alterna
 acacia::acacia
-academic::académico
-academic::académico,escolar
-academic::académico,escolar
-academically::académicamente
-academician::académico
-academician::académico,académica,academista
+academic::acad�mico
+academic::acad�mico,escolar
+academic::acad�mico,escolar
+academically::acad�micamente
+academician::acad�mico
+academician::acad�mico,acad�mica,academista
 academy::academia
 academy::academia
 academy::cantera
 Acadian::acadio
 acalycine::acalicino
-acanthaceous::acantáceo
-acanthaceous::acantáceo
+acanthaceous::acant�ceo
+acanthaceous::acant�ceo
 acanthocyte::acantocito
 acanthus::acanto
 acanthus::acanto
@@ -7049,12 +7046,12 @@ accelerate::acelerar
 accelerate::acelerarse
 accelerate::acelerar,apresurar
 accelerate::acelerar
-acceleration::aceleración
-acceleration::aceleración
+acceleration::aceleraci�n
+acceleration::aceleraci�n
 accelerator::acelerador,chala,chancla,chancleta,chola
 accelerator::acelerador
 accelerator::acelerador
-accelerometer::acelerómetro
+accelerometer::aceler�metro
 accent::acento
 accent::acento
 accent::acento
@@ -7066,82 +7063,82 @@ accentor::acentor
 accentuate::acentuar
 accentuate::acentuar
 accentuate::acentuar
-accentuation::acentuación
+accentuation::acentuaci�n
 accept::aceptar
 accept::aceptar
 accept::aceptar
 acceptability::aceptabilidad
 acceptable::aceptable
-acceptance::aceptación
-acceptance::aceptación
+acceptance::aceptaci�n
+acceptance::aceptaci�n
 acceptor::aceptador
-accept service::recibir la notificación,darse por notificado
+accept service::recibir la notificaci�n,darse por notificado
 access::acceso
 access::acceso
 access::acceso
 access::acceder
 access::acceder
-access code::código de acceso
+access code::c�digo de acceso
 accessibility::accesibilidad
 accessible::accesible,asequible
 accessible::accesible
 accession::ascenso
-accessory::cómplice
+accessory::c�mplice
 accessory::accesorio,auxiliar
 accessory::accesorio
-accessory::cómplice
+accessory::c�mplice
 accessory::accesorio,complemento
-accessory after the fact::cómplice encubridor,encubridor
-accessory before the fact::cómplice,instigador,instigador,inductor
+accessory after the fact::c�mplice encubridor,encubridor
+accessory before the fact::c�mplice,instigador,instigador,inductor
 accessory fruit::infrutescencia
 accident::accidente
 accident::accidente
 accidental::accidental,casual,imprevisto,fortuito
 accidentally::accidentalmente
-acclaim::aclamación
+acclaim::aclamaci�n
 acclaim::gritar
 acclaim::aclamar,aplaudir
 acclaim::aclamar
 acclaim::aclamar
-acclamation::aclamación
+acclamation::aclamaci�n
 acclimate::aclimatar
 acclimation::acclimatization
-acclimatization::aclimatación
+acclimatization::aclimataci�n
 acclimatize::aclimatarse
 acclimatize::aclimatarse
 accoil::coil
 accolade::elogio
 accolade::acolada
-accolade::galardón
+accolade::galard�n
 accommodate::acomodar
 accommodate::acomodar,adaptar
 accommodate::satisfacer
 accommodational::ojamiento,hospedaje
-accompaniment::acompañamiento
-accompaniment::acompañamiento
-accompanist::acompañante
-accompany::acompañar
-accompany::acompañar
-accompany::acompañar
-accomplice::cómplice
-accomplice::cómplice
+accompaniment::acompa�amiento
+accompaniment::acompa�amiento
+accompanist::acompa�ante
+accompany::acompa�ar
+accompany::acompa�ar
+accompany::acompa�ar
+accomplice::c�mplice
+accomplice::c�mplice
 accomplish::efectuar,realizar,lograr
 accomplish::completar
 accomplished::logrado,realizado,cumplido,consumado
-accomplishment::logro,éxito
+accomplishment::logro,�xito
 accord::acuerdo
 accord::acuerdo,convenio
 accord::acordar,concordar con
 accordance::acuerdo,conformidad
 accordingly::en consecuencia
 accordingly::por consiguiente,consecuentemente
-according to::según,acorde a
-according to::según,acorde a,de acuerdo a
-accordion::acordeón
+according to::seg�n,acorde a
+according to::seg�n,acorde a,de acuerdo a
+accordion::acorde�n
 accordionist::acordeonista
 accost::acercarse a
 account::cuenta
-account::cálculo
+account::c�lculo
 account::reporte
 account::reporte
 account::cuenta
@@ -7157,28 +7154,27 @@ accountant::contable,contador
 accounting::contabilidad
 accounts payable::cuentas pendientes de pago,cuentas a pagar
 accounts receivable::deuda activa
-account statement    bank statement::
 account to::responder a
 Accra::Acra
 accredit::acreditar
 accredit::acreditar
-accreditation::acreditación,homologación
-accretion::aumento,crecimiento,acreción,acrecencia
+accreditation::acreditaci�n,homologaci�n
+accretion::aumento,crecimiento,acreci�n,acrecencia
 accretion disk::disco de acrecimiento
-accrual::incremento,acumulación
+accrual::incremento,acumulaci�n
 accrue::acrecentar,acumular,aumentar
 accrue::adquirir
 accrue::devengar
-acculturation::aculturación
+acculturation::aculturaci�n
 acculture::aculturar
 accumulate::acumular,amontonar
 accumulate::acumularse
-accumulation::acumulación
+accumulation::acumulaci�n
 accumulator::acumulador
-accuracy::exactitud,precisión
+accuracy::exactitud,precisi�n
 accurate::preciso,exacto,justo,correcto
-accusation::acusación
-accusation::acusación
+accusation::acusaci�n
+accusation::acusaci�n
 accusative::acusativo
 accusative::acusativo
 accusative::acusativo,caso acusativo,complemento directo
@@ -7198,7 +7194,7 @@ ace::ace
 ace in the hole::as en la manga
 acenaphthene::acenafteno
 acene::aceno,poliaceno
-ace of clubs::as de tréboles
+ace of clubs::as de tr�boles
 ace of diamonds::as de diamantes,as de oros
 ace of hearts::as de corazones
 ace of spades::as de picos
@@ -7208,15 +7204,15 @@ acerbic::acerbo
 acerbity::amargura
 acerola::acerola,semeruco
 acetal::acetal
-acetaldehyde::acetaldehído
-acetalization::acetalización
+acetaldehyde::acetaldeh�do
+acetalization::acetalizaci�n
 acetamide::acetamida
 acetate::acetato
-acetic::acético
-acetic::acético
-acetic acid::ácido acético
+acetic::ac�tico
+acetic::ac�tico
+acetic acid::�cido ac�tico
 acetify::acetificar
-acetimeter::acetímetro
+acetimeter::acet�metro
 acetone::acetona
 acetonitrile::acetonitrilo
 acetyl::acetil,acetilo
@@ -7225,77 +7221,73 @@ acetylcholine::acetilcolina
 acetylcholinesterase::acetilcolinesterasa
 acetylene::acetileno
 acetylglucosamine::acetilglucosamina
-acetylneuraminic::acetilneuramínico
-acetylneuraminic acid::ácido acetilneuramínico
-acetylsalicylic::acetilsalicílico
-acetylsalicylic acid::ácido acetilsalicílico
-a chain is only as strong as its weakest link::una cadena es tan fuerte como su eslabón más débil
+acetylneuraminic::acetilneuram�nico
+acetylneuraminic acid::�cido acetilneuram�nico
+acetylsalicylic::acetilsalic�lico
+acetylsalicylic acid::�cido acetilsalic�lico
+a chain is only as strong as its weakest link::una cadena es tan fuerte como su eslab�n m�s d�bil
 ache::dolor
 ache::doler,sufrir
-ache for::anhelar,ansiar
-acheilia    liplessness::
-acheilous    lipless::
-achelate    clawless::
+ache for::anhelar,ansia
 achene::aquenio
-Acheron::Aqueronte,Aquerón
+Acheron::Aqueronte,Aquer�n
 achieve::conseguir,lograr
 achieve::lograr,realizar
 achieve::conseguir,lograr
 achievement::logro
 achievement::logro
-achievement::realización,logro
+achievement::realizaci�n,logro
 Achilles::Aquiles
-Achilles heel::talón de Aquiles
-Achilles tendon::tendón aquíleo,tendón de Aquiles,tendón calcáneo
+Achilles heel::tal�n de Aquiles
+Achilles tendon::tend�n aqu�leo,tend�n de Aquiles,tend�n calc�neo
 achondroplasia::acondroplasia
-achoo::¡achís!
-achromatic::acromático
-achromatic::acromático
-achromatic::acromático
+achoo::�ach�s!
+achromatic::acrom�tico
+achromatic::acrom�tico
+achromatic::acrom�tico
 achromatism::acromatismo
-acid::agrio,ácido
-acid::ácido
+acid::agrio,�cido
+acid::�cido
 acid::malhumorado
-acid::ácido
-acid::ácido
-acidicácido
-acidic::ácido
-acidification::acidificación
+acid::�cido
+acid::�cido
+acidic�cido
+acidic::�cido
+acidification::acidificaci�n
 acidify::acidificar
-acidimeter::acidímetro
-acidimetry::acidimetría
+acidimeter::acid�metro
+acidimetry::acidimetr�a
 acidity::acidez
-acidophile::acidófilo
+acidophile::acid�filo
 acidophilia::acidofilia
 acidosis::acidosis
-acid rain::lluvia ácida
+acid rain::lluvia �cida
 acid test::prueba de fuego
 acinaces::acinace
-acinesic    akinesic::
 acknowledge::acusar recibo
 acknowledged::reconocido,aceptado,admitido
 acknowledgement::reconocimiento
 acknowledgement::reconocimiento
 acknowledgment::reconocimiento
-aclinic::aclínico
-acme::colmo,apogeo,cúspide
-acne::acné
-acne::acné
+aclinic::acl�nico
+acme::colmo,apogeo,c�spide
+acne::acn�
+acne::acn�
 acolyte::ayudante
-aconiteacónito
+aconiteac�nito
 acorn::bellota
 acorn squash::calabaza bellota
 acorn woodpecker::carpintero bellotero
-acoustic::acústico
-acoustic::acústico
-acoustical::acústico
-acoustically::acústicamente
-acoustic guitar::guitarra acústica
-acoustics::acústica
-acoustics::acústica
+acoustic::ac�stico
+acoustic::ac�stico
+acoustical::ac�stico
+acoustically::ac�sticamente
+acoustic guitar::guitarra ac�stica
+acoustics::ac�stica
+acoustics::ac�stica
 acquaint::dar a conocer
 acquaint::familiarizar
-acquaintance::amistad,conocimiento,junta,relación,trato
+acquaintance::amistad,conocimiento,junta,relaci�n,trato
 acquaintance::conocido,conocida
 acquainted::conocido
 acquiesce::conformarse,quiescer
@@ -7304,75 +7296,74 @@ acquiescence::aquiescencia,consentimiento
 acquirable::adquirible
 acquire::obtener
 acquire::adquirir
-acquired immune deficiency syndrome::síndrome de inmunodeficiencia adquirida
-acquisition::adquisición
+acquired immune deficiency syndrome::s�ndrome de inmunodeficiencia adquirida
+acquisition::adquisici�n
 acquisitive::adquisitivo,codicioso
 acquisitor::adquirente,adquiriente
 acquit::absolver,exculpar
 acquit::exculpar
-acquittalabsolución
+acquittal::absoluci�n
 acrasia::acrasia
 acre::acre
 acreage::superficie medida en acres
 acrid::acre
 acrid::acre,mordaz
-acrimonious::áspero,cáustico,sarcástico
+acrimonious::�spero,c�ustico,sarc�stico
 acrimony::acrimonia
-acrobat::acróbata,saltimbanqui,equilibrista
-acrobatic::acrobático
-acrobatics::acrobática
-acrolein::acroleína
+acrobat::acr�bata,saltimbanqui,equilibrista
+acrobatic::acrob�tico
+acrobatics::acrob�tica
+acrolein::acrole�na
 acromegaly::acromegalia
 acromial::acromial,acromiano
-acronym::acrónimo
-acropolis::acrópolis
-Acropolis::Acrópolis
-across::através,atravesado
+acronym::acr�nimo
+acropolis::acr�polis
+Acropolis::Acr�polis
+across::atrav�s,atravesado
 across::al otro lado de
 across the board::generalizado
-acrostic::acróstico
-acrostical::acróstico
+acrostic::acr�stico
+acrostical::acr�stico
 acrylamide::acrilamida
 acrylate::acrilato
-acrylic::acrílico
-acrylic::acrílico
-acrylic acid::ácido acrílico
+acrylic::acr�lico
+acrylic::acr�lico
+acrylic acid::�cido acr�lico
 acrylonitrile::acrilonitrilo
 act::acto
 act::hecho
-act::acto,acción
+act::acto,acci�n
 act::ley
 act::actuar
 act::comportarse
 act::actuar
 actin::actina
 actingen funciones,suplente
-acting::actuación
-actinic::actínico
-actinide::actínido
+acting::actuaci�n
+actinic::act�nico
+actinide::act�nido
 actinism::actinismo
 actinium::actinio
-actinometer::actinómetro
-actinometric::actinométrico
-actinomorphous    actinomorphic::
+actinometer::actin�metro
+actinometric::actinom�trico
 actinomycosis::actinomicosis
-action::acción
-actionacción
-action::acción
-action::acción
-action plan::plan de acción
+action::acci�n
+action::acci�n
+action::acci�n
+action::acci�n
+action plan::plan de acci�n
 actions speak louder than words::obras son amores,que no buenas razones
 activate::activar
 activate::activar
-activated carbon::carbón activado,carbón grafitizado
-activation::activación
-activation::activación
+activated carbon::carb�n activado,carb�n grafitizado
+activation::activaci�n
+activation::activaci�n
 activator::activador
 active::activo
 active ingredient::principio activo
-actively::activamente,enérgicamente
+actively::activamente,en�rgicamente
 active voice::voz activa
-active volcano::volcán activo
+active volcano::volc�n activo
 activism::activismo
 activist::activista
 activity::actividad
@@ -7387,7 +7378,7 @@ actual::actual,real
 actuality::realidad
 actually::en realidad,de hecho,realmente,de hecho,de veras,de vero
 actuary::actuario
-actuatoractivador
+actuator::activador
 acuity::acuidad,agudeza
 acumen::perspicacia
 acuminate::acuminado
@@ -7396,27 +7387,27 @@ acute::grave
 acute::agudo
 acute::agudo,perspicaz,sagaz
 acute accent::acento agudo
-acute angle::ángulo agudo
+acute angle::�ngulo agudo
 acutely::intensamente
 acyl::acil,acilo
-acyl::glycerol::acilglicerol
+acyl glycerol::acil glicerol
 AD::d.C.,
-adage::adagio,refrán,dicho
-Adam::Adam,Adán
-Adam::Adán
-Adam and Eve::Adán y Eva
-adamant::firme,categórico,inflexible,impenetrable,obstinado
+adage::adagio,refr�n,dicho
+Adam::Adam,Ad�n
+Adam::Ad�n
+Adam and Eve::Ad�n y Eva
+adamant::firme,categ�rico,inflexible,impenetrable,obstinado
 adamant::adamantino
 adamantane::adamantano
-Adam's apple::bocado de Adán,nuez,nuez de Adán,manzana de Adán
+Adam's apple::bocado de Ad�n,nuez,nuez de Ad�n,manzana de Ad�n
 adapt::adaptado
 adapt::adaptar,ajustar
 adapt::adaptarse
 adaptability::adaptabilidad,flexibilidad
 adaptable::adaptable,amoldable
-adaptation::ajuste,modificación
-adaptation::adaptación,modificación
-adaptation::versión
+adaptation::ajuste,modificaci�n
+adaptation::adaptaci�n,modificaci�n
+adaptation::versi�n
 adapter::adaptador
 adapter::adaptador
 adapter::adaptador
@@ -7424,76 +7415,76 @@ adapter::adaptador
 adaptive::adaptable
 adaptive::adaptativo
 adaptive::adaptativo
-add::añadir
-add::añadir
+add::a�adir
+add::a�adir
 add::adicionar,sumar
-addedly::también
+addedly::tambi�n
 adder::serpiente,culebra
-adder::víbora
-add fuel to the fire::echar leña al fuego
-addict::drogadicto,adicto,toxicómano
-addict::causar adicción en,volver adicto
+adder::v�bora
+add fuel to the fire::echar le�a al fuego
+addict::drogadicto,adicto,toxic�mano
+addict::causar adicci�n en,volver adicto
 addicted::adicto
-addiction::adicción
-addiction::adicción
+addiction::adicci�n
+addiction::adicci�n
 addictive::enviciador,adictivo
-add insult to injury::echar leña al fuego
-Addis Ababa::Adís Abeba
-addition::suma,adición
-addition::adición,añadidura
-addition::adición
-additional::adicional,extra,de más
-additionally::adicionalmente,además
+add insult to injury::echar le�a al fuego
+Addis Ababa::Ad�s Abeba
+addition::suma,adici�n
+addition::adici�n,a�adidura
+addition::adici�n
+additional::adicional,extra,de m�s
+additionally::adicionalmente,adem�s
 additive::aditivo
 addle::confundir,enturbiar
-add-on::extensión
-address::dirección
+add-on::extensi�n
+address::direcci�n
 address::dirigir
 address::dirigir
 address book::directorio,agenda de direcciones,libreta de direcciones
 addressee::destinatario,consignatario
-adduction::aducción
+adduction::aducci�n
 adductor::aductor
 Adela::Adela
 Adelaide::Adelaida
 Adelaide::Adelaida
-Adelie penguin::pingüino adelia
-Aden::Adén
-adenectomy::adenectomía
+Adelie penguin::ping�ino adelia
+Aden::Ad�n
+adenectomy::adenectom�a
 adenine::adenina
 adenitis::adenitis
 adenoid::adenoide
-adenoidectomy::adenoidectomía
+adenoidectomy::adenoidectom�a
 adenosine::adenosina
-adenosine triphosphate::trifosfato de adenosina,adenosín trifosfato
-adept::experto,hábil
+adenosine triphosphate::trifosfato de adenosina,adenos�n trifosfato
+adept::experto,h�bil
 adept::experto,experta
 adequacy::cantidad suficiente
 adequate::adecuado
 adequately::adecuadamente
 adessive case::caso adesivo
-adhan::llamada a la oración,adhan
+adhan::llamada a la oraci�n,adhan
 adhere::pegarse,adherirse
 adhere::adherirse a,cumplir con
-adherence::adhesión
+adherence::adhesi�n
 adherent::adhesivo
 adherent::adherente
 adherent::adherente
-adhesion::adhesión
-adhesion::adhesión
+adhesion::adhesi�n
+adhesion::adhesi�n
 adhesive::adhesivo
 adhesive::adhesivo
 adhesive capsulitis::capsulitis adhesiva
 adhesive tape::cinta adhesiva, celo, cinta pegante,cinta Scotch, diurex,fixo,tape, teipe, teipi,cinta escocesa
 ad hoc::ad hoc
-adiabatic::adiabático
-adieu::adiós
-adieu::adiós
+adiabatic::adiab�tico
+adieu::adi�s
+adieu::adi�s
 Adige::Adigio
-ad infinitum::al infinito,indefinidamente,sinfín
+ad infinitum::al infinito,indefinidamente,sinf�n
 adipate::adipato
-adipic::adípico
-adipic acid::ácido adípico
+adipic::ad�pico
+adipic acid::�cido ad�pico
 adipocere::adipocira
 adiponectin::adiponectina
 adipose::adiposo
@@ -7506,14 +7497,14 @@ adjectival::adjetival,adjetivo
 adjective::adjetivo
 adjective::adjetivo
 adjective::adjetivar
-adjectivization::adjetivación
+adjectivization::adjetivaci�n
 adjoin::lindar con,colindar con
 adjoining::contiguo,colindante
 adjoint::matriz de adjuntos,matriz de cofactores
 adjourn::suspender,posponer,diferir
 adjourn::aplazar,posponer
 adjourn::suspender
-adjournment::suspensión
+adjournment::suspensi�n
 adjudicate::adjudicar,juzgar
 adjudicate::juzgar
 adjudicator::juez
@@ -7524,7 +7515,7 @@ adjust::ajustar
 adjustable::ajustable,regulable,graduable
 adjustable spanner::llave inglesa
 adjusted::ajustado
-adjustment::ajuste,modificación
+adjustment::ajuste,modificaci�n
 adjutant::ayudante
 adjuvant::adyuvante
 ad lib::improvisado
@@ -7532,9 +7523,9 @@ ad lib::a voluntad
 ad-lib::improvisar
 administer::administrar
 administer::administrar
-administration::administración
-administration::administración
-administration::administración
+administration::administraci�n
+administration::administraci�n
+administration::administraci�n
 administrative::administrativo
 administratively::administrativamente
 administrator::administrador
@@ -7543,31 +7534,31 @@ admirable::admirable,loable
 admirably::admirablemente
 admiral::almirante
 admiral::almirante
-Admiral of the Fleet::Capitán General de la Armada
+Admiral of the Fleet::Capit�n General de la Armada
 admiralty::almirantazgo
-admiralty law::derecho marítimo,derecho de la navegación
-admiration::admiración
+admiralty law::derecho mar�timo,derecho de la navegaci�n
+admiration::admiraci�n
 admire::admirar
 admirer::admirador,admiradora
-admiring::admirativo,de admiración
-admiringly::con admiración
+admiring::admirativo,de admiraci�n
+admiringly::con admiraci�n
 admissible::admisible,aceptable
-admission::admisión
-admission::admisión,confesión
-admission::admisión
+admission::admisi�n
+admission::admisi�n,confesi�n
+admission::admisi�n
 admit::admitir,dar entrada
 admit::dejar entrar
 admit::admitir,reconocer
-admittance::admisión
-admittance::entrada,admisión
+admittance::admisi�n
+admittance::entrada,admisi�n
 admittance::admitancia
 admittedly::la verdad es que,lo cierto es que,es cierto que
-admixture::adición,mezcla
+admixture::adici�n,mezcla
 admonish::amonestar,reprender
-admonition::admonición
+admonition::admonici�n
 admonitory::admonitorio
 adnate::adnato
-ad nauseam::ad náuseam,hasta la náusea
+ad nauseam::ad n�useam,hasta la n�usea
 adobe::adobe
 adolescence::adolescencia
 adolescent::adolescente
@@ -7578,28 +7569,28 @@ adopt::adoptar,ahijar
 adopt::adoptar
 adoptable::adoptable
 adoptee::adoptado,adoptada
-adoption::adopción
-adoption::adopción
-adoption::adopción
+adoption::adopci�n
+adoption::adopci�n
+adoption::adopci�n
 adoptive::adoptivo
 adoptive father::padre adoptivo
 adoptive mother::madre adoptiva
 adorable::adorable,encantador
-adoration::adoración
-adoration::adoración
-adoration::adoración
+adoration::adoraci�n
+adoration::adoraci�n
+adoration::adoraci�n
 adore::adorar
 adore::querer
 adorn::adornar,ornar,engalanar
-adornment::adorno,decoración
+adornment::adorno,decoraci�n
 adrenal::adrenal
-adrenalectomy::adrenalectomía
+adrenalectomy::adrenalectom�a
 adrenaline::adrenalina
-adrenergic::adrenérgico
-adrenergic::adrenérgico
+adrenergic::adren�rgico
+adrenergic::adren�rgico
 adrenocorticotropic::adrenocorticotropo
-Adrian::Adriano,Adrián
-Adriatic Sea::mar Adriático
+Adrian::Adriano,Adri�n
+Adriatic Sea::mar Adri�tico
 adrift::a la deriva
 adrift::a la deriva
 adroitness::destreza,habilidad
@@ -7612,2251 +7603,1953 @@ adultadulto,adulta
 adulter    adulterate::
 adulterant::adulterante
 adulterate::adulterar
-adulteration::adulteración
-adultereradúltero
-adulteress::adúltera
-adulterous::adúltero
+adulteration::adulteraci�n
+adultererad�ltero
+adulteress::ad�ltera
+adulterous::ad�ltero
 adulteryadulterio
 adulthood::edad adulta,adultez
 advance::adelanto,avance
 advance::avance,progreso
-advanceavanzar
-advancedavanzado
+advance::avanzar
 advanced::avanzado
-advancementascenso,progreso
-advancement    advance payment::
-advantageventaja
+advanced::avanzado
+advancement::ascenso,progreso
+advantage::ventaja
 advantage::ventaja
 advantage::beneficio,provecho
 advantage::ventaja
 advantageous::ventajoso,provechoso
 advantageously::ventajosamente
-advection    along with a concurrent transport of its temperature,humidity etc.)::advección
-adventadvenimiento,venida
-advent    Advent::
+advection    along with a concurrent transport of its temperature,humidity etc.)::advecci�n
+advent::advenimiento,venida
 Advent::Adviento
 Advent::Adviento
 adventitious::aleatorio
-adventitiousexógeno
-adventitious::ectópico,adventicio,auxiliar
+adventitious::ex�geno
+adventitious::ect�pico,adventicio,auxiliar
 adventitious::adquirido
-adventureaventura
 adventure::aventura
 adventure::aventura
 adventure::aventura
-adventureraventurero,aventurera
-adventurousintrépido,aventurero
+adventure::aventura
+adventurer::aventurero,aventurera
+adventurous::intr�pido,aventurero
 adventurous::aventurado,arriesgado
-adverbadverbio
-adverbialadverbial
-adverbial clause::expresión adverbial
-adverbialization::adverbialización
+adverb::adverbio
+adverbial::adverbial
+adverbial clause::expresi�n adverbial
+adverbialization::adverbializaci�n
 adverbialize::adverbializar
 adverbial participle::gerundio
-adverbial phrase::locución adverbial
-adversaryadversario,adversaria
-adverseadverso,desfavorable
+adverbial phrase::locuci�n adverbial
+adversary::adversario,adversaria
+adverse::adverso,desfavorable
 adverse::contrario
 adverse::opuesto
 adversity::adversidad
-adversityadversidad
-advert    advertisement::
-advertise    to give public notice of; to announce publicly)::anunciar
-advertise   to provide information about a person or goods and services to influence others)::hacer publicidad
-advertisementanuncio,publicidad,reclamo,aviso,aviso publicitario,anuncio publicitario
+adversity::adversidad
+advertise::anunciar
+advertise::hacer publicidad
+advertisement::anuncio,publicidad,reclamo,aviso,aviso publicitario,anuncio publicitario
 advertiser::anunciante
 advertising::publicidad
-advertorialpublirreportaje,infomercial
-adviceconsejo
+advertorial::publirreportaje,infomercial
+advice::consejo
 advice::aviso
-advisabilityconveniencia
+advisability::conveniencia
 advisable::aconsejable,recomendable,conveniente
-advisatory    advisory::
-adviseaconsejar,asesorar
+advise::aconsejar,asesorar
 advise::notificar
-adviser     advisor::
-advisorconsejero,asesor
+advisor::consejero,asesor
 advisory::consultivo
-advisory opinion::opinión consultiva,opinión asesora
-advocacyapoyo,defensa
-advocateabogado,abogada
+advisory opinion::opini�n consultiva,opini�n asesora
+advocacy::apoyo,defensa
+advocate::abogado,abogada
 advocate::portavoz,representante,vocero
 advocate::recomendar
 advocate::abogar
-AdygeaAdiguesia
-Adygei    Adyghe::
+Adygea::Adiguesia
 adynamia::adinamia
-adzeazuela
-adzuki    azuki bean::
+adze::azuela
 aedile::edil,regidor
-Aegean    Aegean Sea::
 Aegean Sea::mar Egeo
 Aegidius::Egidio
-aegiségida
-aegis::égida
-AeneasEneas
-aeolian::eólico
-aeolian::eólico
-AeolusEolo
+aegis::�gida
+aegis::�gida
+Aeneas::Eneas
+aeolian::e�lico
+aeolian::e�lico
+Aeolus::Eolo
 aerate::airear,gasear
-aeration::aireación
-aerialaéreo
+aeration::aireaci�n
+aerial::a�reo
 aerial::antena
-aerial device    aerial work platform::
-aeriferous::aerífero
+aeriferous::aer�fero
 aerobe::aerobio
-aerobic::aeróbico
-aerobic::aeróbico
-aerobic::aeróbico
-aerobics::aeróbico
-aerobiology::aerobiología
+aerobic::aer�bico
+aerobic::aer�bico
+aerobic::aer�bico
+aerobics::aer�bico
+aerobiology::aerobiolog�a
 aerobiosis::aerobiosis
-aerodrome::aeródromo
-aerodynamic::aerodinámico
-aerodynamical::aerodinámico
-aerodynamics::aerodinámica
+aerodrome::aer�dromo
+aerodynamic::aerodin�mico
+aerodynamical::aerodin�mico
+aerodynamics::aerodin�mica
 aerodynamism::aerodinamismo
-aeroembolism    air embolism::
 aerogram::aerograma
-aerography::aerografía
-aerology::aerología
-aeromancyaeromancia
-aerometer::aerómetro
+aerography::aerograf�a
+aerology::aerolog�a
+aeromancy::aeromancia
+aerometer::aer�metro
 aeromodeller::aeromodelista
 aeromodelling::aeromodelismo
-aeronauticaeronáutico
-aeronautical::aeronáutico
-aeronautics::aeronáutica
+aeronautic::aeron�utico
+aeronautical::aeron�utico
+aeronautics::aeron�utica
 Aeronian::Aeroniense
-aerophobic::aerófobo
-aerophone::aerófono
-aeroplane     airplane::
+aerophobic::aer�fobo
+aerophone::aer�fono
+aeroplane::airplane
 aerosol::aerosol
 aerosol can::lata de aerosol
 aerospace::aeroespacial
 aerospace::aeroespacio
-aerostat::aerostato,aeróstato
-aerostatics::aerostática
-aerothermal::aerotérmico,aerotérmica
-aerothorax    pneumothorax::
-AeschylusEsquilo
-aesir    Æsir::
+aerostat::aerostato,aer�stato
+aerostatics::aerost�tica
+aerothermal::aerot�rmico,aerot�rmica
+Aeschylus::Esquilo
 Aesop::Esopo
-Aesopianesópico
-aestheteesteta
-aesthetic::estético
-aesthetic    aesthetics::
-aesthetically::estéticamente
+Aesopian::es�pico
+aesthete::esteta
+aesthetic::est�tico
+aesthetically::est�ticamente
 aestheticism::esteticismo
-aestheticsestética
-aestivationestivación
-aetiologyetiología
-aetites     eaglestone::
+aesthetics::est�tica
+aestivation::estivaci�n
+aetiology::etiolog�a
 aeviternity::eviternidad
-afara lo lejos,lejos
 Afar::afar
 a few::unos,algunos
 a few::pocos
 affability::afabilidad
-affableafable
+affable::afable
 affable::amable,tranquilo
-affair::amorío,aventura
+affair::amor�o,aventura
 affair::asunto
-affairnegocio
-affectafectar
-affectfingir
+affair::negocio
+affect::afectar
+affect::fingir
 affect::afectar
 affect::afectar,conmover
 affectable::afectable
-affectationafectación
-affectedafectado,aquejado
+affectation::afectaci�n
+affected::afectado,aquejado
 affecting::conmovedor
-affection::cariño
-affection::cariño,apego
-affectionafecto
-affectionateafectuoso
-affectionate::cariñoso
+affection::cari�o
+affection::cari�o,apego
+affection::afecto
+affection::ateafectuoso
+affectionate::cari�oso
 affectionately::afectuosamente
 affective::afectivo
 affective::afectivo
 afferent::aferente
-affidavitdeclaración jurada,affidávit
-affiliateafiliado,afiliada,filial
-affiliate    adopt::
-affiliate   or unite )::afiliar,asociar
-affiliationafiliación,filiación
-affine transformation::transformación afín
+affidavit::declaraci�n jurada,affid�vit
+affiliate::afiliado,afiliada,filial
+affiliate   or unite::afiliar,asociar
+affiliationafiliaci�n,filiaci�n
+affine transformation::transformaci�n af�n
 affinity::afinidad
 affinity::afinidad
 affinityafinidad
 affinity::afinidad
-affirmafirmar
 affirm::afirmar
-affirmance    affirmation::
-affirmationdeclaración
-affirmativeafirmativo
+affirm::afirmar
+affirmation::declaraci�n
+affirmative::afirmativo
 affirmative::positivo
-affirmative::oración afirmativa
-affirmative action    reverse discrimination::
+affirmative::oraci�n afirmativa
 affirmative sentence::frase afirmativa
-affix     suffix::
 affix::afijo
 affix::afijo
 affix::fijar,pegar
-afflatus::inspiración
+afflatus::inspiraci�n
 afflict::afligir
-affliction::aflicción,tribulación
+affliction::aflicci�n,tribulaci�n
 afflictive::aflictivo
-affluenceabundancia,afluencia,prosperidad
+affluence::abundancia,afluencia,prosperidad
 affluent::adinerado,rico
 affluent::abundante
 affluent::afluente
-affluentricachón
-affluent    tributary::
-affordableasequible
+affordable::asequible
 affordance::ofrecimiento
 affreightment::fletamento,flete
-affricateafricada
+affricate::africada
 affront::afrenta
-affrontafrentar,ofender
+affront::afrentar,ofender
 Afghan::afgano
-Afghanafgano,afgana
-Afghan hound    Afghan Hound::
-Afghan Houndlebrel afgano
-Afghani    Afghan::
-Afghani    Afghan::
-Afghani    afghani::
-AfghanistanAfganistán
-a-fib    afib::
+Afghan::afgano,afgana
+Afghanistan::Afganist�n
 afire::ardiendo
 aflame::en llamas,llameante
 afloat::a flote
-aflutteragitado
-afoota pie,andando
+aflutter::agitado
 afoot::en marcha
 afoot::en pie,de pie
-aforementionedya mencionado,antedicho,sobredicho
-aforesaidantedicho
+aforementioned::ya mencionado,antedicho,sobredicho
+aforesaid::antedicho
 afraid::temerse que
-afraidtener miedo
-afreshde nuevo,otra vez
-AfricaÁfrica
-Africa-Eurasia     Afro-Eurasia::
-Africanafricano
+afraid::tener miedo
+afresh::de nuevo,otra vez
+African::africano
 African::africano,africana
-African American    African-American::
-African American    African-American::
 African-American::afroamericano
 African elephant::elefante africano
 Africanism::africanismo
-African Union::Unión Africana
+African Union::Uni�n Africana
 African violet::violeta africana
-African wild dog    African hunting dog::
-Afrikaansafrikáans
-Afrikaner    Afrikander::
-Afrikaner::afrikáner,bóer
-afroafro
+Afrikaans::afrik�ans
+Afrikaner::afrik�ner,b�er
 Afro-American::afroamericano,afroamericana
-Afro-EurasiaEurafrasia,África-Eurasia,Euroasiático-africano
+Afro-Eurasia::Eurafrasia,�frica-Eurasia,Euroasi�tico-africano
 Afrophobia::afrofobia
-afta popa
-afterdespués
-after::después
-after::después de
-after::detrás de,tras
+after::despu�s
+after::despu�s
+after::despu�s de
+after::detr�s de,tras
 after::por
 after::tras
 after::a pesar de
-after::después
-after all::después de todo,al final
-afterbirthalumbramiento
-after dark::después de anochecer
-after-effect    aftereffect::
-aftereffectefecto secundario
-afterglow    afterparty::
-afterlifeultratumba,más allá,inframundo,otro mundo,orco,ultravida,submundo,lo de allá
-aftermathconsecuencias,resultados
-afternoontarde
-aftershock::réplica
+after::despu�s
+after all::despu�s de todo,al final
+afterbirth::alumbramiento
+after dark::despu�s de anochecer
+aftereffect::efecto secundari
+afterlife::ultratumba,m�s all�,inframundo,otro mundo,orco,ultravida,submundo,lo de all�
+aftermath::consecuencias,resultados
+afternoon::tarde
+aftershock::r�plica
 aftertaste::resabio
-afterthoughtidea tardía
-afterthought::ocurrencia tardía
+afterthought::idea tard�a
+afterthought::ocurrencia tard�a
 afterward::consecuentemente,en seguida
-afterwardsdespués
-againotra vez,de nuevo,nuevamente
+afterwards::despu�s
+again::otra vez,de nuevo,nuevamente
 again::de nuevo
 again and again::una y otra vez
 against::cerca de
-againstcontra
+against::contra
 against::en contra
 against::contra,frente
 against::en contra,enfrente,en pugna
 against::contra
-against all odds::contra todo pronóstico
+against all odds::contra todo pron�stico
 against the clock::contra reloj
-against the graincontramano
+against the grain::contramano
 agalactia::agalactia
-agalactorrhea    agalactia::
-Agamemnon::Agamenón
-agami::agamí,trompetero
-agapeboquiabierto
-agapeágape
-agarwood::agáloco,áloe
-agateágata
-Agatha::Águeda
-agavemaguey,agave,pita
+Agamemnon::Agamen�n
+agami::agam�,trompetero
+agape::�gape
+agarwood::ag�loco,�loe
+agate::�gata
+Agatha::�gueda
 age::edad,edades
-age    century::
-ageaños
-age  )::generación
-age::época,era
+age::generaci�n
+age::�poca,era
 age::tercera edad
 age::edad
 age::edad
 age::edad
-age::mayoría
+age::mayor�a
 age::envejecerse
 age::envejecer
-aged care    eldercare::
 ageing::envejecimiento
 ageless::eterno
 ageless::eternamente joven
-agency    agent::
-agencyalbedrío,agency,agencia
+agency::albedr�o,agency,agencia
 agency::oficina,agencia
-agendaagenda,programa
+agenda::agenda,programa
 agenda::agenda,orden del dia
-agendered    genderless::
 agent::agente
 agent::agente
-agentagente
 agent::agente
-age of majority::mayoría de edad
-agglomeration::aglomeración
-agglomeration::aglomeración
-agglomeration::aglomeración
+agent::agente
+age of majority::mayor�a de edad
+agglomeration::aglomeraci�n
+agglomeration::aglomeraci�n
+agglomeration::aglomeraci�n
 agglutinative::aglutinante
 aggrandizement::engrandecimento
-aggravateagravar,empeorar
+aggravate::agravar,empeorar
 aggravate::irritar,exasperar
 aggravation::agravio
 aggravation::agravante
 aggregate::agregado,conglomerado
 aggregate::total,conjunto
-aggregateagregado,conjunto
+aggregate::agregado,conjunto
 aggregate::agregado
 aggregate::agregado
 aggregate::juntar,sumar
-aggressionagresión
-aggression::agresión
-aggressiveagresivo
+aggression::agresi�n
+aggression::agresi�n
+aggressive::agresivo
 aggressively::agresivamente
 aggressiveness::agresividad
 aggressor::agresor,agresora
 aggrieved::ofendido,herido
-aghastespantado,aterrado,horrorizado,asustado,pasmado,atemorizado
-agileágil
-agile gibbon::gibón ágil
-agilityagilidad
-agitateagitar
+aghast::espantado,aterrado,horrorizado,asustado,pasmado,atemorizado
+agile::�gil
+agile gibbon::gib�n �gil
+agility::agilidad
+agitate::agitar
 agitate::perturbar
-agitationagitación,desasosiego
+agitation::agitaci�n,desasosiego
 agitation::inquietud
 agitator::agitador,agitadora
 Aglaia::Aglaya
-aglet    catkin::
-aglet    aiglet::
 agnate::agnado
 agnate::agnado
-agnathic     agnathous::
-agnathous     jawless::
-agnation::agnación
-AgnesInés
+agnation::agnaci�n
+Agnes::In�s
 agnomen::agnomento,agnombre
-agnostic::agnóstico
-agnosticagnóstico,agnóstica
-agnosticismagnosticismo
-agnus castus    chaste tree::
-agohace,atrás
-agogansioso,curioso
+agnostic::agn�stico
+agnostic::agn�stico,agn�stica
+agnosticis::magnosticismo
 agonize::agonizar
 agonizing::terrible,angustioso
-agonyagonía
-agony::agonía,angustia
-agony::agonía
+agony::agon�a
+agony::agon�a,angustia
+agony::agon�a
 a good beginning makes a good ending::lo que bien empieza bien acaba
-agoraágora
-agora::ágora
-agoraphobiaagorafobia
-agoraphobic::agorafóbico
+agora::�gora
+agora::�gora
+agoraphobia::agorafobia
+agoraphobic::agoraf�bico
 agorism::agorismo
-agoutiagutí,añuje,cotuza,guatusa,jochi colorado,ñeque, picure, sereque
+agoutiagut�,a�uje,cotuza,guatusa,jochi colorado,�eque, picure, sereque
 Agra::Agra
-agrarianagrario
+agrarian::agrario
 agrarianism::agrarismo
-agreeestar de acuerdo,coincidir
+agreee::star de acuerdo,coincidir
 agree::concordar
 agree::concordar
 agree::acceder,asentir
 agreeable::conforme
-agreeablelisonjero,agradable
+agreeable::lisonjero,agradable
 agreeable::dispuesto
 agreeably::agradablemente
-agreedde acuerdo,concordo
-agreementacuerdo,convenio
+agreed::de acuerdo,concordo
+agreement::acuerdo,convenio
 agreement::concordancia
 agreement::acuerdo,convenio,contrato
 agreement::acuerdo
-agriculturalagrícola
-agricultureagricultura
-agriculturist::agrícola
+agricultural::agr�cola
+agriculture::agricultura
+agriculturist::agr�cola
 agriculturist::agricultor,agricultora
 agriculturize::agriculturizar
 agriculturize::agriculturizar
 agrimi::kri-kri
-agrimonyagrimonia
+agrimony::agrimonia
 agritourism::agroturismo
 agroindustry::agroindustria
-agrology::agrología
-agronomist::agrónomo
-agronomy::agronomía
+agrology::agrolog�a
+agronomist::agr�nomo
+agronomy::agronom�a
 aground::encallado,varado
 Aguascalientes::Aguascalientes
-agueescalofrío,fiebre intermitente
-ague    malaria::
-aha::ajá
+aha::aj�
 Ahasuerus::Asuero
-aheadenfrente de
-ahorse     horseback::
-ahorseback    horseback::
-Ahriman::Ahrimán
+ahead::enfrente de
+Ahriman::Ahrim�n
 Ahura Mazda::Ahura Mazda,Ahura-Mazda
-aid    aide-de-camp::
 aid::ayudante,asistente
-aidayuda,auxilio
+aid::ayuda,auxilio
 aid::remedio,recurso
 aid::ayudar
-Aida::Aída
-aide     assistant::
-aide    aide-de-camp::
+Aida::A�da
 aide-de-camp::edecan
-aide-mémoire::pro memoria
-AIDSSIDA,sida
-aigletherrete
+aide-m�moire::pro memoria
+AIDS::SIDA,sida
+aigle::therrete
 ail::enfermedad
-ailcausar dolor a,molestar
+ail::causar dolor a,molestar
 ail::adolecer
-aileron::alerón
+aileron::aler�n
 ailment::dolencia,enfermedad,achaque
-aimobjetivo
-aim::objetivo,intención
+aim::objetivo
+aim::objetivo,intenci�n
 aim::apuntar,pretender
 aim::apuntar,dirigir,lazar
-aimlesssin rumbo,sin objeto
+aimlesss::in rumbo,sin objeto
 aimlessly::sin rumbo,sin objeto
 Ainu::ainu
 Ainu::ainu
 Ainu::ainu
-aioliajiaceite  alioli
-airaire
+air::aire
 air::aire
 air::aria
 air::aerar,airear
 air::retransmitir
 airan::ayran
 airbag::bolsa de aire
-air base    airbase::
-airbase::base aérea
-air bladder    swim bladder::
+airbase::base a�rea
 airborne::transportado por el aire,aerotransportado
 airborne::volando
-airbus::aerobús
+airbus::aerob�s
 Airbus::Aerobus
 air-condition::climatizar,condicionar con el aire
 air conditioner::acondicionador de aire
 air conditioning::aire acondicionado,climatizador
 air conditioning::aire acondicionado
-aircraftaeronave
+aircraft::aeronave
 aircraft carrier::portaaviones
-airer    clotheshorse::
-airfield::aeródromo,campo de aviación
-airfoil::perfil alar,perfil aerodinámico,perfil
-airfoil    wing::
-air force::fuerza aérea
-airheadchorlito,cabeza de chorlito,cabeza hueca,burro,tontón,estúpido
+airfield::aer�dromo,campo de aviaci�n
+airfoil::perfil alar,perfil aerodin�mico,perfil
+air force::fuerza a�rea
+airhead::chorlito,cabeza de chorlito,cabeza hueca,burro,tont�n,est�pido
 air hole::corriente descendente
 air hole::respiradero
-air hole::espiráculo
+air hole::espir�culo
 air hostess::aeromoza,azafata
-air lane    air corridor::
-airliftpuente aéreo
-airline::aerolínea
-airliner::avión de pasajeros
-airmailcorreo aéreo
-airmail::correo aéreo
+airlift::puente a�reo
+airline::aerol�nea
+airliner::avi�n de pasajeros
+airmail::correo a�reo
+airmail::correo a�reo
 airman::aviador,aviadora
 air pistol::pistola de aire
-airplaneavión,aeroplano
+airplane::avi�n,aeroplano
 air pocket::corriente descendente
-air pollution::contaminación ambiente
-airportaeropuerto
-air pressure    atmospheric pressure::
+air pollution::contaminaci�n ambiente
+airport::aeropuerto
 air pump::bomba de aire
-air-raid shelter::refugio antiaéreo,refugio antibombas
+air-raid shelter::refugio antia�reo,refugio antibombas
 air rifle::rifle de aire
-airscrew::hélice
-airship    dirigible::
+airscrew::h�lice
 airstrip::pista de aterrizaje
-airtight::hermético
+airtight::herm�tico
 airtime::tiempo en antena
-air traffic control::control de tráfico aéreo
-air traffic controller::controlador de tránsito aéreo,controlador de tráfico aéreo
-airwaves::radio,televisión
-television::televisión
-airwaves    radio wave::
-airway::aerovía
-airway    trachea::
-airway    windpipe::
+air traffic control::control de tr�fico a�reo
+air traffic controller::controlador de tr�nsito a�reo,controlador de tr�fico a�reo
+airwaves::radio,televisi�n
+television::televisi�n
+airway::aerov�a
 airworthiness::aptitud para volar
 airworthy::navegable,apto para volar
-aislenave lateral
+aisle::nave lateral
 aisle::paso
 aisle::pasillo
 aisle::pasillo
-aitchhache
+ait::chhache
 ajar::entreabierto,entornado
-ajarentreabierto,entornado
+ajar::entreabierto,entornado
 a journey of a thousand miles begins with a single step::un viaje de mil millas comienza con un solo paso
-AKA::también conocido como,también conocida como
+AKA::tambi�n conocido como,tambi�n conocida como
 Akan::acano,akan
 Akan::akan,acano
-akimboen jarras
+akimbo::en jarras
 akimbo::con los brazos en jarras
-akinemparentado
+akin::emparentado
 akin::semejante,similar
-akinetic    akinesic::
-Akkadianacadio
 Akkadian::acadio
-al    Indian mulberry::
-AlabamaAlabama
-alabasteralabastro
-alacrityalacridad
+Akkadian::acadio
+Alabama::Alabama
+alabaster::alabastro
+alacrity::alacridad
 alacrity::alacridad,presteza
-AlamoÁlamo
+Alamo::�lamo
 alan::alano
-AlanAlano ; Alán
-Al-Andalus::Al-Ándalus
+AlanAlano ; Al�n
+Al-Andalus::Al-�ndalus
 alanine::alanina
 Alaric::Alarico
-alarmalarma
+alarm::alarma
 alarm::alarma
 alarm::despertador
 alarm::alarma
 alarm clock::despertador
-alarmed    worried::
-alarmingalarmante
+alarming::alarmante
 alarmism::alarmismo
-alasay,ay de mí
-AlaskaAlaska
-Alaskanalaskeño,alasqueño
+Alaska::Alaska
+Alaskan::alaske�o,alasque�o
 Alaskan Malamute::malamute de Alaska
-alated    alate::
 Albacete::Albacete
 Alban::Albano
-AlbaniaAlbania
-Albania    Caucasian Albania::
-Albanianalbanés
-Albanian::albanés,albanesa
-Albanian::albanés
+Albania::Albania
+Albanian::alban�s
+Albanian::alban�s,albanesa
+Albanian::alban�s
 Albany::Albany
-albatrossalbatros
-albedoalbedo
-albeitaunque,no obstante,si bien
-AlbertAlberto
-AlbertaAlberta
+albatross::albatros
+albedo::albedo
+albeit::aunque,no obstante,si bien
+Albert::Alberto
+Alberta::Alberta
 Albin::Albino
 albinism::albinismo
-albinoalbino
+albino::albino
 albino::albino,albina
-albinoism    albinism::
-Albireo   Cygni.)::Albireo
+Albireo   Cygni::Albireo
 albite::albita
-album::álbum
-album::álbum
-album  )::álbum
-albumenalbumen,clara
-albumenoid    albuminoid::
-albuminalbúmina
-alburnum    sapwood::
-Alcalá de Henares::Alcalá de Henares
-alcazar::alcázar
-alchemistalquimista
-alchemyalquimia
+album::�lbum
+album::�lbum
+album ::�lbum
+albumen::albumen,clara
+albumin::alb�mina
+Alcal� de Henares::Alcal� de Henares
+alcazar::alc�zar
+alchemist::alquimista
 alchemy::alquimia
-AlcibiadesAlcibíades
-AlcmeneAlcmena
-alcoholalcohol
+alchemy::alquimia
+Alcibiades::Alcib�ades
+Alcmene::Alcmena
+alcohol::alcohol
 alcohol::alcohol
 alcoholaemia::alcoholemia
 alcohol-free::sin alcohol
-alcoholic::alcohólico
-alcoholic::alcohólico
-alcoholicalcohólico
-alcoholic::alcohólico
-Alcoholics Anonymous::Alcohólicos Anónimos
+alcoholic::alcoh�lico
+alcoholic::alcoh�lico
+alcoholic::alcoh�lico
+alcoholic::alcoh�lico
+Alcoholics Anonymous::Alcoh�licos An�nimos
 alcoholism::alcoholismo
 alcoholism::alcoholismo
-alcoholometer::alcoholímetro
-alcoholometry::alcoholimetría
-alcovehornacina,hueco,nicho
-aldaric acid::ácido aldárico
-AldebaranAldebarán
-aldehydealdehído
-alderaliso
+alcoholometer::alcohol�metro
+alcoholometry::alcoholimetr�a
+alcove::hornacina,hueco,nicho
+aldaric acid::�cido ald�rico
+Aldebaran::Aldebar�n
+aldehyde::aldeh�do
+alder::aliso
 alderman::concejal
 aldolase::aldolasa
-aldonic::aldónico
-aldonic acid::ácido aldónico
+aldonic::ald�nico
+aldonic acid::�cido ald�nico
 aldopentose::aldopentosa
 aldose::aldosa
-alecerveza inglesa,ale,cerveza ale
-aleatoryaleatorio
-Alejandro    Alexander::
+alecervez::a inglesa,ale,cerveza ale
+aleatory::aleatorio
 a leopard cannot change its spots::genio y figura hasta la sepultura,no hay que pedir peras al olmo
 aleph::alef
-AleppoAlepo
+Aleppo::Alepo
 alert::alerto,vigilante
 alert::alerta,alarma
 alert::alertar
 alertly::con listeza
-alertnessvigilancia
-Aleutian IslandsIslas Aleutianas
-Alex     Alexius::
-AlexanderAlejandro
+alertness::vigilancia
+Aleutian Islands::Islas Aleutianas
+Alexander::Alejandro
 Alexander the Great::Alejandro Magno
 Alexandra::Alejandra
-Alexandria::Alejandría
-Alexandrianalejandrino
-Alexandroupoli::Alejandrópolis
+Alexandria::Alejandr�a
+Alexandrian::alejandrino
+Alexandroupoli::Alejandr�polis
 Alexius::Alejo
-alfalfaalfalfa
+alfalfa::alfalfa
 Alfonso::Alfonso
 Alfred::Alfredo
 al fresco::al aire libre,al fresco
-Alfvén wave::onda de Alfvén
-algaalga
-algaealgas
-algebraálgebra
-algebra::álgebra
-algebra::álgebra
-algebra    universal algebra::
+Alfv�n wave::onda de Alfv�n
+alga::alga
+algae::algas
+algebra::�lgebra
+algebra::�lgebra
+algebra::�lgebra
 algebraic::algebraico
 algebraically::algebraicamente
-algebraic equation::ecuación algebraica
+algebraic equation::ecuaci�n algebraica
 Algeciras::Algeciras
-AlgeriaArgelia
+Algeria::Argelia
 Algerian::argelino
-Algerianargelino,argelina
-algesimeter    algometer::
-algesimetry    algometry::
-Algherese::alguerés
-algidálgido
-AlgiersArgel
-algolagniaalgolagnia
-algologist::algólogo
-algology::algología,ficología
-algometry::algometría
+Algerian::argelino,argelina
+Algherese::alguer�s
+algid::�lgido
+Algiers::Argel
+algolagnia::algolagnia
+algologist::alg�logo
+algology::algolog�a,ficolog�a
+algometry::algometr�a
 algophilia::algofilia,masoquismo
-algorithmalgoritmo
-aliasalias,seudónimo
-alibicoartada
+algorithm::algoritmo
+alias::alias,seud�nimo
+alibi::coartada
 Alicante::Alicante
-AliceAlicia
+Alice::Alicia
 Alice in Wonderland::de Alicia en el mundo de maravillas
 a lie has no legs::antes se coge al mentiroso que al cojo
-alien::extraterrestre, alienígena, extraño
-aliendesconocido,desconocida
+alien::extraterrestre, alien�gena, extra�o
+aliende::sconocido,desconocida
 alien::extranjero,extranjera
-alien::extraterrestre,alienígena
-alienatealienar,enajenar
+alien::extraterrestre,alien�gena
+alienate::alienar,enajenar
 alienate::alienar
-alienationalienación
-alienation::alienación
-alienation::alienación
-alienist     psychiatrist::
-alienist    psychologist::
-alightbajarse,apearse
+alienation::alienaci�n
+alienation::alienaci�n
+alienation::alienaci�n
+alight::bajarse,apearse
 alight::posarse,aterrizar
-alignalinearse
+align::alinearse
 align::alinearse,adherirse,ingresar
 align::alinear
 align::alinear
-alignment::alineamiento,alineación
-alignmentalineación
+alignment::alineamiento,alineaci�n
+alignment::alineaci�n
 alignment::alineamento
 alignment::alineamiento
-alikeigual,semejante,parecido
+alike::igual,semejante,parecido
 alike::igualmente
 alimentary::alimenticio
-alimentary canal    digestive tract::
-alimony::pensión
-aline    align::
-aline    align::
-aline     align::
-aliphaticalifático
-aliquotalícuota,parte alícuota
+alimony::pensi�n
+aliphatic::alif�tico
+aliquot::al�cuota,parte al�cuota
 a little::un poco,un poquito
-a little bird told me::un pajarito me lo contó,un pajarito me dijo
-alivevivo,viviente
+a little bird told me::un pajarito me lo cont�,un pajarito me dijo
+alive::vivo,viviente
 alive and kicking::vivito y coleando,vivo y coleando
-aliyah::Aliyá,Aliá
-Al JazeeraAl-Yazira
-alkaliálcali
-alkalimeter::alcalímetro
-alkalimetry::alcalometría
-alkalinealcalino
+aliyah::Aliy�,Ali�
+Al Jazeer::aAl-Yazira
+alkali::�lcali
+alkalimeter::alcal�metro
+alkalimetry::alcalometr�a
 alkaline::alcalino
-alkaline earth metal::metal alcalinotérreo
-alkaloidalcaloide
+alkaline::alcalino
+alkaline earth metal::metal alcalinot�rreo
+alkaloid::alcaloide
 alkane::alcano
-alkekengi    bladder cherry::
 alkene::alqueno
 alkyl::alquilo
 alkyne::alquino
-alltodo
-all::todos,todas
-all    everyone::
-all    everything::
-all  )::todo,toda
 all::todo
-AllahAlá
+all::todos,todas
+all::todo,toda
+all::todo
+Allah::Al�
 all along::desde el primer momento,todo el tiempo
 allantoid::alantoideo
 allative::alativo
 allative case::caso alativo
-allayaquietar,calmar
+allay::aquietar,calmar
 allay::aliviar,mitigar
 all bark and no bite::mucho ruido y pocas nueces
 all bark and no bite::perro ladrador,poco mordedor
 all but::casi
-all cats are gray at night    all cats are grey in the dark::
 all cats are grey in the dark::a la luz de la vela,no hay mujer fea,de noche todos los gatos son pardos
-all day::todo el día
+all day::todo el d�a
 all ears::escucho
-all ears::todo oídos
-allegationalegato,acusación
+all ears::todo o�dos
+allegation::alegato,acusaci�n
 allege::alegar
-allegeafirmar
-allegedsupuesto
+allege::afirmar
+alleged::supuesto
 alleged::supuesto
 allegedly::supuestamente
-allegement    allegation::
-allegiancefidelidad,lealtad
-allegorical::alegórico
-allegoricallyalegóricamente
-allegory::alegoría
-allegory::alegoría
-allegory::alegoría
-allelealelo
-allelomorph    allele::
+allegiance::fidelidad,lealtad
+allegorical::aleg�rico
+allegorically::aleg�ricamente
+allegory::alegor�a
+allegory::alegor�a
+allegory::alegor�a
+allele::alelo
 alleluia::aleluya
 allene::aleno
 allene::aleno
-allergicalérgico
-allergic::alérgico
-allergologist    allergist::
-allergology::alergología
-allergyalergia
+allergic::al�rgico
+allergic::al�rgico
+allergology::alergolog�a
 allergy::alergia
-alleviatealiviar,mitigar,paliar
-alleviationalivio
-alleycallejón
-All Fools' Day    April Fools' Day::
-All Hallows' Day    All Saints' Day::
+allergy::alergia
+alleviate::aliviar,mitigar,paliar
+alleviation::alivio
+alley::callej�n
 all hands on deck::todos manos a la obra
-allheal    valerian::
-allheal    woundwort::
 all hell breaks loose::todo se fue al demonio
-alliancealianza
+alliance::alianza
 allicin::alicina
-alligatoraligátor,aligator,caimán
-all in good time   One should be patient.)::a la corta o a la larga,el tiempo todo lo alcanza
-alliterationaliteración
+alligator::alig�tor,aligator,caim�n
+all in good time   One should be patient::a la corta o a la larga,el tiempo todo lo alcanza
+alliteration::aliteraci�n
 all kidding aside::bromas aparte,en serio
 allo-::alo-
 allo-::alo-
-allocateasignar,adjudicar
-allocation::asignación,reparto,distribución
-allochthonousalóctono
-allochthonous::alóctono
+allocate::asignar,adjudicar
+allocation::asignaci�n,reparto,distribuci�n
+allochthonous::al�ctono
+allochthonous::al�ctono
 allodium::alodio
-all of a suddende repente,súbitamente,de pronto
-all of the sudden    all of a sudden::
+all of a sudden::de repente,s�bitamente,de pronto
 allogamy::alogamia
-allomorphalomorfo
-allophonealófono
+allomorph::alomorfo
+allophone::al�fono
 allose::alosa
-allotrepartir
+allot::repartir
 allot::asignar
-allotmentreparto,asignación
-allotropealótropo
-allotroph    heterotroph::
-allotropic::alotrópico
-allotropical    allotropic::
-allotypical    allotypic::
+allotment::reparto,asignaci�n
+allotrope::al�tropo
+allotropic::alotr�pico
 all over the place::desperdigado
-all over the place::desperdigado,patrón
+all over the place::desperdigado,patr�n
 allow::dejar permitir
-allowdejar,permitir,conceder
+allow::dejar,permitir,conceder
 allow::permitir
-allowance     pocket money::
-allowedly    admittedly::
-alloyaleación
-alloy wheel    mag wheel::
-all rightde acuerdo,muy bien,ándale,dale,listo,okey,sale y vale,'tá,vale,ya
+alloy::aleaci�n
+all right::de acuerdo,muy bien,�ndale,dale,listo,okey,sale y vale,'t�,vale,ya
 all rights reserved::reservados todos los derechos,todos los derechos reservados
 all roads lead to Rome::todos los caminos llevan a Roma,todos los caminos conducen a Roma
-All Saints Day    All Hallows' Day::
-All Saints' Day::Día de Todos los Santos
+All Saints' Day::D�a de Todos los Santos
 all's fair in love and war::todo vale en la guerra y en el amor
-All Souls' Day::Día de Muertos,Conmemoración de los Fieles Difuntos
+All Souls' Day::D�a de Muertos,Conmemoraci�n de los Fieles Difuntos
 allspice::pimienta de Jamaica
-all's well that ends well::bien está lo que bien acaba,a buen fin no hay mal tiempo,a buen fin no hay mal principio
+all's well that ends well::bien est� lo que bien acaba,a buen fin no hay mal tiempo,a buen fin no hay mal principio
 all that glitters is not gold::no es oro todo lo que reluce
 all the time::todo el tiempo
-all things being equal::si todo sigue igual,siendo todo lo demás igual,en igualdad de circunstancias,siempre que las demás condiciones no varíen,permaneciendo invariables los demás datos
-all things come to those who wait    good things come to those who wait::
-all thumbs  )::torpe
-all together    altogether::
-alludealudir,referirse
-allureencanto,fascinación,atractivo
+all things being equal::si todo sigue igual,siendo todo lo dem�s igual,en igualdad de circunstancias,siempre que las dem�s condiciones no var�en,permaneciendo invariables los dem�s datos
+all thumbs ::torpe
+allude::aludir,referirse
+allure::encanto,fascinaci�n,atractivo
 allure::atraer,cautivar
-alluringencantador
-allusionalusión
-allusivealusivo
-alluvial fan::abanico aluvial,cono de deyección
-alluvial plain::llanura alivial,vega,llanura de inundación
-alluvium::aluvión
+alluring::encantador
+allusion::alusi�n
+allusive::alusivo
+alluvial fan::abanico aluvial,cono de deyecci�n
+alluvial plain::llanura alivial,vega,llanura de inundaci�n
+alluvium::aluvi�n
 ally::aliado
-allyaliarse,unirse en
+ally::aliarse,unirse en
 allyl::alilo
-allyl alcohol::alcohol alílico
-allylicalílico
+allyl alcohol::alcohol al�lico
+allylic::al�lico
 Alma::Alma
 almagest::Almagesto
-almanacalmanaque
-Almaty::Almatý
-AlmeríaAlmería
-almightyomnipotente,todopoderoso
+almanac::almanaque
+Almaty::Almat�
+Almer�a::Almer�a
+almighty::omnipotente,todopoderoso
 Almighty::Todopoderoso
-Almiros    Almyros::
-almondalmendra
+almond::almendra
 almond::almendro
 almond milk::leche de almendra
 almond tree::almendro
-almostcasi
-almost doesn't count   is not deemed success )::los casis no cuentan
+almost::casi
+almost doesn't count   is not deemed success::los casis no cuentan
 almost everywhere::casi en todas partes
-almslimosna,caridad
-aloe::áloe,aloe
-aloha     hello::
-aloha    goodbye::
-aloin::aloína
-alonesolo
+alms::limosna,caridad
+aloe::�loe,aloe
+aloin::alo�na
+alone::solo
 alone::solitario,solo
 along::a lo largo de
-alonga lo largo
+along::a lo largo
 along::por
-alongsideal costado,al lado
+alongside::al costado,al lado
 alongside::junto a,al lado de
 aloof::alejado,reservado,distante
-aloofapartado,distante
-aloof::sin compasión,distante
+aloofapart::ado,distante
+aloof::sin compasi�n,distante
 aloofness::reserva,actitud distante
-alopecia     baldness::
 a lot::frecuentemente
 a lot::mucho
-a lot::un montón
+a lot::un mont�n
 a lot::mucho
 aloud::en voz alta
-alouden voz alta
-alpacaalpaca
-alphaalfa
-alpha    Latin alpha::
-alphabetalfabeto,abecedario
-alphabetic::alfabético
-alphabeticalalfabético
-alphabetical::alfabético
-alphabetically::alfabéticamente
-alphabetically::alfabéticamente
+aloud::en voz alta
+alpaca::alpaca
+alpha::alfa
+alphabeta::lfabeto,abecedario
+alphabetic::alfab�tico
+alphabetical::alfab�tico
+alphabetical::alfab�tico
+alphabetically::alfab�ticamente
+alphabetically::alfab�ticamente
 alphabetism::alfabetismo
 alphabetize::alfabetizar,poner en orden alfabetico
 Alpha Centauri::Alfa Centauri
-alpha helix::hélice alfa
+alpha helix::h�lice alfa
 alpha male::macho alfa
-alphanumeric::alfanumérico
-alphanumerical    alphanumeric::
+alphanumeric::alfanum�rico
 alpha ray::rayo alfa
 alpha wave::onda alpha
-alphorntrompa de los Alpes,alforn
-alpine choughchova piquigualda
-alpinist    mountaineer::
-AlpsAlpes
-al-QaedaAl Qaida
-al-Quds     Jerusalem::
-alreadyya
+alphorntromp::a de los Alpes,alforn
+alpine:: choughchova piquigualda
+Alps::Alpes
+al-Qaeda::Al Qaida
+already::ya
 already::ya
 already::ya
 Alsace::Alsacia
-alsatian     German shepherd::
-Alsatianalsaciano
-Alsatian    German shepherd::
 Alsatian::alsaciano
 Alsatian::alsaciano
-alsotambién,además
-also known as    AKA::
-Altai    Altay::
+Alsatian::alsaciano
+also::tambi�n,adem�s
 Altair::Altair
-Altai Republic::República de Altái
-altaraltar
+Altai Republic::Rep�blica de Alt�i
+altar::altar
 altar boy::monaguillo
-alteralterar,cambiar,modificar
+alteralter::ar,cambiar,modificar
 alterability::alterabilidad
-alterationalteración,cambio,modificación
-alteration::alteración
-altercationdisputa,altercado
-alter ego::álter ego,otro yo
+alteration::alteraci�n,cambio,modificaci�n
+alteration::alteraci�n
+altercation::disputa,altercado
+alter ego::�lter ego,otro yo
 alterity::alteridad
-alternatealterno
+alternate::alterno
 alternate::alterno
 alternate::sustituta,sustituto
 alternate::alternar
 alternate::alternar
-alternatelyalternativamente,por turno
-alternate universe    parallel universe::
+alternately::alternativamente,por turno
 alternating::alternante,alterno,alternativo
 alternating current::corriente alterna
-alternation    ablaut::
-alternation    inclusive or::
-alternationalternancia,rotación
+alternation::alternancia,rotaci�n
 alternation of generations::alternancia de generaciones
-alternativealternativo
+alternative::alternativo
 alternative::alternativo
 alternative::alternativa
 alternator::alternador
-althorn::trombón alto
+althorn::tromb�n alto
 although::aunque
-althoughaunque,a pesar de
-altimeter::altímetro
-altitudealtitud
+although::aunque,a pesar de
+altimeter::alt�metro
+altitude::altitud
 altitude::altura
-altitude sickness::mal de montaña,soroche,puna
-altoalto,contralto
-altocumulus::altocúmulo
-altogethertotalmente,completamente
+altitude sickness::mal de monta�a,soroche,puna
+alto::alto,contralto
+altocumulus::altoc�mulo
+altogether::totalmente,completamente
 altogether::en general,en suma
-altophobia    acrophobia::
-alto saxophone::saxofón alto
+alto saxophone::saxof�n alto
 altostratus::altostrato
 altrose::altrosa
 altruism::altruismo
 altruist::altruista
-altruisticaltruista
-alula    bastard wing::
-alumalumbre
-aluminiumaluminio
+altruistic::altruista
+alum::alumbre
+aluminium::aluminio
 aluminium foil::papel aluminio,papel plata
-aluminium oxide::óxido de aluminio
+aluminium oxide::�xido de aluminio
 aluminosilicate::aluminosilicato
-aluminum     aluminium::
 alumnus::exalumno,egresado
 alumnus::alumno
 alunite::alunita
-alveolaralveolar
 alveolar::alveolar
 alveolar::alveolar
 alveolar::alveolar
-alveolus::alvéolo,alveolo
-alveolus::alvéolo,alveolo
+alveolar::alveolar
+alveolus::alv�olo,alveolo
+alveolus::alv�olo,alveolo
 always::siempre
-alwayssiempre
-Alzheimer's diseaseenfermedad de Alzheimer,alzheimer
-a.m.::a. m. de la mañana
+always::siempre
+Alzheimer's disease::enfermedad de Alzheimer,alzheimer
+a.m.::a. m. de la ma�ana
 AM::AM
-ama    amah::
 amalgam::amalgama
-amalgamamalgama
+amalgam::amalgama
 amalgamate::amalgamar
 amalgamate::amalgamar,fusionar,unir
 amalgamate::amalgamar
 Amanda::Amanda
 amanita::amanita
 amanuensis::amanuense
-amaranthamaranto
+amaranth::amaranto
 amaranth::amaranto
 and::y,e
 array::gama
 array::arreglar
 arrest::arresto
 arrest::detenido
-arrestparo
+arrest::paro
 arrest::arrestar,coger,detener,prender
 arrest::llamativo
 arrest::parar
 arrest::detener
 arrest warrant::orden de arresto
-arrhythmiaarritmia
-arrhythmic::arrítmico
-arrhythmic::arrítmico
-arrivalllegada,venida,arribo
-arrivellegar
+arrhythmia::arritmia
+arrhythmic::arr�tmico
+arrhythmic::arr�tmico
+arrival::llegada,venida,arribo
+arrive::llegar
 arrive::llegar,arribar
-arrive::lograr,triunfar,tener éxito
-arriviste     upstart::
-arrogancearrogancia,soberbia,altanería,altivez
-arrogantarrogante,soberbio,altivo,altanero,creído,presumido
+arrive::lograr,triunfar,tener �xito
+arrogance::arrogancia,soberbia,altaner�a,altivez
+arrogant::arrogante,soberbio,altivo,altanero,cre�do,presumido
 arrogantly::arrogantemente
 arrogate::arrogarse
-arrowflecha
-arrow    directed edge::
 arrow::flecha
-arrow arum    tuckahoe::
+arrow::flecha
 arrowhead::punta de flecha
-arrowroot::maranta,sagú,guapo,planta obediente
-arrowroot::almidón de maranta,almidón de sagú,almidón de guapo,almidón de planta obediente
+arrowroot::maranta,sag�,guapo,planta obediente
+arrowroot::almid�n de maranta,almid�n de sag�,almid�n de guapo,almid�n de planta obediente
 arroyo::arroyo
-arroyoarroyo
-arse     ass::
+arroyo::arro
 arsehole::gilipollas
-arsenalarsenal
+arsenal::arsenal
 arsenal::arsenal
 arsenate::arseniato
-arsenicarsénico
-arsenicosis    arsenicism::
+arsenic::ars�nico
 arsenide::arseniuro
 arsenide::arseniuro
-arsesmart     hydropiper::
-arsewipe    asswipe::
-arsewipe    asswipe::
-ars gratia artis    art for art's sake::
 arsine::arsina
-arsonincendio provocado,incendio premeditado
-arsonist::incendiario,pirómano
-arsonphobia    pyrophobia::
-arsonry    arson::
+arson::incendio provocado,incendio premeditado
+arsonist::incendiario,pir�mano
 art::arte
 art::arte
 art::arte
 art::arte
-artarte
+art::arte
 art dealer::marchante de arte,marchante
-arête::arista
-arteether    artemotil::
-artefact    artifact::
-artemia    brine shrimp::
-Artemis::Artemisa,Ártemis
+ar�te::arista
+Artemis::Artemisa,�rtemis
 arterial::arterial
 arterial road::calle arterial
-arteriography    angiography::
-arteriosclerosisarteriosclerosis
+arteriosclerosis::arteriosclerosis
 arteritis::arteritis
 artery::carretera principal ; arteria
-arteryarteria
+artery::arteria
 artesian well::pozo artesiano
 art for art's sake::el arte por el arte,arte por el arte
 artful::astuto,taimado,ladino,artero
-artful::habiloso,hábil
-artfuldiestro,ingenioso
-art gallery::galería de arte
-arthriticartrítico
-arthritisartritis
-arthrodic    arthrodial::
-arthrography    arthrogram::
+artful::habiloso,h�bil
+artful::diestro,ingenioso
+art gallery::galer�a de arte
+arthritic::artr�tico
+arthritis::artritis
 arthroplasty::artroplastia
-arthropod::artrópodo
-arthropodan    arthropodal::
-arthropodean     arthropodal::
-ArthurArturo
-artichokealcachofa,alcaucil,alcacil
+arthropod::artr�podo
+Arthur::Arturo
+artichoke::alcachofa,alcaucil,alcacil
 artichoke bottom::fondo de alcachofa
-article::artículo,objecto
-article    object::
-article::artículo
-article::artículo
-articleartículo
-articles of incorporation    articles of association::
-articles of organization    articles of association::
-articulacy    articulateness::
+article::art�culo,objecto
+article::art�culo
+article::art�culo
+article::art�culo
 articular::articular
 articulate::articulado
 articulate::elocuente
-articulateclaro
+articulate::claro
 articulate::articularse
-articulatearticular,vocalizar
-articulated bus::autobús articulado
-articulated lorry::camión articulado,camión con acoplado,camión con zorra,camión tráiler,gandola,tractomula,tráiler,vagoneta
+articulate::articular,vocalizar
+articulated bus::autob�s articulado
+articulated lorry::cami�n articulado,cami�n con acoplado,cami�n con zorra,cami�n tr�iler,gandola,tractomula,tr�iler,vagoneta
 articulately::articuladamente
 articulateness::elocuencia ; fluidez
 articulatory::articulatorio
 artifact::artefacto
 artifact::artefacto
-artifactartefacto
 artifact::artefacto
-artifactitious    artefactual::
+artifact::artefacto
 artifice::artificio
-artificer    artisan::
-artificer    inventor::
-artificer    savant::
-artificer    trickster::
 artificial::artificial
-artificialartificial
 artificial::artificial
-artificial insemination::inseminación artificial
+artificial::artificial
+artificial insemination::inseminaci�n artificial
 artificial intelligence::inteligencia artificial
 artificial intelligence::inteligencia artificial
 artificial intelligence::inteligencia artificial
 artificially::artificialmente
-artificialness    artificiality::
-artificial person    legal person::
-artificial sweetener    sugar substitute::
-artillerist    artilleryman::
-artillery::artillería
-artilleryartillería
+artillery::artiller�a
 artilleryman::artillero
 Artinskian::Artinskiense
-artisanartesano
+artisan::artesano
 artist::artista
 artist::artista
-artistartista
-artistic::artístico
-artistic::artístico
-artistic::artístico
-artistical    artistic::
-artistically::artísticamente
+artist::artista
+artistic::art�stico
+artistic::art�stico
+artistic::art�stico
+artistically::art�sticamente
 artless::natural
-artlesscándido
+artless::c�ndido
 artlessness::inocencia
 artlessness::ingenuidad,candidez
-artmaker    artist::
-Artsakh Republic    Nagorno-Karabakh Republic::
-artwise    artistically::
-arty::pretenciosamente artístico
-ArubaAruba
-Arubian    Aruban::
-arugularúcula,oruga,roqueta,jaramago
-Aruküla::Aruküla
+arty::pretenciosamente art�stico
+Aruba::Aruba
+arugul::ar�cula,oruga,roqueta,jaramago
+Aruk�la::Aruk�la
 arum lily::jaro
 Arunachal Pradesh::Arunachal Pradesh
-arvicole    fieldmouse::
-Aryan   Aryan master race)::ario
-Aryanario
+Aryan   Aryan master race::ario
+Aryan::ario
 Aryan::ario
 aryballos::aribalo
 aryl::arilo
-aryloxide    phenoxide::
-astan
-as    e.g.::
-as    for example::
-as::al tiempo que; como,igual de… que
+as::al tiempo que; como,igual de� que
 as::cuando
 as::mientras
 as::como,ya que,debido a que,por
-as    though::
 as::como
-as    that::
-as    than::
 as::a medida que,conforme
 as::as
 as::como
 as::como
 as a matter of fact::por cierto
-ASAPlo mas rapido posible,lo antes posible,cuanto antes
+ASAP::lo mas rapido posible,lo antes posible,cuanto antes
 as a rule::por regla general,normalmente
 as a whole::en conjunto
-asbestosasbesto,amianto
-asbestosisasbestosis
+asbestos::asbesto,amianto
+asbestos::isasbestosis
 ascaridole::ascaridol
 ascend::subir,ascender
 ascend::subir,ascender
 ascend::ascender,subir
 ascend::ascender,subir
 ascendancy::ascendiente,predominio,influencia,ascendencia
-ascension::ascensión
-Ascension    Ascension Day::
-Ascension::Ascensión
-Ascension Day::Ascensión
+ascension::ascensi�n
+Ascension::Ascensi�n
+Ascension Day::Ascensi�n
 ascent::ascenso
-ascent::elevación
-ascent::elevación
-ascertainaveriguar,determinar,establecer
+ascent::elevaci�n
+ascent::elevaci�n
+ascertain::averiguar,determinar,establecer
 ascertainable::averiguable; determinable
-asceticascético
+ascetic::asc�tico
 ascetic::asceta
-asceticismascetismo,ascética
-AsclepiusAsclepio
+asceticism::ascetismo,asc�tica
+Asclepius::Asclepio
 ascocarp::ascocarpo
 Ascoli Piceno::Ascoli Piceno
 ascorbate::ascorbato
-ascorbic::ascórbico
-ascorbic acid::ácido ascórbico
+ascorbic::asc�rbico
+ascorbic acid::�cido asc�rbico
 ascribable::atribuible; imputable
 ascribe::atribuir,adscribir
-ascribeimputar,atribuir,adscribir
-ASEAN::ANSA,Asociación de Naciones del Sudeste Asiático
-aseptic::aséptico
+ascribe::imputar,atribuir,adscribir
+ASEAN::ANSA,Asociaci�n de Naciones del Sudeste Asi�tico
+aseptic::as�ptico
 asexuality::asexualidad
 as far as one knows::que yo sepa,por lo que sepa
 as for::en cuanto a,respecto a,para
-ashceniza
-ash    ash tree::
 ash::fresno
-ashamedavergonzado,abochornado,apenado
-ashenceniciento,lívido,pálido
+ashamed::avergonzado,abochornado,apenado
+ashen::ceniciento,l�vido,p�lido
 Asher::Aser
 Ashgabat::Asjabad
-ash gourd    winter melon::
-ash gourd    winter melon::
-ashlarsillar
 ashore::en tierra
-ashtraycenicero
+ashtray::cenicero
 ash tree::fresno
-Ash Wednesday::Miércoles de Ceniza
-AsiaAsia
+Ash Wednesday::Mi�rcoles de Ceniza
+Asia::Asia
 Asia Minor::Asia Menor
-Asian::asiático
-Asianasiático,asiática
+Asian::asi�tico
+Asian::asi�tico,asi�tica
 Asian::oriental
-Asian::hindú,indio
-Asian elephant::elefante asiático
-Asian Games::Juegos Asiáticos
-Asian lionleón de Asia
-asideaparte,a un lado
-aside   a brief comment by a character addressing the audience,unheard by other characters)::aparte
+Asian::hind�,indio
+Asian elephant::elefante asi�tico
+Asian Games::Juegos Asi�ticos
+Asian lion::le�n de Asia
+aside::aparte,a un lado
+aside   a brief comment by a character addressing the audience,unheard by other characters::aparte
 as if::como si
 as if::como si
-as if::¡cómo no!,¡sí cómo no!
-asinineestúpido
+as if::�c�mo no!,�s� c�mo no!
+asinine::est�pido
 asinine::asnal
-as is    in its present state or condition)::tal cual
-askpreguntar
+as is    in its present state or condition::tal cual
+ask::preguntar
 ask::pedir,requerir
-askancecon recelo
+askance::con recelo
 askance::de reojo
-askewtorcido,oblicuo
+askew::torcido,oblicuo
 ask for::pedir
 ask out::invitar a salir
 aslake::mitigar
-aslant    slanted::
 asleep::dormido
 as long as::siempre y cuando
 as long as::mientras que,siempre y cuando
-AsmaraAsmara
+Asmara::Asmara
 as much as possible::todo lo posible
-asocial     antisocial::
 as of::desde,a partir de
-asp    Egyptian cobra::
-asp::áspid
+asp::�spid
 asparagine::asparagina
-asparagus  )::espárrago
-asparagusespárrago
+asparagus  ::esp�rrago
+asparagus::esp�rrago
 aspartame::aspartamo
 aspartate::aspartato
-aspartic::aspártico
-aspartic acid::ácido aspártico
-aspectaspecto
+aspartic::asp�rtico
+aspartic acid::�cido asp�rtico
+aspect::aspecto
 aspect ratio::cociente de aspecto
-aspen::álamo temblón
-Asperger's syndromesíndromo de Asperger
+aspen::�lamo tembl�n
+Asperger's syndrome::s�ndromo de Asperger
 aspermia::aspermia
-asperse    scatter::
-asperse    sprinkle::
 aspersion::calumnia
-as per usual    as usual::
-asphaltasfalto
-asphalt::hormigón asfáltico
+asphalt::asfalto
+asphalt::hormig�n asf�ltico
 asphaltene::asfalteno
 asphyxia::asfixia
 asphyxiate::asfixiarse
 asphyxiate::asfixiar
 asphyxiation::asfixia
 asphyxiation::asfixia
-aspic::áspic,queso de cabeza
+aspic::�spic,queso de cabeza
 aspie::aspi
-aspirate    aspirated::
-aspirateaspiración
+aspirate::aspiraci�n
 aspirate::aspirada
 aspirate::aspirar
 aspirate::inhalar,aspirar
 aspirate::aspirar,chupar,sacar con la bomba
 aspirated::aspirado
-aspirated hh aspirada,hache aspirada
-aspiration::aspiración
-aspirationaspiración
+aspirated ::hh aspirada,hache aspirada
+aspiration::aspiraci�n
+aspiration::aspiraci�n
 aspirator::aspirador
-aspireaspirar
-aspirinaspirina,aspirinar
+aspire::aspirar
+aspirin::aspirina,aspirinar
 asplenia::asplenia
 as regards::en cuanto a
-assasno
+ass::asno
 ass::culo
-ass::burro,idiota,imbécil
+ass::burro,idiota,imb�cil
 ass::polvo
 assail::atacar,asaltar,aturdir
 assailant::asaltante,atacante
-AssamAssam
+Assam::Assam
 assassin::asesino
-assassinasesino
-assassin    assassinate::
-assassinate    assassination::
-assassinate    assassin::
-assassinateasesinar
-assassinationmagnicidio,asesinato
+assassin::asesino
+assassinate::asesinar
+assassination::magnicidio,asesinato
 assassin bug::chinche hocicona,chinche picuda,chinchorro,chipo,chirimacha,pito,vinchuca
-assaultasalto,acometimiento
+assault::asalto,acometimiento
 assault::asaltar,atacar
 assault rifle::fusil de asalto,rifle de asalto,fusa
 assay::ensayo
 assay::ensayo
-assay  )::aquilatar,ensayar
-ass crack    anal cleft::
-assegaiazagaya
+assay  ::aquilatar,ensayar
+assegai::azagaya
 Asselian::Asseliense
 assemble::reunir,juntar
 assemble::ensamblar,construir,montar
-assembler     assembly language::
 assembly::asamblea
-assemblyensamblaje
+assembly::ensamblaje
 assembly::asamblea
 assent::asentimiento
 assent::asentir,consentir
-assertaserción
+assert::aserci�n
 assert::asegurar,afirmar
 assert::sostener,reafirmar
 assert::sostener,reafirmar
 assert::encender,habilitar
 assert::ejercer; confirmar
-assertionafirmación,aserto
-assertive::categórico,enérgico,firme
-assertiveness::autoafirmación
-assessevaluar,estimar
+assertion::afirmaci�n,aserto
+assertive::categ�rico,en�rgico,firme
+assertiveness::autoafirmaci�n
+assess::evaluar,estimar
 assess::determinar
 assess::gravar,imponer
-assessment::evaluación,valoración
+assessment::evaluaci�n,valoraci�n
 assessor::evaluador,evaluadora,tasador,tasadora
-assetbien,valor,activo
+asset::bien,valor,activo
 asset-backed::respaldado por activos
-assetsbien,partida del activo
+assets::bien,partida del activo
 asseverate::aseverar
-assfuck::engaño,estafa,fraude
-assfuck    sodomy::
-assfuck::engañar
+assfuck::enga�o,estafa,fraude
+assfuck::enga�ar
 assfuck::sodomizar,culear
-assfucker    buttfucker::
-assfucker    jerk::
-assholeculo
-asshole::pendejo,cabrón,culero,gilipollas,capullo
+asshole::culo
+asshole::pendejo,cabr�n,culero,gilipollas,capullo
 assiduity::asiduidad
-assiduousasiduo,diligente
+assiduous::asiduo,diligente
 assiduously::asiduamente
 assign::asignar
 assign::designar
 assign::asignar
 assignment::tarea
-assimilationasimilación
-assistayudar,asistir
+assimilation:::asimilaci�n
+assist::ayudar,asistir
 assist::asistir
-assistanceasistencia
-assistantayudante
+assistance::asistencia
+assistant::ayudante
 assistant::ayudante,asistente
-asskisser    asslicker::
 ass-licker::lameculos
-associateasociado
+associate::asociado
 associate::asociar
 associate::relacionar
-associationasociación
-association::asociación
-association football::fútbol
+association::asociaci�n
+association::asociaci�n
+association football::f�tbol
 associative::asociativo
 associative::asociativo
 assonance::asonancia
 assonant::asonante
 as soon as::apenas,en cuanto,tan pronto como
-as soon as possible::lo más rápido posible,cuanto antes,tan pronto como sea posible
-assortclasificar,ordenar
+as soon as possible::lo m�s r�pido posible,cuanto antes,tan pronto como sea posible
+assort::clasificar,ordenar
 assorted::surtido
-assortmentsurtido,variedad,colección
-assuagecalmar,aliviar,mitigar,satisfacer
+assortment::surtido,variedad,colecci�n
+assuage::calmar,aliviar,mitigar,satisfacer
 assuage::apaciguar,sosegar,calmar
 assume::asumir
-assumesuponer,dar por sentado
+assume::suponer,dar por sentado
 assume::asumir
 assumed::fingido
 assumed::supuesto
-assumptionasunción
-assumption::suposición
+assumption::asunci�n
+assumption::suposici�n
 assurance::confianza
 assurance::certidumbre
-assureasegurar
 assure::asegurar
-assured    confident::
-assured     guaranteed::
+assure::asegurar
 Assyria::Asiria
 Assyrian::asirio
 Assyrian::asirio
 Assyrian::asirio
 Assyrian::asirio
-Assyriology::asiriología
-Astana    Akmola::
-Astana    Akmolinsk::
-Astana::Astaná
-astatineastato
+Assyriology::asiriolog�a
+Astana::Astan�
+astatine::astato
 astaxanthin::astaxantina
-asteráster
+aster::�ster
 -aster::-astro,-astra,-astre
 asterisk::asterisco
 asterism::asterismo
-asterismasterismo
 asterism::asterismo
-Asterix::Astérix
-astern  )::detrás,a popa
-asternhacia atrás
-asteroidasteroide,planetoide
-asteroid belt::cinturón de asteroides
-as the crow flies::a vuelo de pájaro
-asthenosphereastenosfera
+asterism::asterismo
+Asterix::Ast�rix
+astern ::detr�s,a popa
+astern::hacia atr�s
+asteroid::asteroide,planetoide
+asteroid belt::cintur�n de asteroides
+as the crow flies::a vuelo de p�jaro
+asthenosphere::astenosfera
 as the saying goes::es un decir
-asthmaasma
-asthmaticasmático
-asthmatic::asmático
+asthma::asma
+asthmaticasm�tico
+asthmatic::asm�tico
 as though::como si
 astigmatism::astigmatismo
-astigmatismastigmatismo
-a stitch in time saves nine::más vale prevenir que curar
-astomatous    mouthless::
-astonishasombrar,sorprender,pasmar
+astigmatism::astigmatismo
+a stitch in time saves nine::m�s vale prevenir que curar
+astonish::asombrar,sorprender,pasmar
 astonished::asombrado
 astonishing::asombroso,sorprendente
-astonishmentasombro,estupefacción,sorpresa
+astonishment::asombro,estupefacci�n,sorpresa
 a stopped clock is right twice a day::Hasta un reloj parado acierta la hora dos veces al dia
 astound::asombrar,pasmar
 astounding::asombroso,pasmoso,sorprendente
 astraddle::a horcajadas
-astragalus    anklebone::
-AstrakhanAstracán
-astralastral,estelar
-astrayperdido,extraviado
+Astrakhan::Astrac�n
+astral::astral,estelar
+astray::perdido,extraviado
 astride::montado
-astringencyastringencia
+astringency::astringencia
 astringency::astringencia
 astringent::astringente
 astringent::astringente
-astringentastringente
-astroblemeastroblema
+astringent::astringente
+astrobleme::astroblema
 astrocyte::astrocito
 astroid::astroide
-astrolabeastrolabio
-astrologer::astrólogo,astróloga
-astrological::astrológico
+astrolabe::astrolabio
+astrologer::astr�logo,astr�loga
+astrological::astrol�gico
 astrological sign::signo zodiacal
-astrologist    astrologer::
-astrologyastrología
-astronautastronauta
-astronautics::astronáutica
-astronautics::astronáutica
-astronavigation    celestial navigation::
-astronomerastrónomo
-astronomic    astronomical::
-astronomic    astronomical::
-astronomicalastronómico
-astronomical::astronómico
-astronomical unit::unidad astronómica
-astronomyastronomía
-astrophysical::astrofísico
-astrophysicist::astrofísico,astrofísica
-astrophysics::astrofísica
-Asturianasturiano,bable
+astrology::astrolog�a
+astronaut::astronauta
+astronautics::astron�utica
+astronautics::astron�utica
+astronomer::astr�nomo
+astronomical::astron�mico
+astronomical::astron�mico
+astronomical unit::unidad astron�mica
+astronomy::astronom�a
+astrophysical::astrof�sico
+astrophysicist::astrof�sico,astrof�sica
+astrophysics::astrof�sica
+Asturian::asturiano,bable
 Asturian::asturiano
 Asturian::asturiano
 Asturian::asturiano
 Asturianism::asturianismo
-AsturiasAsturias
-astuteastuto,sagaz,perspicaz
+Asturias::Asturias
+astute::astuto,sagaz,perspicaz
 astuteness::astucia,sagacidad
-Asunción::Asunción
-asunderen dos,en pedazos
+Asunci�n::Asunci�n
+asunder::en dos,en pedazos
 as usual::como de costumbre
-as well::también
-as well as::así como
-as yet::aún,todavía
+as well::tambi�n
+as well as::as� como
+as yet::a�n,todav�a
 asylee::asilado
-asylumasilo,santuario
+asylum::asilo,santuario
 asylum::manicomio
-asymmetric    asymmetrical::
-asymmetrical::asimétrico
-asymmetry::asimetría
-asymptomatic::asintomático
-asymptote::asíntota
-asymptoticasintótico
+asymmetrical::asim�trico
+asymmetry::asimetr�a
+asymptomatic::asintom�tico
+asymptote::as�ntota
+asymptotic::asint�tico
 asynchronism    asynchrony::
 as you know::como ustedes saben
 as you like::como quieras
 as you wish::como quiera,como desee
 at::arroba
-aten
+at::en
 at::a
 at::a
-at allen realidad,para nada
+at all::en realidad,para nada
 at all costs::a cualquier precio,a toda costa,cueste lo que cueste,a todo trance
-at a loss::a pérdida
-atamanatamán
+at a loss::a p�rdida
+ataman::atam�n
 at any rate::en todo caso,de todas formas,de todas maneras,pase lo que pase
 ataraxia::ataraxia
 at a time::a la vez
-atavisticatávico
-atavistic::atávico
-atavistic::atávico
-ataxiaataxia
+atavistic::at�vico
+atavistic::at�vico
+atavistic::at�vico
+ataxia::ataxia
 at dark::durante el anochecer
-at death's door::a las últimas
+at death's door::a las �ltimas
 -ate::-ato
 atelophobia::atelofobia
-atemoya::atemoya,anón,chirimorinon
+atemoya::atemoya,an�n,chirimorinon
 atemporal::atemporal
 at first::al principio
 at first glance::a primera vista
-at first sight    at first glance::
 at-grade::cruce parejo
 at gunpoint::a punta de pistola
-atheism   )::ateísmo
-atheist    atheistic::
+atheism ::ate�smo
 atheist::ateo,atea
-atheistateo,atea
+atheist::ateo,atea
 atheistic::ateo
-AthenaAtenea
+Athena::Atenea
 Athenian::ateniense
-Athenianateniense
-AthensAtenas
-atherectomy::aterectomía
-athermicatérmico
-atherosclerosisateroesclerosis
-atherosclerotic::aterosclerótico
+Athenian::ateniense
+Athens::Atenas
+atherectomy::aterectom�a
+athermic::at�rmico
+atherosclerosis::ateroesclerosis
+atherosclerotic::ateroscler�tico
 a thing or two::un rato,un rato largo
-athleteatleta,deportista
+athlete::atleta,deportista
 athlete::atletica
 athlete's foot::pie de atleta
-athleticatlético
-athletic::atlético
-athletic::atlético
-athleticsatletismo
+athletic::atl�tico
+athletic::atl�tico
+athletic::atl�tico
+athletics::atletismo
 at home::en casa
 Athonite::athonita
 Athonite::athonita
-athwartde lado a lado,a través
--ation  )::-ación
-Atkins diet::régimen de Atkins,dieta de Atkins
+athwart::de lado a lado,a trav�s
+-ation ::-aci�n
+Atkins diet::r�gimen de Atkins,dieta de Atkins
 Atlanta::Atlanta
-Atlantic::atlántico
-AtlanticAtlántico
-Atlantic herring::arenque,arenque del Atlántico
-Atlantic Ocean::océano Atlántico,Atlántico
-Atlantic salmon::salmón del Atlántico
+Atlantic::atl�ntico
+Atlantic::Atl�ntico
+Atlantic herring::arenque,arenque del Atl�ntico
+Atlantic Ocean::oc�ano Atl�ntico,Atl�ntico
+Atlantic salmon::salm�n del Atl�ntico
 Atlantic tomcod::tomcod
-AtlantisAtlántida
-atlasatlas
+Atlantis::Atl�ntida
+atlas::atlas
 atlas   The uppermost vertebra of the neck)::atlas
-AtlasAtlas,Atlante
+Atlas::Atlas,Atlante
 Atlas Mountains::Atlas
 at last::por fin,al fin
 at last::al fin,por fin
-atlatllanzadardo
+atlatl::lanzadardo
 at least::al menos,por lo menos,siquiera
 at length::al fin
 at length::detalladamente
-at loggerheads   unable to agree; opposing)::de pique,a la greña
-ATM   Automated Teller Machine)::cajero automático,cajero automático
-atmosphereatmósfera,aire
-atmosphere::atmósfera
-atmosphere::atmósfera,ambiente,clima
-atmospheric::atmosférico
-atmospheric pressure::presión atmosférica
-at most::no más de,a lo sumo,a lo más,cuando mucho
-at no time    never::
-atollatolón
-atomátomo
-atom::átomo
-atomicatómico
-atomic::atómico
-atomic bomb::bomba atómica
-atomic clock    radio clock::
-atomic energy::energía atómica
+at loggerheads   unable to agree; opposing::de pique,a la gre�a
+ATM   Automated Teller Machine::cajero autom�tico,cajero autom�tico
+atmosphere::atm�sfera,aire
+atmosphere::atm�sfera
+atmosphere::atm�sfera,ambiente,clima
+atmospheric::atmosf�rico
+atmospheric pressure::presi�n atmosf�rica
+at most::no m�s de,a lo sumo,a lo m�s,cuando mucho
+atoll::atol�n
+atom::�tomo
+atom::�tomo
+atomic::at�mico
+atomic::at�mico
+atomic bomb::bomba at�mica
+atomic energy::energ�a at�mica
 atomicity::atomicidad
-atomic mass::masa atómica
-atomic nucleus::núcleo atómico
-atomic number::número atómico
+atomic mass::masa at�mica
+atomic nucleus::n�cleo at�mico
+atomic number::n�mero at�mico
 atomize::atomizar
 atomizer::pulverizador,atomizador
 atomoxetine::atomoxetina
-atonal   )::atonal
-at oncea la vez
+atonal ::atonal
+at once::a la vez
 at once::enseguida,ahora mismo
-atoneexpiar
 atone::expiar
-atonement::expiación
+atone::expiar
+atonement::expiaci�n
 atonement::desagravio
 atop::encima de
-atopic::atópico
-atopyatopia
+atopic::at�pico
+atopy::atopia
 atovaquone::atovaquona
 at random::al azar
 atrial::auricular
 atrial fibrillation::arritmia cardiaca
-atrium::aurícula
+atrium::aur�cula
 atrium::atrio
 atrocious::atroz
-atrociousatroz,malvado
+atrocious::atroz,malvado
 atrocious::ofensivo
 atrocity::atrocidad
-atrophyatrofia
+atrophy::atrofia
 atrophy::atrofiarse
-atropineatropina
+atropine::atropina
 at sign::arroba
-at-sign    at sign::
-at sixes and sevens::hecho un lío
+at sixes and sevens::hecho un l�o
 at stake::en juego
-at symbol    at sign::
-attachéagregado,agregada
-attachanexar,adjuntar
-attachmentapego,cariño,afición
+attach�::agregado,agregada
+attach::anexar,adjuntar
+attachment::apego,cari�o,afici�n
 attachment::archivo adjunto
-attachment::ejecución
-attackataque
+attachment::ejecuci�n
+attack::ataque
 attack::ataque
 attack::atacar
 attack::atacar
-attackeratacante,asaltante
-attacker  )::delantero
+attacker::atacante,asaltante
+attacker  ::delantero
 attacking midfielder::mediapunta
 attack is the best form of defence::la mejor defensa es un buen ataque
-attainlograr,conseguir
+attain::lograr,conseguir
 attainable::alcanzable,realizable,asequible
 attainder::muerte civil,deshonra
-attainmentlogro,consecución,realización
+attainment::logro,consecuci�n,realizaci�n
 attempt::atentado
 attempt::tentativa,intento,ensayo
-attemptintentar,tratar de
-attendatender,ocuparse de
+attempt::intentar,tratar de
+attend::atender,ocuparse de
 attend::asistir
-attendanceasistencia,presencia
+attendance::asistencia,presencia
 attendant::concomitante,inherente
-attendantasistente,guarda
-attentionatención
-attention::atención
-attention::atención
-attention deficit hyperactivity disorder::trastorno por déficit de atención con hiperactividad,TDAH
-attentiveatento,solícito
+attendant::asistente,guarda
+attention::atenci�n
+attention::atenci�n
+attention::atenci�n
+attention deficit hyperactivity disorder::trastorno por d�ficit de atenci�n con hiperactividad,TDAH
+attentive::atento,sol�cito
 attentively::atentamente
-attentiveness::consideración
-attenuation::atenuación
-attestavalar,atestiguar
-attestationatestación
-attestation::atestación
-at the end of one's rope    at the end of one's tether::
+attentiveness::consideraci�n
+attenuation::atenuaci�n
+attest::avalar,atestiguar
+attestation::atestaci�n
+attestation::atestaci�n
 at the end of the day::al fin y al cabo
 at the expense of::a costa de,a costo de,a cuenta de,a expensas de
-at the feet of::a los pies de,servicial a,sacrificado a,afectísimo,subyugado
-at the feet of::del estirpe de,de la sangre de,del parentesco de,de la filiación de,de la escuela de,del estudio de
+at the feet of::a los pies de,servicial a,sacrificado a,afect�simo,subyugado
+at the feet of::del estirpe de,de la sangre de,del parentesco de,de la filiaci�n de,de la escuela de,del estudio de
 at the hands of::en manos de
-at the latest::a más tardar
+at the latest::a m�s tardar
 at the moment::en ese momento
 at the same time::al mismo tiempo
-atticático,desván
-Attica::Ática
+attic::�tico,desv�n
+Attica::�tica
 at times::a veces
-attireatuendo,atavío
+attire::atuendo,atav�o
 attire::ataviar
-attitudepostura,actitud
+attitude::postura,actitud
 attitude::actitud
-attometer    attometre::
-attorneyabogado,abogada,notario
+attorney::abogado,abogada,notario
 attorney-in-fact::apoderado,procurador
 attract::llamar
 attract::atraer
-attractatraer
-attract attention::llamar la atención,hacerse notar
-attractionatracción
-attractiveatractivo
+attract::atraer
+attract attention::llamar la atenci�n,hacerse notar
+attraction::atracci�n
+attractive::atractivo
 attractive::atractivo
 attractively::hermosamente
 attractiveness::atractivo,atractividad
 attributable::atribuible,imputable
-attributeatributo
+attribute::atributo
 attribute::atribuir
-attributer     attributor::
-attribution::atribución
+attribution::atribuci�n
 attributive::antecedente
 attributive adjective::adjectivo atributivo
-attritionabrasión
-attrition::atrición
+attrition::abrasi�n
+attrition::atrici�n
 attrition::desgaste dental
-attuneadecuar,adaptar
+attune::adecuar,adaptar
 ATV::cuatrimoto,cuadriciclo,cuatriciclo,quad
-atypicalatípico
+atypical::at�pico
 aubade::alborada
-aubadealborada
-aubergine     eggplant::
-auburncastaño,bermejo
+aubade::alborada
+auburn::casta�o,bermejo
 Auckland::Auckland
-au contraireen contrario,por el contrario
-auctionsubasta,remate
+au contraire::en contrario,por el contrario
+auction::subasta,remate
 auction::subastar,rematar
 auctionable::rematable
 auctioneer::pregonero,subastador,rematador
 auctioneer::rematar,subastar
 audacious::insolente
-audaciousaudaz
-audacity::osadía,audacia
-audacityaudacia
-audibleoíble,audible
+audaciou::saudaz
+audacity::osad�a,audacia
+audacity::audacia
+audible::o�ble,audible
 audience::audiencia
-audience::audiencia,audíencia
-audienceaudiencia,público
-audience::público
-audiode sonido,de audio
+audience::audiencia,aud�encia
+audience::audiencia,p�blico
+audience::p�blico
+audio::de sonido,de audio
 audio::audio
 audiobook::audiolibro
-audio guide::audioguía
-audiologyaudiología
-audiometer::audímetro,audiómetro
-audiometry::audiometría
+audio guide::audiogu�a
+audiology::audiolog�a
+audiometer::aud�metro,audi�metro
+audiometry::audiometr�a
 audiovisual::audiovisual
-audit::auditoría
-audit::auditoría
+audit::auditor�a
+audit::auditor�a
 audit::auditar
-audition::audición
-audition::oído,audición
-audition::hacer una audición
+audition::audici�n
+audition::o�do,audici�n
+audition::hacer una audici�n
 auditor::auditor,auditora
 auditorium::auditorio,sala
 auditory::auditivo
-auditory::público,audiencia
+auditory::p�blico,audiencia
 auditory::sala
 auger::barrena,barreno,taladrador,taladro
-auger    plumber's snake::
 augite::augita
-augmentaumentar,incrementar
+augment::aumentar,incrementar
 augmentative::aumentativo
 augmentative::aumentativo
 augmented reality::realidad aumentada
 Augsburg::Augsburgo
-auguraugur
+augur::augur
 augur::augurar,presagiar
-augury::augurio,presagio,agüero
+augury::augurio,presagio,ag�ero
 august::noble,hidalgo
-augustmajestuoso,augusto
+august::majestuoso,augusto
 August    Augusta::
 August    Augustus::
-Augustagosto
-Augustine::Augustín,Agustín
-AugustusAugusto
-aukalca
-aulete     flautist::
-aunt    auntie or grandmother::
-aunt    great-aunt or grandaunt::
-aunttía
+August::agosto
+Augustine::August�n,Agust�n
+Augustus::Augus
+aunt::t�a
 au pair::de au pair
 aura::aura
 aura::aura
-auralauditivo
-aurallyauditivamente
+aural::auditivo
+aurally::auditivamente
 Aurelia::Aurelia
 Aurelius::Aurelio
 aureola::aureola
-au revoir::adiós,hasta la vista
-auric::áurico
-auricle::aurícula
-auricle     pinna::
-auricle    atrium::
-auricular muscle::músculo auricular
-auriferous::aurífero
+au revoir::adi�s,hasta la vista
+auric::�urico
+auricle::aur�cula
+auricular muscle::m�sculo auricular
+auriferous::aur�fero
 Auriga::Auriga
-aurochs    European bison::
-aurochsuro
+auro::chsuro
 aurora::aurora
 Aurora::Aurora
 Aurora::Aurora
-aurora australis    southern lights::
-aurora borealis     northern lights::
-AuschwitzAuschwitz
+Auschwitz::Auschwitz
 Auschwitz::Auschwitz
 auscultate::auscultar
-auscultation::auscultación
+auscultation::auscultaci�n
 auspices::auspicios
-auspiciousprometedor,propicio
-auster  )  ostro::
+auspicious::prometedor,propicio
 austere::austero
-austeresevero
-austerityausteridad
-austerity  liɔːˈtɒmətɪzəmɔːˈtɒmətənˈɔ.tə.moʊ.ˌbiləˈtɑnəməsˈɔˌtɑpsiˈɔːtəsəʊmɔːˈtɒtəmiˈɔtəmɔˈtʌmnəɫɔɡˈzɪləɹiəˈveɪləˌveɪləˈbɪlɪtɪ]əˈveɪləblˈævəlæntʃæˈvãt.ɡɑːdˈævɑrˈævəɹɪsˌævəˈrɪʃəsˈæv.ə.tɑɹˈævəntaɪnˈæv.əˌnuəˈvɜːˈævəɹɪdʒəˈvɜːsəˈvɝʒnəˈvɝtəˈvɛstnˈeɪviənˈeɪvɪəɹieɪviˈeɪʃənævɪdɑvəˈkɑdoʊævoʊˈkeɪʃənˈævəsɛtəˈvɔɪdəˈvɔɪdəbl̩əˈwɛɪtəˈweɪkəˈweɪkənəˈweɪ̯kənɪŋəˈwɔɹdprize for merit)::premiar
+austere::severo
+austerity::austeridad
 award::fallar,decretar,sentenciar
 award::premiar,galardonar
-awarealerta
+aware::alerta
 aware::consciente
 awareness::conciencia
 awash::inundado
 a watched pot never boils::el ojo del amo engorda al caballo
 away::lejos,ausente
 away::lejos
-awayfuera
+away::fuera
 away::sin parar
-away side    visiting team::
-away team    visiting team::
 awe::asombro
-awepavor
+awe::pavor
 awe::asombrar,abrumar
-awesometremendo,piola
-awestricken    awestruck::
+awesome::tremendo,piola
 awestruck::asombrado
 awful::horrible,espantoso,terrible,tremendo
-awfulhorrible,terrible,atroz
-awful    terrorstricken::
-awfully    badly::
-awfully    fearfully::
+awful::horrible,terrible,atroz
 awfully::asombroso
-awfully    reverently::
-awfully    very::
-awhileun rato,algún tiempo
+awhile::un rato,alg�n tiempo
 awkward::embarazoso,delicado
-awkwardtorpe,desmañado
+awkward::torpe,desma�ado
 awkwardness::torpeza
-awllezna,lesna,alesna,punzón
-awningtoldo
+awl::lezna,lesna,alesna,punz�n
+awning::toldo
 AWOL::ausente sin licencia
 awry::torcido
 awry::torcido
 awryatravesado
 awry::inadecuadamente
-axehacha
-axial plane    transverse plane::
-axilaxilar
+axe::hacha
+axil::axilar
 axillary::axilar
 axillary::axilar
 axinite::axinita
-axiomaxioma
 axiom::axioma
 axiom::axioma
-axiomatic::axiomático
-axiomatic::axiomático
-axiomatically::axiomáticamente
-axiseje
+axiom::axioma
+axiomatic::axiom�tico
+axiomatic::axiom�tico
+axiomatically::axiom�ticamente
+axis::eje
 axis::eje
 axis::axis
-Axis    Axis Powers::
 axis of evil::eje del mal
-axis of symmetry::eje de simetría
-axleeje
+axis of symmetry::eje de simetr�a
 axle::eje
 axle::eje
-axolotlajolote,ajolota
-axon::axón,cilindroeje,neurita
-ayatollah::ayatolá
-ayesí,sé
-aye::sí
+axle::eje
+axolotl::ajolote,ajolota
+axon::ax�n,cilindroeje,neurita
+ayatollah::ayatol�
+aye::s�,s�
+aye::s�
 Ayers Rock::Uluru
-Aymaraaimara,aymara,aimará
+Aymara::aimara,aymara,aimar�
 Aymara::idioma aimara,aimara,aymara
-Ayurvedaayurveda
+Ayurveda::ayurveda
 azalea::azalea
-AzerbaijanAzerbaiyán
+Azerbaijan::Azerbaiy�n
 Azerbaijani::azerbaiyano
-Azerbaijani     Azeri::
-Azerbaijani Turkic    Azeri::
-Azerbaijan SSR::RSS de Azerbaiyán
+Azerbaijan SSR::RSS de Azerbaiy�n
 Azeri::azerbaiyano
 Azeri::azerbaiyano
-Azeri Turkic    Azeri::
-azimuthazimut,acimut
+azimuth::azimut,acimut
 azimuthal::azimutal,acimutal
-Azoreslas Azores
-azotemiaazotemia
+Azores::las Azores
+azotemia::azotemia
 Azrael::Azrael
-azuki bean::judía azuki,judía adzuki
-azuki bean::judía azuki,judía adzuki
+azuki bean::jud�a azuki,jud�a adzuki
+azuki bean::jud�a azuki,jud�a adzuki
 azure::azur
 azure::cielo azul
-azureazur,blao
-azure    lapis lazuli::
+azure::azur,blao
 azurite::azurita
-Åland    Aland::
-Álava::Álava
-baabalido,be
+�lava::�lava
+baa::balido,be
 baa::balar
 Baba Yaga::Baba Yaga
-babblecharla,parloteo
+babble::charla,parloteo
 babble::jerigonza
 babble::gorjeo
 babble::murmurar,susurrar
 babble::charlar,charlatanear,chacharear,charlotear,parlotear
 babble::mascullar,farfullar
-babblerbalbuceador
-babby     baby::
-babe     baby::
-babe    baby::
-babehood    babyhood::
+babbler::balbuceador
 babesiosis::babesiosis,babesiasis
-baboonbabuino
-babushkaanciana,viejita,viejecita,vieja,señora mayor,mujer vieja
+baboon::babuino
+babushka::anciana,viejita,viejecita,vieja,se�ora mayor,mujer vieja
 babushka    Russian doll::
-babybebé,nene,niño,niña,bebe,guagua
+baby::beb�,nene,ni�o,ni�a,bebe,guagua
 baby::nene,nena
-baby::benjamín,benjamina
-baby boom::explosión de natalidad,baby-boom
-baby boom  )::explosión de natalidad,baby-boom
+baby::benjam�n,benjamina
+baby boom::explosi�n de natalidad,baby-boom
+baby boom  ::explosi�n de natalidad,baby-boom
 baby boomer::baby boomer
-baby bottle::biberón,bibi,chupón,mamadera,mamila,pacha,pepe,pomo de leche,tetero
-baby boy::chiquito,niño
+baby bottle::biber�n,bibi,chup�n,mamadera,mamila,pacha,pepe,pomo de leche,tetero
+baby boy::chiquito,ni�o
 baby buggy::cochecito,carrito
-baby carriage    pram::
-baby face::lampiño
-baby food::comida de bébé,papilla
+baby face::lampi�o
+baby food::comida de b�b�,papilla
 babyish::infantil,pueril
-BabylonBabilonia
-BabyloniaBabilonia
+Babylon::Babilonia
+Babylonia::Babilonia
 Babylonian::babilonio
-Babylonic::babilónico
-baby massage    infant massage::
-baby seat    child safety seat::
-baby shower::baby shower,fiesta de pañales
-babysitcuidar de los niños,hacer de canguro
-babysitterniñera,canguro,china
-baby tooth    milk tooth::
-baccalaureate     bachelor degree::
-baccaratbacará,bacarrá
-bacchic::báquico
+Babylonic::babil�nico
+baby shower::baby shower,fiesta de pa�ales
+babysit::cuidar de los ni�os,hacer de canguro
+babysitter::ni�era,canguro,china
+baccarat::bacar�,bacarr�
+bacchic::b�quico
 Bacchus::Baco
-Bacchylides::Baquílides
-BachBach
+Bacchylides::Baqu�lides
+Bach::Bach
 bachata::bachata
-bachelor::bachiller,título de grado,licenciatura
-bachelorsoltero
+bachelor::bachiller,t�tulo de grado,licenciatura
+bachelor::soltero
 bachelor::bachiller,licenciado
-bachelordom    bachelorhood::
 bachelorette party::despedida de soltera
 bachelor party::despedida de soltero
-bachelors' button    bachelor's button::
-bachelorship    bachelorhood::
-bacillusbacilo
-back::de atrás,trasero,posterior,vuelto,revertido,atrasado
-backde atrás,trasero
+bacil::lusbacilo
+back::de atr�s,trasero,posterior,vuelto,revertido,atrasado
+back::de atr�s,trasero
 back::apartado,arrinconado,distante
 back::anterior,viejo,atrasado
-back::atrás
-back::hacia atrás
+back::atr�s
+back::hacia atr�s
 back::defensa
-back::parte de atrás,fondo,trasero
+back::parte de atr�s,fondo,trasero
 back::respaldo,espaldar
 back::lomo
 back::fondo,extremo,cabo
 back::espalda,lomo,dorso
-back::revés,envés,reverso
-back::irˈbækeɪkˈbækˌbəʊnˈbæk.tʃætˈbæk.dɹɒpbækˈfaɪəˈbæk.ɡæm.ənˈbæk.ɡɹaʊndˈbækhændˈbæk.laɪtˈbæk.pækˈbækˌslæʃˈbækˌspeɪsˈbækˌstɹoʊkˌbæk.təˈbækˈbæk.trækˈbæk.ʌpˈbækwɚdˈbæk.wədzbækˈjɑːdˈbeɪkənbækˈtɪɹ.i.əbækˈtɪəɹɪəɫ]bækˈtɪəɹ.ɪˌsaɪdbækˌtɪəɹ.ɪˈɒlədʒibækˈtɪəɹ.ɪəʊˌfeɪdʒbækˈtɪəɹ.ɪəmˈbæktɹɪəˈbæktɹɪən ˈkæməlbædˌbɑːdəˈhoʊsˈbædæsbædʒˈbædʒɚˈbæd.lændzˈbæd.liˈbæd.mɪn.tənˈbæd.nəsˈbæfl̩bæɡˌbæɡəˈtɛlˈbeɪɡəlˈbæɡɪdʒˈbæɡibæɡˈdædˈbæɡ.paɪpˈbæɡ.pɑɪpsbæˈɡɛtbəˈhɑː.məzbəˈheɪm.ɪənbɑːˈɹeɪnbeɪ̯lˈbeɪlɪfˈbeɪ.lɪ.wɪkˈbeɪlˌawtbeɪtˈbɑː.hɑː.kælɪˌfɔːn.ɪəbeɪkˈbeɪk.ə.laɪtˈbeɪ.kɚˈbeɪ.kə.riˈbeɪkɪŋbəˈklɑː.vəbækˈʃiːʃˈbɑkˌtunˌbæl.əˈklɑː.vəbæləˈlaɪkəˈbælənsbælˈbəʊəˈbælkənibɑldbeɪ̯lbæliˈæɹɪkˈbeɪl.fəlˈbɑːliˈbɔːlkənˌbɑl.kən.aɪˈzeɪ.ʃənbɔlˈbælədˈbæl.əstˌbæləɹˈiːnəbæˈleɪbəˈlɪst.ɪkbəˈlɪst.ɪksbəˈluːnˈbælətbɔːlzˈbɔlzibæliˈhuːbɑmbəˈloʊniˈbɔːlsəmˈbɑl.tɪkˈbæl.ə.streɪdbæmˈbubæm.ˈbuː.zəlbænbəˈnɑːlbəˈnælɨtibəˈnæ.nəbændˈbændɪdʒˈbændeɪdbænˈdæn.əˈbændəʊˌbæn.də.ˈriː.jəˌbændəɹiːˈjeəɹəʊˈbændɪˌkuːtˈbændɪtˌbændəˈlɪəˌbændəˈlɪəˈbændˌwæɡ.ənˈbændwɪdθˈbændibeɪnbeɪŋˈbæŋɡəlɔːrbæŋˈkɒkˌbæŋ.ɡlə.ˈdɛʃˈbænɪʃˈbænɪʃməntˈbænɪstəˈbæn.dʒoʊbæŋkˈbæŋkəˈbæŋk.ɹəptˈbæŋkrʌptsɪˈbænɚˈbæŋkwɪtbænˈʃiːˈbæntɚˈbæn.jənˈbaʊbæbbæpˈtaɪzˈbæptɪzəmˈbæptɪstbɑɹbɑːbbɑɹˈbeɪ.doʊsbɑɹ.ˈbɛɹ.i.ənbɑːˈbæɹɪkˈbɑːbəɹɪzəmˈbɑːbəkjuˈbɑːbəlˈbɑːbəˌbɑɹˈbɪtʃu.ɪtˌbɑɹsəˈloʊnəˈbɑːkəʊdbɑɹd]bɛɚˈbɛəbækˈbɛɹfʊtˈbɛɹ.libɑrflaɪˈbɑːɡənbɑːdʒbaˈristaˈbæɹɪəmbɑːkˈbɑɹli'bɑːmənbɑɹn]ˈbɑːnəkəɫˈbɑːn ˌaʊlbəˈɹɑməɾɚˌbæɹəˈmetɹɪkˈbæɹənˌbæ.ɹəˈnɛsˈbæ.ɹə.nibəˈroʊkbɑːkˈbæɹəksˌbæɹəˈkuːdəˈbæɹəlˈbæɹənbəˈrɛtˌbæɹɪˈkeɪdˈbæɹɪəˈbæ.ɹɪst.əˈbæroʊˈbɑːˌtendəˈbɑɹtəɹbɑːˈθɒləmjuˈbæɹɪɒnˈbeɪsəɫ]ˈbeɪsɔːltbeɪsˈbeɪs.bɔlˈbeɪs.bɑl ˌkæpˈbeɪsləsˈbeɪslaɪnˈbeɪsməntbəˈsɛndʒibæʃbəˈʃi˞bɑːʃˈkɪəɹˈbeɪsɪkˈbejsɨkliːbəˈsɪdɪəmˈbæz.əlbəˈsɪlɪənbasɪlɪˈɒlətɹibəˈsɪlɪkəˈbæs.ɪ.lɪskbasɪlˈɒlətɹiˈbeɪsɪnˈbeɪsɪsˈbæskɪtˈbæs.kɪt.bɔːlbæskbeɪsbæsˈbeɪsɡɪˈtɑːɹˈbeɪs.ɪstbəˈsuːnˈbæswʊdˈbæstəɹdbæˈstɪəɫ]bæˈstɪəɫ]ˈbæstiənbætbæt͡ʃbeɪtbæθbeɪðˈbeɪðəˈbeɪθɒsˈbæθɹoʊbˈbɑːθɹuːmbæθˈʃiːbəˈbæθtʌbˈbæθɪˌskeɪvˈbæθɪˌsfɪəbəˈtʰiːkˈbætmænbəˈtɑnbəˈtælɪənˈbæt.ənˈbæɾɚˈbætəɹiˈbætl̩ˈbætəlˌɡraʊndˈbɔbəlˈbɔːksaɪtbəˈveəɹɪəbævəɹˈwɑbeɪcolor)::alazán
-bay::alazán,alazana
-Bay::La Bahía
+back::rev�s,env�s,reverso
+bay::alaz�n,alazana
+Bay::La Bah�a
 bay cat::gato de Borneo
-Bayesianbayesiano
+Bayesian::bayesiano
 bay leaf::laurel
-Bay of Bengal::golfo de Bengala,bahía de Bengala
+Bay of Bengal::golfo de Bengala,bah�a de Bengala
 Bay of Biscay::golfo de Vizcaya
-Bay of Pigs::Bahía de Cochinos
-bayonetbayoneta
-bayoupantano,pantanos
-bay window::ventana de bahía
-bazaarbazar,mercado
+Bay of Pigs::Bah�a de Cochinos
+bayonet::bayoneta
+bayou::pantano,pantanos
+bay window::ventana de bah�a
+bazaar::bazar,mercado
 BC::a. de J.C.,antes de Jesucristo
-beestar
+be::estar
 be::estar
 be::ser,existir,haber
 be::tener,ser de
 be::ser
 be::ser,estar
 be::estar +
-be::-se,serbiːkˈbiːkɚbiːmbiːnˈbinɚˈbiː.nibɛɚˈbɛəɹəbəɫbɪɹdˈbɛɹɪŋbiːstantisocial person)::bestia,animal,salvaje
+be::-se,serbi?k?bi?k?bi?mbi?n?bin??bi?.nib???b????b??b??d?b????bi?stantisocial person)::bestia,animal,salvaje
 Beast::Bestia
 beastmaster::gladiador
 beast of burden::bestia de carga,animal de carga
-beat    scoop::
-beat     pulse::
 beat::barloventear
 beat::golpear,pegar,aporrear,batir
 beat::percutir,golpear,latir
 beat::batir,revolver,sacudir
 beat::vencer,derrotar
-beat a dead horse    flog a dead horse::
-beat around the bush::irse por los cerros de Úbeda,andarse por las ramas,darle vueltas al asunto
+beat around the bush::irse por los cerros de �beda,andarse por las ramas,darle vueltas al asunto
 beat around the bush::andarse con rodeos,andar con ambages
-beaten     defeated::
-beaterbatidor
 beater::batidor
-beatifybeatificar
-beatinglatido
-Beatleslos Beatles
-beatnikbeatnik
-BeatriceBeatriz
+beater::batidor
+beatify::beatificar
+beating::latido
+Beatles::los Beatles
+beatnik::beatnik
+Beatrice::Beatriz
 beat to the punch::ganar de mano,anticipar
 beat up::apalear
-beau     boyfriend::
-Beauceronpastor de Beauce
+Beau::ceronpastor de Beauce
 beautiful::bravo
-beautifulhermoso,hermosa,bello,bella  lindo,linda,guapo,guapa,bonito,bonita
+beautiful::hermoso,hermosa,bello,bella  lindo,linda,guapo,guapa,bonito,bonita
 beautiful::bueno,despejado,alegre
 beautifully::bellamente
 beautifulness::belleza
-beautifyembellecer
+beautify::embellecer
 beauty::guapa,belleza
 beauty::guapo
-beautybelleza
-beauty contest    beauty pageant::
+beauty::belleza
 beauty pageant::concurso de belleza
-beauty parlor::salón de belleza
-beauty salon    beauty parlor::
-beauty spot    mole::
-beavercastor
-beazle     bezel::
+beauty parlor::sal�n de belleza
+beaver::castor
 be born::nacer
 be born yesterday::haber nacido ayer
-becak    cycle rickshaw::
 be called::llamarse
 be careful::aguas,ten cuidado
-becauseporque
+because::porque
 because::porque,ya que
 because of::a causa de,debido a
-BechuanalandBechuanalandia
-beckon   məθbɪˈhɛstbɪˈhaɪndbɪˈhoʊldbɨˈhuːvbeɪʒ]ˈbɛnjeɪbeɪˈdʒɪŋˈbiːŋˌbɛləˈɹusˌbɛləˈruːʃənˈbɛltʃbɪˈliːɡədˈbɛl.fæstˈbɛlfriˈbɛldʒənˈbɛldʒəmˈbɛlɡreɪdbɪˈlaɪbɪˈliːfbɪˈliːvbɨˈlɪt.əlbəˈliːzbɛlˌbɛləˈdɑnəˈbɛlɪsɪzm̩bəˈlɪdʒ.ə.ɹəntˈbɛloʊˈbɛlozˈbɛlwɛðɚbɛliˈbɛlijeɪkbɪˈlɒŋbɪˈlʌvɪdbəˈloʊbɛltbəˈluː.ɡəbɪˈmoʊnbɛntʃˈbɛntʃ.pɹɛsbɛndˈbɛndɚbɛndzbɪˈniːθˈbɛnədɪktˈbɛn.ə.fɪtˌbenˈɡɔːlbɪˈnaɪnbɛnˈɪnˈbɛndʒəmɪnbɛntˈbɛnθɒsˈbɛnziːnˈbɛnzəʊɪnbɪˈkwiːθbiˈkwaɪˌətbɪˈɹeɪtbəɹˈdæʃbɪˈriːvbəˈɹɛftbəˈɹeɪˈbɝɡəˌmoʊbɚˈlɪn]bɚˈlɪnɚbɚˈmjuːdəbɜːnbəɹˈnɑɹdˈbɛɹibəˈzɜːkbɜ˞θˈbɝθəˈbɜ:tɹəmˈbɛrəlbəˈrɪliəmbɪˈsɛtbiːˈsaɪdbəˈsaɪdzbɛstˈbiːstiəlˌbɛstʃiˈælɪtibɪˈstoʊˈbɛtˈbeɪtəˈbɛθləhɛmbɪˈtaɪmz bəˈtɹeɪbɪˈtɹeɪəlbɪˈtrəʊðdˈbɛtɚbəˈtwinbɪˈtwɪkstˈbivɚˈbɛvibɪˈweɪlbɪˈwɪldəɹbɪˈwɪldəɹməntbɪˈwɪtʃbəˈwɪtʃɪŋbiˈjɑndˈbɛzəntˈbizɔɹbuːˈtɑːnbu.təˈniːzˈbaɪəsˈbaɪəstbɪbˈbaɪbəlˈbɪblɪkəlbɪbliɔːɡrəfiˈbɪbjʊləslibʌɪˈkaməɹəlbaɪˈsɛfəliˈbaɪ.sɛpsbiʃɔnˈbaɪsɪkəlbɪdˈbɪdɚbɨˈdeɪ]baɪˈɛnɪəlbɪəɹbaɪˈfɝkətˌbaɪfɚˈkeɪʃənbɪɡˈbɪɡəmɪstˈbɪɡəmiˈbɪɡˌfʊtbaɪtbɪɡ mækˈbɪɡətˈbɪɡ.ə.tɹibaɪ.dʒɛk.ʃənˈbaɪkɚbᵻˈkiːnibɪlˈbaʊˈbɪl.dʊŋz.roʊˈmɑːnbaɪlbɪldʒbaɪˈlɪŋ.ɡwəlˈbɪl.jəsbɪɫˈbɪlɪtˈbɪljənˈbɪloʊbaɪləʊˈkeɪʃənbɪnbaɪndˈbaɪndɚˈbaɪndiŋˈbɪŋ.ɡoʊˈbɪnˌɒk.jʊ.ləzbaɪˈnoʊmiəlbaɪoʊdəˈɡɹeɪdəbl̩ˌbaɪoʊdɑɪˈvɚsətiˈbaɪ.əʊˌfjʊlbaɪˈɑːɡɹəfiˌbaɪoʊˌɪnfɚˈmætɪksbaɪˈɒlədʒiˌbaɪ̯oʊ̯ˌluməˈnɛsənsˈbaɪoʊˌmɑɹkɚˈbaɪoʊmˈbaɪˌɒnɪksˈbaɪəʊˌfɪil.i.əˈbaɪəʊˌtɛk.nɒl.əʊ.dʒibaɪˈɑ.tɪkˈbaɪətɪnˈbaɪəˌtaɪtbɝtʃbɝdˈbɚd.bɹeɪnˈbɜːd dɒɡˈbɝdiˈbɜːdlaɪmˈbaɪˌɹəʊbɝθˈbɝθˌdeɪˈbɝθˌpleɪsˈbɪskɪtbaɪˈsɛk.ʃu.‌əlbɪʃˈkɛkˈbɪʃəpˈbɪʃ.ə.pɹɪkbɪslɑmɑˈbaɪ̯sənbɪˈsɛks.taɪəlˈbiːstɹoʊbaɪ.sɪˈlæ.bɪkbɪtbɪtʃˈbɪtʃibaɪtbɪˈθɪniəˈbɪtərˈbɪtərnˈbɪtənəsˈbɪtɚˌswitbɪˈtumənˈbɪv.u.ækbaɪˈwiːklibɪˈzaɹblæbˈblæb.əblækcolor)::negro
+Bechuanaland::Bechuanalandia
 black::negro,negra
-black    blacken::
 black alder::aliso,alisos
-black alder    American winterberry::
-black alder winterberry    American winterberry::
-black and white    black-and-white::
 black-and-white::blanco y negro
-black antshrike::batará negro
+black antshrike::batar� negro
 black-arched moth::lagarta monacha,mariposa moncha,mariposa monja
 black-backed jackal::chacal de lomo negro,chacal de gualdrapa
-black bag    garbage bag::
 black bear::oso negro,baribal
-black bear::oso tibetano,oso del Himalaya,oso negro asiático
+black bear::oso tibetano,oso del Himalaya,oso negro asi�tico
 Blackbeard::Barbanegra
-blackberry    blackcurrant::
-blackberryzarza,zarzamora
+blackberry::zarza,zarzamora
 blackberry::zarzamora
 blackbird::turpial,soldadito
-blackbirdmirlo
-blackboardpizarra,encerado,pizarrón,tablero
+blackbird::mirlo
+blackboard::pizarra,encerado,pizarr�n,tablero
 blackbody::cuerpo negro
 black box::caja negra
 black box::caja negra
 blackcap::curruca capirotada
-black cat    fisher::
-black coffee::café Express,café negro,café solo,negrito,tinto
-black-crested antshrike::batará crestinegro
+black coffee::caf� Express,caf� negro,caf� solo,negrito,tinto
+black-crested antshrike::batar� crestinegro
 blackcurrant::grosella negra
 blackcurrant::grosellero negro
 Black Death::peste negra
-Black Ditch    Taiwan Strait::
 black dwarf::enana negra
-black earth    chernozem::
 blacken::ennegrecer
 black eye::ojo morado
-black-eyed pea::caupí,anconí,chícharo de vaca,frijol,frijol alacín,frijol carita,frijol Castilla,fríjol caupí,frijol de vara,frijol ojo negro,frijol pelón,frijol yorimón,poroto caupí
 black-footed cat::gato patinegro
-black-footed rock wallaby::walabí de las rocas de flancos negros,warru
+black-footed rock wallaby::walab� de las rocas de flancos negros,warru
 Black Forest::Selva Negra
-Black Forest gâteau::tarta Selva Negra,torta Selva Negra,pastel Selva Negra
+Black Forest g�teau::tarta Selva Negra,torta Selva Negra,pastel Selva Negra
 Black Friday::Black Friday
 black gold::oro negro
-black grousegallo lira
-blackguard     scoundrel::
+black grouse::gallo lira
 black guillemot::arao aliblanco
-black-handed gibbon::gibón de manos negras
+black-handed gibbon::gib�n de manos negras
 black-headed gull::gaviota reidora
 black hole::agujero negro,hoyo negro
-black-hooded antshrike::batará negruzco
-black horehound::ballota fétida,ballota negra
+black-hooded antshrike::batar� negruzco
+black horehound::ballota f�tida,ballota negra
 black humor::humor negro
-black ice::placa de hielo,verglás
-blacking     shoe polish::
-blackishnegruzco
-blackish-gray antshrike::batará ceniciento
-blackjackveintiuna
-black lead    graphite::
+black ice::placa de hielo,vergl�s
+blackish::negruzco
+blackish-gray antshrike::batar� ceniciento
+blackjack::veintiuna
 Black Legend::Leyenda Negra
 black light::luz negra
-blacklistlista negra
-black magic::mágica negra,magia negra
+blacklist::lista negra
+black magic::m�gica negra,magia negra
 blackmail::chantaje
 blackmail::chantajear
 blackmailer::chantajista
 black market::mercado negro
 black metal::black metal
-black-necked grebe::zampullín cuellinegro
+black-necked grebe::zampull�n cuellinegro
 blackness::negror,negrura
 blackness::negror,negrura
-blackout::apagón
-blackoutdesmayo
+blackout::apag�n
+blackout::desmayo
 blackout::corte
 black pepper::pimienta negra
 black rat::rata de campo,rata negra
-black redstart::colirrojo tizón
+black redstart::colirrojo tiz�n
 black rhinoceros::rinoceronte negro
 Black Sea::Mar Negro
 black sheep::oveja negra
-blacksmithherrero,herrera
-blacksmith  )::herrador
+blacksmith::herrero,herrera
+blacksmith ::herrador
 black swan::cisne negro
 black-tailed godwit::aguja colinegra
-black tea::té negro
-black tern::fumarel común,gaviotín negro
+black tea::t� negro
+black tern::fumarel com�n,gaviot�n negro
 blackthorn::endrino
-black-throated antshrike::batará gorginegro
-black-throated diver::colimbo ártico
-black vulture    Eurasian black vulture::
+black-throated antshrike::batar� gorginegro
+black-throated diver::colimbo �rtico
 black vulture::buitre negro americano,cuervo de cabeza negra,gallinazo,gallinazo negro,guaraguao,jote,jote de cabeza negra,sucha,zamuro,zope,zopilote
 black water::agua negra
 blackwater::aguas negras,agua residual
 black widow::viuda negra,cazampulga
 black widow::viuda negra,cazampulga
-black woodpeckerpito negro
-bladdervejiga
-bladder::cubi,barrica plástica,bota
-bladder    urinary bladder::
-bladder cherry::vejiga de perro,alquequenje,farol chino,halicácabo
-bladder infection    urinary tract infection::
+black woodpecker::pito negro
+bladder::vejiga
+bladder::cubi,barrica pl�stica,bota
+bladder cherry::vejiga de perro,alquequenje,farol chino,halic�cabo
 blade::pala  aspa
-bladecuchilla,hoja
+blade::cuchilla,hoja
 blade::pala
 blade::aleta
 blade::cuchillo,espada
-blade::hoja,lámina,limbo
-blade::lámina
+blade::hoja,l�mina,limbo
+blade::l�mina
 Blagoevgrad::Blagoevgrad
-Blagoveshchensk::Blagovéshchensk
+Blagoveshchensk::Blagov�shchensk
 blah::bla
-blahblablablá,bla-bla-bla
+blah::blablabl�,bla-bla-bla
 blah blah blah::bla bla bla
-blame     censure::
-blame    culpability::
-blame    responsibility::
 blame::culpa
 blame::culpar,reprochar,echar la culpa
-blameworthyculpable,reprehensible
+blameworthy::culpable,reprehensible
 blanch::blanquear
 Blanche::Blanca
-blandtenue,desabrido,simple,suave,debil
+bland::tenue,desabrido,simple,suave,debil
 bland::suave
 bland::soso
 blandness::insipidez
-blanken blanco
+blank::en blanco
 blank::blanco
 blank::cartucho de fogueo,bala de salva
 blank::espacio
 blank::espacio en blanco
 blank::borrar,blanquear
 blanket::general
-blanketmanta,cobija,colcha,frazada,frisa,
+blanket::manta,cobija,colcha,frazada,frisa,
 blanket::capa
-blaséflato
+blas�::flato
 Blasius::Blas
-blasphemeblasfemar
+blaspheme::blasfemar
 blasphemer::blasfemo
-blasphemousblasfemo
-blasphemyblasfemia
-blastodermblastodermo
-blat  )::blat
-blatantobvio,evidente,ostensible,descarado,flagrante
-blatherdespotricar
-blazarblazar
-blazellama,llamarada,fogonazo
-blazerblazer
+blasphemous::blasfemo
+blasphemy::blasfemia
+blastoderm::blastodermo
+blat::blat
+blatant::obvio,evidente,ostensible,descarado,flagrante
+blather::despotricar
+blazar::blazar
+blaze::llama,llamarada,fogonazo
+blazer::blazer
 blazing::llameante
-blazonblasón
+blazon::blas�n
 blazon::blasonar
-bleach::lejía,lavandina,blanqueador
+bleach::lej�a,lavandina,blanqueador
 bleach::blanquear,curar,decolorar
 bleachers::gradas
-bleaksin color,pálido
-bleak::sin alegría,amargado
+bleak::sin color,p�lido
+bleak::sin alegr�a,amargado
 bleak::desolado,yermo
 bleak::albur
 bleakness::palidez,tristeza
 bleat::balido
 bleat::balar
-bleedsangrar
+bleed::sangrar
 bleed::purgar
-bleed dry    bleed white::
-bleedingsangrado,hemorragia
+bleeding::sangrado,hemorragia
 bleed to death::desangrarse
 bleep::pip
-bleep censor::censor de la señal
-blemishmancha,marca,maca
-blemish::mancha,mácula
+bleep censor::censor de la se�al
+blemish::mancha,marca,maca
+blemish::mancha,m�cula
 blemish::manchar,perjudicar
-blendmezcla
+blend::mezcla
 blend::palabra compuesta
 blend::mezclar,combinar
-blenderbatidora
-blepharitisblefaritis
+blender::batidora
+blepharitis::blefaritis
 blepharoplasty::blefaroplastia
-blessbendecir
-blessingbendición
-blessing    grace::
-bless you::¡Jesús!,¡salud!,¡santinos!
-bless you    God bless you::
-blimeycaramba
-blimpdirigible
-blindciego
+bless::bendecir
+blessing::bendici�n
+bless you::�Jes�s!,�salud!,�santinos!
+blime::ycaramba
+blimp::dirigible
 blind::ciego
-blind::celosía,persiana
+blind::ciego
+blind::celos�a,persiana
 blind::ciega
 blind::cegar
 blind date::cita a ciegas
 blindfold::venda
 blindfold::vendar
-blind gut    caecum::
-blindingcegador
-blindingly     extremely::
-blindlyciegamente
+blinding::cegador
+blindly::ciegamente
 blindly::ciegamente
 blindness::ceguera
-blindside     blindside flanker::
 blind spot::punto ciego
 blind spot::punto ciego,papila optica,mancha ciega
-blind tiger    speakeasy::
-blindworm    slowworm::
 blink::parpadeo
-blink::parpadear,guiñar
-blink::guiñar
+blink::parpadear,gui�ar
+blink::gui�ar
 blink::destellar,parpadear,titilar
-blinker::anteojeras,gríngolas
+blinker::anteojeras,gr�ngolas
 blip::parpadeo
 blip::pitido
 blisseuforia,dicha,beatitud
 blister::ampolla
-blister::ampolla,ámpula
+blister::ampolla,�mpula
 blistering::abrasador,candente
 blister pack::blister
-blithealegre,feliz
+blithe::alegre,feliz
 blithe::indiferente,descuidado
-blitzrelámpago
-blitzkrieg::guerra célere,guerra relámpago
-blizzardventisca,tempestad de nieve
+blitzrel�mpago
+blitzkrieg::guerra c�lere,guerra rel�mpago
+blizzard::ventisca,tempestad de nieve
 BL Lac object::objeto BL Lac
-bloathinchar,inflar
+bloat::hinchar,inflar
 bloat::inflar
-bloatedinflado
+bloated::inflado
 bloated::gigantesco
-blobbodoque,mazacote,bloboque,grumo
-blocbloque
+blob::bodoque,mazacote,bloboque,grumo
 bloc::bloque
-blockbloque
+bloc::bloque
+block::bloque
 block::bloque
 block::bloque
 block::manzana,cuadra
@@ -9866,87 +9559,67 @@ block::bloquear
 block::bloquear,impedir,obstruir,atorar
 blockade::bloqueo
 blockage::estancamiento
-blockage::tapón
+blockage::tap�n
 blockbuster::taquillazo,taquillera,bombazo
 blockbuster::revientacuadras
 blocked::estancado,obstruido,tapado
 blocked::cerrado,obstruido,cortado,bloqueado,trabado
 blockhead::idiota
-block of flats    apartment building::
-BloemfonteinBloemfontein
-blogbitácora,blog,ciberbitácora
+Bloemfontein::Bloemfontein
+blog::bit�cora,blog,ciberbit�cora
 blog::bloguear
-bloggerbloguero,bloguera,blogger
-bloketío,tipo
+blogger::bloguero,bloguera,blogger
+bloke::t�o,tipo
 blond::rubio
-blondrubio,canche,catire,chele,choco,fulo,gringo,güero,macho,mono,rucio,suco
-blonde    blond::
-blonde     blond::
-bloodsangre,crúor
+blond::rubio,canche,catire,chele,choco,fulo,gringo,g�ero,macho,mono,rucio,suco
+blood::sangre,cr�or
 blood::lazo de sangre
 blood::ensangrentar
 blood bank::banco de sangre
-bloodbathbaño de sangre
-blood brother    brother-german::
-blood cell::glóbulo
-blood clot    thrombus::
-blood corpuscle    blood cell::
-blood fluke    schistosome::
-blood group    blood type::
-bloodhoundsabueso
+bloodbath::ba�o de sangre
+blood cell::gl�bulo
+bloodhound::sabueso
 bloodhound::sabueso
 bloodily::sangrientamente
 blood is thicker than water::la sangre tira mucho
-bloodless::exangüe
+bloodless::exang�e
 bloodless::incruento
 blood libel::libelo de sangre,calumnia de sangre
-bloodlustsed de sangre
+bloodlust::sed de sangre
 blood orange::naranja sanguina
-blood pressure::presión sanguínea,tensión arterial,tensión venosa,presión arterial
-blood pudding    blood sausage::
-blood relative    blood relation::
+blood pressure::presi�n sangu�nea,tensi�n arterial,tensi�n venosa,presi�n arterial
 bloodroot::sanguinaria
 blood sausage::morcilla,prieta
-bloodshedderramamiento de sangre
+bloodshedder::ramamiento de sangre
 bloodshed::matanza
 bloodshed::derramamiento  de sangre
 bloodshot::sanguinolento
-bloodstreamtorrente sanguíneo
-bloodsucker    parasite::
-bloodsucker    vampire::
+bloodstream::torrente sangu�neo
 blood tax::impuesto de sangre
-blood test::análisis de sangre
+blood test::an�lisis de sangre
 bloodthirsty::sanguinario
-blood transfusion::transfusión,transfusión de sangre
-blood type::grupo sanguíneo,tipo de sangre
-blood vessel::vaso sanguíneo
-bloodwork    blood test::
-bloodysangriento,ensangrentado,cruento
+blood transfusion::transfusi�n,transfusi�n de sangre
+blood type::grupo sangu�neo,tipo de sangre
+blood vessel::vaso sangu�neo
+bloody::sangriento,ensangrentado,cruento
 bloody::sangriento,cruento,sanguinolento
 bloody::maldito
 bloody::ensangrentar
 bloody hell::joder
 bloody mary::bloody mary
-bloom     blossom::
-bloom    flower::
-bloom    blossom::
 bloomers::bombacha
-bloomingfloreciente
+blooming::floreciente
 blooming::plancheado
-blossomcopa de la flor
-blossom::floración,estar en epoca
+blossom::copa de la flor
+blossom::floraci�n,estar en epoca
 blossom::florecer
-blot     Southern blot analysis::
 blot::emborronar,manchar
-blotchmancha
-blotter    blotting paper::
-blouseblusa
+blotch::mancha
+blouse::blusa
 blow::golpe
-blow    cocaine::
 blow::golpe
-blow::apestar
-blow    blossom::
-blowsoplar
+blow::apes
+blow::soplar
 blow::reventar
 blow::soplar
 blow::arruinar,cagar
@@ -9954,90 +9627,70 @@ blow::chupar,mamar
 blow::ir,largar
 blow::soplar
 blow::cagar
-blow-dryer    hairdryer::
 blower::aspirador.
 blower::fuelle,ventilador
-blower    telephone::
 blowfish::pez globo
 blowfish::pez globo
-blowfly::moscardón,moscarda
+blowfly::moscard�n,moscarda
 blowgun::cerbatana
-blowjobfrancés,mamada,pete,chupada
+blowjob::franc�s,mamada,pete,chupada
 blow off::desatender
 blow one's nose::sonarse
-blow one's top    lose one's temper::
 blow out::apagar
-blowpipe    blowgun::
-blowtorchsoplete
-blubbo::grasote,guatón,morsa
-bludgeoncachiporra,cachiporra,porra,maza,garrote,clava
+blowtorch::soplete
+blubbo::grasote,guat�n,morsa
+bludgeon::cachiporra,cachiporra,porra,maza,garrote,clava
 bludgeon::aporrear
-blueazul,celeste
-blue::triste,melancólico,deprimido
-blue::verde
-blue    argument::
-blue    bluefish::
-blue    blues::
-blue    bluing::
 blue::azul,celeste
-blue    sky::
+blue::triste,melanc�lico,deprimido
+blue::verde
+blue::azul,celest
 blue::azular
 blue::azular
-blueberryarándano,mora azul,arándano azul
+blueberry::ar�ndano,mora azul,ar�ndano azul
 bluebird::azulejo
-bluebottle    blue ant::
-bluebottle    cornflower::
-bluebottle    man-of-war::
 blue cheese::queso azul
-blue corn::maíz negro
+blue corn::ma�z negro
 blue giant::gigante azul
-blue jay::urraca de América,arrendajo azul,urraca azul
+blue jay::urraca de Am�rica,arrendajo azul,urraca azul
 blue jeans::tejanos,vaqueros
-blue mussel::mejillón
+blue mussel::mejill�n
 blueprint::hoja de ruta
 blueprintcopia de plano
 blueprint::modelo
-blue screen    blue screen of death::
-blue screen    chromakey::
 blue screen of death::pantalla azul de la muerte
 blue shark::tintorera
-bluestone    basalt::
-bluestone    limestone::
-bluestone    slate::
 blue straggler::estrella rezagada azul
 blue supergiant::supergigante azul
 bluethroat::pechiazul
-blue tit::herrerillo común
+blue tit::herrerillo com�n
 bluetongue::lengua azul
-blue-tongued skink    blue-tongue lizard::
 blue whale::rorcual azul,ballena azul
-bluffpetate,farol
+bluff::petate,farol
 bluff::farol
 bluff::presumir,alardear
 bluish::azulado
-blundererror, condoro, descache,torpeza,desliz,garrafal,metida de pata,tropiezo
+blunder::error, condoro, descache,torpeza,desliz,garrafal,metida de pata,tropiezo
 blunder::meter la pata
-blunderbusstrabuco
+blunder::busstrabuco
 blunt::brusco
-bluntromo
+blunt::romo
 blunt::obtuso
 blunt::embotar
 blunt::embotar
 blur::difuso
-blurredborroso
-blurryborroso
-blurt out    blurt::
-blushbochorno
+blurred::borroso
+blurry::borroso
+blush::bochorno
 blush::colorete
 blush::ruborizarse,enrojecerse,sonrojarse,abochornarse
-boaboa
+boa::boa
 Boaco::Boaco
 boa constrictor::boa constrictora
-boar     wild boar::
 boar::verraco
-board::pizarra,pizarrón
-boardtablero,tabla
-board::consejo,comité,junta,buró,consejo de administración
+board::pizarra,pizarr�n
+board::tablero,tabla
+board::consejo,comit�,junta,bur�,consejo de administraci�n
 board::tablero
 board::bordo
 board::abordar
@@ -10047,145 +9700,120 @@ board game::juego de mesa
 boarding::embarque
 boarding passtarjeta de embarque
 boarding school::internado
-board of directors::consejo de administración
-boast::presunción,alarde,fanfarronada,vanagloria,ostentación,jactancia
+board of directors::consejo de administraci�n
+boast::presunci�n,alarde,fanfarronada,vanagloria,ostentaci�n,jactancia
 boast::presumir,alardear,fanfarronear,vanagloriarse de,ostentar,jactarse de
 boastful::jactancioso
-boastfulness::jactancia,fanfarronería
-boatbarca,bote,barco
-boatercanotier
+boastfulness::jactancia,fanfarroner�a
+boat::barca,bote,barco
+boater::canotier
 boatman::barquero,balsero
-boat shoe::zapato náutico
-boatswain    in charge of sails,rigging,anchors,cables etc. and all work on deck of a sailing ship)::contramaestre
-bob     float::
-bob    curtsey::
-bobber    float::
+boat shoe::zapato n�utico
+boatswain    in charge of sails,rigging,anchors,cables etc. and all work on deck of a sailing ship::contramaestre
 bobbin::bobina
-bobby pin    hairgrip::
-bobcatlince rojo
-bobsled    bobsleigh::
-bobsled    bobsleigh::
-bobtailed::rabón
-boccebochas
-Boche    Fritz::
-Boche    German::
-bodeanunciarse,agorar
-bodge    botch::
-bodicejubón
+bobcat::lince rojo
+bobtailed::rab�n
+bocce::bochas
+bode::anunciarse,agorar
+bodice::jub�n
 bodily::corporal
 bodily::corporalmente
 bodily fluid::humor
 body::cuerpo
-bodycuerpo
 body::cuerpo
 body::cuerpo
-body  )::carrocería
+body::cuerpo
+body ::carrocer�a
 body::torso
 bodyboarding::bodyboard
-bodybuilderculturista,fisicoculturista
-bodybuildingfisicoculturismo,culturismo,musculación
-bodybuilding::carrocería
-bodyguardguardaespaldas
-body hair::vello androgénico,vello corporal
+bodybuilder::culturista,fisicoculturista
+bodybuilding::fisicoculturismo,culturismo,musculaci�n
+bodybuilding::carrocer�a
+bodyguard::guardaespaldas
+body hair::vello androg�nico,vello corporal
 body hair::vello
-body language::movimientos,expresiones físicas,kinésica,quinésica
+body language::movimientos,expresiones f�sicas,kin�sica,quin�sica
 body odour::bromhidrosis
-body of water::agua,cuerpo de agua,extensión de agua
-bodypainting    body painting::
+body of water::agua,cuerpo de agua,extensi�n de agua
 body part::parte del cuerpo,parte corporal
 body part::parte de auto
-body shop::chapista,latonería
-bodywork::terapia física
+body shop::chapista,latoner�a
+bodywork::terapia f�sica
 bodywork::cuerpo,exterior
-BoeotiaBeocia
-Boeotianbeocio
-Boeotian::tarado,simplón
+Boeotia::Beocia
 Boeotian::beocio
-Boeotian::tarado,simplón
-Boerbóer
-boffincientífico
-bogciénaga
+Boeotian::tarado,simpl�n
+Boeotian::beocio
+Boeotian::tarado,simpl�n
+Boer::b�er
+boffin::cient�fico
+bog::ci�naga
 bog::pegado
 bogart::arrebatar
 bogart::acaparar
 bogatyr::bogatyr
-bogey    booger::
 bogeyman::coco,cuco
-bogiebogi
-bogie    cigarette::
-bogie    ghost::
-bogie    bogey::
-bogie    railway carriage::
-bog iron    bog iron ore::
-bog myrtle    gale#Etymology 3::
-Bogotá    Bogota::
-Bogota::Bogotá
+bogie::bogi
+Bogota::Bogot�
 Bogotan::bogotano
 Bogotan::bogotano,bogotana
-bogue    bayou::
 bogue::boga
-bogusfalso,falsificado,adulterado,trapicheado
+bogus::falso,falsificado,adulterado,trapicheado
 bogus::averiado,pajolero,jodido
 Bohemia::Bohemia
 bohemian::bohemio
-bohemium    rhenium::
 bohrium::bohrio
-boilfurúnculo
+boil::fur�nculo
 boil::hervir
 boil::hervir,bullir
-boil   until it begins to turn into a gas)::hervir
-boiled     angry::
-boiled    drunk::
-boiled egg  )::huevo cocido
+boil   until it begins to turn into a gas::hervir
+boiled egg  ::huevo cocido
 boiled egg::huevo hervido,huevo duro
 boiled egg::huevo pasado
-boiled sweet    hard candy::
-boilercaldera,boiler,bóiler,calentador
-boiler::caldera,calentador,calefón,calentador de agua
-boiling   )::hirviendo
+boiler::caldera,boiler,b�iler,calentador
+boiler::caldera,calentador,calef�n,calentador de agua
+boiling  ::hirviendo
 boiling::hirviendo
-boiling point::punto de ebullición
-boisterousruidoso,escandaloso
+boiling point::punto de ebullici�n
+boisterous::ruidoso,escandaloso
 boisterous::salvaje
 boisterous::salvaje
 bok choy::berro chino,repollo chino,col china
-Bokmål::bokmål
-boldaudaz,intrépido,atrevido
+Bokm�l::bokm�l
+bold::audaz,intr�pido,atrevido
 bold::negrita
-bold    presumptuous::
 boldly::audazmente,valientemente
-bolidebólido
+bolide::b�lido
 Bolivarian::bolivariano
-Bolivarian Republic of Venezuela::República Bolivariana de Venezuela
-BoliviaBolivia
+Bolivarian Republic of Venezuela::Rep�blica Bolivariana de Venezuela
+Bolivia::Bolivia
 Bolivian::boliviano
-Bolivianboliviano,boliviana
-Bolivian slaty antshrike::batará pizarroso Boliviano
-bollcápsula,vaina
-bollardnoray,bolardo
+Bolivian::boliviano,boliviana
+Bolivian slaty antshrike::batar� pizarroso Boliviano
+boll::c�psula,vaina
+bollard::noray,bolardo
 bollard::bolardo
-bollock   testicle)::cojón
+bollock   testicle::coj�n
 bollocks::chingados,mierda,me cago en la puta,hostia
 bollocks::cojones
-boll weevil::picudo del algodón
+boll weevil::picudo del algod�n
 Bollywood::Bollywood
-BolognaBolonia
+Bologna::Bolonia
 bolon::bolon
-bolo tie::corbata de bolo,corbata de cordón
+bolo tie::corbata de bolo,corbata de cord�n
 Bolshevik::bolchevique
 bolt::tranca
-bolttornillo
+bolt::tornillo
 bolt::perno,cerrojo
 bolt::virote
 bolt::cerrojo
 bolt::atornillar
 bolt::trancar
-bolt from the blue::como rayo caído del cielo
+bolt from the blue::como rayo ca�do del cielo
 bolus::bolo
 bolus::bolo alimenticio
 Bolzano::Bolzano
-bombbomba
-bomb    success::
+bomb::bomba
 bomb::bombardear,bombear
 bomb::hacer la bomba
 bombard::bombardear
@@ -10196,791 +9824,684 @@ bombardier beetle::escarabajo bombardero
 bombardment::bombardeo
 bombardment::bombardeo
 bombardment::bombardeo
-bombasticbombástico,rimbombante
-bombastic::bombástico
-Bombay    Mumbai::
-Bombay cat    Bombay::
+bombastic::bomb�stico,rimbombante
+bombastic::bomb�stico
 bomber::bombardero
 bombing::bombardeo
 bombproof::a prueba de bombas
-bombproof    air-raid shelter::
-bombshell::pibón
-bomb shelter    air-raid shelter::
-bona fidede buena fe
-bona fides    good faith::
-bon appétitbuen provecho,que aproveche,buen apetito
-bond    bail bond::
-bondenlace
-bondsmanaval,fiador
-bonehueso
+bombshell::pib�n
+bona fide::de buena fe
+bon app�tit::buen provecho,que aproveche,buen apetito
+bond::enlace
+bonds::manaval,fiador
+bone::hueso
 bone::hueso
 bone::espina
 bone::joder con, follar con, coger con,culear,tirarse a
 bone::deshuesar,quitar las espinas
-bone::quemarse las pestañas
-bone dry    bone-dry::
-bone marrow::meollo,tuétano,médula
+bone::quemarse las pesta�as
+bone marrow::meollo,tu�tano,m�dula
 boner::metida de pata,cagada,pifia
-bonererección,tieso
-bone tissue    osseous tissue::
-bonfirehoguera
+boner::erecci�n,tieso
+bonfire::hoguera
 bonfire::fogata
-bongpipa
+bong::pipa
 bong::tuberia de barrilete
-bongo::bongó
+bongo::bong�
 bongo::bongo
-bongo drum    bongo::
-bonhomiebonhomía,amigable
+bonhomie::bonhom�a,amigable
 bonhomie::cordial;
-Boniface    Bonifatius::
 Bonifatius::Bonifacio
 bonito::sarda
-bonito    skipjack tuna::
-bonjour    hello::
 bonkers::majara,chiflado,majareta,loco
 Bonn::Bonn
-bonnetcapucha,gorra,cofia
-bonnet::capó,bonete,capirote,cofre
-bonsai::bonsái
-bonusbonificación
+bonnet::capucha,gorra,cofia
+bonnet::cap�,bonete,capirote,cofre
+bonsai::bons�i
+bonus::bonificaci�n
 bonus::plus,beneficio
 bon voyage::buen viaje
 bony::huesudo
 bony::huesudo
 bony::huesudo
 bonze::bonzo
-boobu
+boo::bu
 boo::uuh
 boo::abucheo
-boo  )::abuchear
-boob   )::teta,macoca
+boo ::abuchear
+boob  ::teta,macoca
 boob job::arreglo de tetas
-boo-booyaya
+boo-boo::yaya
 boob tube::caja idiota,caja tonta
 booby::piquero
-boobytonto,pendejo,bobo
-booby::teta,melón
-booby prize::premio limón
-boogermoquito,moco
-booklibro
-book::álbum
-book    e-book::
+booby::tonto,pendejo,bobo
+booby::teta,mel�n
+booby prize::premio lim�n
+booger::moquito,moco
+book::libro
+book::�lbum
 book::libreto
 book::multar
 book::reservar
 book::anotar
 bookbag::mochila
-bookbinding::encuadernación
-bookcase::estantería,librero
+bookbinding::encuadernaci�n
+bookcase::estanter�a,librero
 bookend::sujetalibros
-bookie     bookmaker::
-bookingreserva
-booking::amonestación
-bookishestudioso, matado,mateo,empollón
+booking::reserva
+booking::amonestaci�n
+bookish::estudioso, matado,mateo,empoll�n
 bookish::literario,pedante,formalista,libresco
-bookjacket    dust jacket::
 booklet::libreto,folleto
-bookmakercorredor de apuestas
-bookmarkseparador
+bookmaker::corredor de apuestas
+bookmark::separador
 bookmark::marcador,favorito
-Book of Mormon::Libro de Mormón
+Book of Mormon::Libro de Morm�n
 bookplate::ex libris
-book-scorpion    pseudoscorpion::
-booksellerlibrero,librera
-bookshelfestantería,librero
-bookshop::librería
-bookstore    bookshop::
-bookworm::ratón de biblioteca,bibliófilo
-Booleanbooleano
+bookseller::librero,librera
+bookshelf::estanter�a,librero
+bookshop::librer�a
+bookworm::rat�n de biblioteca,bibli�filo
+Boolean::booleano
 Boolean::booleano
 boom::pum
 boom::bum
 boom::boom
-boomretumbar
-boomerangbumerán,búmeran
-boon::oración
-boonbendición,ventaja
+boom::retumbar
+boomerang::bumer�n,b�meran
+boon::oraci�n
+boon::bendici�n,ventaja
 boondock::barrios lejanos
-boor::patán,cateto,paleto
+boor::pat�n,cateto,paleto
 boor::paleto
-boorhuaso
+boor::huaso
 boorish::zafio
 boost::impulso,empuje
 boost::impulsar,empujar
-bootbota
-boot    kick::
-boot  mˈbəʊzɒnˈbɑs.fɚ.əsbɔsˈbɔsiˈbɔstənbɒtˈbɒt.ən.ɪstˈbɒtənɪbɑt͡ʃboʊˈoʊtiːzboʊθˈbɑðɚ]bɑːtˈswɑːnəˈbɑtəlˈbɑtəmˈbaɾm̩lɨsbuˈdwɑɹˌbu.ɡənˈvɪl.jəbaʊˈbuːjɒnˈboʊldəɹˈbʊlɨvɑɹdbaʊnscheck: to be refused)::rebotar
-bounced check    bounced cheque::
-bounce house    bouncing castle::
-bouncerportero
-bouncing castle::brincolín
-bouncy castle    bouncing castle::
+boot::bota
+bouncer::portero
+bouncing castle::brincol�n
 bound::acotado
-boundlímite
+bound::l�mite
 bound::limitar
-boundaryfrontera,límite
-boundless::ilimitado,sin límites
-bounty     generosity::
+boundary::frontera,l�mite
+boundless::ilimitado,sin l�mites
 bounty::recompensa
-bounty::dádiva,donación,obsequio,presente,regalo
+bounty::d�diva,donaci�n,obsequio,presente,regalo
 bounty hunter::cazarrecompensas
-bouquetramo,ramita
+bouquet::ramo,ramita
 bouquet::aroma
-bourbonbourbon
-bourdon     bumblebee::
-bourgeoisburgués
-bourgeoisbreviario
-bourgeoisieburguesía
-boustrophedon::bustrófedon
-boutracha
+bourbon::bourbon
+bourgeois::burgu�s
+bourgeois::breviario
+bourgeois::ieburgues�a
+boustrophedon::bustr�fedon
+bout::racha
 bout::encuentro
-boutiqueboutique
-Bouyei    Yay::
+boutique::boutique
 bovarism::bovarismo
-bovid::bóvido
-bovinebovino
+bovid::b�vido
 bovine::bovino
-bovine spongiform encephalopathy::encefalopatía espongiforme bovina
-bowproa
-bowarco
+bovine::bovino
+bovine spongiform encephalopathy::encefalopat�a espongiforme bovina
+bow::proa
+bow::arco
 bow::reverencia
-bow    musical bow::
 bow::arco
 bow::lazo
-bowdoblar,inclinarse
+bow::doblar,inclinarse
 bow::arquearse,curvar
 bow::doblar
-bow and arrowarco y flecha
-bowelintestino grueso
-bowel::entrañas
+bow and arrow::arco y flecha
+bowel::intestino grueso
+bowel::entra�as
 bowel::tripa,intestino
-bowel::vísceras,entrañas
-bowel obstruction::obstrucción intestinal
-bowels::profundidades,entrañas
+bowel::v�sceras,entra�as
+bowel obstruction::obstrucci�n intestinal
+bowels::profundidades,entra�as
 bowels::intestinos
-bowertocador
-bowhead whale    bowhead::
-bowl    bowlful::
-bowltazón,cuenco,bol
-bowl    bowl cut::
-bowl    bowls::
+bower::tocador
+bowl::taz�n,cuenco,bol
 bowleg::pierna arqueada,genu varo
-bowler     pitcher::
-bowler    bowler hat::
-bowler hat::bombín,hongo
-bowline::as de guía
-bowlingbolos
+bowler hat::bomb�n,hongo
+bowline::as de gu�a
+bowling::bolos
 bowling::bolos
 bowling alley::bolera
 bowls::bowls sobre hierba
-bowman     archer::
 bowser::surtidor
-bowser::camión cisterna
-bowsprit::bauprés
-bowstringcuerda
-bowtiecorbata de humita, corbata de lacito, corbata de moño,corbata de pajarito,corbata gato,corbata michi,corbatín,lacito,moñita,moño,pajarita
+bowser::cami�n cisterna
+bowsprit::baupr�s
+bowstring::cuerda
+bowtie::corbata de humita, corbata de lacito, corbata de mo�o,corbata de pajarito,corbata gato,corbata michi,corbat�n,lacito,mo�ita,mo�o,pajarita
 bow wow::guau guau
 bow-wow    bow wow::
 box::boj
 box::caja
-boxcaja
-box::puñetazo
-box::cajón
+box::caja
+box::pu�etazo
+box::caj�n
 box::palco
-box    text box::
 box::marco
 box::tele
 box::garita
 box::encajar,boxear
-box   in a boxing match)::boxear
+box   in a boxing match::boxear
 box::boxear
 box::encajonar
-box    hem in::
-boxcutter    utility knife::
-boxerboxeador,boxeadora
-boxer::bóxer
-Boxer::bóxer
-boxer briefs::bóxer slip
-boxers    boxer shorts::
-boxer shorts::bóxer
-boxingboxeo
+boxer::boxeador,boxeadora
+boxer::b�xer
+Boxer::b�xer
+boxer briefs::b�xer slip
+boxer shorts::b�xer
+boxing::boxeo
 Boxing Day::Boxing Day
 boxing glove::guantes boxeo
-box officetaquilla
+box office::taquilla
 box-office bomb::fracaso en taquilla
 box spring::somier
 box tree::boj
 boxwood::boj
 boxwood::boj
-boyniño,chico,muchacho,chaval,varón,¿varón o mujer?
-boyarboyardo
+boy::ni�o,chico,muchacho,chaval,var�n,�var�n o mujer?
+boyar::boyardo
 boycott::boicot,boicoteo
-boycottboicotear
-boyfriendnovio, pololo,enamorado
+boycott::boicotear
+boyfriend::novio, pololo,enamorado
 boyfriend::amigo
-boy genius    wunderkind::
-boyhoodniñez
-Boy Scout::niño explorador
+boyhood::ni�ez
+Boy Scout::ni�o explorador
 boysenberry::boysenberry,boysena,boysenberi,zarza boysen,zarza de boysen
-braajustador,brasier,corpiño,sostén,soutien,sujetador
-brace     curly bracket::
-brace    bitstock::
-brace    harness::
-brace    braces::
+bra::ajustador,brasier,corpi�o,sost�n,soutien,sujetador
 brace::doblete
-braceletbrazalete,pulsera
+bracelet::brazalete,pulsera
 braces::frenillo,frenos
-braces    handcuffs::
 brachial::braquial
-brachiopodbraquiópodo
+brachiopod::braqui�podo
 brachioproctic::braquioproctal
 brachiosaur::braquiosaurio
-brachium    upper arm::
-brachygrapher    stenographer::
-brachyuranperteneciente a los braquiuros
+brachyura::nperteneciente a los braquiuros
 bracken::helecho
-bracket  ","pana, yaca
-bread machine    bread maker::
-breadmaker     baker::
-breadmaker    bread maker::
-breadth    width::
+bracket :: ","pana, yaca
 breadwinner::cabeza de familia
 break::quebrar,ruptura
-break    two or more pieces)::romperse
+break    two or more pieces::romperse
 break::romper,quebrar
 break::descomponerse
 break::cambiar
 break::romper
-break   to crack)::romper
+break   to crack::romper
 break::descomponer
-break   two or more pieces)::romper,quebrar
-breakable     fragile::
+break   two or more pieces::romper,quebrar
 break a law::violar la ley
 break a leg::mucha mierda
 break a sweat::sudar la gota gorda
 break a sweat::comenzar a sudar
 breakaway::separado,separatista
 breakaway::escapado
-break badirse cuesta abajo
+break bad::irse cuesta abajo
 break bread::comulgar
 break bread::compartir el pan
 break down::transtornarse
 break down::fallar,descomponerse,averiarse
 break down::descomponerse,echarse a perder
 break down::desglosar
-breakdown::avería,descompostura,pana,panne
+breakdown::aver�a,descompostura,pana,panne
 breakdown::ataque de nervios,colapso nervioso
 breakdown::desglose
-breaker     breakdancer::
 break-even point::punto muerto
-breakfastdesayuno
+breakfast::desayuno
 breakfast::desayunar
 breakfast cereal::cereal
 break in::irrumpir
 break in::domar,estrenar
 break in::domar
-breaking news::noticias de última hora
-break of dawn    daybreak::
+breaking news::noticias de �ltima hora
 break one's fast::desayunar
-breakout::evasión
-breakout::evasión
+breakout::evasi�n
+breakout::evasi�n
 break ranks::romper filas
-break someone's heart::partirle a alguien el corazón
-break the iceromper el hielo
-breakthroughbrecha
+break someone's heart::partirle a alguien el coraz�n
+break the ice::romper el hielo
+breakthrough::brecha
 break up::terminar,romper
-breakup    breakdown::
-breakwaterrompeolas
+breakwater::rompeolas
 breakwater::rompeolas
 bream::brema,platica
-breambrema
+bream::brema
 breast::pechuga
-breastpecho,seno,teta
+breast::pecho,seno,teta
 breast::pecho
 breast::pechuga
-breast::corazón
+breast::coraz�n
 breast augmentation::cirugia a los senos,cirugia a los pechos,arreglo de tetas
-breastbone::esternón
-breast cancer::cáncer de mama
+breastbone::estern�n
+breast cancer::c�ncer de mama
 breastfeed::dar teta,dar de mamar,lactar,dar el pecho
-breastfeedinglactancia
+breastfeeding::lactancia
 breast milk::leche materna
 breast pump::sacaleche
 breaststroke::braza,estilo braza
 breastwork::parapeto
 breath::aliento
-breathrespiración
+breath::respiraci�n
 breath::respiro
-breath::respiración,aliento
-breathalyzer::alcoholímetro,alcotest
-breatherespirar
+breath::respiraci�n,aliento
+breathalyzer::alcohol�metro,alcotest
+breathe::respirar
 breathe down someone's neck::tener a alguien en la mira
-breatherrespirador
+breather::respirador
 breather::respiro
-breathing::respiración
-breathlessness    shortness of breath::
-breathtakingimpresionante,emocionante,asombroso,fascinador,fascinante
-brecciabrecha
-breechescalzones
+breathing::respiraci�n
+breathtaking::impresionante,emocionante,asombroso,fascinador,fascinante
+breccia::brecha
+breech::escalzones
 breed::raza,variedad
 breed::raza,casta,cepa,variedad
-breedcriar,procrear
+breed::criar,procrear
 breed::aparearse
 breed::criar
 breed::criar,cultivar
 breed::criar
 breed::engendrar
-breedercriador
-breezebrisa
-breezefly    horsefly::
+breeder::criador
+breeze::brisa
 breezy::fresco
 brent goose::barnacla carinegra
-BresciaBrescia
-Breslau    Wroclaw::
+Brescia::Brescia
 Brest::Brest
-BrestBrest
-brethrenhermanos
-Breton::bretón
-Bretonbretón,bretona
-Breton::bretón
-breviarybreviario
+Brest::Brest
+brethren::hermanos
+Breton::bret�n
+Breton::bret�n,bretona
+Breton::bret�n
+breviary::breviario
 brevier::gallarda
-brevitybrevedad
+brevity::brevedad
 brew::destilado
-brewfermentar,destilar
+brew::fermentar,destilar
 brew::hirviendo,fermentando
-brewercervecero,brebajero
-brewery::cervecería
-brewing::elaboración de cerveza,
-Brezhnev::Brézhnev
-bribesoborno,coima,matraca,mordida,cohecho,alfadía
+brewer::cervecero,brebajero
+brewery::cervecer�a
+brewing::elaboraci�n de cerveza,
+Brezhnev::Br�zhnev
+bribe::soborno,coima,matraca,mordida,cohecho,alfad�a
 bribe::sobornar,cohechar
-briberysoborno,cohecho
+bribery::soborno,cohecho
 BRIC::BRIC
 brick::ladrillo
-brickladrillo
-bricklayer::albañil
+brick::ladrillo
+bricklayer::alba�il
 brickyard::tejar
-bricolagebricolaje
-bridenovia
+bricolage::bricolaje
+bride::novia
 bridegroom::novio
-bridesmaiddama de honor
-bridgepuente,bóveda
+bridesmaid::dama de honor
+bridge::puente,b�veda
 bridge::bridge
 bridge::pasarela
 bridge::puente
 bridge::puente
 Bridget::Brigida
-BridgetownBridgetown
-bridlebrida
-briebrie
-briefbreve,corto
+Bridgetown::Bridgetown
+bridle::brida
+brie::brie
+brief::breve,corto
 brief::conciso,sucinto
 brief::resumen
 brief::poner al tanto
-briefcasemaletín
+brief::casemalet�n
 briefly::concisamente
 briefs::slip
 brig::calabozo
-brig::bergantín
-brigandbandido
-brigandinebrigantina
-brightclaro,brillante,resplandeciente,luminoso,lucio
+brig::bergant�n
+brigand::bandido
+brigand::inebrigantina
+bright::claro,brillante,resplandeciente,luminoso,lucio
 bright::alegre
 bright::brillante,inteligente,genial
 bright::subido
-bright::expresivo,vívido,vivo
-brilliancebrillantez
+bright::expresivo,v�vido,vivo
 brilliance::brillantez
-brilliantbrillante
+brilliance::brillantez
+brilliant::brillante
 brilliant::brillante
 brilliant::brillante
 brilliant::brillante
 brilliant::brillante
 brilliant::perla
-brimborde
-brimstone    sulfur::
+brim::borde
 Brindisi::Brindisi
-brindledaleonado
-brinesalmuera
+brindle::daleonado
+brine::salmuera
 brine::agua de mar
 brine::poner en salmuera,salar
 bring::cepillar
 brushstroke::pincelada
-brushtail    brushtail possum::
 brush up::desempolvar
 brushwood::broza
-brusquebrusco
+brusque::brusco
 brusquely::bruscamente
-BrusselsBruselas
+Brussels::Bruselas
 Brussels sprout::col de Bruselas
 brutality::brutalidad
-brutalize    brutalise::
 brutally::brutalmente
 brute::bruto,bestia
-brutebruto
+brute::bruto
 brute::bruto
 brute::bestia
 brute::bruto
-BrutusBruto
+Brutus::Bruto
 Bryansk::Briansk
 Bryce::Bryce
 Bryce::Bryce
-bryophytebriofita,briófito,briofito
-Brythonicbritónico
-bête noirebestia negra
-bubbleburbuja,pompa
-bubble    Greek::
-bubble::burbuja
-bubble    dupe::
-bubble    cheat::
-bubble    weep::
+bryophyte::briofita,bri�fito,briofito
+Brythonic::brit�nico
+b�te noirebestia negra
+bubble::burbuja,pompa
 bubble::burbujear
-bubble butt::culón
-bubble level    spirit level::
-bubobubón
-bubonic plague::peste bubónica
+bubble butt::cul�n
+bubo::bub�n
+bubonic plague::peste bub�nica
 Bucalemu::Bucalemu,Bucalemo
 Bucharest::Bucarest
-buckbuco,gamo,macho,macho  cabrío,macho del conejo
+buck::buco,gamo,macho,macho  cabr�o,macho del conejo
 buck::caballerete,pisaverde
 buck::pavo,pavos
-buck    ram::
 buck::corcovear
-buckberry    deerberry::
-bucketbalde,cubeta,cubo,pozal,tobo
-bucket::llover a cántaros
+bucket::balde,cubeta,cubo,pozal,tobo
+bucket::llover a c�ntaros
 Buckingham Palace::Palacio de Buckingham
 buckle::hebilla
-buckle     buckle down::
-bucklerescudo,rodela
-buckle up::abrochar el cinturón
+buckle::rescudo,rodela
+buckle up::abrochar el cintur�n
 buckskin::ante,piel de ante
-buckwheatalforfón
-buckwheat::alforfón
-bucolicbucólico
-bucolic::bucólico
-budbotón,brote,retoño,yema
+buckwheat::alforf�n
+buckwheat::alforf�n
+bucolic::buc�lico
+bucolic::buc�lico
+bud::bot�n,brote,reto�o,yema
 bud::amigote
 bud::cogollo
 bud::yema
-bud::florecer,brotar,retoñar
-bud::reproducirse por gemación
-BudapestBudapest
+bud::florecer,brotar,reto�ar
+bud::reproducirse por gemaci�n
+Budapest::Budapest
 buddha::Buda
-BuddhaBuda
+Buddha::Buda
 Buddha's hand::mano de buda
-Buddhismbudismo
-Buddhistbudista
+Buddhism::budismo
+Buddhist::budista
 Buddhist::budista
 Buddhist::budista
 Buddhist Era::era budista
-Buddhistic::búdico
-buddycompañero,acompañante,camarada,cuate
+Buddhistic::b�dico
+buddy::compa�ero,acompa�ante,camarada,cuate
 buddy::colega
 buddy::colega
-budgemover
+budge::mover
 budge::mover
 budgerigar::periquito
 budget::presupuesto
-budgetpresupuesto
+budget::presupuesto
 budget::presupuesto
 budget::presupuestar
 budget::presupuestar
 budget::presupuestar
 budgetary::presupuestario,presupuestal
-budyonovka::budiónovka
+budyonovka::budi�novka
 Buenos Aires::Buenos Aires
 buff::color del ante
 buff::aficionado
-buffalobúfalo
+buffalob�falo
 buffalo::bisonte
 Buffalo::Buffalo
-buffermemoria intermedia
-buffer::tampón,solución amortiguadora,solución reguladora
+buffer::memoria intermedia
+buffer::tamp�n,soluci�n amortiguadora,soluci�n reguladora
 buffer::tamponar
-buffer solution::solución tampón
-buffleheadPorrón coronado,pato moñudo,pato pinto,porrón albeola
+buffer solution::soluci�n tamp�n
+bufflehead::Porr�n coronado,pato mo�udo,pato pinto,porr�n albeola
 bug::bicho
-bug::micrófono oculto
-bug::manía,passión
-bugchinche
+bug::micr�fono oculto
+bug::man�a,passi�n
+bug::chinche
 bug::error,fallo,defecto
 bug::molestar
-bug::colocar micrófonos ocultos
-bugger     heretic::
-bugger::majadero,jodón,fregón,fastidio
-bugger    whippersnapper::
-bugger factor    Murphy's law::
-bugger off    get lost::
-buggy     pushchair::
+bug::colocar micr�fonos oculto
+bugger::majadero,jod�n,freg�n,fastidio
 bughouse chess::Pasapiezas
-bugle::clarín
-bug screen    window screen::
+bugle::clar�n
 bug spray::repelente de insectos
-buildconstruir,edificar
+build::construir,edificar
 build castles in the air::hacer castillos en el aire,forjar castillos en el aire,levantar castillos en el aire,hacer castillos de naipes
-builder    bodybuilder::
-builderconstructor,constructor civil
-buildingedificación,construcción
+builder::constructor,constructor civil
+building::edificaci�n,construcci�n
 building::edificio
-building blocks::bloques de construcción
-building material::material de construcción
-building worker    construction worker::
+building blocks::bloques de construcci�n
+building material::material de construcci�n
 built-in::empotrado
 built-in::incluido
 Buin::Buin
-BujumburaBuyumbura
-bukkakebukkake,bukake,bucake
-bulbcormo
+Bujumbura::Buyumbura
+bukkake::bukkake,bukake,bucake
+bulb::cormo
 bulb::bulbo
-bulb    light bulb::
-BulgariaBulgaria
-Bulgarianbúlgaro
-Bulgarian::búlgaro,búlgara
-Bulgarian::búlgaro
+Bulgaria::Bulgaria
+Bulgarian::b�lgaro
+Bulgarian::b�lgaro,b�lgara
+Bulgarian::b�lgaro
 Bulgarian Hound::sabueso de Bulgaria
 bulge::bulto,abultamiento,protuberancia
 bulge::abultar
 bulimia::bulimia,bulimia nerviosa
 bulimia nervosa    bulimia::
-bulimic::bulímico
-bulimic::bulímico
-bulimic::bulímico
+bulimic::bul�mico
+bulimic::bul�mico
+bulimic::bul�mico
 bulk::masivo,masiva
-bulkmasa
+bulk::masa
 bulk::grueso
 bulk::bulto
 bulkhead::mamparo
-bulkyvoluminoso
+bulky::voluminoso
 bulky::abultado
-bulltoro
+bull::toro
 bull::bula
 bull::bulo
-bull    lie::
-bullcrap    bullshit::
 bulldog::bulldog,buldog,dogo
-bulldog    British bulldog::
-bulldozeraplanadora,bulldozer
+bulldozer::aplanadora,bulldozer
 bull dyke::marimacho
-bullectomy::bullectomía
-bulletbala,proyectil
+bullectomy::bullectom�a
+bullet::bala,proyectil
 bullet ant::hormiga bala,folofa,tucandera,yanabe,conga
-bulletin::boletín
-bulletin::boletín
-bulletinboletín
-bulletin board::tablón de anuncios
-bulletproofantibalas,prueba de balas
+bulletin::bolet�n
+bulletin::bolet�n
+bulletin::bolet�n
+bulletin board::tabl�n de anuncios
+bulletproof::antibalas,prueba de balas
 bulletproof::infalible
 bulletproof vest::chaleco antibalas
 bullet train::tren de alta velocidad,shinkansen
-bull fiddle    double bass::
 bullfighter::torero,matador,diestro
 bullfighting::toreo,tauromaquia,corrida de toros
 bullfinch::camachuelo
-bullfrog::rana toro
-bullhead     European bullhead::
-bullhead    bullhead rail::
-bullhook    ankus::
-bulliontejo,tejón
+bullfrog::rana tor
+bullion::tejo,tej�n
 bull market::mercado alcista
-Bullmastiffbullmastiff
-bullockbuey
-bull ring    bullring::
+Bullmastiff::bullmastiff
+bullock::buey
 bullring::plaza de toros
 bull run::encierro
-bullseyecentro del blanco
+bullseye::centro del blanco
 bullseye::diana
 bullseye::ojo de buey
-bullshit::tonterías,pendejadas,huevadas,chorradas,mierda
-bullshittontería,pendejadas,idiotez,huevada,mierda,caca,chamullo,gilipollez
-bullshit::desconfío,mentiroso
-bullshit::huevear,decir tonterías
+bullshit::tonter�as,pendejadas,huevadas,chorradas,mierda
+bullshit::tonter�a,pendejadas,idiotez,huevada,mierda,caca,chamullo,gilipollez
+bullshit::desconf�o,mentiroso
+bullshit::huevear,decir tonter�as
 bullshit::mentir,fanfarronear
-bull thistle    spear thistle::
 bully::bravo
-bullybravucón,abusón,matón,abusador,peleón,pendenciero,perdonavidas,matasiete
-bully    bully beef::
-bully::matón,sicario
-bully    pimp::
+bully::bravuc�n,abus�n,mat�n,abusador,pele�n,pendenciero,perdonavidas,matasiete
+bully::mat�n,sicario
 bully::tiranizar,acosar
 bully::intimidar,chulear,acosar
-bullying::vejación,ultraje,acoso,hostigamiento,bullying,matonaje,matonismo
+bullying::vejaci�n,ultraje,acoso,hostigamiento,bullying,matonaje,matonismo
 bullying::bullying,mobbing
 bulwark::baluarte
-bulwarkbaluarte
+bulwark::baluarte
 bulwark::amurada
 bum::vagabundo,vago
 bum::ano,trasero
-bumblebeeabejorro,abejarrón,abejón,moscardón
-bumfodder    toilet paper::
+bumblebee::abejorro,abejarr�n,abej�n,moscard�n
 bumfuck::jurutungo viejo
-bumfuck    assfuck::
-bumfuck    sodomy::
-bumfuck    assfuck::
 bumfuck nowhere::,culo del mundo
-bummer::decepción,fiasco,fracaso,vergüenza
-bumpchichón,tolondro,cototo,bulto
-bump::chichón,bache,abolladura
-bumperparachoques,bómper,bumper,defensa,paragolpes,
+bummer::decepci�n,fiasco,fracaso,verg�enza
+bump::chich�n,tolondro,cototo,bulto
+bump::chich�n,bache,abolladura
+bumper::parachoques,b�mper,bumper,defensa,paragolpes,
 bumpkin::paleto,palurdo
-bumpydisparejo,desparejo,dispar
-bun::rodete,moño
-bunbollo
-bun::chongo,moño
-bun    newbie::
-bunch::montón
-bunch::manojo,puñado,ramo,racimo
+bumpy::disparejo,desparejo,dispar
+bun::rodete,mo�o
+bun::bollo
+bun::chongo,mo�o
+bunch::mont�n
+bunch::manojo,pu�ado,ramo,racimo
 bunch::grupo,pandilla
 bunch::bolsada
 bunch::arracimarse,enracimarse
 bundle::haz
-bundlehaz,atado,fajo
+bundle::haz,atado,fajo
 bundle::fajo
 bundle::abrigarse
 bundle::apurarse,carrerearse
 bundle::abrigar
-bundle::empujar,carrerear,despachar rápidamente
+bundle::empujar,carrerear,despachar r�pidamente
 bundle::atar,liar,amarrar
 bundt cake::gugelhupf
-bungtapón,corcho
+bung::tap�n,corcho
 bung    bribe::
-bungeepulpo
-bungee    bungee rope::
-bungee cord    bungee rope::
-bungee cord    bungee::
-bungee jumping::puénting,góming,bungy jumping,bungy,bungee jumping,salto elástico,puentismo
-bungee line    bungee rope::
-bunionjuanete
-bunkcamarote
+bungee::pulpo
+bungee jumping::pu�nting,g�ming,bungy jumping,bungy,bungee jumping,salto el�stico,puentismo
+bunion::juanete
+bunk::camarote
 bunk::litera
 bunk bed::litera
-bunkbed    bunk bed::
-bunkerbúnker
-bunker::búnker
-bunkhouse::barracón
-bunnyconejito,gazapo
+bunker::b�nker
+bunker::b�nker
+bunkhouse::barrac�n
+bunny::conejito,gazapo
 bunny::conejita
 bunny girl::conejita
-bunny hug    hoodie::
 Bunsen burner::mechero,quemador Bunsen
 bunt::tocar
 bunt::toque
-buntingescribano
-Bunuelian::buñueliano
-buoyboya
-buoyance    buoyancy::
+bunting::escribano
+Bunuelian::bu�ueliano
+buoy::boya
 buoyancy::flotabilidad
-buoyancysustentación hidráulica,impulso
+buoyancy::sustentaci�n hidr�ulica,impulso
 buoyancy::optimismo
 buoyant::boyante
-bur    burr::
-burbleborbollar
+burble::borbollar
 burbot::lota
-burdencarga
-burden::preocupación
+burden::carga
+burden::preocupaci�n
 burden::carga,responsabilidad
 burden::gravar
 burden of proof::carga de la prueba
-burdensomeexigente,pesado,penoso,arduo,agotador,fastidioso,puñeta
+burdensome::exigente,pesado,penoso,arduo,agotador,fastidioso,pu�eta
 Burdigalian::Burdigaliense
-burdockbardana,cachurrea,cadillo,lampazo,lapaizo,pegadillo
-bureauoficina
-bureau::cómoda
+burdock::bardana,cachurrea,cadillo,lampazo,lapaizo,pegadillo
+bureau::oficina
+bureau::c�moda
 bureau::escritorio
-bureaucracyburocracia
-bureaucratburócrata
-bureau de changecasa de cambio
+bureaucracy::burocracia
+bureaucrat::bur�crata
+bureau de change::casa de cambio
 burg::burgo
-burgeonmedrar
-burgeon::florecer,retoñar
+burgeon::medrar
+burgeon::florecer,reto�ar
 burglary::allanamiento de morada
 burgle::hurtar,robar
 burgomaster::burgomaestre
 Burgundian::burgundio
-Burgundianburgundio
+Burgundian::burgundio
 Burgundian::burgundio
 burgundy::burdeos
-burgundyburdeos
-BurgundyBorgoña
+burgundy::burdeos
+Burgundy::Borgo�a
 burial::entierro
-burial chamber::cámara mortuoria
+burial chamber::c�mara mortuoria
 burial ground    cemetery::
-buriedenterrado
+buried::enterrado
 burka::burka,burqa
-burkinabe::burkinés
-burkinabe::burkinés
-Burkina FasoBurkina Faso
-burllobanillo,lupia
-burlaparpillera
-burlycorpulento,musculoso
-Burma     Myanmar::
+burkinabe::burkin�s
+burkinabe::burkin�s
+Burkina Faso::Burkina Faso
+burllo::banillo,lupia
+burlapa::rpillera
+burly::corpulento,musculoso
 Burma::Birmania
-Burmesebirmano
+Burmese::birmano
 Burmese::birmano
 Burmese::birmano
 burn::quema
-burnquemadura
-burn::quemazón
+burn::quemadura
+burn::quemaz�n
 burn::arder,quemar
 burn::quemar
 burn::quemar
-burn    sunburn::
 burn::quemar
 burn down::carbonizar
 burn down::carbonizar
-burnedquemado
-burnergrabador de CD
-burnish::bruñir
+burned::quemado
+burner::grabador de CD
+burnish::bru�ir
 burn one's bridges::quemar los puentes,quemar las naves
-burnoosealbornoz
+burnoose::albornoz
 burnout::queme,burnout
 burnt::quemado
-burn the midnight oil::hacer días y noches
-buro::cómoda
+burn the midnight oil::hacer d�as y noches
+buro::c�moda
 buro::escritorio
 buro::oficina
-burocracyburocracia
-burperucto,regüeldo
+burocracy::burocracia
+burp::eructo,reg�eldo
 burp::eructar
-burqa    burka::
-burrastilla,limadura,esquirla
+burr::astilla,limadura,esquirla
 burr::rebaba
 burr::erre francesa
 burr::cadillo
 burr::arrastrar las erres
-burritoburrito
+burrito::burrito
 burrow::madriguera,ratonera
 burrow::socavar,cavar
 burrowing parrot::loro tricahue
 bursitis::bursitis
-burstráfaga,estallo,reventón,estallido
+burst::r�faga,estallo,revent�n,estallido
 burst::reventar
 burst::reventar,romper
 burst out laughing::reirse a carcajadas
-burstwort    rupturewort::
-BurundiBurundi
-Burundian::burundés
-Burundian::burundés
-buryenterrar,dar sepultura
+Burundi::Burundi
+Burundian::burund�s
+Burundian::burund�s
+bury::enterrar,dar sepultura
 bury::enterrar
 Buryatia::Buriatia
 bury the hatchet::enterrar el hacha de guerra
-busautobús,bus,camión,camioneta,cazadora,colectivo,guagua,micro,micro,ómnibus,bondi,rufa
+bus::autob�s,bus,cami�n,camioneta,cazadora,colectivo,guagua,micro,micro,�mnibus,bondi,rufa
 bus::bus
-bus    ambulance::
-Busan::Busán
+Busan::Bus�n
 busbar::embarrado,barraje,barra colectora
-bus bulb::ensanchamiento para autobús
-busbycolbac
-busharbusto
-bush antelope    bushbuck::
+bus bulb::ensanchamiento para autob�s
+busby::colbac
+bushar::busto
 bush dog::perro de monte
-bushelfanega
+bush::elfanega
 Bushism::bushismo
-Bushman::bosquimán
-bushmaster::cascabel muda,cascabel púa,cuaima,matabuey,pucarara,shushupe,verrugosa
-businessempresa
+Bushman::bosquim�n
+bushmaster::cascabel muda,cascabel p�a,cuaima,matabuey,pucarara,shushupe,verrugosa
+business::empresa
 business::negocio
 business::negocio
 business::asunto
@@ -10989,175 +10510,138 @@ business card::tarjeta de visita
 businessman::hombre de negocios,empresario
 business trip::viaje de negocios
 businesswoman::mujer de negocios,negocianta
-bus route::línea de autobús
+bus route::l�nea de autob�s
 bus shelter::marquesina
-bus station::estación de autobús
-bus stop::parada de autobús
+bus station::estaci�n de autob�s
+bus stop::parada de autob�s
 bust::busto
-bustbusto
+bust::busto
 bust::fiasco
 bust::reventar
 bust::trincar
 bust::cazar,pillar
 bust::reventar
-bustardavutarda
-buster::tipo,tío,amigo
-buster::boludo,huevón
-busting     bursting::
-bustle::polisón
+bustar::davutarda
+buster::tipo,t�o,amigo
+buster::boludo,huev�n
+bustle::polis�n
 bustle::abundar
-bustytetuda
-busyocupado
+busty::tetuda
+busy::ocupado
 busy::complicado
 busy::ocupado
 busybody::metiche,metomentodo,intruso
 but::aunque,pero
 butexcepto,salvo,sino
 but::pero
-but::sólo,solamente
+but::s�lo,solamente
 butadiene::butadieno
 butane::butano
 butanol::butanol
 butanone::butanona,metiletilcetona
-butchercarnicero,carnicera
+butcher::carnicero,carnicera
 butcher::masacrar
 butcher::carnear,matar
-butcher'scamiceria,carnicería
-butchery    abattoir::
+butcher's::camiceria,carnicer�a
 butene::buteno
-butlersumiller
+butler::sumiller
 butler::mayordomo
-buttculo,nalgas,trasero
-butt    butt hinge::
-butt    butt joint::
+butt::culo,nalgas,trasero
 butt::colilla, bacha,calilla,chenca,chicote,chinga,chiva, pava,pucho
 butt::topetazo,topetada
 butt::topetar
-butt chin    cleft chin::
-buttcrack    butt crack::
-buttermantequilla,manteca
+butter::mantequilla,manteca
 butter::untar con mantequilla
-buttercupranúnculo
-buttercup    daffodil::
+buttercup::ran�nculo
 butter dish::mantequera
 butter fingers::manos de manteca
 butterfingers::torpe,manazas,manos muertas
-butterfish     trout cod::
-butterflymariposa
-butterfly    butterfly stroke::
+butterfly::maripos
 butterfly effect::efecto mariposa
 butterfly stroke::mariposa
 buttermilk::suero de mantequilla
 buttermilk::suero de mantequilla
-butternut    butternut squash::
 butternut squash::calabaza de nuez,calabaza butternut
 butter up::lisonjear,hacer el buz,hacer la pelota
-butterymantecoso
-buttfuck    sodomy::
-buttfuck    assfuck::
-butthurtencabronado,enputado
-buttkisser    asslicker::
-buttlicker    asslicker::
-buttocknalga
-button::botón,prendedor
-button::botón
-button::botón,capullo
-buttonbotón
-button::botón
+buttery::mantecoso
+butthur::tencabronado,enputado
+buttock::nalga
+button::bot�n,prendedor
+button::bot�n
+button::bot�n,capullo
+button::bot�n
+button::bot�n
 button::abotonar
-buttonbush    common buttonbush::
 buttonhole::ojal
-button man    contract killer::
-button mushroom::champiñón
+button mushroom::champi��n
 button up::abrocharse
 button up::abotonar
-buttonwood    American sycamore::
-buttonwood    California sycamore::
-buttonwood    mangrove::
-buttress::sostén,apoyo,refuerzo
-buttressboterete,contrafuerte,estantal,machón,estribo
+buttress::sost�n,apoyo,refuerzo
+buttress::boterete,contrafuerte,estantal,mach�n,estribo
 buttress::contrafuerte,estribo
 buttress::corroborar,afianzar
 buttress::apuntalar
 butyl::butilo
 butylene::butileno
-buxompechugona,maciza
-buy    purchase::
-buycomprar
+buxom::pechugona,maciza
+buy::comprar
 buy::creer
 buyable::comprable
-buyercliente,comprador
+buyer::cliente,comprador
 buy-in::soporte
-buying power    purchasing power::
 buy time::ganar tiempo
 buzz::zumbido,zurrido
 buzz::suspiro
 buzz::zurriar
-buzzard    black vulture::
-buzzardratonero común,busardo
-buzzard    turkey vulture::
+buzzar::dratonero com�n,busardo
 buzzcut::corte militar
 buzzerbocina,zumbador
 buzz-phrase::frase zumbona
 buzzword::palabra de moda
 by::por
-bypor,cerca de
+by::por,cerca de
 by::por
 by::por
 by::por
 by::por
 by::para
 by::por
-by accident    accidentally::
 by all means::por todos los medios
-by and by    soon::
 by and large::en general
 Byblos::Biblos
 by chance::por casualidad
-by default::de forma predeterminada,por omisión
-by dint of    because of::
-by dint of    by means of::
-byeadiós,chau,chao,ave,salve,aved,salved
-bye-bye::adiós,chau
+by default::de forma predeterminada,por omisi�n
+bye::adi�s,chau,chao,ave,salve,aved,salved
+bye-bye::adi�s,chau
 Byelorussian SSR::RSS de Bielorrusia
 by far::de lejos
-by foot    on foot::
 by God::por Dios
 by hand::a mano
-by hand    manually::
 by heart::de memoria
 by hook or by crook::por todos los medios,de una forma u otra
-bylinabylina
+bylina::bylina
 by means of::por medio de
-by mistake    mistakenly::
 byname::apodo,apelativo
 byname::apellido
 by no means::de ninguna manera
 by oneself::por uno mismo,solo
-bypass::baipás
+bypass::baip�s
 bypass::variante
 byproduct::subproducto
 by-product::subproducto
 byre::establo
-bystander::mirón,mirona,transeúnte,espectador,curioso,cotilla
-bytebyte
+bystander::mir�n,mirona,transe�nte,espectador,curioso,cotilla
+byte::byte
 by the Grace of God::por la Gracia de Dios
 by the looks of things::por lo que parece
 by the skin of one's teeth::con las justas
-by the time    when::
-by the way::dicho sea de paso,depaso,por cierto,a propósito
-by turns    is in turn a synonym? in this case: in turn::
-by walking    on foot::
-bywordrefrán,proverbio,estribillo
-Byzantinebizantino
+by the way::dicho sea de paso,depaso,por cierto,a prop�sito
+byword::refr�n,proverbio,estribillo
+Byzantine::bizantino
 Byzantine Empire::Imperio Bizantino
-Byzantinology    Byzantine studies::
-Byzantium    Byzantine Empire::
-ByzantiumBizancio
-Bézier curve::curva de Bézier
-ca    ca.::
-cab     taxi::
-cabalcábala,camarilla
+Byzantium::Bizancio
+B�zier curve::curva de B�zier
+cabal::cábala,camarilla
 cabana::cabaña
 cabaret::cabaré,cabaret
 cabbagecol,repollo,berza
@@ -11386,61 +10870,54 @@ calyx::cáliz
 calzonecalzone
 cam     camera::
 camaraderie::camaradería
-camaraderiecamaradería
+camaraderie::camaradería
 Camargue::Camarga
 camber::inclinación
-cambercombadura
+camber::combadura
 camber::peralte
 camber::combar
 cambiumcambium
 Cambodia::Camboya
 Cambodian::camboyano
 Cambodian::camboyano
-Cambrian symbol    leek::
-cambric    batiste::
-CambridgeCambridge
-camelcamello,dromedario
-camelliacamelia
-camelopard    giraffe::
+Cambridge::Cambridge
+camel::camello,dromedario
+camellia::camelia
 Camelopardalis::Camelopardalis
-cameocamafeo,
-cameracámara
+cameo::camafeo,
+camera::cámara
 camera::videocámara
 cameraman::camarógrafo,camarógrafa,cámara
 camera obscura::cámara oscura
 camerlengo::camarlengo
-CameroonCamerún
+Cameroon::Camerún
 Cameroonian::camerunés
 Cameroonian::camerunés
 Camilla::Camila
-camisolecamisola
+camisole::camisola
 camomile::manzanilla,camomila
 camomile::manzanilla
 camouflage::camuflaje
 camouflage::camuflar,camuflajear
 camp::maricona,maricón
 camp::facción,bando
-campcampamento
+camp::campamento
 camp::campamento
 camp::amanerado estilo camp
-camp    summer camp::
 camp::acampar
 campaign::campaña
 campaign::sondear
-campaign group    advocacy group::
 Campania::Campania
 Campeche::Campeche
-camper     motor home::
-campervan    motor home::
 campfire::fogata,hoguera
-camphoralcanfor
+camphor::alcanfor
 camping::camping
-campuscampus
+campus::campus
 camshaft::árbol de levas
 can::regadera
 can::lata
-canlata
-canpoder
+can::lata
+can::poder
 can::poder
 can::descartar
 can::echar
@@ -11453,120 +10930,96 @@ CanadaCanadá
 Canada goose::barnacla canadiense
 Canada thistle    corn thistle::
 Canadian::canadiense
-Canadiancanadiense
+Canadian::canadiense
 Canadian dollar::dólar canadiense
 canal::canal
-canalcanal
+canal::canal
 canapé::canapé
 canapé::canapé
-canardbulo,filfa
+canar::dbulo,filfa
 Canarian::canario,canaria
-canarycanario
+canary::canario
 Canary Islander::canario
 Canary Islands::Islas Canarias,Canarias
 canasta::canasta
 Canberra::Canberra,Camberra
 cancel::cancelar
-cancelcancelar
+cancel::cancelar
 cancellation::cancelación,rescisión,anulación,proceso de interrumpir,supresión
 cancelled::cancelado anulado
-cancercáncer
-CancerCáncer
-cancerogenic    carcinogenic::
+cancer::cáncer
+Cancer::Cáncer
 cancerology::cancerología
-cancerouscanceroso
-candelacandela
-candelabrumcandelabro
-candidfranco
+cancerous::canceroso
+candela::candela
+candelabrum::candelabro
+candid::franco
 candidacy::candidatura
-candidatecandidato
-candidateship    candidacy::
-candidly     frankly::
-candlevela,candela,cirio
-candlemaker    candler::
-CandlemasCandelaria
+candidate::candidato
+candle::vela,candela,cirio
+Candlemas::Candelaria
 candlepower::candela
 candle snuffer::apagavelas,matacandelas
-candlestickcandelero,candelabro
+candlestick::candelero,candelabro
 candlewick::pabilo
-candorcandor
-candy     confectionery::
+candor::candor
 candy::caramelo,dulce,confite,golosina
 candy apple::manzana de caramelo
 candy bar::chocolatina
 candy cane::bastón de caramelo
 candy floss::algodón de azúcar
-candy store    sweetshop::
-canecaña
+cane::caña
 cane::bastón,bastón blanco
 cane::caña
-cane    sugar cane::
-cane    walking stick::
 Canes Venatici::Canes Venatici
-can I come in¿puedo entrar?
-canidcánido
-caninecanino
-canine    canine tooth::
+can I come in::¿puedo entrar?
+canid::cánido
+canine::canino
 canine tooth::canino,colmillo
 caninus muscle::músculo canino
 Canis Major::Canis Major
 Canis Minor::Canis Minor
 canistel::canistel
 canister::lata
-canisterlata
-canister    grapeshot::
-canister shot    grapeshot::
+canister::lata
 can I use your phone::¿puedo usar tu teléfono?,¿puedo usar su teléfono?
-cankletobillo hinchado
-canna    cannot::
-cannabis    marijuana::
+cankle::tobillo hinchado
 cannabis::cannabis,cáñamo
-cannibalcaníbal
+cannibal::caníbal
 cannibalism::antropofagia,canibalismo
 cannibalistic::caníbal,antropófago
 canning::enlatado,conservería
-cannon    cannon bone::
-cannoncañón
+cannon::cañón
 cannonball::bala de cañón
 cannon fodder::carne de cañón
-cannotno poder
-canny    frugal::
-cannycauteloso
+cannot::no poder
+canny::cauteloso
 canny::astuto
-canny    pleasant::
-canoecanoa
-canoe birch    paper birch::
+canoe::canoa
 canoeist::piragüista
-canoer    canoeist::
 canola::colza
-canoncanónigo
-canonic    canonical::
-canonicalcanónico
-canonical    prototypical::
+canon::canónigo
+canonical::canónico
 canonical::canónico
 canonry::canonjía
 can opener::abrelatas
-can-opener    can opener::
-CanopusCanopo
+Canopus::Canopo
 canopy::copa
-canopydosel,palio,toldo
+canopy::dosel,palio,toldo
 canopy::alero
 canopy::campana
 canopy::parabrisas
-can't     cannot::
-cantargot,jerga
+cant::argot,jerga
 cant::argot,jerga,coa
 Cantabria::Cantabria
 Cantabrian::cántabre
-cantaloupecantalupo
-cantankerousintratable,mañoso,mal genio,enojadizo,arisco,cascarrabias
-canteencantina
+cantaloupe::cantalupo
+cantankerous::intratable,mañoso,malgenio,enojadizo,arisco,casca rabias
+canteen::cantina
 canteen::cantina,cantimplora
-CanterburyCanterbury,Cantórbery
+Canterbury::Canterbury,Cantórbery
 can't help::no poder evitar,no poder dejar de
-Canticle of Canticles    Song of Songs::
-Canticles    Song of Songs::
-cantoncantón
+canton::cantón
 canton::cantón
 canton::cantón
 canton::cantón
@@ -11578,58 +11031,49 @@ Cantonese::cantonés
 Cantonese::cantonés,cantonesa
 Cantonese::cantonés
 canvas::lienzo,tela
-canvaslona
+canvas::lona
 canvass::solicitud,encuesta
-canvass    campaign::
 canvass::encuestar
 canvass::solicitar,encuestar
-canyoncañón,barranca
+canyon::cañón,barranca
 can you help me::¿puedes ayudarme?,¿puede ayudarme?
 can you tell us::podría decirnos
-caoshu    grass script::
 cap::fulminante
-capgorro,gorra,cofia
+cap::gorro,gorra,cofia
 cap::fulminante,detonante
-capabilitycapacidad
-capablecapaz
-capaciousespacioso
+capability::capacidad
+capable::capaz
+capacious::espacioso
 capacitance::capacitancia
 capacitor::condensador
 capacity::capacidad
 capacity::capacidad
-capacitycapacidad
 capacity::capacidad
-capacity utilization    capacity utilization rate::
+capacity::capacidad
 cape::capa
-capecabo
+cape::cabo
 cape gooseberry::uchuva
 cape gooseberry::aguaymanto
 Cape lion::león del Cabo
 Cape of Good Hope::cabo de Buena Esperanza
-caper    capercaillie::
-caper    privateer::
-caper     crime::
 caper::alcaparra
 caper::alcaparro
-capercaillieurogallo,gallo silvestre
+caper::caillieurogallo,gallo silvestre
 Capernaum::Cafarnaúm
 Cape teal::cerceta de El Cabo
 Cape Town::Ciudad del Cabo
-Cape VerdeCabo Verde
+Cape Verde::Cabo Verde
 Cape Verdean::caboverdiano
 Cape Verdean::caboverdiano
 Cap-Haïtien::Cabo Haitiano
-capias     arrest warrant::
 capillarity::capilaridad
 capillary::capilar,tubo capilar
-capillarycapilaria
+capillary::capilaria
 capillary action::capilaridad
 capital::excelente
 capital::capital
 capital::capital
 capital::mayúscula
-capital    capital letter::
-capital     capital city::
 capital::capital
 capital::capitel
 capital city::capital
@@ -11641,87 +11085,67 @@ capital letter::mayúscula,letra mayúscula
 capital punishment::castigo capital,pena capital
 capital ship::buque capital
 Capitanian::Capitaniense
-capitate    capitate bone::
 capitate bone::hueso grande
-capitation     poll tax::
 capitol::capitolio
-capitol     Capitol::
-capitol    capitoul::
-capitol    Capitol::
 Capitol::Capitolio de los Estados Unidos
 Capitol::Templo de Júpiter,Capitolino
 Capitol Hill    Congress::
-capo    capotasto::
-caponcapón
+capon::capón
 caponata::caponata
 caponier::caponera
 capotasto::ceja,cejilla
-CappadociaCapadocia
-Cappadocian    Cappadocian Greek::
+Cappadocia::Capadocia
 cappuccino::capuchino
-cappuccinocapuchino
-capraldehyde    decanal::
-capricecapricho
+cappuccino::capuchino
+caprice::capricho
 capricious::caprichoso,antojadizo
 Capricorn::Capricornio
-Capricorn     Capricornus::
-Capricornus    Capricorn::
-CapricornusCapricornio
+Capricornus::Capricornio
 capsicum::pimiento
-capsicum spray    pepper spray::
-capsizezozobrar,volcar
+capsize::zozobrar,volcar
 capsize::hacer volcar,zozobrar
-Caps Lock    capslock::
 capsular::capsular
-capsule     weasel::
 captain::capitán
-captaincapitán
+captain::capitán
 captain::capitán
 captain::capitán
 captain::capitán
 captain::capitanear
-Captain ObviousCapitán Obvio
-captee    captive::
-caption    capture::
+Captain Obvious::Capitán Obvio
 caption::prefacio
 caption::subtítulo
 caption::título,leyenda
 caption::subtitular
 caption::intitular
 captious::criticón,pejiguero
-captiouscapcioso
-captivatecautivar
+captious::capcioso
+captivate::cautivar
 captivating::arrebatador
 captivatingly::arrebatadoramente
 captive::cautivo
 captive::preso
 captive::cautivo,prisionero
-captivity    captive::
 captivity::cautividad
-capturecaptura
+capture::captura
 capture::capturar
 capture::capturar
 capture::capturar
 capture::capturar
-capuchin    capuchin monkey::
 Capuchin::capuchino
 capybara::capibara,carpincho,chigüire,chigüiro,poncho,ronsoco
-carcoche,automóvil,auto,carro,máquina
-car    carriage::
-carabaocarabao
-carabid    ground beetle::
+car::coche,automóvil,auto,carro,máquina
+carabao::carabao
 carabiner::mosquetón
 caracal::caracal
-caracaracaracará,carancho
+caracara::caracará,carancho
 Caracas::Caracas
-carafegarrafa
-carambola    star fruit::
-caramelcaramelo
-carapacecarapacho,caparazón
-caratquilate
+carafe::garrafa
+caramel::caramelo
+carapace::carapacho,caparazón
 carat::quilate
-caravancaravana
-caravanseraicaravasar,caravansaray
+carat::quilate
+caravan::caravana
+caravanserai::caravasar,caravansaray
 caravel::carabela
 carawayalcaravea
 caraway  bɒneɪtədˈkɑː.bən tɛt.ɹəˌbɹəʊ.maɪdˈkɑː.bən tɛt.ɹəˌflʊɹ.aɪdˈkæɹ.bən tɛt.rəˌaɪ.əʊ.daɪdˈkɑːɹbʌŋkəlkɑrˈsɪnədʒɛnkɑɹdˈkɑɹdbɔɹdˈkɑːdɪɡənˈkɑɹdɪnəlˈkɑɹdɪnəl ˈnumɜrəlkeəɻkəˈɹiːnkəˈrɪrˈkɛɘfriːˈkɛːfəlˈkɛːfəliˈkɛːlɘsa,a la atención de

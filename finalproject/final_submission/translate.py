@@ -94,13 +94,11 @@ def translate(en_sentences,es_sentences,dictionary):
               for spanish_word in es_sentences.rstrip().lower().split():
                         word_no = 0
                         for es_word in translations[word]:
-                              print es_word.lower(),prev_sp,spanish_word
                               regex = re.compile('[,\.!?]')
                               spanish_word = regex.sub('', spanish_word)
                               word_no+=1
                               if found_es == False:
                                   if es_word.lower() == prev_sp+" "+spanish_word:
-                                          print True
                                           new_words.append(spanish_word)
                                           found[word_no] = True
                                           found_es = True
