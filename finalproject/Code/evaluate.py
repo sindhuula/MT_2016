@@ -49,13 +49,14 @@ if __name__ == '__main__':
         columns = parsed.get_highest_column()
         for i in range(1, int(rows+1)):
             if parsed.cell(column = 1, row = i).value == 1 :
-                order = []
-                words = []
-                flags = [False, False, False]
-                subject = ""
-                object = ""
-                verb = ""
-                sentence_no +=1
+                if i != 1:
+                    order = []
+                    words = []
+                    flags = [False, False, False]
+                    subject = ""
+                    object = ""
+                    verb = ""
+                    sentence_no +=1
 
             if (parsed.cell(column = 8,row = i).value in subjects) & (flags[0]==False):
                     flags[0] = True
