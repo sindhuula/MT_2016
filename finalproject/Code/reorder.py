@@ -27,23 +27,6 @@ def sentences():
 
 def combine(a, b): return '%s.%s' % (a, b)
 
-def compare(hypothesis1,hypothesis2,reference):
-    hyp1 = hypothesis1.rstrip.lower.strip()
-    hyp2 = hypothesis2.rstrip.lower.strip()
-    ref = reference.rstrip.lower.strip()
-    length = len(ref)
-    common_hyp1 = 0
-    common_hyp2 = 0
-    for i in range(length):
-        if hyp1[i] == ref[i]:
-            common_hyp1 += 1
-        if hyp2[i] == ref[i]:
-            common_hyp2 += 1
-    if common_hyp1 > common_hyp2:
-        return hypothesis1
-    else:
-        return hypothesis2
-
 if __name__ == '__main__':
 
     if args.t:
