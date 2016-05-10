@@ -60,13 +60,18 @@ def translate(en_sentences,es_sentences,dictionary):
                              translation = append(translation,dictionary[word])
                     else:
                         translation = append(translation,dictionary[prev+" "+word])
-                        translations.pop(prev)
+                        try:
+                            translations.pop(prev)
+                        except:
+                            continue
                         word = prev+" "+word
                 else:
                     translation = append(translation,dictionary[prev_prev+" "+prev+" "+word])
-                    translations.pop(prev_prev)
-                    translations.pop(prev)
-                    #translations.pop(prev_prev+" "+prev)
+                    try:
+                     translations.pop(prev_prev)
+                     translations.pop(prev)
+                    except:
+                        continue
                     word = prev_prev+" "+prev+" "+word
                 translations[word] = translation
                 prev_prev = prev
@@ -76,36 +81,35 @@ def translate(en_sentences,es_sentences,dictionary):
             for word in sent:
               word_no+=1
               try:
-                  if (sent[word_no-1]+" "+sent[word_no-1]+" "+word) in translations.keys():
-                      word = sent[word_no-1]+" "+sent[word_no-1]+" "+word
+                  if (sent[word_no-2]+" "+sent[word_no-1]+" "+word) in translations.keys():
+                      word = sent[word_no-2]+" "+sent[word_no-1]+" "+word
                   elif sent[word_no-1] +" "+ word in translations.keys():
                     word = sent[word_no-1]+" "+word
                   else:
                     word = word
               except:
                   word = word
-              es_no = 0
-              found_es = defaultdict(bool)
-              for es_word in translations[word]:
+              found_es = False
+              prev_sp = "BOS"
+              for spanish_word in es_sentences.rstrip().lower().split():
                         word_no = 0
-                        prev_sp = "BOS"
-                        for spanish_word in es_sentences.rstrip().lower().split():
+                        for es_word in translations[word]:
+                              print es_word.lower(),prev_sp,spanish_word
                               regex = re.compile('[,\.!?]')
                               spanish_word = regex.sub('', spanish_word)
-
                               word_no+=1
-                              if found_es[es_no] == False:
-                                  if(es_word == spanish_word):
+                              if found_es == False:
+                                  if es_word.lower() == prev_sp+" "+spanish_word:
+                                          print True
                                           new_words.append(spanish_word)
                                           found[word_no] = True
-                                          found_es[es_no] = True
+                                          found_es = True
                                           break
-
-                                  elif es_word == prev_sp+" "+spanish_word:
+                                  elif(es_word.lower() == spanish_word):
                                           new_words.append(spanish_word)
                                           found[word_no] = True
-                                          found_es[es_no] = True
+                                          found_es = True
                                           break
-                              prev_sp = spanish_word
+                        prev_sp = spanish_word
             new_sent = ' '.join(new_words)
             return new_sent

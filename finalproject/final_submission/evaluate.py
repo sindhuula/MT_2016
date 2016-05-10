@@ -81,6 +81,7 @@ if __name__ == '__main__':
                     ver[sentence_no] = verb
         total_possible_score = 100 * sentence_no
         sentence_no = 0
+        score = defaultdict(float)
         for output_sentences in izip(utf8read(combine(args.t,args.o))):
             sentence_no += 1
             score[sentence_no] = 0
