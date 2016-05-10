@@ -35,8 +35,7 @@ if __name__ == '__main__':
 
     if args.t:
         score = defaultdict(int)
-        #check for SVO
-
+        #Check for SVO
         wb = openpyxl.load_workbook("data/postags.xlsx")
         parsed = wb.get_sheet_by_name(args.t)
         sub = defaultdict(defaultdict)
