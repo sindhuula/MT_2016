@@ -47,27 +47,11 @@ def compare(hypothesis1,hypothesis2,reference):
 if __name__ == '__main__':
 
     if args.t:
-        sentence_tags = defaultdict(list)
         def utf8read(file): return codecs.open(file, 'r', 'utf-8')
         #TODO: Do we really need training
         #Training Section
         #Incorrect_ordering = word, dep_tag pair
         #Correct ordering = word, dep_tag pair
-        wb = openpyxl.load_workbook(args.p)
-        parsed = wb.get_sheet_by_name("train")
-        sentence_no = 0
-        order = []
-        sentences = defaultdict(defaultdict)
-        properties = []
-        rows = int( parsed.get_highest_row())
-        columns = int(parsed.get_highest_column())
-        print rows,columns
-        for i in range(1, rows+1):
-            if parsed.cell(column = 1, row = i).value == 1 :
-                word_props = defaultdict(list)
-                sentence_no +=1
-                word_props[parsed.cell(column = 2, row = i).value] =  [parsed.cell(column = 4, row = i).value, parsed.cell(column = 5, row = i).value,parsed.cell(column = 8, row = i).value]
-                sentences[sentence_no] = word_props
 
         #Dev Section
         wb = openpyxl.load_workbook(args.p)
@@ -76,19 +60,17 @@ if __name__ == '__main__':
         order = []
         sentences = defaultdict(defaultdict)
         properties = []
-        rows = int( parsed.get_highest_row())
+        rows = int(parsed.get_highest_row())
         columns = int(parsed.get_highest_column())
         word_props = defaultdict(list)
-        for i in range(1, 62):
-            print i
+
+        for i in range(1, rows+1):
             if parsed.cell(column = 1, row = i).value == 1:
-                print word_props
                 if i != 1:
                     sentences[sentence_no] = word_props
                     sentence_no +=1
                     word_props = defaultdict(list)
-            word_props[parsed.cell(column = 2, row = i).value] =  [parsed.cell(column = 4, row = i).value, parsed.cell(column = 5, row = i).value,parsed.cell(column = 8, row = i).value]
-            print word_props
+            word_props[i] =  [parsed.cell(column = 2, row = i).value, parsed.cell(column = 4, row = i).value, parsed.cell(column = 5, row = i).value,parsed.cell(column = 8, row = i).value]
 
         verb_phrase = ""
         subj_phrase = ""
@@ -97,38 +79,27 @@ if __name__ == '__main__':
         subjects = ["SUBJ"]
         objects = ["DO","IO","OBLC"]
         verbs = ["v"]
-        print sentences[1]
-       # for i in range(1, sentence_no +1):
-       #     print "\n", sentences[i]
-       #words = sentences[1]
-       # print words[0]
-        #print words['Eso'][2]
-        for i in range(1, 3):
-             final_sent = ""
-             temp_phrase = []
-             words = sentences[i]
-            # for word in words:
-            #    print word[2]
-            #     if word != None:
-            #         if (type(word) == long) | (type(word) == float) | (type(word) == int):
-            #             word = unicode(str(word),"utf-8")
-            #         temp_phrase.append(word)
 
-            #     if word[2] in subjects:
-            #         subj_phrase = ' '.join(temp_phrase)
-            #         temp_phrase = []
-            #     elif word[2] in objects:
-            #         obj_phrase = ' '.join(temp_phrase)
-            #         temp_phrase = []
-            #     elif word[0] in verbs:
-            #         verb_phrase = ' '.join(temp_phrase)
-            #         temp_phrase = []
-            # final_sent = subj_phrase+' '+verb_phrase+' '+obj_phrase
-            # print final_sent
-
-            #hyp1 = h1
-            #hyp2 = h2
-            #ref = orig sent
+        for i in range(1, sentence_no+1):
+            final_sent = ""
+            temp_phrase = []
+            words = sentences[i]
+            for pos in words:
+                if words[pos][0] != None:
+                    if (type(words[pos][0]) == long) | (type(words[pos][1]) == float) | (type(words[pos][0]) == int):
+                        word = unicode(str(words[pos][0]),"utf-8")
+                    temp_phrase.append(words[pos][0])
+                if words[pos][3] in subjects:
+                    subj_phrase = ' '.join(temp_phrase)
+                    temp_phrase = []
+                elif words[pos][3] in objects:
+                    obj_phrase = ' '.join(temp_phrase)
+                    temp_phrase = []
+                elif words[pos][1] in verbs:
+                    verb_phrase = ' '.join(temp_phrase)
+                    temp_phrase = []
+            final_sent = subj_phrase+' '+verb_phrase+' '+obj_phrase
+            print final_sent
 
 
 
