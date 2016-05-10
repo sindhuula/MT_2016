@@ -42,15 +42,25 @@ if __name__ == '__main__':
                     sentence_no +=1
                     word_props = defaultdict(list)
             word_props[i] =  [parsed.cell(column = 2, row = i).value, parsed.cell(column = 4, row = i).value, parsed.cell(column = 5, row = i).value,parsed.cell(column = 8, row = i).value]
+        subjects = ["SUBJ"]
+        final_sent = ""
         verb_phrase = ""
         subj_phrase = ""
         obj_phrase = ""
         noun_phrase = ""
-        subjects = ["SUBJ"]
+        remains = ""
+
+        flags = [False,False,False]
         objects = ["DO","IO","OBLC"]
         verbs = ["v"]
-        for i in range(1, sentence_no+1):
+        for i in range(1, sentence_no):
             final_sent = ""
+            verb_phrase = ""
+            subj_phrase = ""
+            obj_phrase = ""
+            noun_phrase = ""
+            remains = ""
+            flags = [False,False,False]
             temp_phrase = []
             words = sentences[i]
             for pos in words:
@@ -60,14 +70,19 @@ if __name__ == '__main__':
                     else:
                         word = words[pos][0]
                     temp_phrase.append(word)
-                if words[pos][3] in subjects:
+                if (words[pos][3] in subjects) & (flags[0] == False):
                     subj_phrase = ' '.join(temp_phrase)
+                    flags[0] = True
                     temp_phrase = []
-                elif words[pos][3] in objects:
+                elif (words[pos][3] in objects)&(flags[1]==False):
                     obj_phrase = ' '.join(temp_phrase)
+                    flags[1] = True
                     temp_phrase = []
-                elif words[pos][1] in verbs:
+                elif (words[pos][1] in verbs)&(flags[2]==False):
                     verb_phrase = ' '.join(temp_phrase)
+                    flags[2] = True
                     temp_phrase = []
-            final_sent = subj_phrase+' '+verb_phrase+' '+obj_phrase
+                else:
+                    remains = ' '.join(temp_phrase)
+            final_sent = subj_phrase+' '+verb_phrase+' '+obj_phrase+' '+remains
             print final_sent
