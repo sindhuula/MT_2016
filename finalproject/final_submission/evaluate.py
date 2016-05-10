@@ -35,8 +35,7 @@ if __name__ == '__main__':
 
     if args.t:
         score = defaultdict(int)
-        #check for SVO
-
+        #Check for SVO
         wb = openpyxl.load_workbook("data/postags.xlsx")
         parsed = wb.get_sheet_by_name(args.t)
         sub = defaultdict(defaultdict)
@@ -46,17 +45,24 @@ if __name__ == '__main__':
         subjects = ["SUBJ"]
         objects = ["DO","IO","OBLC"]
         verbs = ["v"]
+        order = []
+        words = []
+        flags = [False, False, False]
+        subject = ""
+        object = ""
+        verb = ""
         rows = parsed.get_highest_row()
         columns = parsed.get_highest_column()
         for i in range(1, int(rows+1)):
             if parsed.cell(column = 1, row = i).value == 1 :
-                order = []
-                words = []
-                flags = [False, False, False]
-                subject = ""
-                object = ""
-                verb = ""
-                sentence_no +=1
+                if i != 1:
+                    order = []
+                    words = []
+                    flags = [False, False, False]
+                    subject = ""
+                    object = ""
+                    verb = ""
+                    sentence_no +=1
 
             if (parsed.cell(column = 8,row = i).value in subjects) & (flags[0]==False):
                     flags[0] = True
@@ -72,7 +78,7 @@ if __name__ == '__main__':
                     flags[2] = True
                     verb += parsed.cell(column = 2,row = i).value
                     order.append("V")
-                    ver[sentence_no] = verbs
+                    ver[sentence_no] = verb
         total_possible_score = 100 * sentence_no
         sentence_no = 0
         for output_sentences in izip(utf8read(combine(args.t,args.o))):
@@ -80,7 +86,6 @@ if __name__ == '__main__':
             score[sentence_no] = 0
             words = []
             order = []
-            print output_sentences
             for word in output_sentences[0].rstrip().split():
                 if (word == sub[sentence_no]):
                     order.append("S")
@@ -90,8 +95,27 @@ if __name__ == '__main__':
                     order.append("V")
                 else:
                     words.append(word)
-            if (order[0]=="S")&(order[1]=="V")&(order[2]=="O"):
-                score[sentence_no] +=30
+            try:
+             if (order[0]=="S")&(order[1]=="V")&(order[2]=="O"):
+                score[sentence_no] += 30
+             elif (order[0]=="S")&(order[1]=="O")&(order[2]=="V"):
+                score[sentence_no] += 25
+             elif (order[0]=="O")&(order[1]=="S")&(order[2]=="V"):
+                score[sentence_no] += 15
+             elif (order[0]=="O")&(order[1]=="V")&(order[2]=="S"):
+                score[sentence_no] += 20
+             elif (order[0]=="V")&(order[1]=="S")&(order[2]=="O"):
+                score[sentence_no] += 10
+             elif (order[0]=="V")&(order[1]=="O")&(order[2]=="S"):
+                score[sentence_no] += 5
+             elif (order[0]=="S")&(order[1]=="O")|(order[0]=="O")&(order[1]=="V"):
+                 score[sentence_no] += 15
+             else:
+                   score[sentence_no] += 0
+            except:
+                score[sentence_no]+= 0
+
+
 
         #Check for correct word alignment
         dictionary  = dictionary.create_dictionary()
