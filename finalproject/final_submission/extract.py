@@ -18,7 +18,7 @@ if __name__ == '__main__':
     flags = [False, False, False]
     subjects = ["SUBJ"]
     objects = ["DO","IO","OBLC"]
-    verbs = ["AUX"]
+    verbs = ["v"]
     SOV = []
     SVO = []
     VSO = []
@@ -57,11 +57,12 @@ if __name__ == '__main__':
                         string = []
 
                 tags = parsed.cell(column = 8, row = j).value
+                v_tag = parsed.cell(column = 4,row = j).value
                 word = parsed.cell(column = 2, row = j).value
                 if word != None:
                     if (type(word) == long) | (type(word) == float) | (type(word) == int):
                         word = unicode(str(word),"utf-8")
-                    string.append(word)#unicode(word,"utf-8"))
+                    string.append(word)
                 if tags in subjects:
                         if flags[0] == False:
                             order.append("S")
@@ -70,10 +71,13 @@ if __name__ == '__main__':
                         if flags[1] == False:
                             order.append("O")
                             flags[1] = True
-                elif tags in verbs:
+                elif v_tag in verbs:
                         if flags[2] == False:
                             order.append("V")
                             flags[2] = True
+"""
+Uncomment the following section to see the number of lines of each type
+"""
 '''
     print sentence_no
     print "SVO:",len(SVO)
@@ -83,10 +87,11 @@ if __name__ == '__main__':
     print "OSV",len(OSV)
     print "OVS",len(OVS)
     print "other",len(other)
-'''
+
 for sentence in sentences:
     print sentence,sentences[sentence]
 '''
+#Pick random sentences from set of sentences of each type and write to files
 nos = []
 for i in range(100):
     try:
@@ -111,13 +116,10 @@ for i in range(100):
 inputes = open("test.es", "w")
 inputen = open("test.en", "w")
 
-#spanish = open("minput", "r")
-#english = open("minput.en", "r")
-print nos
 num  = 0
 for s, e in izip(open("MaltParserInput/minput3"),open("MaltParserInput/minput3.en")):
     num += 1
     if num in nos:
         inputes.write(s)
         inputen.write(e)
-'''
+        
