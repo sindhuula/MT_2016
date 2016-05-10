@@ -6,18 +6,18 @@ import codecs
 from collections import defaultdict
 import openpyxl
 import sys
-
+import dictionary
+import translate
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
 sys.stdin = codecs.getreader('utf-8')(sys.stdin)
-
-from PyDictionary import PyDictionary
-dictionary = PyDictionary()
+reload(sys)
+sys.setdefaultencoding('utf8')
 PARSER = argparse.ArgumentParser(description="evaluate the reorderings")
-PARSER.add_argument("-t", type=str, default="dev", help="file to be evaluated prefix")
+PARSER.add_argument("-t", type=str, default="trial", help="file to be evaluated prefix")
 PARSER.add_argument("-es", type=str, default="es", help="spanish file")
 PARSER.add_argument("-en", type=str, default="en", help="english file")
 PARSER.add_argument("-o", type=str, default="output", help="output file")
-PARSER.add_argument("-p", type=str, default="POS.xltx", help="output file")
+PARSER.add_argument("-p", type=str, default="pos.txt", help="output file")
 args = PARSER.parse_args()
 
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
@@ -47,7 +47,8 @@ if __name__ == '__main__':
         '''
         score = defaultdict(int)
         #check for SVO
-        wb = openpyxl.load_workbook("data/"+args.p)
+        '''
+        wb = openpyxl.load_workbook("data/postags.xlsx")
         parsed = wb.get_sheet_by_name(args.t)
         sub = defaultdict(defaultdict)
         obj = defaultdict(defaultdict)
@@ -101,7 +102,12 @@ if __name__ == '__main__':
                     words.append(word)
             if (order[0]=="S")&(order[1]=="V")&(order[2]=="O"):
                 score[sentence_no] +=30
+        '''
         #Check word by word correct ordering use translate.py
         #Find number of correct alignments and factor it out of 70 = align_score
                 #score[sentence_no] += align_score
                 #final score =
+        dictionary  = dictionary.create_dictionary()
+        for es_sentences,en_sentences,o_sentence in zip(open(combine(args.t,args.es)),open(combine(args.t,args.en),open(combine(args.t,args.o)))):
+            new_sentence = translate.translate(en_sentences,es_sentences,dictionary)
+            print new_sentence,o_sentence

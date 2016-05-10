@@ -187,6 +187,1890 @@ Hungary::Hungr\'eda
 a::un
 an::un
 I::yo
+I am::soy,estoy
+I was::estaba,yo era
+I have a question::tengo una pregunta,tengo una duda
+I love you::te adoro,te amo
+I need an interpreter::necesito un int\'e9rprete
+Iceland::Islandia
+India::India
+Indian Ocean::Oc\'e9ano \'cdndico
+Indonesia::Indonesia
+Interlingua::interlingua
+International Phonetic Alphabet::Alfabeto Fon\'e9tico Internacional
+Internet::internet,Red
+Iran::Ir\'e1n
+Iraq::Irak
+Ireland::Irlanda
+Islam::Islam
+Israel::Israel
+Italian::italiano,italiana
+Italy::Italia
+Jamaica::Jamaica
+January::enero
+Japan::Jap\'f3n
+Japanese::japon\'e9s,japonesa
+Jerusalem::Jerusal\'e9n
+Jesus::Jes\'fas
+Jesus Christ::Jesucristo
+Jew::jud\'edo,jud\'eda
+Jewish::jud\'edo
+John::Juan
+Jordan::Jordania
+Joseph::Jos\'e9
+Judaism::juda\'edsmo
+July::julio
+June::junio
+Jupiter::J\'fapiter
+Karnataka::Karnataka
+Kazakhstan::Kazajist\'e1n
+Kenya::Kenia
+Khartoum::Jartum
+Khmer::jemer,camboyano
+Khrushchev::Jrushchov
+Kiev::Kiev
+Korea::Corea
+Korean::coreano
+Kosovo::Kosovo
+Kurdish::kurdo,curdo
+Kuwait::Kuwait
+Kyrgyzstan::Kirguizist\'e1n
+Laos::Laos
+Latin::lat\'edn
+Latvia::Letonia
+Liberia::Liberia
+Libya::Libia
+Liechtenstein::Liechtenstein
+Lisbon::Lisboa
+Lithuania::Lituania
+London::Londres
+Luxembourg::Luxemburgo
+Lyons::Ly\'f3n
+Macedonia::Macedonia,Rep\'fablica de Macedonia
+Magna Carta::Carta Magna
+Malayalam::malayalam,malabar
+Malaysia::Malasia
+Maldives::Maldivas
+Malta::Malta
+Man::hombre
+Manchuria::Manchuria
+Maoism::mao\'edsmo
+March::marzo
+Mars::Marte
+Marshall Islands::Islas Marshall
+Mary::Mar\'eda
+Matthew::Mateo,Mat\'edas
+Mauritius::Mauricio
+May::mayo
+Mediterranean Sea::Mar Mediterr\'e1neo
+Merry Christmas::feliz Navidad
+Merry Christmas and a Happy New Year::Feliz Navidad y pr\'f3spero A\'f1o Nuevo
+Mexico::M\'e9xico,M\'e9jico
+Michael::Miguel,M\'e1icol
+Middle East::Oriente Medio,Medio Oriente
+Minsk::Minsk
+Miss::se\'f1orita
+Moldova::Moldavia
+Monaco::M\'f3naco
+Monday::lunes
+Mongolia::Mongolia
+Montenegro::Montenegro
+Morocco::Marruecos
+Moscow::Mosc\'fa
+Moses::Mois\'e9s
+Mount Everest::Monte Everest
+Mozambique::Mozambique
+Mrs::Sra,Se\'f1ora
+madam::señora
+Muhammad::Mahoma
+Mumbai::Bombay
+Munich::M\'fanich
+Muslim::musulm\'e1n,musulmana
+Myanmar::Myanmar
+NATO::OTAN
+Namibia::Namibia
+Naypyidaw::Naypyidaw
+Nepal::Nepal
+Neptune::Neptuno
+Netherlands::Pa\'edses Bajos,Holanda
+New Delhi::Nueva Delhi
+New York City::Nueva York
+New Zealand::Nueva Zelanda,Nueva Zelandia
+Nicaragua::Nicaragua
+Nicholas::Nicol\'e1s
+Nigeria::Nigeria
+North America::Am\'e9rica del Norte
+North Korea::Corea del Norte
+Northern Europe::Europa del Norte
+Northern Ireland::Irlanda del Norte
+Norway::Noruega
+November::noviembre
+Occitan::occitano,occitana
+Oceania::Ocean\'eda
+October::octubre
+Olympic Games::Juegos Ol\'edmpicos
+Oman::Om\'e1n
+Pacific Ocean::Oc\'e9ano Pac\'edfico
+Pakistan::Pakist\'e1n,Paquist\'e1n
+Palestine::Palestina
+Papua New Guinea::Pap\'faa Nueva Guinea
+Paris::Par\'eds
+Paul::Pablo
+Persian::persa
+Peru::Per\'fa
+Philippines::Filipinas
+Pisces::Piscis
+Pleiades::Pl\'e9yades
+Pluto::Plut\'f3n
+Poland::Polonia
+Polish::polaco
+Portugal::Portugal
+Portuguese::portugu\'e9s
+Prague::Praga
+Pythagoras::Pit\'e1goras
+Red Sea::Mar Rojo
+Reykjavik::Reikiavik
+Roman::romano
+Romania::Rumania,Ruman\'eda
+Romanian::rumano
+Rome::Roma
+Russia::Rusia
+Russian::ruso,rusa
+Russian Federation::Federaci\'f3n Rusa
+Rwanda::Ruanda
+Saint Petersburg::San Petersburgo
+Sanskrit::s\'e1nscrito
+Santa Claus::Pap\'e1 Noel,Viejito Pascuero
+Satan::Satan\'e1s,Sat\'e1n
+Saturday::s\'e1bado
+Saturn::Saturno
+Saudi Arabia::Arabia Saud\'ed,Arabia Saudita
+Scotland::Escocia
+Senegal::Senegal
+Seoul::Se\'fal
+September::septiembre
+Serb::serbio
+series::serie
+Serbia::Serbia
+Serbia and Montenegro::Serbia y Montenegro
+Serbian::serbio
+Shanghai::Shangai
+Siberia::Siberia
+Sicily::Sicilia
+Singapore::Singapur
+Slovakia::Eslovaquia
+Slovene::esloveno
+Slovenia::Eslovenia
+Snow White::Blancanieves
+Sofia::Sofia,Sof\'eda
+Solar System::sistema solar
+Somalia::Somalia
+South Africa::Sud\'e1frica,\'c1frica del Sur
+South America::Am\'e9rica del Sur,Sudam\'e9rica,Suram\'e9rica
+South Asia::Asia del Sur
+South Korea::Corea del Sur
+South Ossetia::Osetia del Sur
+Southeast Asia::Sureste Asi\'e1tico
+Soviet Union::Uni\'f3n Sovi\'e9tica
+Spain::Espa\'f1a
+Spanish::espa\'f1ol,espa\'f1ola
+Sparta::Esparta
+Sri Lanka::Sri Lanka
+Stalin::Stalin
+Sudan::Sud\'e1n
+Suez Canal::canal de Suez
+Sunday::domingo
+Suriname::Surinam
+Sweden::Suecia
+Swedish::sueco
+Switzerland::Suiza
+Syria::Siria
+Taipei::Taip\'e9i
+Taiwan::Taiw\'e1n
+Tajikistan::Tayikist\'e1n
+Tallinn::Tallin
+Tanganyika::Lago Tanganica
+Tanzania::Tanzania
+Tbilisi::Tiflis
+Tehran::Teher\'e1n
+Tel Aviv::Tel Aviv
+Ten Commandments::Diez Mandamientos,Diez Palabras,Dec\'e1logo
+Thai::tailand\'e9s
+Thailand::Tailandia
+The Hague::La Haya
+Thursday::jueves
+Transnistria::Transnistria
+Transylvania::Transilvania
+Tuesday::martes
+Tunisia::T\'fanez
+Turkey::Turqu\'eda
+Turkish::turco
+Turkmenistan::Turkmenist\'e1n
+USA::EE. UU.
+USSR::URSS
+Uganda::Uganda
+Ukraine::Ucrania
+Ukrainian::ucraniano
+United Arab Emirates::Emiratos \'c1rabes Unidos
+United Kingdom::Reino Unido
+United States::Estados Unidos
+United States of America::Estados Unidos de Am\'e9rica,Estados Unidos,EE. UU.,EEUU
+Uranus::Urano
+Uzbekistan::Uzbekist\'e1n
+Valkyrie::valquiria
+Vatican City::el Vaticano,Ciudad del Vaticano
+Venezuela::Venezuela
+Venus::Venus
+Victory Day::D\'eda de la Victoria
+Vienna::Viena
+Vietnam::Vietnam
+Vishnu::Vishn\'fa
+Wales::Gales,Pa\'eds de Gales
+Warsaw::Varsovia
+Wednesday::mi\'e9rcoles
+Western Europe::Europa Occidental
+Western Sahara::Sahara Occidental
+White House::Casa Blanca
+White Sea::mar Blanco
+Wikipedia::Wikipedia
+Wiktionary::Wikcionario
+Wiktionary:Usability/flag::bandera
+William::Guillermo
+Wroclaw::Breslavia
+Yangon::Rang\'fan
+Yangtze::Yangts\'e9
+Yaound\'e9::Yaund\'e9
+Yellow Sea::Mar Amarillo
+Yemen::Yemen
+Yerevan::Erev\'e1n
+Yugoslavia::Yugoslavia,Yugoeslavia
+Zagreb::Zagreb
+Zambia::Zambia
+aardvark::cerdo hormiguero
+abacus::\'e1baco
+abandon::renunciar,suspender
+abbot::abad
+abdomen::abdomen,vientre
+accordion::acorde\'f3n
+acorn::bellota
+actinium::actinio
+actor::actor,actriz
+address::direcci\'f3n
+adjective::adjetivo
+admiration::admiraci\'f3n
+adverb::adverbio
+advertisement::anuncio,publicidad,reclamo
+aeroplane::avi\'f3n,aeroplano
+after::despu\'e9s
+afternoon::tarde
+again::otra vez,de nuevo
+age::edad
+aggressive::agresivo
+agriculture::agricultura
+air::aire
+aircraft::avi\'f3n,aeronave
+airplane::avi\'f3n,aeroplano
+airport::aeropuerto
+al::Al Qaida
+alcohol::alcohol
+algorithm::algoritmo
+alive::vivo
+all::todos,todas
+all rights reserved::reservados todos los derechos,todos los derechos reservados
+alligator::alig\'e1tor,aligator,caim\'e1n
+almond::almendra
+almost::casi
+alphabet::alfabeto,abecedario
+already::ya
+also::tambi\'e9n,adem\'e1s
+aluminium::aluminio
+always::siempre
+am::estoy,soy
+amber::\'e1mbar
+ambulance::ambulancia
+americium::americio
+ampersand::y comercial,
+an::un,una
+anal sex::sexo anal
+anarchism::anarquismo
+anchor::ancla
+and::y,e
+angel::\'e1ngel
+anger::ira,enfado,enojo,rabia,bravura
+angry::enojado,enfadado
+animal::animal,bestia
+anime::anime
+ankle::tobillo
+answer::respuesta
+ant::hormiga
+anthrax::carbunco
+antimony::antimonio
+antonym::ant\'f3nimo
+anus::ano
+anvil::yunque,bigornia
+apple::manzana
+apple tree::manzano
+apricot::albaricoque,chabacano,damasco
+archaeology::arqueolog\'eda
+architect::arquitecto,arquitecta
+architecture::arquitectura
+argent::plata
+argon::arg\'f3n
+arm::brazo
+armpit::axila,sobaco
+army::ej\'e9rcito
+arrow::flecha
+arsenic::ars\'e9nico
+artichoke::alcachofa,alcaucil,alcacil
+article::art\'edculo
+ash::ceniza
+ask::pedir,requerir
+ass::culo
+astatine::astato
+asteroid::asteroide
+astronomical unit::unidad astron\'f3mica
+astronomy::astronom\'eda
+astrophysics::astrof\'edsica
+at::en
+at sign::arroba
+atheism::ate\'edsmo
+atom::\'e1tomo
+aubergine::berenjena
+aunt::t\'eda
+autumn::oto\'f1o
+avalanche::alud,avalancha
+axe::hacha
+axis::eje
+baby::beb\'e9,nene,ni\'f1o,ni\'f1a,bebe,guagua
+babysitter::ni\'f1era,canguro,china
+back::espalda,lomo
+bad::malo
+badger::tej\'f3n
+bag::bolsa,saco,cartucho,funda,jaba,talego
+bagpipes::gaita
+bakery::panader\'eda
+balcony::balc\'f3n
+bald::calvo
+balloon::globo,bomba,chimbomba
+banana::banana,banano
+bank::banco
+barcode::c\'f3digo de barras
+barium::bario
+bark::corteza
+barley::cebada
+barn owl::lechuza
+basalt::basalto
+baseball::b\'e9isbol
+basket::cesta,cesto
+basketball::baloncesto,b\'e1squetbol
+bat::murci\'e9lago
+bathroom::cuarto de ba\'f1o,ba\'f1o
+battery::pila,bater\'eda
+battle::batalla,lucha
+bay::bah\'eda
+be::ser
+beach::playa
+beak::pico
+bean::haba,frijol,habichuela
+bear::oso
+beard::barba
+beautiful::hermoso,bello,lindo,guapo,bonito
+beauty::belleza
+beaver::castor
+because::porque,ya que
+bed::cama,lecho
+bedroom::alcoba,dormitorio,cuarto,habitaci\'f3n,pieza,rec\'e1mara
+bee::abeja
+beech::haya
+beef::vacuno
+beer::cerveza
+beetle::escarabajo
+before::antes de
+begin::comenzar,iniciar,empezar
+behind::detr\'e1s
+bell::campana,campanilla
+belly::barriga,panza,vientre
+belt::cintur\'f3n,cincho,cinto,correa,faja
+berkelium::berkelio
+berry::baya
+beryllium::berilio
+better::mejor
+bicycle::bicicleta,bici
+big::grande
+bill::pico
+billion::millardo,mil millones
+biochemistry::bioqu\'edmica
+biology::biolog\'eda
+bipolar disorder::trastorno bipolar
+birch::abedul
+bird::p\'e1jaro,ave
+birth::nacimiento
+birthday::cumplea\'f1os,natalicio
+biscuit::galleta
+bishop::alfil,arfil
+bismuth::bismuto
+bitch::perra,zorra
+bite::morder
+bitter::amargo
+black::negro
+black grouse::gallo lira
+black hole::agujero negro,hoyo negro
+black woodpecker::pito negro
+blackberry::mora
+blackbird::mirlo
+blanket::::manta,cobija,colcha,frazada,frisa
+bleed::sangrar
+blind::ciego
+blog::bit\'e1cora,blog
+blood::sangre
+blue::azul,celeste
+boar::jabal\'ed
+boat::barca,bote,barco
+body::cuerpo
+bohrium::bohrio
+bomb::bomba
+bon app\'e9tit::buen provecho
+bon voyage::buen viaje
+bone::hueso
+book::libro
+bookshop::librer\'eda
+boot::bota
+boron::boro
+bottle::botella,frasco
+bow::arco
+box::caja
+boy::ni\'f1o,chico,muchacho,chaval,var\'f3n,\'bfvar\'f3n o mujer?
+bra::ajustador,brasier,corpi\'f1o,soutien,sujetador
+brain::cerebro
+branch::rama
+brave::valiente
+bread::pan
+break::romperse
+breakfast::desayuno
+breast::pecho,seno,teta
+breathe::respirar
+brick::ladrillo
+bride::novia
+bridge::puente,b\'f3veda
+bromine::bromo
+broom::escoba
+brother::hermano
+brown::marr\'f3n,caf\'e9,pardo
+brush::cepillo,escobilla
+bucket::balde,cubeta,cubo,pozal,tobo
+buffalo::b\'fafalo
+building::edificaci\'f3n,construcci\'f3n
+bull::toro
+bullet::bala,proyectil
+bumblebee::abejorro,abejarr\'f3n
+burn::arder,quemar
+bus::bus
+busy::ocupado
+but::aunque,pero
+butcher::carnicero,carnicera
+butter::mantequilla,manteca
+butterfly::mariposa
+buy::comprar
+buzzard::ratonero com\'fan,gavil\'e1n
+cabbage::col,repollo,berza
+cactus::cacto
+cadmium::cadmio
+caesium::cesio
+caf\'e9::caf\'e9
+cake::cake,torta
+calcium::calcio
+calf::becerro,ternero,ternera
+californium::californio
+camel::camello,dromedario
+can::poder
+canal::canal
+canary::canario
+cancer::c\'e1ncer
+candle::vela,candela,cirio
+cannabis::cannabis,c\'e1\'f1amos
+canyon::ca\'f1\'f3n,barranca
+capercaillie::urogallo,gallo silvestre
+capital::capital
+capital city::capital
+capitalism::capitalismo
+car::autom\'f3vil,auto,coche,m\'e1quina
+carbon::carbono
+carpenter::carpintero,ebanista
+carpet::alfombra,moqueta
+carrot::zanahoria
+carry::llevar,cargar
+castle::castillo,castro
+cat::felino,felina
+caterpillar::oruga,cuncuna
+cauliflower::coliflor
+cave::cueva
+cedar::cedro
+ceiling::techo
+cell::c\'e9lula
+cell phone::tel\'e9fono celular,tel\'e9fono m\'f3vil
+center::centro
+centimetre::cent\'edmetro
+centipede::ciempi\'e9s
+century::centuria,siglo
+cerium::cerio
+chain::cadena
+chair::silla,asiento
+chamois::gamuza,rebeco,sarrio
+change::cambio,modificaci\'f3n,mutaci\'f3n,evoluci\'f3n
+chaos::caos
+chapter::cap\'edtulo
+chase::perseguir
+cheap::barato,econ\'f3mico
+cheek::mejilla,cacha,cachete
+cheers::salud
+cheese::queso
+cheetah::guepardo,chita
+chemistry::qu\'edmica
+cheque::cheque
+cherry::cereza,guinda
+chess::ajedrez,juego de ajedrez
+chest::pecho
+chestnut::casta\'f1a
+chew::masticar
+chicken::pollo,gallina
+child::ni\'f1o,ni\'f1a,infante
+chimpanzee::chimpanc\'e9
+chin::barbilla,ment\'f3n,pera
+chlorine::cloro
+chocolate::chocolate
+choice::selecci\'f3n
+choir::coro
+choose::escoger
+chord::acorde
+chromium::cromo
+church::iglesia
+cigarette::cigarrillo
+cinema::cinemat\'f3grafo,cine
+circle::c\'edrculo
+city::ciudad,urbe
+clarinet::clarinete
+clay::arcilla,barro
+clean::limpio
+clitoris::cl\'edtoris
+clock::reloj
+close::cerrar
+clothes::ropa
+cloud::nube
+coast::costa,litoral
+cobalt::cobalto
+cock::gallo
+cockroach::cucaracha
+coconut::coco
+coffee::caf\'e9,tinto
+coffin::ata\'fad,f\'e9retro,caj\'f3n,urna
+coin::moneda
+cold::resfriado,constipaci\'f3n,gripe,gripa
+cold war::guerra fr\'eda
+color::color
+columbine::colombina,aguile\'f1a
+comb::peine
+come::venir
+common gull::gaviota
+communism::comunismo
+compass::br\'fajula
+computer::computador,computadora,ordenador
+computer language::lenguaje de programaci\'f3n
+comrade::camarada,compa\'f1ero,compa\'f1era
+concrete::hormig\'f3n,concreto
+condom::preservativo,cond\'f3n,goma
+conjunction::conjunci\'f3n
+connective tissue::tejido conjuntivo
+conscience::conciencia
+continent::continente
+conversation::conversaci\'f3n
+copper::cobre
+corn::ma\'edz
+corpse::cad\'e1ver
+corridor::pasillo,corredor
+cotton::algod\'f3n
+cough::toser
+count::contar
+country::campo
+courage::coraje,valor
+cow::vaca
+crab::cangrejo,jaiba
+crane::grulla
+cream::nata,crema
+cricket::grillo
+crime::delito
+crocodile::cocodrilo
+cross::cruz
+crossword::crucigrama
+crow::corneja,cuervo
+cruel::cruel
+cry::llorar
+crystal::cristal
+cube::cubo
+cuckoo::cuco,cuclillo
+cucumber::pepino
+culture::cultura
+cunt::chocha,chucha,co\'f1o,concha,cuca,chocho
+cup::taza
+curium::curio
+current::corriente
+curse::maldici\'f3n
+cycling::ciclismo
+dance::bailar,danzar
+dangerous::peligroso
+dark::oscuro
+dark matter::materia oscura
+darkness::oscuridad
+data::dato
+date::cita
+date palm::datilero
+daughter::nuera
+day::d\'eda
+dead::muerto
+deaf::sordo
+dear::caro,costoso
+death::muerte
+decade::d\'e9cada
+deer::ciervo,venado
+delicious::delicioso,sabroso,rico
+democracy::democracia
+demon::demonio
+dentist::dentista,odont\'f3logo
+desert::desierto
+devil::diablo
+dew::roc\'edo,sereno
+dialect::dialecto
+diary::diario
+dick::bicho,cipote,huevo,paloma,pico,pichi,pichula,pija,pinga,pito,polla,tranca,turca,verga,picha,pipe,pirula,pirulo,poste,
+dictionary::diccionario
+die::dado
+difficult::dif\'edcil
+dig::excavar,ahondar,cavar
+dining room::comedor
+dinosaur::dinosaurio
+dirty::sucio
+discussion::discusi\'f3n
+disease::enfermedad
+do::hacer
+do you speak English::hablas ingl\'e9s'\'bfHablas ingl\'e9s?,habla ingl\'e9s'\'bfHabla ingl\'e9s?
+doctor::doctor,doctora
+documentation::documentaci\'f3n
+dog::perro
+doll::mu\'f1eca
+dollar::d\'f3lar
+dolphin::delf\'edn
+donation::donaci\'f3n,donativo
+donkey::asno,burro
+door::puerta
+dormouse::lir\'f3n
+doubt::duda,incertidumbre
+dove::paloma,pich\'f3n
+dozen::docena
+dragon::drag\'f3n,guiverno
+dragonfly::lib\'e9lula,aguacil,pipilacha
+dream::so\'f1ar
+dress::vestido,traje
+drink::bebida
+dromedary::dromedario
+drop::gota
+drum::tambor
+drunk::borracho,ebrio
+dry::seco
+dubnium::dubnio
+duck::pato
+dust::polvo
+duty::deber,obligaci\'f3n
+dynamite::dinamita
+dyslexia::dislexia
+dysprosium::disprosio
+e::correo electr\'f3nico
+e.g.::por ejemplo
+each::cada
+eagle::\'e1guila
+eagle owl::b\'faho real
+ear::oreja,o\'eddo
+early::temprano
+earth::tierra,suelo
+earthquake::terremoto,temblor,chaka
+earthworm::lombriz de tierra,gusano de tierra
+east::este,oriente
+easy::f\'e1cil
+eat::comer
+echo::eco
+eco::eco-
+ecology::ecolog\'eda
+economics::econom\'eda
+education::educaci\'f3n
+eel::anguila
+egg::huevo
+eight::ocho
+eighteen::dieciocho
+eighth::octavo,octava,
+eighty::ochenta
+einsteinium::einstenio
+ejaculation::eyaculaci\'f3n
+elbow::codo
+electricity::electricidad
+electromagnetism::electromagnetismo
+electron::electr\'f3n
+electronics::electr\'f3nica
+elephant::elefante
+eleven::once
+elf::elfo,duende
+embassy::embajada
+emperor::emperador
+empty::vac\'edo
+encyclopedia::enciclopedia
+end::fin
+enemy::enemigo
+energy::energ\'eda
+enjoy your meal::buen provecho
+enter::entrar
+epithelium::epitelio
+equation::ecuaci\'f3n
+erbium::erbio
+erection::erecci\'f3n
+ermine::armi\'f1o
+erotic::er\'f3tico
+etymology::etimolog\'eda
+euro::euro
+europium::europio
+euthanasia::eutanasia
+evening::tarde
+event horizon::horizonte de sucesos,horizonte de eventos
+every::cada
+everybody::todos,todo el mundo
+everyone::todos,todo el mundo
+everything::todo
+evil::mal,malo,malvado,mal\'e9volo,mal\'e9fico,malvado,perverso
+expensive::caro,costoso,dispendioso
+explosions::explosiones
+expression::expresi\'f3n,aspecto
+eye::ojo
+eye for an eye,a tooth for a tooth::ojo por ojo,diente por diente
+eyebrow::ceja
+eyelash::pesta\'f1a
+eyelid::p\'e1rpado
+face::cara,faz,rostro
+falcon::halc\'f3n
+fall::caer,caerse
+fallow deer::gamo
+family::familia
+fan::abanico
+far::lejano
+farm::finca,granja
+farmer::granjero,granjera
+fart::peer
+fast::ayuno,vigilia
+father::suegro
+fear::temer,tener miedo de
+feather::pluma
+federation::federaci\'f3n
+female::femenino,hembra
+feminism::feminismo
+fermium::fermio
+ferret::hur\'f3n
+ferry::ferri,transbordador
+fever::fiebre
+fifteen::quince
+fifth::quinto,quinta,
+fifty::cincuenta
+fig::higo,breva
+fight::pelear,luchar
+film::pel\'edcula,filme
+finger::dedo
+fir::abeto
+fire::incendio
+first::primero
+fish::pez,pescado
+fist::pu\'f1o
+five::cinco
+flag::bandera
+flame::flama,llama
+flea::pulga
+floor::piso,planta
+flour::harina
+flower::florecer
+fluorine::fl\'faor
+flute::flauta
+fly::volar
+fog::niebla
+food::alimento,comida
+fool::bobo,tonto,necio
+foot::fiebre aftosa,glosopeda
+football::f\'fatbol,futbol,
+for example::por ejemplo
+forefinger::\'edndice,dedo \'edndice
+forehead::frente
+foreign::extranjero,forastero
+foreigner::extranjero,extranjera
+forest::bosque,floresta,selva
+forget::olvidar
+fork::tenedor
+fortress::fortaleza
+forty::cuarenta
+fountain::fuente
+four::cuatro
+fourteen::catorce
+fourth::cuarto,cuarta
+fox::zorro,zorra
+francium::francio
+free::gratis
+freedom::libertad
+freedom of speech::libertad de palabra,libertad de expresi\'f3n
+friend::amigo,amiga
+friendship::amistad
+frog::rana
+from::por
+fruit::fruta,fruto
+fuck::follar,follarse,coger,chingar,jalar,tirarse,cepillarse,pichar,culear,joder,vergar,cachar,garchar
+full::lleno
+fungus::hongo
+future::futuro,venidero,porvenir
+gadolinium::gadolinio
+galaxy::galaxia
+gall bladder::ves\'edcula biliar
+gallium::galio
+game::juego
+garbage::basura
+garden::jard\'edn
+garlic::ajo
+gas::gas
+gasoline::gasolina
+genitive::caso genitivo
+genocide::genocidio
+geography::geograf\'eda
+geometry::geometr\'eda
+germanium::germanio
+geyser::g\'e9iser
+ghost::fantasma,espectro,esp\'edritu,aparecido,aparici\'f3n,sombra,alma
+giant::gigante
+gift::regalo
+ginger::jengibre
+giraffe::jirafa
+girl::ni\'f1a,muchacha,chica
+give::dar,entregar
+glacier::glaciar
+glass::vaso,copa
+glove::guante
+glue::cola,goma,pegamento
+go::ir
+goat::cabra,chivo
+god::dios
+gold::oro
+golden eagle::\'e1guila real
+golf::golf
+gonorrhea::gonorrea
+good::bien
+good afternoon::buenas tardes
+good day::buenos d\'edas
+good evening::buenas noches,buenas tardes
+good luck::buena suerte,suerte
+good morning::buenos d\'edas,buen d\'eda
+good night::buenas noches
+goodbye::adi\'f3s,hasta luego,hasta la vista,hasta pronto,nos vemos
+goose::ganso,oca,\'e1nsar
+goshawk::azor
+government::gobierno
+grammar::gram\'e1tica
+grandchild::nieto
+granddaughter::nieta
+grandfather::abuelo
+grandmother::abuela
+grape::uva
+grass::pasto,hierba,grama
+grasshopper::saltamontes
+graveyard::cementerio,campo santo,pante\'f3n
+great spotted woodpecker::pico picapinos
+great tit::carbonero
+green::verde
+green woodpecker::pito real
+grey::gris
+grey heron::garza real europea
+greylag goose::\'e1nsar
+griffon vulture::buitre leonado
+guest::hu\'e9sped
+guilt::culpa
+guinea fowl::gallina de Guinea
+guinea pig::conejillo de Indias,cobaya,acure,cur\'ed,curiel,cuy
+guitar::guitarra,jarana
+gull::gaviota
+gunpowder::p\'f3lvora
+gypsy::gitano,gitana
+hafnium::hafnio
+hail::granizo,pedrisco
+hair::pelo
+hajj::hajj
+half::mitad
+hammer::martillo
+hammock::hamaca,hamaca paraguaya
+hamster::h\'e1mster
+hand::mano
+happen::suceder,ocurrir,pasar
+happiness::felicidad
+happy::feliz,alegre,contento,satisfecho
+happy birthday::feliz cumplea\'f1os
+hard drive::disco duro
+hare::liebre
+hassium::hassio
+hat::sombrero
+hate::odiar
+hatred::odio
+have::tener
+hawk::halc\'f3n
+hay::heno
+hazelnut::avellana
+he::\'e9l
+head::cabeza
+health::salud,sanidad
+hear::o\'edr
+heart::coraz\'f3n
+heaven::cielo,firmamento
+heavy::pesado,pesada
+hedgehog::erizo
+heel::tal\'f3n
+helicopter::helic\'f3ptero,autogiro
+helium::helio
+hell::infierno
+hello::al\'f3,d\'edgame,hola
+help::\'a1socorro!,\'a1auxilio!
+hemp::c\'e1\'f1amo,marihuana
+hen::gallina
+her::su
+here::ac\'e1,hacia ac\'e1
+hero::h\'e9roe
+heron::garza
+hi::hola
+hill::cerro,loma,colina
+hippopotamus::hipop\'f3tamo
+his::su
+history::historia
+holmium::holmio
+home::hogar
+homophobia::homofobia
+homosexuality::homosexualidad
+honey::miel
+hoof::pezu\'f1a,casco
+hope::esperar
+horn::cuerno,cacho
+horse::caballo,yegua
+hospital::hospital
+hot::caliente,muy caliente
+hotel::hotel,albergue
+hour::hora
+house::casa
+how::c\'f3mo
+how many::cu\'e1ntos,cu\'e1ntas
+how much::cu\'e1nto
+how old are you::\'bfcu\'e1ntos a\'f1os tienes?,\'bfqu\'e9 edad tiene?
+hug::abrazo
+human::humano,humana,ser humano
+human being::ser humano
+human rights::derechos humanos
+humanism::humanismo
+hundred::cien,ciento
+hungry::hambriento
+hunt::cazar
+husband::marido,esposo
+hydrate::hidrato
+hydrogen::hidr\'f3geno
+hyena::hiena
+ibex::\'edbice,ibex
+ice::hielo
+ice cream::helado,nieve
+iceberg::banquisa,iceberg
+idiot::idiota
+if::si
+igneous rock::roca \'edgnea
+ill::enfermo
+illness::enfermedad
+important::importante
+in::en,dentro de
+index::\'edndice
+indium::indio
+information::informaci\'f3n
+injury::herida,lesi\'f3n
+ink::tinta
+insect::insecto
+insulin::insulina
+intelligence::inteligencia
+interesting::interesante
+internal combustion engine::motor de combusti\'f3n interna
+international::internacional
+interpreter::int\'e9rprete
+iodine::yodo
+iridium::iridio
+iron::planchar
+is::es,est\'e1,hay
+island::isla
+it::ello,\'e9l,ella,eso,lo
+jackdaw::grajilla
+jay::arrendajo,urraca
+jellyfish:: medusa,aguamala,aguaviva,malagua
+jihad::yihad
+joy::alegr\'eda,gozo,felicidad
+juice::zumo,jugo
+juniper::jun\'edpero,enebro,ginebro
+kangaroo::canguro
+kestrel::cern\'edcalo com\'fan
+ketchup::k\'e9tchup,ketchup
+key::llave
+keyboard::teclado
+kidney::ri\'f1\'f3n
+kill::matar
+killing::asesinato
+kilometre::kil\'f3metro
+king::rey
+kingdom::reino
+kiss::besar
+kitchen::cocina
+kite::cometa,barrilete,cachirulo,chichigua,chiringa,lechuza,pandero,pandorga,papagayo,papalote,papelote,petaca,piscucha,volador,volant\'edn
+knee::rodilla,hinojo
+knife::cuchillo
+knight::caballo
+know::conocer
+koala::koala
+krypton::cript\'f3n
+ladybird::mariquita,vaquita de San Antonio
+ladybug::mariquita,catarinita,chinita,San Antonio,sarantont\'f3n,vaquita de San Antonio
+lake::lago
+lamb::cordero
+land::tierra
+language::lenguaje
+lanthanum::lantano
+large::grande
+lark::alondra
+laser::l\'e1ser
+last year::el a\'f1o pasado
+laugh::re\'edr
+lava::lava
+law::ley
+lawrencium::lawrencio
+lawyer::abogado,abogada,notario
+lazy::perezoso,flojo,locho,harag\'e1n
+lead::plomo
+leaf::hoja
+learn::aprender
+least weasel::mostela
+leather::cuero
+leech::sanguijuela,hirud\'edneo
+leek::puerro,porro,poro
+left::izquierdo,izquierda
+leg::pierna,pata
+lemon::lim\'f3n,citr\'f3n
+length::largo,eslora
+lesbian::lesbiana
+lesser spotted woodpecker::pico menor
+lesson::lecci\'f3n
+letter::carta
+lettuce::lechuga
+library::biblioteca
+lie::mentir
+life::vida
+light::iluminar
+light year::a\'f1o luz
+lighthouse::faro
+lightning::rel\'e1mpago,rayo
+like::como
+lily::azucena
+linguistics::ling\'fc\'edstica
+lion::le\'f3n
+lip::labio
+listen::o\'edr
+literature::literatura
+lithium::litio
+litre::litro
+little::peque\'f1o
+little owl::mochuelo europeo,mochuelo com\'fan
+live::vivir
+liver::h\'edgado
+lizard::lagarto
+lobster::langosta
+long::b\'faho chico
+look::mira
+look for::buscar
+louse::piojo
+love::amor,cari\'f1o
+low::bajo,baja
+lung::pulm\'f3n
+lute::la\'fad
+lutetium::lutecio
+lynx::lince
+machine language::lenguaje de m\'e1quina
+mackerel::caballa
+mad::loco,trastornado
+magma::magma
+magnesium::magnesio
+magpie::urraca,picaza
+maize::ma\'edz
+mallard::pato real,\'e1nade real
+mammal::mam\'edfero
+man::gente,hombre,ser humano
+manganese::manganeso
+mango::mango
+many::muchos,muchas
+map::mapa
+maple::arce
+mare::yegua
+marijuana::marihuana,mariguana,marijuana
+market::plaza
+marmot::marmota
+marten::marta
+masturbation::masturbaci\'f3n,paja
+match::cerilla,f\'f3sforo
+mathematics::matem\'e1ticas
+mattress::colch\'f3n
+maybe::quiz\'e1,tal vez
+meal::comida
+meat::carne
+medicine::medicina
+meet::encontrar,encontrarse
+meitnerium::meitnerio
+melon::mel\'f3n
+memory::memoria
+mendelevium::mendelevio
+mercury::mercurio
+metal::metal
+microscope::microscopio
+midnight::medianoche
+midwife::partera,comadrona,matrona
+milk::orde\'f1ar
+milliard::millardo,mil millones
+million::
+millipede::milpi\'e9s,congorocho
+mind::mente
+mine::mina
+mineralogy::mineralog\'eda
+mint::hierbabuena,menta
+minute::minuto
+mirror::espejo
+moat::fosa,foso
+mobile phone::tel\'e9fono m\'f3vil,m\'f3vil,celular,tel\'e9fono celular
+mole::topo
+molecule::mol\'e9cula
+molybdenum::molibdeno
+moment::momento
+monarchy::monarqu\'eda
+monastery::monasterio
+money::dinero,cobres,lana,pasta,pisto,plata,real
+monk::monje
+monkey::mono,chango,mico,simio
+month::mes
+moon::sat\'e9lite,luna
+morning::madrugada,ma\'f1ana,AM
+mosque::mezquita
+mosquito::mosquito,mosco,plaga,zancudo
+moss::musgo
+moth::polilla
+mother::suegra
+mother tongue::lengua materna
+motorcycle::motocicleta,moto,motor,motora
+mouflon::mufl\'f3n
+mountain::monta\'f1a
+mouse::rat\'f3n,mouse
+moustache::bigote
+mouth::boca
+movie::pel\'edcula,cine
+much::mucho
+mud::lodo,barro,fango
+mule::mulo,mula
+murder::asesinato
+muscle::m\'fasculo
+museum::museo
+mushroom::hongo,seta
+music::m\'fasica
+musician::m\'fasico
+muskrat::rata almizclera
+mustard::mostaza
+my::mi
+my name is::me llamo...
+mysterious::misterioso
+mystery::misterio
+mythology::mitolog\'eda
+nail::clavo
+naked::desnudo,en cueros,en pelotas,bichi,calato,chingo,empeloto,pilocho,viringo
+name::fama,reputaci\'f3n,renombre
+narrow::estrecho,angosto
+nature::naturaleza
+navel::ombligo
+nebula::nebulosa
+neck::cuello,nuca
+necklace::collar
+needle::aguja
+neighbour::vecino,vecina,pr\'f3jimo,pr\'f3jima
+neodymium::neodimio
+neon::ne\'f3n
+neptunium::neptunio
+nest::nido
+nettle::ortiga
+neutrino::neutrino
+never::nunca,jam\'e1s
+new::nuevo,nueva
+news::informativos
+newspaper::peri\'f3dico
+nickel::n\'edquel
+niece::sobrina
+night::noche
+nightingale::ruise\'f1or
+nightmare::pesadilla
+nine::nueve
+nineteen::diecinueve
+ninety::noventa
+ninth::noveno,novena
+niobium::niobio
+nipple::niple,pez\'f3n
+nitrogen::nitr\'f3geno
+no::no
+nobelium::nobelio
+nobody::nadie,ninguno
+non::organizaci\'f3n no gubernamental
+nonkilling::no-matar
+noon::mediod\'eda
+north::norte
+nose::nariz
+not::no
+notebook::cuaderno
+nothing::nada
+noun::sustantivo,substantivo,nombre
+now::ahora
+nude::nudo
+number::n\'famero
+nurse::enfermera
+nut::nuez,fruta seca
+oak tree::roble
+oar::remo
+obedience::obediencia
+obesity::obesidad,sobrepeso
+oboe::oboe
+ocean::oc\'e9ano
+octopus::pulpo
+of::de
+of course::por supuesto,desde luego,claro
+office::oficina
+often::menudo,frecuentemente
+oil::petr\'f3leo
+old::anciano,viejo
+olive::aceituna,oliva
+on::en,sobre
+once upon a time::\'e9rase una vez,hab\'eda una vez,era una vez
+one::uno
+onion::cebolla
+open::abierto
+operating system::sistema operativo
+opinion::opini\'f3n
+or::o,u
+orange::naranjo
+organ::\'f3rgano
+organism::organismo
+orgasm::orgasmo
+orphan::hu\'e9rfano
+osmium::osmio
+ostrich::avestruz
+other::otro,otra,otros,otras
+otter::nutria,lutria
+our::nuestro
+ovary::ovario
+owl::b\'faho,lechuza
+ox::buey,toro,novillo
+oxygen::ox\'edgeno
+page::p\'e1gina
+pain::dolor
+paint::pintura
+painter::pintor
+palace::palacio
+palladium::paladio
+palm::palma
+pancreas::p\'e1ncreas
+pants::pantal\'f3n
+papaya::papaya,fruta bomba,lechosa,mam\'f3n
+paper::papel
+paradox::paradoja
+park::parque
+parliament::parlamento
+parrot::papagayo,loro,cotorra
+part::parte,porci\'f3n,pedazo,trozo
+partridge::perdiz
+passport::pasaporte
+peace::paz,sosiego
+peach::durazno,melocot\'f3n
+peacock::pavo real
+peanut::man\'ed,cacahuate,cacahuete
+pear::pera
+pen::pluma,
+pencil::l\'e1piz
+penguin::ping\'fcino
+penicillin::penicilina
+peninsula::pen\'ednsula
+penis::pene,carajo,pirula,pirulo,pito,polla,pija,tranca,verga,chota,garompa,pipe,poste,poronga,papirola,miembro
+people::pueblo
+pepper::pimienta
+percent::por ciento
+peregrine falcon::halc\'f3n peregrino
+perestroika::perestroika
+perhaps::quiz\'e1,quiz\'e1s,tal vez
+perineum::perin\'e9,perineo
+periodic table::clasificaci\'f3n peri\'f3dica,tabla peri\'f3dica
+person::persona
+petrol::gasolina
+petroleum::petr\'f3leo
+pharaoh::fara\'f3n
+pharmacy::farmacia
+pheasant::fais\'e1n
+philosopher::fil\'f3sofo
+phoenix::f\'e9nix
+phone::tel\'e9fono
+phosphorus::f\'f3sforo
+photograph::fotograf\'eda,foto
+photography::fotograf\'eda
+physics::f\'edsica
+piano::piano
+picture::imagen
+pie::pastel
+piece::pieza
+pig::cerdo
+pigeon::paloma,palomo,pich\'f3n
+piglet::lech\'f3n
+pillow::almohada
+pimple::espinilla
+pin::alfiler,aguja
+pine::pino
+pineapple::pi\'f1a,anan\'e1s
+pink::rosado
+pirate::pirata
+pizza::pizza
+place::lugar,sitio
+planet::planeta
+plant::planta,mata
+plate::plato
+platinum::platino
+platypus::ornitorrinco
+play::jugar
+please::por favor,favor de,porfa
+pleasure::placer
+plough::arado
+plum::ciruela
+plutonium::plutonio
+pocket::bolsillo,bolsa
+poem::poema,oda
+poetry::poes\'eda
+poison::veneno
+polar bear::oso polar,oso blanco
+polecat::tur\'f3n
+police::polic\'eda
+policeman::polic\'eda,policial
+polite::cort\'e9s
+politician::pol\'edtico,pol\'edtica
+politics::pol\'edtica
+polonium::polonio
+polygon::pol\'edgono
+pomegranate::granada
+poor::pobre
+pope::Papa
+poplar::\'e1lamo
+pornography::pornograf\'eda
+port::puerto
+post office::correos,casa de correos,oficina de correos
+postage stamp::estampilla,sello
+postcard::tarjeta postal,postal
+postcode::c\'f3digo postal
+postmodernism::postmodernidad
+potassium::potasio
+potato::papa,patata
+pound::libra
+power::potencia,poder
+praseodymium::praseodimio
+prayer::oraci\'f3n
+pregnancy::embarazo
+pregnant::embarazada,pre\'f1ada,encinta,embarazado,embarazada
+preposition::preposici\'f3n
+prepuce::prepucio
+president::presidente,presidenta
+press::prensa
+pretty::guapo,bonito,precioso
+price::precio
+priest::cura,sacerdote,p\'e1rroco
+prime minister::primer ministro,presidente de Gobierno
+prime number::n\'famero primo
+prison::c\'e1rcel,prisi\'f3n,penitenciar\'eda
+problem::problema,dificultad,l\'edo
+promethium::promecio
+pronoun::pronombre
+pronunciation::pronunciaci\'f3n
+property::propiedad,posesi\'f3n
+prostitute::prostituta
+protactinium::protactinio
+protect::proteger
+proton::prot\'f3n
+proverb::proverbio
+pumpkin::calabaza,auyama,zapallo
+purple::morado,p\'farpura,lila
+pyramid::pir\'e1mide
+quail::codorniz
+quarter::cuarto
+queen::reina
+question::pregunta,cuesti\'f3n
+rabbit::conejo
+radio::radio
+radon::rad\'f3n
+railway::ferrocarril
+rain::llover
+rainbow::arco iris
+rake::rastrillo
+ram::carnero,morueco
+rape::violaci\'f3n
+raspberry::frambuesa
+rat::rata
+raven::cuervo
+read::leer
+recent::reciente
+rectangle::rect\'e1ngulo
+red::rojo
+red deer::ciervo rojo
+refrigerator::frigor\'edfico,heladera,nevera,refrigerador,refrigeradora,fr\'edo
+reindeer::reno,rang\'edfero
+relative::::pariente
+religion::::religi\'f3n
+remember::acordar,recordar
+reptile::reptil,sauropsida
+republic::rep\'fablica
+restaurant::restaurante,restor\'e1n
+revenge::venganza
+revolution::revoluci\'f3n
+rhenium::renio
+rhinoceros::rinoceronte
+rhodium::rodio
+rice::arroz
+rich::rico
+rifle::fusil,rifle
+right::correcto,justo
+ring::anillo,sortija
+ring finger::dedo anular,anular
+river::r\'edo
+road::camino,calle,ruta
+robot::robot
+rock dove::pomba brava
+roe deer::corzo
+roof::tejado
+rook::torre
+room::cuarto,habitaci\'f3n,pieza,sala,rec\'e1mara
+rooster::gallo
+root::ra\'edz,ra\'edces
+rope::cuerda,soga
+rose::rosa
+rubidium::rubidio
+ruble::rublo
+run::correr
+ruthenium::rutenio
+rutherfordium::rutherfordio
+rye::centeno
+saliva::saliva
+salmon::salm\'f3n
+salt::sal
+samarium::samario
+same::mismo
+sand::arena
+sandwich::s\'e1ndwich,emparedado,torta,bocadillo
+sauce::salsa
+sausage::embutido,salchicha,salchich\'f3n
+saw::sierra
+say::decir
+scandium::escandio
+scar::cicatriz,alforza
+schizophrenia::esquizofrenia
+school::facultad
+science::ciencia
+scissors::tijera
+scorpion::escorpi\'f3n,alacr\'e1n
+screech owl::lechuza blanca
+scrotum::escroto
+sea::mar
+seaborgium::seaborgio
+seagull::gaviota
+seal::foca
+season::estaci\'f3n
+second::segundo
+secret::secreto
+see::ver
+seed::semilla
+selenium::selenio
+sell::vender
+semen::semen
+send::enviar,mandar
+sentence::frase,oraci\'f3n
+service::servicio
+seven::siete
+seventeen::diecisiete
+seventh::::s\'e9ptimo,s\'e9ptima
+seventy::setenta
+sex::sexo,g\'e9nero
+sexual orientation::orientaci\'f3n sexual
+shadow::sombra
+shark::tibur\'f3n
+she::ella
+sheep::oveja
+shepherd::pastor,ovejero
+ship::barco,buque,nave
+shirt::camisa
+shit::cagar
+shoe::zapato
+shop::tienda
+shore::costa,orilla
+shoulder::hombro
+shrew::musara\'f1a
+sick::enfermo,enferma
+sickle::hoz
+silence::silencio
+silicon::silicio
+silk::seda
+silver::plata
+simple::simple
+sin::pecado
+sing::cantar
+singer::cantante,cantor,cantora
+sister::hermana
+sit::sentar,estar sentado
+six::seis
+sixteen::diecis\'e9is
+sixth::sexto,sexta
+sixty::sesenta
+skeleton::esqueleto
+skin::piel
+skirt::falda,enaguas,pollera,saya
+skull::cr\'e1neo,
+sky::firmamento,cielo
+skylark::alondra
+skyscraper::rascacielos,torre
+slave::esclavo
+sleep::sue\'f1o,dormir
+slow::lento
+small::peque\'f1o,chico
+smell::olor
+smile::sonre\'edr
+smoke::fumar
+snail::caracol
+snake::serpiente,culebra,sierpe,v\'edbora
+sneeze::estornudar
+snooker::billar
+snow::nieve
+snowflake::copo de nieve,ampo
+soap::jab\'f3n
+soccer::f\'fatbol,futbol,bal\'f3n-pie,pambol
+sock::calcet\'edn,media
+sodium::sodio
+sofa::sof\'e1
+software::software,programa
+solar wind::viento solar
+soldier::soldado
+someone::alguien,alguno
+something::algo,alguna cosa
+sometimes::a veces,algunas veces
+son::hijo
+song::canci\'f3n
+soon::pronto
+sorry::disc\'falpame,perd\'f3name,lo siento
+soul::alma
+sound::sonido,son
+soup::sopa,caldo
+sour::agrio,\'e1cido
+south::sur
+spacecraft::nave espacial,astronave
+spaceship::nave espacial
+spacetime::espacio-tiempo
+spade::pala,azada
+sparrow::gorri\'f3n
+sparrow hawk::gavil\'e1n
+speak::hablar
+spectacles::anteojos,espejuelos,gafas,lentes
+sphere::esfera,bola
+spice::especia
+spider::ara\'f1a
+spirit::esp\'edritu,alma
+spit::escupir
+spleen::bazo
+spoon::cuchara
+sport::deporte
+spring::fuente,manantial
+spruce::p\'edcea
+spy::esp\'eda,chivato
+square::plaza
+squid::calamar
+squirrel::ardilla
+stand::estar de pie,estar parado
+star::estrella
+starling::estornino
+station::estaci\'f3n
+statue::estatua
+steel::acero
+stomach::est\'f3mago
+stone::piedra
+stork::cig\'fce\'f1a
+story::cuento,historia
+strange::extra\'f1o,raro
+strawberry::fresa,frutilla
+street::calle
+strength::fuerza
+string::cordel,mecate,cuerda
+strong::fuerte
+strontium::estroncio
+student::estudiante
+submarine::submarino
+suck::chupar,sorber
+sugar::az\'facar
+suicide::suicidio
+sulfur::azufre
+summer::verano
+sun::sol
+sunflower::girasol,maravilla
+surname::apellido
+swallow::tragar,engullir,deglutir,ingurgitar
+swan::cisne
+sweet::dulce
+sweet potato::batata,boniato,camote
+sweetener::edulcorante
+swim::nadar
+swimming pool::piscina,alberca,pileta de nataci\'f3n
+sword::espada
+system::sistema
+table::tabla
+tadpole::renacuajo,ranacuajo
+taiga::taiga
+tail::cola
+take::tomar
+talent::talento
+talk::hablar,conversar
+tank::tanque
+tantalum::t\'e1ntalo
+tattoo::tatuaje
+tawny owl::c\'e1rabo
+taxi::taxi
+tea::hoja de t\'e9
+teach::ense\'f1ar
+teacher::maestro,maestra,profesor,profesora
+tear::l\'e1grima
+technetium::tecnecio
+telephone::telefonear,llamar
+telescope::telescopio
+television::televisor,
+tellurium::teluro
+temple::templo
+ten::diez
+tent::tienda,toldo,carpa  tenth::d\'e9cimo,d\'e9cima
+terbium::terbio
+territory::territorio
+terrorism::terrorismo
+terrorist::terrorista
+testicle::test\'edculo,coj\'f3n,pelota,huevo,bola
+thallium::talio
+than::que
+thank you::gracias,muchas gracias
+thank you very much::muchas gracias
+thanks::gracias
+that::ese,esa,esos,esas,eso,aquel,aquella,aquellos,aquellas,aquello
+the::el,la,los,las,lo
+their::su,sus
+there::all\'ed,ah\'ed,all\'e1
+there is::hay
+they::ellos,ellas
+thief::ladr\'f3n
+thigh::muslo
+thimble::dedal
+thing::cosa
+think::pensar
+third::tercero,tercer,tercera
+thirst::sed
+thirsty::sediento
+thirteen::trece
+thirty::treinta
+this::este,esta
+thorium::torio
+thorn::espina
+thou::t\'fa
+thousand::mil
+thread::hilo
+three::tres
+throat::garganta
+thulium::tulio
+thumb::pulgar
+thunder::trueno
+tiger::tigre
+time::vez
+tin::esta\'f1o
+tired::cansado
+titanium::titanio
+to::a,hacia
+toad::sapo
+tobacco::tabaco
+today::hoy,hoy en d\'eda,hoy d\'eda,actualmente
+toe::dedo
+together::juntos,juntas,junto
+toilet::ba\'f1o,sanitario
+tomato::tomate
+tomorrow::ma\'f1ana
+tongue::lengua
+too::demasiado
+tooth::diente
+toothbrush::cepillo de dientes,escobilla de dientes
+tortoise::tortuga,tortuga terrestre,morrocoy
+touch::tocar
+tourism::turismo
+tower::torre
+town::ciudad,pueblo
+toy::juguete
+tradition::tradici\'f3n
+train::tren
+tram::tranv\'eda
+translate::traducir
+translation::traducci\'f3n
+translator::traductor,traductora
+travel::viajar
+tree::\'e1rbol
+triangle::tri\'e1ngulo
+tribe::tribu
+trousers::pantal\'f3n,pantalones
+truck::cami\'f3n,camioneta
+true::cierto
+trumpet::trompeta
+tsar::zar
+tsunami::tsunami,maremoto
+tungsten::tungsteno,wolframio
+turkey::pavo,chompipe,guajolote,guanajo,pisco,totol
+turtle::tortuga,peta
+turtle dove::t\'f3rtola
+twelve::doce
+twenty::veintitr\'e9s
+twin::gemelo,mellizo,cuate,cuache,guacho,guares,jimagua,morocho
+two::dos
+typhoon::tif\'f3n
+umbrella::parasol,paraguas
+uncle::t\'edo
+understand::entender
+unemployment::desempleo,paro
+universe::universo
+university::universidad
+uranium::uranio
+urethra::uretra
+urine::orina
+use::usar,utilizar
+useful::\'fatil
+vagina::vagina
+valley::valle
+vampire::vampiro
+vanadium::vanadio
+vegetable::verdura,legumbre,hortaliza
+verb::verbo
+very::muy
+victory::victoria
+village::aldea,pueblo
+vinegar::vinagre
+violet::violeta
+violin::viol\'edn
+virus::virus
+visa::visa,visado
+vodka::vodka
+voice::voz
+volcano::volc\'e1n
+volleyball::voleibol
+volt::voltio
+vulture::buitre
+wait::esperar,aguardar
+waiter::camarero  especially Spain),garz\'f3n  Chile),mesero  Caribbean Islands'Colombia'Central America'Ecuador'Mexico),mesonero  Venezuela),mozo  Argentina'Bolivia'Chile'Paraguay'Peru'Uruguay)
+wake up::despertarse
+walk::caminar,andar
+wall::muro,muralla
+walrus::morsa
+want::querer,desear
+war::guerra
+warm::caliente
+wart::verruga
+wash::lavar
+wasp::avispa
+watch::reloj
+waterfall::catarata,cascada,ca\'edda de agua
+watermelon::sand\'eda,mel\'f3n,mel\'f3n de agua,patilla
+wave::onda,ola
+wax::cera
+way::camino,v\'eda
+we::nosotros,nosotras
+weapon::arma
+weather::tiempo
+web site::sitio web,website,p\'e1gina web
+wedding::boda,nupcias,casamiento
+week::semana
+weekend::fin de semana
+welcome::\'a1bienvenido!,\'a1bienvenida!,bienvenidos p)
+well::bien
+werewolf::hombre lobo,lic\'e1ntropo,lobiz\'f3n
+west::oeste
+wet::mojado
+whale::ballena
+what::qu\'e9,cu\'e1l
+what is your name::c\'f3mo se llama usted,cu\'e1l es su nombre,cu\'e1l es tu nombre
+what time is it::qu\'e9 hora es,qu\'e9 horas son
+wheat::trigo
+wheel::rueda
+when::cuando
+where::donde,d\'f3nde
+where is the toilet::d\'f3nde est\'e1n los aseos,d\'f3nde est\'e1 el ba\'f1o
+whip::fusta,l\'e1tigo
+whiskey::whisky,g\'fcisqui
+white::blanco
+who::qui\'e9n,qui\'e9nes
+whole::entero
+whore::puta,ramera
+why::por qu\'e9
+wide::ancho
+widow::viuda
+wife::esposa,mujer
+wild boar::jabal\'ed
+wildcat::gato mont\'e9s,gato silvestre
+willow::sauce
+wind::viento
+window::ventana
+wine::vino
+wing::ala
+winter::invierno
+wise::sabio,juicioso
+wisent::bisonte europeo
+wish::desear
+witch::bruja
+with::con
+without::sin
+wolf::lobo,loba
+woman::mujer
+wood::madera
+woodpecker::p\'e1jaro carpintero,pito
+wool::lana
+word::palabra,vocablo
+work::trabajar
+workers of the world,unite:: \'a1trabajadores del mundo,un\'edos!,or \'a1proletarios de todos los pa\'edses,un\'ed\-os!,Latin American and other dialects): \'a1trabajadores del mundo,\'fananse!,or \'a1proletarios del mundo,un\'edos!
+world::mundo,globo,tierra
+worm::gusano,lombriz
+wrist::mu\'f1eca
+write::escribir
+writer::escritor,escritora
+xenon::xen\'f3n
+xenophobia::xenofobia
+yawn::bostezar
+year::a\'f1o
+yeast::levadura
+yellow::amarillo
+yes::s\'ed
+yesterday::ayer
+yoga::yoga
+yoghurt::yogur
+yolk::yema
+you::vosotros,vosotras,ustedes
+you know::Sabrá,Sabrá usted
+young::joven
+your::vuestro,su
+ytterbium::iterbio
+yttrium::itrio
+zebra::cebra
+zero::cero
+zinc::zinc,cinc
+zirconium::circonio
+a::un
+an::un
+I::yo
 I am ::soy,estoy
 I have a question::tengo una pregunta,tengo una duda
 I love you::te adoro,te amo
@@ -2170,19 +4054,15 @@ a bit::
 a bit much::demasiado
 abiu::caimito
 abjad::abyad,abjad
-abjectabatido
-abjectlyabyectamente
+abject::abatido
+abjectly::abyectamente
 abjure::abjurar
-Abkhazabjasio
+Abkhaz::abjasio
 Abkhaz::abjasio
 Abkhaz::abjaso,abjasio
-AbkhaziaAbjasia
-Abkhazian     Abkhaz::
-Abkhazian    Abkhaz::
-Abkhazian    Abkhaz::
+Abkhazia::Abjasia
 ablation::ablación
 ablationablación
-ablative     ablative case::
 ablative case::ablativo
 ablautapofonía
 ablazeardiendo,en llamas
@@ -2193,59 +4073,53 @@ able::competente
 able::capaz
 able::diestro,hábil,capaz
 -able::-able,-ible
--able-able,-ible
-able    enable::
-able    vouch for::
 ablution::ablución
-ablutionablución
+ablution::ablución
 ablycapaz,hábilmente
 abnegateabnegar
 abnegate::rechazar
-abnegationabnegación
+abnegation::abnegación
 abnormalanormal
 abnormal::anormal
-abnormalityanormalidad
-abnormallyanormalmente
-abnormalness     abnormality::
+abnormality::anormalidad
+abnormally::anormalmente
 aboard::en base
 aboarda bordo
 aboard::a bordo de
-abodemorada,residencia,vivienda
-abolishabolir,suprimir,abrogar,quitar
+abode::morada,residencia,vivienda
+abolish::abolir,suprimir,abrogar,quitar
 abolish::destrozar
-abolishmentabolición
-abolitionabolición
+abolishment::abolición
+abolition::abolición
 abolitionistabolicionista
 A-bomb::bomba atómica
-abominableabominable,aborrecible
-abominable snowmanabominable hombre de las nieves
-abominablyabominablemente
-abominateabominar,detestar
-abominationabominación
+abominable::abominable,aborrecible
+abominable snowman::abominable hombre de las nieves
+abominably::abominablemente
+abominate::abominar,detestar
+abomination::abominación
 abomination::abominación,maldad
-aboriginalaborigen,indígena
-Aboriginal    aboriginal::
-Aboriginalaborigen,aboriginal
+aboriginal::aborigen,indígena
+Aboriginal::aborigen,aboriginal
 Aboriginal::aborigen
-aborigineaborigen,indígena
-abortaborto
+aborigine::aborigen,indígena
+abort::aborto
 abort::abortar
 aborted::abortado
-abortifacientabortivo
+abortifacient::abortivo
 abortifacient::abortivo
 abortion::aborto
-abortionaborto,aborto involuntario
+abortion::aborto,aborto involuntario
 abortion::aborto,aborto inducido
 abortion::aborto,engendro
 abortion::aborto
-abortionalabortivo
+abortional::abortivo
 abortive::abortivo
 abortive::fracasado,frustrado,malogrado
-abortiveabortivo
 abortive::abortivo
-aboundabundar,ser abundante
+abortive::abortivo
 abound::abundar,ser abundante
-abound with    abound::
+abound::abundar,ser abundante
 about::alrededor
 about::alrededor
 about::alrededor de
@@ -2254,247 +4128,218 @@ about::alrededor
 about::estar por
 about::sobre,acerca de
 about::sobre,acerca de,de
-aboutalrededor de,por
+aboutal::rededor de,por
 about::cerca de
 about::cerca de
 about::a punto de
 about::encima de
-about-facemedia vuelta
+about-face::media vuelta
 about-face::dar la media vuelta,darse media vuelta
 about time::es hora,al fin
 about time::ya era hora
 about to::a punto de
 above::arriba
 above::arriba
-abovearriba,sobre,encima
+above::arriba,sobre,encima
 above::sobre
 above all::sobre todo
 aboveboard::legítimo,sincero
-above ground    aboveground::
-above measure    beyond measure::
-above-named     above-mentioned::
 above the curve::adelantado de su época
 above the law::por encima de la ley
-abrade    to rub or wear off; to waste or wear away by friction)::escoriar,raspar
-AbrahamAbraham,Abrahán
+abrade::escoriar,raspar
 Abraham::Abraham,Abrahán
-Abrahamitic    Abrahamic::
-AbramAbram
-abranchial     gillless::
-abranchiate     gillless::
-abranchious     gillless::
+Abraham::Abraham,Abrahán
+Abram::Abram
 abrasion::abrasión
-abrasionrasguño,raspadura
+abrasion::rasguño,raspadura
 abrasion::erosión
-abrasiveabrasivo
+abrasive::abrasivo
 abrasive::brusco,irritante
-abrasivelyásperamente
+abrasively::ásperamente
 abrasively::ásperamente,desabridamente
-abreastal corriente
 abreast::de lado a lado
-abridgeabreviar,condensar,compendiar
+abridge::abreviar,condensar,compendiar
 abridge::privar
 abridge::abreviar,resumir
-abridgedabreviado
+abridge::dabreviado
 abridgment::abreviación,compendio
-abroadpor todas partes,en todas direciones
+abroad::por todas partes,en todas direciones
 abroad::en el extranjero,en el exterior
 abroad::al exterior
-abrogableabrogable
-abrogateabrogar,derogar
+abrogable::abrogable
+abrogate::abrogar,derogar
 abrupt::abrupto
 abrupt::abrupto,brusco,cortante
-abruptabrupto,brusco
+abrupt::abrupto,brusco
 abrupt::brusco,abrupto
 abrupt::repentino,súbito
-abruptlyabruptamente
+abruptly::abruptamente
 abruptly::precipitadamente
-AbsalomAbsalón
 Absalom::Absalón
-abscessabsceso,flemón
-abscissaabscisa
-abscissionabscisión
-abscondfugarse,evadirse
-abscond  )::huir,fugarse
-absenceausencia
+Absalom::Absalón
+abscess::absceso,flemón
+abscissa::abscisa
+abscission::abscisión
+abscond::fugarse,evadirse
+abscond::huir,fugarse
+absence::ausencia
 absence::ausencia
 absence::ausencia,falta
-absentausente
+absent::ausente
 absent::ausente,distraído
 absent::ausente
-absentausentarse
-absenteeausente
-absent-mindeddistraído
-absintheajenjo,absintio
+absent::ausentarse
+absentee::ausente
+absent-mind::eddistraído
+absinth::eajenjo,absintio
 absinthe::ajenjo
-absinthinabsintina
-absoluteabsoluto
+absinthin::absintina
+absolute::absoluto
 absolute::completo,pleno
-absolutelytotalmente,absolutamente
+absolutely::totalmente,absolutamente
 absolute monarchy::monarquía absoluta
-absolute pitch     perfect pitch::
 absolute superlative::superlativo absoluto
-absolute valuevalor absoluto
 absolute value::valor absoluto
-absolute zerocero absoluto
+absolute value::valor absoluto
+absolute zero::cero absoluto
 absolution::absolución
 absolution::absolución
-absolutionabsolución
 absolution::absolución
-absolutistabsolutista
+absolution::absolución
+absolutist::absolutista
 absolutive case::caso absolutivo
-absolveabsolver,exculpar
+absolve::absolver,exculpar
 absolve::absolver,exonerar
 absolve::absolver
 absorb::absorber
-absorbabsorber
-absorbedabsorto,ensimismado
-absorbencyabsorbencia
-absorbentabsorbente
+absorb::absorber
+absorbed::absorto,ensimismado
+absorbency::absorbencia
 absorbent::absorbente
-absorbingabsorbente
-absorptionabsorción
+absorbent::absorbente
+absorbing::absorbente
+absorption::absorción
 absorption::concentración
-absorptiveness    absorptivity::
-abstainabstenerse
+abstain::abstenerse
 abstain::retener
 abstain::abstenerse
-abstainerabstemio
-abstemioussobrio,abstemio
+abstainer::abstemio
+abstemious::sobrio,abstemio
 abstemious::abstemio
 abstemious::sobrio
 abstemious::abstemio
-abstentionabstención
-abstergentabstergente
-abstersionabstersión
-abstersiveabstersivo
-abstinencevigilia,abstinencia
+abstention::abstención
+abstergent::abstergente
+abstersion::abstersión
+abstersive::abstersivo
+abstinence::vigilia,abstinencia
 abstinence::abstinencia del alcohol
 abstinence::vigilia
-abstinentabstinente
+abstinent::abstinente
 abstract::abstracto
-abstractresumen,extracto
+abstract::resumen,extracto
 abstract::abstracción
 abstract::arte abstracto
 abstract::extracto
 abstract::abstraer,extraer
-abstractionabstracción
-abstractionismabstraccionismo
-abstractionistabstraccionista
-abstractionistic    abstractionist::
-abstract nounsustantivo abstracto
-abstract of titleresumen de título
-abstruseabstruso
-absurdabsurdo
+abstraction::abstracción
+abstractionism::abstraccionismo
+abstractionist::abstraccionista
+abstract noun::sustantivo abstracto
+abstract of title::resumen de título
+abstruse::abstruso
+absurd::absurdo
 absurd::absurdo
 absurd::absurdo
 absurdism    absurdity::
-absurdismabsurdismo,filosofía del absurdo
-absurdityabsurdo
-Abu DhabiAbu Dabi
-AbujaAbuya
-abuliaabulia
-abulicabúlico
-Abuna     abuna::
-abundanceabundancia
-abundantabundante,copioso,cuantioso
-abundantlyabundantemente
-abundant numbernúmero abundante
+absurdism::absurdismo,filosofía del absurdo
+absurdity::absurdo
+Abu Dhabi::Abu Dabi
+Abuja::Abuya
+abulia::abulia
+abulicab::úlico
+abundance::abundancia
+abundant::abundante,copioso,cuantioso
+abundantly::abundantemente
+abundant number::número abundante
 Abundius::Abundio
-abuse    catachresis::
-abuse    delusion::
-abuseabuso
+abuse::abuso
 abuse::abuso
 abuse::abuso sexual
-abuseabusar
-abuse    adulterate::
+abuse::abusar
 abuse::engañar
 abuse::violar
 abuse of discretion::abuso de discreción
-abuserabusador
-abusio    catachresis::
-abusiveabusivo
-abutbordear
-abutmentestribo
-abysm     abyss::
-abysmalabismal,insondable
+abuser::abusador
+abusive::abusivo
+abut::bordear
+abutment::estribo
+abysmal::abismal,insondable
 abysmal::atroz,desastroso
 abyss::abismo,sima
-abyssabismo
-abyssalabisal
-AbyssiniaAbisinia
-Abyssinianabisinio
+abyss::abismo
+abyssal::abisal
+Abyssinia::Abisinia
+Abyssinian::abisinio
 Abyssinian::abisinio,abisinia
 abzyme::abzima
 AC::CA,corriente alterna
-acaciaacacia
-academicacadémico
+acacia::acacia
+academic::académico
 academic::académico,escolar
 academic::académico,escolar
-academicallyacadémicamente
+academically::académicamente
 academician::académico
-academicianacadémico,académica,academista
+academician::académico,académica,academista
 academy::academia
-academyacademia
+academy::academia
 academy::cantera
-Academy of Sciences    national academy::
-Acadianacadio
-acajou     cashew::
-acajou    cashew nut::
-acajou    mahogany::
-acalycineacalicino
-acanthaceousacantáceo
+Acadian::acadio
+acalycine::acalicino
 acanthaceous::acantáceo
-acanthocyteacantocito
-acanthusacanto
+acanthaceous::acantáceo
+acanthocyte::acantocito
 acanthus::acanto
-a cappellaa cappella
-acarboseacarbosa
+acanthus::acanto
+a cappella::a cappella
+acarbose::acarbosa
 acarophobia::acarofobia
-acarpousacarpo
-acaudate     tailless::
-acaulescentacaule
-accedesubir,acceder
+acarpous::acarpo
+acaulescent::acaule
+accede::subir,acceder
 accede::acceder,consentir
-accedie    acedia::
-accelerateacelerar
+accelerate::acelerar
 accelerate::acelerarse
 accelerate::acelerar,apresurar
 accelerate::acelerar
-accelerationaceleración
+acceleration::aceleración
 acceleration::aceleración
 accelerator::acelerador,chala,chancla,chancleta,chola
 accelerator::acelerador
-acceleratoracelerador
-accelerometeracelerómetro
-accentacento
+accelerator::acelerador
+accelerometer::acelerómetro
+accent::acento
 accent::acento
 accent::acento
 accent::acento
 accent::acento,tilde
 accent::acento
-accent    utterance::
-accent     accentuate::
 accent::acentuar
-accent    accentuate::
-accentless     unaccented::
-accentoracentor
-accentuateacentuar
+accentor::acentor
+accentuate::acentuar
 accentuate::acentuar
 accentuate::acentuar
 accentuation::acentuación
 accept::aceptar
 accept::aceptar
 accept::aceptar
-acceptabilityaceptabilidad
-acceptableaceptable
+acceptability::aceptabilidad
+acceptable::aceptable
 acceptance::aceptación
 acceptance::aceptación
-acceptancy::
-acceptance::
-acceptoraceptador
+acceptor::aceptador
 accept service::recibir la notificación,darse por notificado
-accessacceso
+access::acceso
 access::acceso
 access::acceso
 access::acceder
@@ -2503,26 +4348,25 @@ access code::código de acceso
 accessibility::accesibilidad
 accessible::accesible,asequible
 accessible::accesible
-accessionascenso
+accession::ascenso
 accessory::cómplice
-accessoryaccesorio,auxiliar
+accessory::accesorio,auxiliar
 accessory::accesorio
 accessory::cómplice
 accessory::accesorio,complemento
 accessory after the fact::cómplice encubridor,encubridor
-accessory before the fact::cómplice instigador,instigador,inductor
+accessory before the fact::cómplice,instigador,instigador,inductor
 accessory fruit::infrutescencia
-accidentaccidente
 accident::accidente
-accidentalaccidental,casual,imprevisto,fortuito
-accidentallyaccidentalmente
-accidently    accidentally::
+accident::accidente
+accidental::accidental,casual,imprevisto,fortuito
+accidentally::accidentalmente
 acclaim::aclamación
-acclaimgritar
+acclaim::gritar
 acclaim::aclamar,aplaudir
 acclaim::aclamar
 acclaim::aclamar
-acclamationaclamación
+acclamation::aclamación
 acclimate::aclimatar
 acclimation::acclimatization
 acclimatization::aclimatación
@@ -2532,113 +4376,102 @@ accoil::coil
 accolade::elogio
 accolade::acolada
 accolade::galardón
-accommodateacomodar
+accommodate::acomodar
 accommodate::acomodar,adaptar
 accommodate::satisfacer
-accommodationalojamiento,hospedaje
-accompanimentacompañamiento
+accommodational::ojamiento,hospedaje
 accompaniment::acompañamiento
-accompanistacompañante
-accompanyacompañar
+accompaniment::acompañamiento
+accompanist::acompañante
+accompany::acompañar
 accompany::acompañar
 accompany::acompañar
 accomplice::cómplice
-accomplicecómplice
-accomplishefectuar,realizar,lograr
+accomplice::cómplice
+accomplish::efectuar,realizar,lograr
 accomplish::completar
-accomplishedlogrado,realizado,cumplido,consumado
-accomplishmentlogro,éxito
+accomplished::logrado,realizado,cumplido,consumado
+accomplishment::logro,éxito
 accord::acuerdo
-accordacuerdo,convenio
+accord::acuerdo,convenio
 accord::acordar,concordar con
-accordanceacuerdo,conformidad
-accordinglyen consecuencia
+accordance::acuerdo,conformidad
+accordingly::en consecuencia
 accordingly::por consiguiente,consecuentemente
 according to::según,acorde a
 according to::según,acorde a,de acuerdo a
-accordionacordeón
-accordionistacordeonista
+accordion::acordeón
+accordionist::acordeonista
 accost::acercarse a
 account::cuenta
 account::cálculo
 account::reporte
 account::reporte
 account::cuenta
-accountcuenta
-account::
-account::
-accountabilityresponsabilidad
-accountableresponsable
-accountablyresponsablemente
-accountancycontabilidad
+account::cuenta
+accountability::responsabilidad
+accountable::responsable
+accountably::responsablemente
+accountancy::contabilidad
 accountant::contable,contador
 accountant::contable
-accountantcontador,contadora, contable
+accountant::contador,contadora, contable
 accountant::contable,contador
-accountingcontabilidad
+accounting::contabilidad
 accounts payable::cuentas pendientes de pago,cuentas a pagar
 accounts receivable::deuda activa
 account statement    bank statement::
 account to::responder a
-accourage     encourage::
-AccraAcra
-accreditacreditar
+Accra::Acra
 accredit::acreditar
-accreditationacreditación,homologación
-accretionaumento,crecimiento,acreción,acrecencia
+accredit::acreditar
+accreditation::acreditación,homologación
+accretion::aumento,crecimiento,acreción,acrecencia
 accretion disk::disco de acrecimiento
-accrualincremento,acumulación
-accrueacrecentar,acumular,aumentar
+accrual::incremento,acumulación
+accrue::acrecentar,acumular,aumentar
 accrue::adquirir
 accrue::devengar
-acculturationaculturación
-accultureaculturar
-accumulateacumular,amontonar
+acculturation::aculturación
+acculture::aculturar
+accumulate::acumular,amontonar
 accumulate::acumularse
-accumulationacumulación
-accumulatoracumulador
-accuracyexactitud,precisión
-accuratepreciso,exacto,justo,correcto
-accusationacusación
+accumulation::acumulación
+accumulator::acumulador
+accuracy::exactitud,precisión
+accurate::preciso,exacto,justo,correcto
 accusation::acusación
-accusativeacusativo
+accusation::acusación
+accusative::acusativo
 accusative::acusativo
 accusative::acusativo,caso acusativo,complemento directo
-accusative case    accusative::
-accusatoryacusatorio
-accuseacusar,denunciar
-accusedacusado
-accuseracusador
+accusatory::acusatorio
+accuse::acusar,denunciar
+accuse::dacusado
+accuse::racusador
 accustom::acostumbrarse
-accustom    cohabit::
-accustomacostumbrarse,habituar
-accustomedacostumbrado
+accustom::acostumbrarse,habituar
+accustomed::acostumbrado
 ace::pitcher experto,lanzador experto
 ace::as
-aceas
+ace::as
 ace::as
 ace::es
-ace    hole in one::
 ace::ace
-acedia     boredom::
-Aceh    Acehnese::
 ace in the hole::as en la manga
 acenaphthene::acenafteno
 acene::aceno,poliaceno
 ace of clubs::as de tréboles
 ace of diamonds::as de diamantes,as de oros
 ace of hearts::as de corazones
-ace of spadesas de picos
-acephalic    headless::
-acephalous     headless::
-acephalous    leaderless::
+ace of spades::as de picos
 acerb::acerbo
-acerbicacerbo
+acerbic::acerbo
 acerbic::acerbo
 acerbity::amargura
 acerola::acerola,semeruco
-acetalacetal
-acetaldehydeacetaldehído
+acetal::acetal
+acetaldehyde::acetaldehído
 acetalization::acetalización
 acetamide::acetamida
 acetate::acetato
@@ -2647,58 +4480,54 @@ acetic::acético
 acetic acid::ácido acético
 acetify::acetificar
 acetimeter::acetímetro
-acetone  CO)::acetona
+acetone::acetona
 acetonitrile::acetonitrilo
 acetyl::acetil,acetilo
 acetyl chloride::cloruro de etanoilo
 acetylcholine::acetilcolina
 acetylcholinesterase::acetilcolinesterasa
-acetyleneacetileno
+acetylene::acetileno
 acetylglucosamine::acetilglucosamina
 acetylneuraminic::acetilneuramínico
 acetylneuraminic acid::ácido acetilneuramínico
 acetylsalicylic::acetilsalicílico
 acetylsalicylic acid::ácido acetilsalicílico
-acetyltransferase    transacetylase::
 a chain is only as strong as its weakest link::una cadena es tan fuerte como su eslabón más débil
 ache::dolor
-achedoler,sufrir
+ache::doler,sufrir
 ache for::anhelar,ansiar
 acheilia    liplessness::
 acheilous    lipless::
 achelate    clawless::
-acheneaquenio
-AcheronAqueronte,Aquerón
-achieveconseguir,lograr
+achene::aquenio
+Acheron::Aqueronte,Aquerón
+achieve::conseguir,lograr
 achieve::lograr,realizar
 achieve::conseguir,lograr
 achievement::logro
-achievementlogro
+achievement::logro
 achievement::realización,logro
-AchillesAquiles
-Achilles heel    Achilles' tendon::
-Achilles heeltalón de Aquiles
+Achilles::Aquiles
+Achilles heel::talón de Aquiles
 Achilles tendon::tendón aquíleo,tendón de Aquiles,tendón calcáneo
 achondroplasia::acondroplasia
-achoo¡achís!
-achromaticacromático
+achoo::¡achís!
 achromatic::acromático
 achromatic::acromático
-achromaticity    achromatism::
+achromatic::acromático
 achromatism::acromatismo
-acidagrio,ácido
+acid::agrio,ácido
 acid::ácido
 acid::malhumorado
 acid::ácido
 acid::ácido
 acidicácido
 acidic::ácido
-acidification,or changing into an acid)::acidificación
+acidification::acidificación
 acidify::acidificar
 acidimeter::acidímetro
 acidimetry::acidimetría
-acidityacidez
-acidness    acidity::
+acidity::acidez
 acidophile::acidófilo
 acidophilia::acidofilia
 acidosis::acidosis
@@ -2706,18 +4535,18 @@ acid rain::lluvia ácida
 acid test::prueba de fuego
 acinaces::acinace
 acinesic    akinesic::
-acknowledgeacusar recibo
+acknowledge::acusar recibo
 acknowledged::reconocido,aceptado,admitido
 acknowledgement::reconocimiento
 acknowledgement::reconocimiento
 acknowledgment::reconocimiento
 aclinic::aclínico
-acmecolmo,apogeo,cúspide
+acme::colmo,apogeo,cúspide
 acne::acné
-acneacné
-acolyteayudante
+acne::acné
+acolyte::ayudante
 aconiteacónito
-acornbellota
+acorn::bellota
 acorn squash::calabaza bellota
 acorn woodpecker::carpintero bellotero
 acoustic::acústico
@@ -2727,54 +4556,51 @@ acoustically::acústicamente
 acoustic guitar::guitarra acústica
 acoustics::acústica
 acoustics::acústica
-acquaintdar a conocer
+acquaint::dar a conocer
 acquaint::familiarizar
-acquaintanceamistad,conocimiento,junta,relación,trato
+acquaintance::amistad,conocimiento,junta,relación,trato
 acquaintance::conocido,conocida
-acquaintedconocido
-acquiesceconformarse,quiescer
+acquainted::conocido
+acquiesce::conformarse,quiescer
 acquiesce::consentir,quiescer
-acquiescenceaquiescencia,consentimiento
+acquiescence::aquiescencia,consentimiento
 acquirable::adquirible
-acquireobtener
+acquire::obtener
 acquire::adquirir
 acquired immune deficiency syndrome::síndrome de inmunodeficiencia adquirida
-acquisitionadquisición
+acquisition::adquisición
 acquisitive::adquisitivo,codicioso
 acquisitor::adquirente,adquiriente
-acquitabsolver,exculpar
+acquit::absolver,exculpar
 acquit::exculpar
 acquittalabsolución
 acrasia::acrasia
-acreacre
+acre::acre
 acreage::superficie medida en acres
-acridacre
+acrid::acre
 acrid::acre,mordaz
-acrimoniousáspero,cáustico,sarcástico
+acrimonious::áspero,cáustico,sarcástico
 acrimony::acrimonia
-acro    acrobatic gymnastics::
-acrobatacróbata,saltimbanqui,equilibrista
+acrobat::acróbata,saltimbanqui,equilibrista
 acrobatic::acrobático
 acrobatics::acrobática
 acrolein::acroleína
 acromegaly::acromegalia
 acromial::acromial,acromiano
-acronymacrónimo
-acropolisacrópolis
-AcropolisAcrópolis
-acrossa través
+acronym::acrónimo
+acropolis::acrópolis
+Acropolis::Acrópolis
 across::através,atravesado
 across::al otro lado de
 across the board::generalizado
-acrosticacróstico
+acrostic::acróstico
 acrostical::acróstico
 acrylamide::acrilamida
 acrylate::acrilato
-acrylicacrílico
+acrylic::acrílico
 acrylic::acrílico
 acrylic acid::ácido acrílico
 acrylonitrile::acrilonitrilo
-actacto
 act::acto
 act::hecho
 act::acto,acción
@@ -2799,132 +4625,118 @@ action::acción
 action::acción
 action plan::plan de acción
 actions speak louder than words::obras son amores,que no buenas razones
-action word    verb::
-activateactivar
+activate::activar
 activate::activar
 activated carbon::carbón activado,carbón grafitizado
-activationactivación
+activation::activación
 activation::activación
 activator::activador
-activeactivo
+active::activo
 active ingredient::principio activo
 actively::activamente,enérgicamente
 active voice::voz activa
 active volcano::volcán activo
-activismactivismo
-activistactivista
-activistic    activist::
+activism::activismo
+activist::activista
 activity::actividad
 activity::actividad
 activity::actividad
 act of God::fuerza mayor,caso fortuito,cosa de Dios
 act one's age::comportarse
-actoractor,actriz
-actor    plaintiff::
-actressactriz
-Acts    Acts of the Apostles::
-actualreal,existente,verdadero,efectivo
+actor::actor,actriz
+actress::actriz
+actual::real,existente,verdadero,efectivo
 actual::actual,real
 actuality::realidad
-actuallyen realidad,de hecho,realmente,de hecho,de veras,de vero
+actually::en realidad,de hecho,realmente,de hecho,de veras,de vero
 actuary::actuario
 actuatoractivador
 acuity::acuidad,agudeza
-acumenperspicacia
-acuminateacuminado
-acupuncturation    acupuncture::
-acupunctureacupuntura
-acutegrave
-acute    acute-angled::
+acumen::perspicacia
+acuminate::acuminado
+acupuncture::acupuntura
+acute::grave
 acute::agudo
 acute::agudo,perspicaz,sagaz
-acute    acute accent::
 acute accent::acento agudo
 acute angle::ángulo agudo
-acute cystitis    urinary tract infection::
 acutely::intensamente
-acylacil,acilo
-acylglycerol::acilglicerol
+acyl::acil,acilo
+acyl::glycerol::acilglicerol
 AD::d.C.,
-adageadagio,refrán,dicho
-AdamAdam,Adán
+adage::adagio,refrán,dicho
+Adam::Adam,Adán
 Adam::Adán
-Adam and Eve  )::Adán y Eva
+Adam and Eve::Adán y Eva
 adamant::firme,categórico,inflexible,impenetrable,obstinado
-adamant    magnet,loadstone::
 adamant::adamantino
 adamantane::adamantano
 Adam's apple::bocado de Adán,nuez,nuez de Adán,manzana de Adán
-adapt  )::adaptado
-adaptadaptar,ajustar
+adapt::adaptado
+adapt::adaptar,ajustar
 adapt::adaptarse
 adaptability::adaptabilidad,flexibilidad
-adaptableadaptable,amoldable
+adaptable::adaptable,amoldable
 adaptation::ajuste,modificación
-adaptationadaptación,modificación
+adaptation::adaptación,modificación
 adaptation::versión
-adaptative    adaptive::
 adapter::adaptador
 adapter::adaptador
 adapter::adaptador
-adapteradaptador
+adapter::adaptador
 adaptive::adaptable
-adaptiveadaptativo
 adaptive::adaptativo
-addañadir
+adaptive::adaptativo
+add::añadir
 add::añadir
 add::adicionar,sumar
 addedly::también
-adderserpiente,culebra
+adder::serpiente,culebra
 adder::víbora
 add fuel to the fire::echar leña al fuego
-addictdrogadicto,adicto,toxicómano
+addict::drogadicto,adicto,toxicómano
 addict::causar adicción en,volver adicto
-addictedadicto
+addicted::adicto
 addiction::adicción
-addictionadicción
-addictiveenviciador,adictivo
+addiction::adicción
+addictive::enviciador,adictivo
 add insult to injury::echar leña al fuego
-Addis AbabaAdís Abeba
+Addis Ababa::Adís Abeba
 addition::suma,adición
-additionadición,añadidura
+addition::adición,añadidura
 addition::adición
-additionaladicional,extra,de más
+additional::adicional,extra,de más
 additionally::adicionalmente,además
-additiveaditivo
-addleconfundir,enturbiar
-addon    add-on::
+additive::aditivo
+addle::confundir,enturbiar
 add-on::extensión
-addressdirección
+address::dirección
 address::dirigir
 address::dirigir
 address book::directorio,agenda de direcciones,libreta de direcciones
 addressee::destinatario,consignatario
-adduceable    adducible::
 adduction::aducción
 adductor::aductor
-add up    make sense::
 Adela::Adela
-AdelaideAdelaida
 Adelaide::Adelaida
-Adele     Adela::
+Adelaide::Adelaida
 Adelie penguin::pingüino adelia
 Aden::Adén
 adenectomy::adenectomía
-adenineadenina
-adenitisadenitis
+adenine::adenina
+adenitis::adenitis
 adenoid::adenoide
 adenoidectomy::adenoidectomía
-adenosineadenosina
+adenosine::adenosina
 adenosine triphosphate::trifosfato de adenosina,adenosín trifosfato
-adeptexperto,hábil
+adept::experto,hábil
 adept::experto,experta
 adequacy::cantidad suficiente
-adequateadecuado
+adequate::adecuado
 adequately::adecuadamente
 adessive case::caso adesivo
-adhan    The call to prayer)::llamada a la oración,adhan
-adherepegarse,adherirse
+adhan::llamada a la oración,adhan
+adhere::pegarse,adherirse
 adhere::adherirse a,cumplir con
 adherence::adhesión
 adherent::adhesivo
@@ -2932,110 +4744,100 @@ adherent::adherente
 adherent::adherente
 adhesion::adhesión
 adhesion::adhesión
-adhesiveadhesivo
+adhesive::adhesivo
 adhesive::adhesivo
 adhesive capsulitis::capsulitis adhesiva
 adhesive tape::cinta adhesiva, celo, cinta pegante,cinta Scotch, diurex,fixo,tape, teipe, teipi,cinta escocesa
-ad hocad hoc
-ad hoc    impromptu::
-ad hoc    special::
-adiabaticadiabático
-adieuadiós
+ad hoc::ad hoc
+adiabatic::adiabático
+adieu::adiós
 adieu::adiós
 Adige::Adigio
-ad infinitumal infinito,indefinidamente,sinfín
-adios    goodbye::
+ad infinitum::al infinito,indefinidamente,sinfín
 adipate::adipato
 adipic::adípico
 adipic acid::ácido adípico
-adipocereadipocira
+adipocere::adipocira
 adiponectin::adiponectina
-adiposeadiposo
+adipose::adiposo
 adipose fin::aleta adiposa
 adiposity::adiposidad
 adjacency::adyacencia
 adjacency::adyacencia
-adjacentadyacente,colindante,contiguo
-adjectivaladjetival,adjetivo
-adjective     adjectival::
+adjacent::adyacente,colindante,contiguo
+adjectival::adjetival,adjetivo
 adjective::adjetivo
-adjective   a word that modifies a noun or describes a noun’s referent)::adjetivo
+adjective::adjetivo
 adjective::adjetivar
 adjectivization::adjetivación
-adjectivize    adjective::
-adjoinlindar con,colindar con
-adjoiningcontiguo,colindante
-adjointmatriz de adjuntos,matriz de cofactores
-adjournsuspender,posponer,diferir
+adjoin::lindar con,colindar con
+adjoining::contiguo,colindante
+adjoint::matriz de adjuntos,matriz de cofactores
+adjourn::suspender,posponer,diferir
 adjourn::aplazar,posponer
 adjourn::suspender
 adjournment::suspensión
-adjudicateadjudicar,juzgar
+adjudicate::adjudicar,juzgar
 adjudicate::juzgar
-adjudicatorjuez
-adjunctadjunto
-adjustajustar,arreglar,regular
+adjudicator::juez
+adjunct::adjunto
+adjusta::justar,arreglar,regular
 adjust::adaptar
 adjust::ajustar
 adjustable::ajustable,regulable,graduable
 adjustable spanner::llave inglesa
-adjustedajustado
-adjustmentajuste,modificación
-adjutantayudante
-adjutant    marabou::
-adjuvantadyuvante
+adjusted::ajustado
+adjustment::ajuste,modificación
+adjutant::ayudante
+adjuvant::adyuvante
 ad lib::improvisado
 ad lib::a voluntad
 ad-lib::improvisar
-adminicle    aid::
-adminicle    auxiliary::
-administeradministrar
 administer::administrar
-administrate    administer::
-administrationadministración
+administer::administrar
 administration::administración
 administration::administración
-administrativeadministrativo
+administration::administración
+administrative::administrativo
 administratively::administrativamente
-administratoradministrador
+administrator::administrador
 administrator::administrador,albacea
-admirableadmirable,loable
-admirablyadmirablemente
-admiralalmirante
+admirable::admirable,loable
+admirably::admirablemente
+admiral::almirante
 admiral::almirante
 Admiral of the Fleet::Capitán General de la Armada
-admiraltyalmirantazgo
+admiralty::almirantazgo
 admiralty law::derecho marítimo,derecho de la navegación
-admirationadmiración
-admireadmirar
-admireradmirador,admiradora
-admiringadmirativo,de admiración
+admiration::admiración
+admire::admirar
+admirer::admirador,admiradora
+admiring::admirativo,de admiración
 admiringly::con admiración
 admissible::admisible,aceptable
-admissionadmisión
-admission   acquiescence or concurrence in a statement made by another)::admisión,confesión
 admission::admisión
-admitadmitir,dar entrada
-admit   to enter on an office or to enjoy a privilege)::dejar entrar
+admission::admisión,confesión
+admission::admisión
+admit::admitir,dar entrada
+admit::dejar entrar
 admit::admitir,reconocer
-admittanceadmisión
+admittance::admisión
 admittance::entrada,admisión
 admittance::admitancia
 admittedly::la verdad es que,lo cierto es que,es cierto que
 admixture::adición,mezcla
-admonishamonestar,reprender
+admonish::amonestar,reprender
 admonition::admonición
 admonitory::admonitorio
 adnate::adnato
 ad nauseam::ad náuseam,hasta la náusea
-adobeadobe
-adolescenceadolescencia
-adolescentadolescente
+adobe::adobe
+adolescence::adolescencia
+adolescent::adolescente
 adolescent::adolescente,muchacho,muchacha,chico,chica
-Adolf    Adolph::
-AdolphAdolfo
-Adonisadonis
-adoptadoptar,ahijar
+Adolph::Adolfo
+Adonis::adonis
+adopt::adoptar,ahijar
 adopt::adoptar
 adoptable::adoptable
 adoptee::adoptado,adoptada
@@ -3045,27 +4847,24 @@ adoption::adopción
 adoptive::adoptivo
 adoptive father::padre adoptivo
 adoptive mother::madre adoptiva
-adorableadorable,encantador
+adorable::adorable,encantador
 adoration::adoración
 adoration::adoración
 adoration::adoración
-adoreadorar
+adore::adorar
 adore::querer
-adornadornar,ornar,engalanar
+adorn::adornar,ornar,engalanar
 adornment::adorno,decoración
-adrenaladrenal
-adrenal    adrenal gland::
+adrenal::adrenal
 adrenalectomy::adrenalectomía
-adrenalineadrenalina
+adrenaline::adrenalina
 adrenergic::adrenérgico
 adrenergic::adrenérgico
 adrenocorticotropic::adrenocorticotropo
-AdrianAdriano,Adrián
-Adriatic     Adriatic Sea::
-Adriatic Seamar Adriático
-adrifta la deriva
+Adrian::Adriano,Adrián
+Adriatic Sea::mar Adriático
 adrift::a la deriva
-adroit     dextrous::
+adrift::a la deriva
 adroitness::destreza,habilidad
 adstratum::adstrato
 adularia::adularia
@@ -26833,8 +28632,8 @@ thrash    thresh::
 thrashvapulear
 thread::rosca,filete
 thread::tema,argumento
-thread  : a unit of execution)::subproceso,proceso ligero
-thread  : a series of messages)::tema,tópico
+thread::subproceso,proceso ligero
+thread::tema,tópico
 threadhilo,hebra
 thread::enhebrar
 thread::pasar
@@ -28776,6 +30575,7 @@ you can't make a silk purse of a sow's ear::aunque la mona se vista de seda,mona
 you don't say   really? ; no kidding! ; Is that so?)::¡no me digas!
 you have beautiful eyes::tiene hermosos ojos,tienes hermosos ojos
 you know::sabes
+you know::sabrá
 you know what::sabes qué
 you-know-who::Fulano,Quien-uste-sabe,Mengano y Zutano
 you-know-who::Quien-tú-sabes
