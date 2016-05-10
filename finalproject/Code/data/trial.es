@@ -1,0 +1,1 @@
+Sabrá usted por la prensa y la televisión que se han producido una serie de explosiones y asesinatos en Sri Lanka .
