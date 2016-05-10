@@ -4,7 +4,10 @@ from collections import defaultdict
 from itertools import izip
 filename = "en-es-enwiktionary.txt"
 dictionary = defaultdict(defaultdict)
+sen = 0
+file = open("res.txt","w")
 for sentences in open(filename):
+    sen += 1
     es_words = []
     en_words  = sentences.split('::')[0]
     words = []
@@ -14,6 +17,8 @@ for sentences in open(filename):
         else:
             words.append(sentences.split('::')[1].rstrip('\n').rstrip(' '))
     except:
+
+        file.write( str(sen)+" "+sentences+"\n")
         words.append(en_words)
     for word in words:
         if word not in es_words:

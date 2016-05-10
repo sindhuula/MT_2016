@@ -2081,110 +2081,92 @@ abandon::renunciar,suspender
 abandon::expulsar
 abandon::abandonar
 abandon::renunciar
-abandoneddesenfrenado,desinhibido
+abandoned:desenfrenado,desinhibido
 abandoned::abandonado
 abandonment::abandono
-abandonmentabandono
-abarthrosis     diarthrosis::
-abaserebajar,degradar,humillar
-abasementrebajamiento,abatimiento,humillación
-abashconfundir,avergonzar,abochornar
-abashedavergonzado
-abatage    abattage::
-abatereducir,suprimir,menguar
+abandonment::abandono
+abarthrosis::diarthrosis
+abase::rebajar,degradar,humillar
+abasement::rebajamiento,abatimiento,humillación
+abash::confundir,avergonzar,abochornar
+abash::edavergonzado
+abattage::abatage
+abate::reducir,suprimir,menguar
 abate::abatir,humillar
-abatementdisminución
-abattoirmatadero
-abbatialabacial
-abbessabadesa
-abbeyabadía
+abatement::disminución
+abattoir::matadero
+abbatial::abacial
+abbess::abadesa
+abbey::abadía
 abbey::abadía
 abbeystead::abadía
-abbotabad
-abbreviateabreviar
+abbot::abad
+abbreviate::abreviar
 abbreviate::simplificar
-abbreviatedabreviado
+abbreviated::abreviado
 abbreviation::abreviación
-abbreviationabreviación
+abbreviation::abreviación
 abbreviature::abreviatura
-abbreviature     abbreviation::
-ABC    alphabet::
-ABC book    primer::
 abciximab::abciximab
 abdest::abdesto
-abdicateabdicar
 abdicate::abdicar
 abdicate::abdicar
 abdicate::abdicar
-abdicationabdicación
-abdomenabdomen,vientre
-abdominalabdominal
-abdominal fin     pelvic fin::
-abdominoplastyabdominoplastia
-abduceabducir
-abductraptar,secuestrar
+abdicate::abdicar
+abdication::abdicación
+abdomen::abdomen,vientre
+abdominal::abdominal
+abdominoplasty::abdominoplastia
+abduce::abducir
+abduct::raptar,secuestrar
 abduct::abducir
-abductionrapto,secuestro
+abduction::rapto,secuestro
 abduction::rapto
 abduction::abducción
 abduction::abducción
-abductorraptor,secuestrador
+abductor::raptor,secuestrador
 abductor::abductor
-abearance     behavior::
-Abecedarianabecedariano
-abecedarium     primer::
-abecedaryabecedario
-abeden cama,acostado
-AbelAbel
+Abecedarian::abecedariano
 Abel::Abel
-Abelam     Ambulas::
-AbelardAbelardo
-abeleálamo blanco
-abelianabeliano,conmutativo
+Abel::Abel
+Abelard::Abelardo
 Abelian::abelonita
-Abelian algebra    commutative algebra::
-abelian groupgrupo abeliano
-abelmoskabelmosco
-Abelonian    Abelian::
-Aberdeen terrier     Scottish terrier::
-aberranceaberración
+abelian group::grupo abeliano
+abelmosk::abelmosco
+aberrance::aberración
 aberrant::anómalo,atípico
-aberrantaberrante
+aberrant::aberrante
 aberrant::aberrante,anormal
 aberration::aberración,perturbación mental
-aberrationaberración
+aberration::aberración
 aberration::aberración
 aberration::aberración
 aberration::aberración
 abessive case::caso abesivo
-abetincitar
+abet::incitar
 abet::ayudar
-abettorcómplice
-abeyanceexpectativa,esperanza,suspenso
+abettor::cómplice
+abeyance::expectativa,esperanza,suspenso
 abeyance::suspensión,desuso,suspenso
-abhoraborrecer,detestar,abominar
+abhor::aborrecer,detestar,abominar
 abhorrence::aborrecimiento
-abhorrenceaborrecimiento,odio,repugnancia
+abhorrence::aborrecimiento,odio,repugnancia
 abhorrent::repugnante
-abidehabitar,morar
+abide::habitar,morar
 abide::aguardar,esperar
 abide::quedar,permanecer
 abide::tolerar,soportar
 abide by::someterse
 abide by::someterse a,adherirse a,observar
-Abidjan    Abidjanian::
-AbidjanAbiyán
-AbigailAbigaíl
+Abidjan::Abiyán
+Abigail::Abigaíl
 Abigail::Abigaíl,Abigail
 abigeat::abigeato
 ability::capacidad,habilidad
 abilityhabilidad,capacidad
-AbimelechAbimelech
-ab initioab initio,desde el principio
-abiogenesisautogénesis,generación espontánea
-abioticabiótico
+Abimelech::Abimelech
 a bird in the hand is worth two in the bush::más vale pájaro en mano que ciento volando
-a bit    a little::
+a bit::
 a bit much::demasiado
 abiu::caimito
 abjad::abyad,abjad
@@ -28990,87 +28972,54 @@ zodiacal light::luz zodiacal
 zodiac sign::signo del zodíaco,signo del zodiaco
 zombiezombi,zombie
 zone::zona
-zonezona
+zone::zona
 zone::declarar
 zone::dividir en zonas
 zone of proximal development::zona de desarrollo próximo
 zone-tailed hawk::aguilucho negro
 zoning::zonificación,plan de urbanización
-zonked    drunk::
 zonohedron::zonoedro
-zoozoo,jardín zoo,zoológico
-zoologic    zoological::
+zoo::zoo,jardín zoo,zoológico
 zoological::zoológico
-zoologicalzoológico
-zoologistzoólogo,zoóloga
-zoologyzoología
+zoological::zoológico
+zoologist::zoólogo,zoóloga
+zoology::zoología
 zoom::zum
-zoomzumbido
+zoom::zumbido
 zoom::hacer zoom
 zoom::zumbar
-zoonosiszoonosis
+zoonosis::zoonosis
 zoophilia::zoofilia
 zoophobia::zoofobia
-zoophytezoófito
+zoophyte::zoófito
 zootechnician::zootecnista
 zootechnics::zootecnia
-zootechny    zootechnics::
-zoöpathology     zoopathology::
-ZoroasterZoroastro
-Zoroastrianismzoroastrismo
-Zouavezuavo
-ZürichZúrich
-zubr    wisent or European bison::
-zucchini     courgette::
-zugzwangzugzwang
-zuhr    dhuhr::
-Zuluzulú
+zootechnics::zootechny
+zoopathology::zoöpathology
+Zoroaster::Zoroastro
+Zoroastrianism::zoroastrismo
+Zouave::zuavo
+Zürich::Zúrich
+zucchini::calabacín
+zugzwang::zugzwang
+zuhr::dhuhr
+Zulu::zulú
 Zuni::zuñi
 Zuni::zuñi
 Zuni::zuñi
 Zwinglian::zwingliano
 Zwinglian::zwingliano
-zwitterionzwitterión
-zygoma    cheekbone::
-zygomaticcigomático
-zygomatic bone    cheekbone::
+zwitterion::zwitterión
+zygomatic::cigomático
 zygomorphic::zigomorfo
-zygonema    zygotene::
-zygotecigoto,zigoto
-&::&
-00 percent    one hundred percent::
-00 percent    one hundred percent::
-5 minutes of fame::quince minutos de fama
-920s    twenties::
-930s    thirties::
-940s    forties::
-950s    fifties::
-970s    seventies::
-980s::años 80
-990s     nineties::
-st::º,ª
-20s    twenties::
-2-dimensional    two-dimensional::
-2-methylpropane    isobutane::
+zygonema::zygotene
+zygote::cigoto,zigoto
 2nd::2o,2º,2a,2ª
-30s    thirties::
-33    thirty-three::
-3-dimensional    three-dimensional::
-3D printerimpresora 3D
+3D printer::impresora 3D
 3rd::3o,3º,3a,3ª
-40s    forties::
-4-dimensional    four-dimensional::
-50s    fifties::
 5th::5º,5ª
 600-cell::hexacosicoron
-60s    sixties::
 6th::6º,6ª
-'70s    seventies::
-70s    seventies::
-'80s    eighties::
-80s    eighties::
-'90s    nineties::
-9naɪn.əˈlɛvəniːkjuːˈmɛnɪkəzˌsɝtɑɡəˈbɑs/::Bolduque
-Ōtsu    Otsu::
-İzmir    Izmir::
+Otsu::Ōtsu
+Izmir::İzmir
                                                                                           
