@@ -72,19 +72,22 @@ if __name__ == '__main__':
         #Dev Section
         wb = openpyxl.load_workbook(args.p)
         parsed = wb.get_sheet_by_name('dev')
-        sentence_no = 0
+        sentence_no = 1
         order = []
         sentences = defaultdict(defaultdict)
         properties = []
         rows = int( parsed.get_highest_row())
         columns = int(parsed.get_highest_column())
         word_props = defaultdict(list)
-        for i in range(1, rows+1):
+        for i in range(1, 62):
+            if parsed.cell(column = 1, row = i).value == 1:
+                if i == 1:
+                    continue
+                else:
+                    sentences[sentence_no] = word_props
+                    sentence_no +=1
+                    word_props = defaultdict(list)
             word_props[parsed.cell(column = 2, row = i).value] =  [parsed.cell(column = 4, row = i).value, parsed.cell(column = 5, row = i).value,parsed.cell(column = 8, row = i).value]
-            if parsed.cell(column = 1, row = i).value == 1 :
-                sentences[sentence_no] = word_props
-                sentence_no +=1
-                word_props = defaultdict(list)
 
         verb_phrase = ""
         subj_phrase = ""
@@ -93,7 +96,9 @@ if __name__ == '__main__':
         subjects = ["SUBJ"]
         objects = ["DO","IO","OBLC"]
         verbs = ["v"]
-        print sentences[2]
+        print sentences[1]
+       # for i in range(1, sentence_no +1):
+       #     print "\n", sentences[i]
        #words = sentences[1]
        # print words[0]
         #print words['Eso'][2]
